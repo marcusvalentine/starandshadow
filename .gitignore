@@ -10,4 +10,5 @@ static/img/rating
 static/js/libs
 static/css/libs
 settings_local.py
+venv
 .idea
