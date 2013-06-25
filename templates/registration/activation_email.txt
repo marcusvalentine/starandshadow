@@ -1,0 +1,5 @@
+Thank you for requesting a volunteer web account.  Please visit the URL below to complete your registration.
+
+http://{{ site.domain }}/accounts/activate/{{ activation_key }}/
+
+The Star And Shadow Cinema

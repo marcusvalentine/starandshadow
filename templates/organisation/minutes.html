@@ -1,0 +1,35 @@
+{% extends "normal.html" %}
+{% load programme_filters %}
+
+{% block buttonbar %}
+
+    <p>
+        <button id="editbutton">Edit</button>
+        <button id="savebutton" disabled hidden>Save</button>
+        <button id="deletebutton">Delete</button>
+    </p>
+
+{% endblock %}
+
+{% block centralContent %}
+
+    <div class="eventtype editthis" itemscope itemtype="http://schema.org/Thing" data-apiurl="{{ minutes.api_url }}" data-modeltype="Minutes" data-modelid="{{ minutes.id }}">
+
+        <header>
+            <h1 itemprop="name">{{ maintitle|title }}</h1>
+        </header>
+
+        <table data-whileediting="show" hidden style="display: none;">
+            <tbody hidden>
+                <tr>
+                    <td>Meeting:</td>
+                    <td><span data-modelfield="meeting" data-fieldtype="ForeignKey" data-fieldvalue="{{ minutes.meeting.id }}" data-fieldapiurl="/api/select/meeting/">{{ minutes.meeting.longHeading }}</span></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection"><div class="body" data-modelfield="body" data-fieldtype="TextField">{{ minutes.body|sanitize }}</div></div>
+
+    </div>
+
+{% endblock %}

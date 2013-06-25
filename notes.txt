@@ -1,0 +1,133 @@
+Add a notes field to all events.
+
+images moved from static/content to static/events and static/import to static/events
+
+ENGINE=InnoDB
+import db
+ss migrate fileupload
+ss migrate organisation
+ss migrate programming
+
+git://github.com/fnstudio/django-registration.git
+Update to django 1.5
+This is a Django project.
+
+Dependencies (this is a rough list, I'm not 100% sure on the package names and whether they're all necessary):
+
+Django 1.5-ish
+bleach 1.1.0
+django_piston-0.2.3
+MySQL_python-1.2.3
+PIL
+pip-1.0.2
+python-dateutil-1.5
+django-registration git://github.com/fnstudio/django-registration.git
+django-reversion
+sorl_thumbnail-11.09
+south-0.7.3
+django-compressor
+
+Thoughts:
+
+landing page should be the "this month" page
+symbols for event types?
+onhover highlighting similar events
+"upcoming highlights" page
+
+-----------------------
+
+Deduplication of images:
+
+UPDATE programming_event
+JOIN (
+    SELECT g.id id, g.title title, p.id pictureid, p.slug pictureslug, q.id minid
+    FROM programming_event g
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) p ON g.picture_id = p.id
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) q ON p.slug = q.slug
+    GROUP BY p.slug
+    HAVING COUNT(*) > 1
+) q on programming_event.id = q.id
+SET programming_event.picture_id = q.minid;
+
+UPDATE programming_festival
+JOIN (
+    SELECT g.id id, g.title title, p.id pictureid, p.slug pictureslug, q.id minid
+    FROM programming_festival g
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) p ON g.picture_id = p.id
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) q ON p.slug = q.slug
+    GROUP BY p.slug
+    HAVING COUNT(*) > 1
+) q on programming_festival.id = q.id
+SET programming_festival.picture_id = q.minid;
+
+UPDATE programming_film
+JOIN (
+    SELECT g.id id, g.title title, p.id pictureid, p.slug pictureslug, q.id minid
+    FROM programming_film g
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) p ON g.picture_id = p.id
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) q ON p.slug = q.slug
+    GROUP BY p.slug
+    HAVING COUNT(*) > 1
+) q on programming_film.id = q.id
+SET programming_film.picture_id = q.minid;
+
+UPDATE programming_gig
+JOIN (
+    SELECT g.id id, g.title title, p.id pictureid, p.slug pictureslug, q.id minid
+    FROM programming_gig g
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) p ON g.picture_id = p.id
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) q ON p.slug = q.slug
+    GROUP BY p.slug
+    HAVING COUNT(*) > 1
+) q on programming_gig.id = q.id
+SET programming_gig.picture_id = q.minid;
+
+UPDATE programming_season
+JOIN (
+    SELECT g.id id, g.title title, p.id pictureid, p.slug pictureslug, q.id minid
+    FROM programming_season g
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) p ON g.picture_id = p.id
+    JOIN (
+        SELECT id,slug
+        FROM fileupload_picture
+    ) q ON p.slug = q.slug
+    GROUP BY p.slug
+    HAVING COUNT(*) > 1
+) q on programming_season.id = q.id
+SET programming_season.picture_id = q.minid;
+
+DELETE fileupload_picture.*
+FROM fileupload_picture
+LEFT JOIN (
+    SELECT MIN(id) minid
+    FROM fileupload_picture
+    GROUP BY slug
+) g ON fileupload_picture.id = g.minid
+WHERE g.minid is NULL;

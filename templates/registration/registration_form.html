@@ -1,0 +1,16 @@
+{% extends "normal.html" %}
+{% load url from future %}
+
+{% block centralContent %}
+<h2>Volunteer Web Account Registration</h2>
+
+<p>To sign up for a Volunteer Web Account please fill in the form below.</p>
+
+<form action="" method="post">{% csrf_token %}
+<table>
+{{ form.as_table }}
+</table>
+<input type="submit" value="Submit" />
+</form>
+
+{% endblock %}

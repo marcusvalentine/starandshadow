@@ -1,0 +1,20 @@
+{% load programme_filters %}
+{% load thumbnail %}
+
+{% if relatedHeader %}<header>
+    <h3>{{ relatedHeader }}</h3>
+</header>{% endif %}
+{% for day,events in prog %}{% for eventt in events %}<section class="mod emod {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}">
+<h1>{{ day|date:"DATE_FORMAT" }}</h1>
+<h2>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h2>
+<h3>{{ eventt.start|date:"TIME_FORMAT" }}</h3>
+<p>
+    {% if eventt.picture %}{% thumbnail eventt.picture.file "150x150" as im %}
+        <img class="boxyimg" src="{{ im.url }}" alt="" width="{{ im.width }}" height="{{ im.height }}">
+    {% endthumbnail %}{% endif %}
+    {{ eventt.summary|sanitize }}
+    <a href="{{ eventt.get_absolute_url }}"><span class="viewlink"><span>More &raquo;</span></span></a>
+</p>
+</section>{% empty %}<section class="mod emod {% cycle boxy %} mo{{ day|date:"my" }}">
+<h1>{{ day|date:"DATE_FORMAT" }}</h1>
+</section>{% endfor %}{% endfor %}

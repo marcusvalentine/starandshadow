@@ -1,0 +1,31 @@
+{% extends "normal.html" %}
+
+{% block buttonbar %}
+
+    <p>
+        <button onclick="parent.location='{% url view-document id=0 %}'">Add Review</button>
+    <p>
+
+{% endblock %}
+
+{% block centralContent %}
+
+<table class="report">
+	<thead>
+		<tr>
+			<th style="width: 75px;">Created</th>
+			<th>Title</th>
+			<th style="width: 200px;">Author</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for doc in docs %}
+			<tr>
+				<td>{{ doc.created|date:"SHORT_DATE_FORMAT" }}</td>
+				<td><a href="{{ doc.get_absolute_url }}">{{ doc }}</a>{% if authenticated %}{% endif %}</td>
+				<td>{{ doc.author }}</td>
+		{% endfor %}
+	</tbody>
+</table>
+
+{% endblock %}

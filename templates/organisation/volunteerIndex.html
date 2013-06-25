@@ -1,0 +1,31 @@
+{% extends "normal.html" %}
+{% load thumbnail %}
+
+{% block centralContent %}
+
+    {% if maintitle %}
+        <header><h1>{{ maintitle|title }}</h1></header>
+    {% endif %}
+
+    {% for volunteer in volunteers %}
+        <section class="mod dmod clickable {% cycle 'boxb' 'boxa' as boxy %}" data-href="{{ volunteer.get_absolute_url }}">
+            <div class="imgleft sq smallscreen">
+                {% thumbnail volunteer.photo "50x50" crop='center' as im %}
+                    <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
+                {% endthumbnail %}
+            </div>
+            <div class="imgleft sq largescreen">
+                {% thumbnail volunteer.photo "150x150" crop='center' as im %}
+                    <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
+                {% endthumbnail %}
+            </div>
+            <h1>{{ volunteer.name }}</h1>
+            <p>Phone: {{ volunteer.homePhone }}</p>
+            <p>Mobile: {{ volunteer.mobilePhone }}</p>
+            <p>Email: <a href="mailto:{{ volunteer.email }}">{{ volunteer.email }}</a></p>
+            <p class="viewlink"><a href="{{ volunteer.get_absolute_url }}">Read More &raquo;</a></p>
+            <div class="clear"></div>
+        </section>
+    {% endfor %}
+
+{% endblock %}

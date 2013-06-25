@@ -1,0 +1,74 @@
+{% extends "normal.html" %}
+
+{% block centralContent %}
+
+    {% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+    <p>
+        <a class="button" href="{% url organisation.views.returnReport year=cal.previousMonth.year month=cal.previousMonth.month %}">&laquo; {{ cal.previousMonth|date:"F Y" }}</a>&nbsp;
+        <a class="button" href="{% url organisation.views.returnReport year=cal.nextMonth.year month=cal.nextMonth.month %}">{{ cal.nextMonth|date:"F Y" }} &raquo;</a>
+    </p>
+
+    <table class="report maths">
+        <thead>
+        <tr style="height: 180px;">
+            <th style="width: 75px; vertical-align: bottom;">Date</th>
+            <th style="vertical-align: bottom;">Title</th>
+            <th class="retNumber"><span>New Members</span></th>
+            <th class="retMoney"><span>Membership Price</span></th>
+            <th class="retMoney"><span>Membership Take</span></th>
+            <th class="retNumber"><span>Standard Tickets</span></th>
+            <th class="retMoney"><span>Standard Price</span></th>
+            <th class="retMoney"><span>Standard Take</span></th>
+            <th class="retNumber"><span>Concession Tickets</span></th>
+            <th class="retMoney"><span>Concession Price</span></th>
+            <th class="retMoney"><span>Concession Take</span></th>
+            <th class="retMoney"><span>Ticket Total</span></th>
+            <th class="retMoney"><span>Total</span></th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for day,events in prog %}
+            {% for event in events %}
+                <tr class="{{ day|date:"D" }}">
+                    <td>{{ event.start|date:"Y-m-d" }}</td>
+                    <td style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; width: 40px;"><a href="{{ event.get_absolute_url }}">{{ event.listHeading }}</a></td>
+                    {% with event.boxofficereturn_set.all.0 as return %}
+                        {% if return %}
+                            <td>{{ return.newMembers }}</td>
+                            <td>&pound;{{ return.membershipPrice|floatformat:2 }}</td>
+                            <td>&pound;{{ return.membershipTake|floatformat:2 }}</td>
+                            <td>{{ return.normalTickets }}</td>
+                            <td>&pound;{{ return.normalPrice|floatformat:2 }}</td>
+                            <td>&pound;{{ return.normalTake|floatformat:2 }}</td>
+                            <td>{{ return.concessionTickets }}</td>
+                            <td>&pound;{{ return.concesionPrice|floatformat:2 }}</td>
+                            <td>&pound;{{ return.concessionTake|floatformat:2 }}</td>
+                            <td>&pound;{{ return.ticketTake|floatformat:2 }}</td>
+                            <td>&pound;{{ return.totalTake|floatformat:2 }}</td>
+                        {% else %}
+                            <td colspan="11"><a href="{% url return-addforfilm filmId=event.pk %}">Add box office return</a></td>
+                        {% endif %}
+                    {% endwith %}
+                </tr>
+            {% endfor %}
+        {% endfor %}
+        <tr>
+            <td colspan="2">Total:</td>
+            <td>{{ totals.newMembers }}</td>
+            <td></td>
+            <td>&pound;{{ totals.membershipTake }}</td>
+            <td>{{ totals.normalTickets }}</td>
+            <td></td>
+            <td>&pound;{{ totals.normalTake }}</td>
+            <td>{{ totals.concessionTickets }}</td>
+            <td></td>
+            <td>&pound;{{ totals.concesionTake }}</td>
+            <td>&pound;{{ totals.ticketTake }}</td>
+            <td>&pound;{{ totals.totalTake }}</td>
+        </tr>
+        </tbody>
+    </table>
+
+
+{% endblock %}

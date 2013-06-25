@@ -1,0 +1,3 @@
+{{ maintitle }}
+{% for day,events in prog %}{% for event in events %}
+{{ event.plainText|safe }}{% endfor %}{% endfor %}

@@ -1,0 +1,9 @@
+DEBUG = True
+
+EMAIL_HOST = ''
+EMAIL_PORT = 25
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASS = ''
+
+CSSTIDY_BINARY = 'c:\dev\csstidy.exe'
+PIPELINE_YUI_BINARY = 'c:\dev\yuicompressor-2.4.7\yui.bat'

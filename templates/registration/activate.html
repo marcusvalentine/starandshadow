@@ -1,0 +1,9 @@
+{% extends "normal.html" %}
+{% load url from future %}
+
+{% block centralContent %}
+<h2>Volunteer Web Account Activation</h2>
+
+<p>Activation failed.  The activation code you provided was {{ activation_key }} which is not valid.  This may be because you did not complete activation within the time limit.  Please try again.</p>
+
+{% endblock %}

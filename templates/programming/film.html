@@ -1,0 +1,86 @@
+{% extends "programming/eventtype.html" %}
+{% load programme_filters %}
+{% load thumbnail %}
+
+{% block centralContent %}
+    {{ event|md }}
+        <meta itemprop="description" content="{{ event.summary|safe|striptags }}" data-bind="attr: { content: summary }"/>
+        <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
+        <meta itemprop="duration" content="{{ event.isolength }}" data-bind="attr: { content: isolength }"/>
+        <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress" content="thestarandshadowcinemaaddress"/>
+        <header>
+            <h1>{{ event|md:"title" }}{{ event|md:"year" }}</h1>
+        </header>
+        {{ event|md:"picture" }}
+
+        <h3>{{ event|md:"season" }}</h3>
+
+        {{ event|md:"festivals" }}
+
+        <h3>{{ event|md:"startDateTime" }}</h3>
+
+        <div itemscope itemtype="http://schema.org/Movie">
+            {{ event|md_meta:"title" }}
+            {{ event|md_meta:"year" }}
+            <meta itemprop="image" content="{% if event.picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Director:</td>
+                        <td>{{ event|md:'director' }}</td>
+                    </tr>
+                    <tr>
+                        <td>Certificate:</td>
+                        <td>{{ event|md:'certificate' }}</td>
+                    </tr>
+                    <tr>
+                        <td>Length:</td>
+                        <td>{{ event|md:'length' }}</td>
+                    </tr>
+                    <tr>
+                        <td>Format:</td>
+                        <td>{{ event|md:'filmFormat' }}</td>
+                    </tr>
+                    <tr>
+                        <td>Language:</td>
+                        <td>{{ event|md:'lang' }}</td>
+                    </tr>
+                    <tr>
+                        <td>Country:</td>
+                        <td>{{ event|md:'country' }}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="bodysection">
+                {{ event|md:'body' }}
+            </div>
+
+        </div>
+
+    </div>
+
+    {% if event.season.title != 'None' and False %}
+        <div class="smallsublist">
+            <header>
+                <h3>Films in the <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a> season:</h3>
+            </header>
+            {% for day,events in prog %}{% for eventt in events %}
+                <section class="mod small emod {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}">
+                <h1>{{ day|date:"DATE_FORMAT" }}</h1>
+
+                <h2>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h2>
+
+                <h3>{{ eventt.start|date:"TIME_FORMAT" }}</h3>
+
+                <p><a href="{{ eventt.get_absolute_url }}"><span class="viewlink"></span></a></p>
+                </section>{% empty %}
+                <section class="mod emod {% cycle boxy %} mo{{ day|date:"my" }}">
+                <h1>{{ day|date:"DATE_FORMAT" }}</h1>
+
+                <h2>Closed</h2>
+                </section>{% endfor %}{% endfor %}
+        </div>
+    {% endif %}
+
+{% endblock %}

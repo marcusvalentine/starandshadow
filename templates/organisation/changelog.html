@@ -1,0 +1,25 @@
+{% extends "normal.html" %}
+
+{% block centralContent %}
+
+    {% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+    <table class="report">
+        <thead>
+        <tr>
+            <th style="width: 130px">Time</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for logline in loglines %}
+            <tr>
+                <td>{{ logline.logdate|date:'SHORT_DATETIME_FORMAT' }}</td>
+                <td>{{ logline.logtext|safe }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+
+{% endblock %}

@@ -1,0 +1,66 @@
+{% extends "normal.html" %}
+{% load thumbnail %}
+
+{% block centralContent %}
+
+    {% if maintitle %}
+        <header><h1>{{ maintitle|title }}{% if authenticated %} (<a href="{{ volunteer.get_edit_url }}">Edit</a>){% endif %}</h1></header>{% endif %}
+
+    <div class="imgright"><p>{% thumbnail volunteer.photo "x300" as im %}
+        <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
+    {% endthumbnail %}</p></div>
+    <table>
+        <tr>
+            <th>Home phone:</th>
+            <td>{{ volunteer.homePhone }}</td>
+        </tr>
+        <tr>
+            <th>Mobile Phone:</th>
+            <td>{{ volunteer.mobilePhone }}</td>
+        </tr>
+        <tr>
+            <th>Email:</th>
+            <td><a href="mailto:{{ volunteer.email }}">{{ volunteer.email }}</a></td>
+        </tr>
+    </table>
+
+    <div class="clearright"></div>
+    <table class="report">
+        <thead>
+        <tr>
+            <th style="width: 75px;">Date</th>
+            <th style="width: 30px;">Day</th>
+            <th style="width: 38px;">Start</th>
+            <th style="width: 52px;">Type</th>
+            <th>Title</th>
+            <th style="width: 73px;">Approved</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for day,events in prog %}
+            {% for event in events %}
+                <tr class="{{ day|date:"D" }}">
+                    {% ifchanged %}
+                        <td rowspan="{{ events|length }}">{{ day|date:"Y-m-d" }}</td>
+                        <td rowspan="{{ events|length }}">{{ day|date:"D" }}</td>
+                    {% endifchanged %}
+                    <td>{{ event.start|date:"H:i" }}</td>
+                    <td>{{ event.typeName }}</td>
+                    <td><a href="{{ event.get_absolute_url }}">{{ event.listHeading }}</a></td>
+                    <td style="text-align: center">{% if event.approved %}<img src="/static/icon_success.gif" height="16" width="16" alt="yes"/>{% else %}<img src="/static/icon_error.gif" height="16" width="16" alt="yes"/>{% endif %}</td>
+                </tr>
+            {% empty %}
+                <tr>
+                    <td>{{ day|date:"Y-m-d" }}</td>
+                    <td>{{ day|date:"D" }}</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            {% endfor %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}

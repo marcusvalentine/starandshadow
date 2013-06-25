@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block extraTitle %}{% endblock %}
+{% block extraStyles %}{% endblock %}
+
+{% block leftPortlets %}
+
+    {{ menus|safe }}
+
+    <section class="contrast">
+        <header class="smallscreen"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section>
+        <header class="smallscreen"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">The Star And Shadow<br/>
+            Cinema Community Interest Company</span><br/>
+            <span itemprop="streetAddress">Stepney Bank</span>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span>,
+            <span itemprop="postalCode">NE1 2NP</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Company Number 05760942</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+    </section>
+
+{% endblock %}
+
+{% block centralContent %}{{ content }}{% endblock %}

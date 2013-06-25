@@ -1,0 +1,42 @@
+{% extends "normal.html" %}
+
+{% block centralContent %}
+
+{% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+<p><a href="{% url organisation.views.meetingsReport year=cal.previous %}">&laquo; {{ cal.previous }}</a> | <a href="{% url organisation.views.meetingsReport year=cal.next %}">{{ cal.next }} &raquo;</a></p>
+
+<table class="report">
+<thead>
+	<tr>
+		<th style="width: 75px;">Date</th>
+		<th style="width: 30px;">Day</th>
+		<th style="width: 38px;">Start</th>
+		<th>Title</th>
+	</tr>
+</thead>	
+	<tbody>
+	{% for day,events in prog %}
+	{% for event in events %}
+	<tr>
+		{% ifchanged %}
+		<td rowspan="{{ events|length }}"><a href="/on/{{ day|date:"Y/m/d/" }}">{{ day|date:"SHORT_DATE_FORMAT" }}</a></td>
+		<td rowspan="{{ events|length }}"><a href="/on/{{ day|date:"Y/m/d/" }}">{{ day|date:"D" }}</a></td>
+		{% endifchanged %}
+		<td>{{ event.startDateTime|date:"H:i" }}</td>
+		<td><a href="{{ event.get_absolute_url }}">{{ event.listHeading }}</a></td>
+	</tr>
+	{% empty %}
+	<tr>
+		<td><a href="/on/{{ day|date:"Y/m/d/" }}">{{ day|date:"SHORT_DATE_FORMAT" }}</a></td>
+		<td><a href="/on/{{ day|date:"Y/m/d/" }}">{{ day|date:"D" }}</a></td>
+		<td></td>
+		<td></td>
+	</tr>
+	{% endfor %}
+	{% endfor %}
+	</tbody>
+</table>
+	
+
+{% endblock %}

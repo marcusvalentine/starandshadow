@@ -1,0 +1,43 @@
+{% load programme_filters %}
+{% load thumbnail %}
+
+{% if relatedHeader %}
+    <header>
+        <h3>{{ relatedHeader }}</h3>
+    </header>
+{% endif %}
+
+{% for day,events in prog %}
+    {% for eventt in events %}
+        <section class="mod dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}" data-href="{{ eventt.get_absolute_url }}">
+            <div class="imgleft smallscreen">
+                {% if eventt.picture %}
+                    {% thumbnail eventt.picture.file "160x90" crop='top' as im %}
+                        <img src="{{ im.url }}" alt="" width="{{ im.width }}" height="{{ im.height }}">
+                    {% endthumbnail %}
+                {% endif %}
+            </div>
+            <div class="imgleft largescreen">
+                {% if eventt.picture %}
+                    {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
+                        <img src="{{ im.url }}" alt="" width="{{ im.width }}" height="{{ im.height }}">
+                    {% endthumbnail %}
+                {% endif %}
+            </div>
+            <h1 class="domdom">{{ day|date:"d" }}</h1>
+            <h1>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h1>
+            <h2>{{ eventt.startDateTime|date:"DATETIME_FORMAT" }}</h2>
+            <p>{{ eventt.summary|sanitize }}</p>
+            <p class="viewlink"><a href="{{ eventt.get_absolute_url }}">Read More &raquo;</a></p>
+            <div class="clear"></div>
+        </section>
+    {% empty %}
+        <section class="mod dmod clickable {% cycle boxy %} mo{{ day|date:"my" }}">
+            <div class="imgleft smallscreen"></div>
+            <div class="imgleft largescreen"></div>
+            <h1 class="domdom">{{ day|date:"d" }}</h1>
+            <h2>{{ day|date:"DATE_FORMAT" }}</h2>
+            <div class="clear"></div>
+        </section>
+    {% endfor %}
+{% endfor %}

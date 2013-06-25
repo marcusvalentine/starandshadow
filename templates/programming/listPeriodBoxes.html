@@ -1,0 +1,23 @@
+{% extends "normal.html" %}
+{% load thumbnail %}
+
+{% block centralContent %}
+
+    {% if maintitle %}
+        <header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+    <header class="whatsOn">
+        <h1>{{ cal }}</h1>
+
+        <h2>
+            <a href="{{ cal.previous.onUrl }}">&laquo; Earlier</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="feed/"><img src="/static/img/content/feed-icon-14x14.png" alt="RSS" height="14" width="14"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="{{ cal.next.onUrl }}">Later &raquo;</a>
+        </h2>
+
+        <h2><a href="#" id="viewprintprogramme">View Brochure</a><div hidden id="dialogdiv" data-year="{{ cal.start.year }}" data-month="{{ cal.start.month }}"></div></h2>
+    </header>
+
+    {% include 'programming/sublistBoxes.html' %}
+
+{% endblock %}

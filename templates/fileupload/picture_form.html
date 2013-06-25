@@ -1,0 +1,52 @@
+{% load upload_tags %}
+<!DOCTYPE HTML>
+<!--
+/*
+ * jQuery File Upload Plugin HTML Example 5.0.5
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2010, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://creativecommons.org/licenses/MIT/
+ */
+-->
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<title>Image Upload</title>
+<link rel="stylesheet" href="/static/css/jqueryui/1.8.17/themes/base/jquery.ui.all.css" id="theme">
+<link rel="stylesheet" href="/static/css/jquery.fileupload-ui.css">
+<link rel="stylesheet" href="/static/css/jquery.fileupload.css">
+<link rel="stylesheet" href="/static/js/libs/thumbnail-scaling.css">
+</head>
+<body>
+<div id="fileupload">
+    <form method="post" action="" enctype="multipart/form-data">
+        <div class="fileupload-buttonbar">
+            {% csrf_token %}
+            <label class="fileinput-button">
+                <span>Add files...</span>
+                <input type="file" name="file" multiple>
+            </label>
+            <button type="submit" class="start">Start upload</button>
+            <button type="reset" class="cancel">Cancel upload</button>
+            <button type="button" class="delete">Delete files</button>
+        </div>
+    </form>
+    <div class="fileupload-content">
+        <table class="files"></table>
+        <div class="fileupload-progressbar"></div>
+    </div>
+</div>
+{% upload_js %}
+<script src="/static/js/libs/jquery-1.7.1.min.js"></script>
+<script src="/static/js/libs/jquery-ui-1.8.17.custom.min.js"></script>
+<script src="/static/js/libs/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+<script src="/static/js/libs/jquery.iframe-transport.js"></script>
+<script src="/static/js/libs/jquery.fileupload.js"></script>
+<script src="/static/js/libs/jquery.fileupload-ui.js"></script>
+<script src="/static/js/libs/application.js"></script>
+</body>
+</html>

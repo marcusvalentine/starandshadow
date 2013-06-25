@@ -1,0 +1,17 @@
+{% extends "normal.html" %}
+
+{% block centralContent %}
+
+{% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+<ul>
+	<li><a href="{% url edit-minutes %}">Add Minutes</a></li>
+</ul>
+
+<ul>
+{% for minutes in minutess %}
+<li><a href="{% url view-minutes id=minutes.pk %}">{{ minutes }}</a></li>
+{% endfor %}
+</ul>
+
+{% endblock %}

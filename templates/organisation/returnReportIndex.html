@@ -1,0 +1,27 @@
+{% extends "normal.html" %}
+
+{% block centralContent %}
+
+{% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+
+<table class="report reportIndex">
+<thead>
+	<tr>
+		{% for item in periods.0 %}
+		<th{% ifequal item.0 thisYear %} class="highlightCell"{% endifequal %}>{{ item.0 }}</th>
+		{% endfor %} 
+	</tr>
+</thead>	
+	<tbody>
+		{% for month in periods %}
+		<tr>
+			{% for item in month %}
+			<td{% ifequal item.0 thisYear %}{% ifequal item.1 thisMonth %} class="highlightCell"{% endifequal %}{% endifequal %}><a href="{% url organisation.views.returnReport year=item.0 month=item.1 %}">{{ item.2 }}</a></td>
+			{% endfor %}
+		</tr>
+		{% endfor %} 
+	</tbody>
+</table>
+	
+
+{% endblock %}

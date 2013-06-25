@@ -1,0 +1,138 @@
+{% extends "normal.html" %}
+{% load thumbnail %}
+
+{% block adminarea %}
+    <div class="balloon">
+        <button id="savebutton" data-bind="click: save">Save</button>
+        <h3>Edit {{ event.typeName }}</h3>
+        <table class="editortable">
+            <tbody>
+            <tr>
+                <td>Title:</td>
+                <td><input data-bind="value: title"/></td>
+            </tr>
+            <tr>
+                <td>Programmer:</td>
+                <td><select
+                        data-fieldapiurl="{{ event.programmer.api_list_url }}"
+                        data-fieldname="programmer"
+                        data-fieldvalue="{{ event.programmer.id }}"
+                        data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'id', value: selectedprogrammer"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Start Date:</td>
+                <td><input data-bind="value: startDate"/></td>
+            </tr>
+            <tr>
+                <td>Start Time:</td>
+                <td><input data-bind="value: startTime"/></td>
+            </tr>
+            <tr>
+                <td>Notes:</td>
+                <td><textarea data-bind="value: notes" rows="5"></textarea></td>
+            </tr>
+            <tr>
+                <td>Summary:</td>
+                <td><textarea data-bind="value: summary" rows="5" cols="65"></textarea></td>
+            </tr>
+            <tr>
+                <td>Body:</td>
+                <td id="bodyeditor">
+                    <button id="editbodybutton">Edit</button><button hidden id="donebodybutton">Done</button>
+                    Click "edit" then type directly in the page on the right.  Remember to click "save" when finished.
+                </td>
+            </tr>
+            <tr>
+                <td>Length:</td>
+                <td><input data-bind="value: length"/></td>
+            </tr>
+            <tr>
+                <td>Director:</td>
+                <td><input data-bind="value: director"/></td>
+            </tr>
+            <tr>
+                <td>Year:</td>
+                <td><input data-bind="value: year"/></td>
+            </tr>
+            <tr>
+                <td>Language:</td>
+                <td><input data-bind="value: lang"/></td>
+            </tr>
+            <tr>
+                <td>Country:</td>
+                <td><input data-bind="value: country"/></td>
+            </tr>
+            <tr>
+                <td>Certificate:</td>
+                <td><select
+                        data-fieldapiurl="{{ event.certificate.api_list_url }}"
+                        data-fieldname="certificate"
+                        data-fieldvalue="{{ event.certificate.id }}"
+                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Format:</td>
+                <td><select
+                        data-fieldapiurl="/api/1/selectfilmformat/"
+                        data-fieldname="filmFormat"
+                        data-fieldvalue="{{ event.filmFormat }}"
+                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Season:</td>
+                <td><select
+                        data-fieldapiurl="{{ event.season.api_list_url }}"
+                        data-fieldname="season"
+                        data-fieldvalue="{{ event.season.id }}"
+                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Picture:</td>
+                <td>
+                    {% if event.picture %}
+                        <img
+                                data-fieldpapiurl="{{ event.picture.api_list_url }}"
+                                data-fieldname="picture"
+                                data-fieldvalue="{{ event.picture.id }}"
+                                data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
+                                src="{{ event.picture.thumbnailSrc }}"
+                                width="{{ event.picture.thumbnailWidth }}"
+                                height="{{ event.picture.thumbnailHeight }}">
+                    {% else %}
+                        <img
+                                data-fieldpapiurl="/api/select/graphic/"
+                                data-fieldname="picture"
+                                data-fieldvalue="789"
+                                data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
+                                src="/static/img/events/filler.png"
+                                width="100"
+                                height="100">
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>Approval:</td>
+                <td><input data-bind="value: approval"/></td>
+            </tr>
+            <tr>
+                <td>Confirmed:</td>
+                <td><input data-bind="value: confirmed"/></td>
+            </tr>
+            <tr>
+                <td>Private:</td>
+                <td><input data-bind="value: private"/></td>
+            </tr>
+            <tr>
+                <td>Featured:</td>
+                <td><input data-bind="value: featured"/></td>
+            </tr>
+            </tbody>
+        </table>
+        <button id="deletebutton" data-bind="click: deleteEvent">Delete</button>
+        <div class="clear"></div>
+    </div>
+{% endblock %}
