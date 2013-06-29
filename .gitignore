@@ -12,3 +12,4 @@ static/css/libs
 settings_local.py
 venv
 .idea
+db_dumps

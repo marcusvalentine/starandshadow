@@ -1,31 +1,46 @@
-Add a notes field to all events.
+Install:
 
-images moved from static/content to static/events and static/import to static/events
+Install Python 2.7, 64 bit
+Install MySQL-python, 64 bit (http://www.lfd.uci.edu/~gohlke/pythonlibs/, MySQL-python-1.2.4.win-amd64-py2.7.‌exe)
+Install Pillow, 64 bit (http://www.lfd.uci.edu/~gohlke/pythonlibs/, Pillow-2.0.0.win-amd64-py2.7.‌exe)
+Install distribute and pip, through pycharm
+pip install virtualenv
+virtualenv --system-site-packages PATH_TO_PROJECT\venv
+PATH_TO_PROJECT\venv\scripts\activate
+pip install django # Django 1.5.1
+pip install bleach # bleach 1.2.2
+pip install python-dateutil # python-dateutil 2.1
+pip install django-registration # django-registration 1.0
+pip install django-reversion # django-reversion 1.7.1
+pip install sorl-thumbnail # sorl-thumbnail 11.12
+pip install South # South 0.8.1
+pip install django-compressor # django-compressor 1.3
+pip install django-tastypie # tastypie 0.9.15
+pip install pytz # pytz 2013b
+pip install BeautifulSoup # BeautifulSoup 3.2.1
 
-ENGINE=InnoDB
+Get DB Dump
+s/ENGINE=MyISAM/ENGINE=InnoDB/g
 import db
+Flush thumbnail cache ("DELETE FROM thumbnail_kvstore")
+INSERT INTO south_migrationhistory SET id=21,app_name="fileupload",migration="0002_auto__add_field_picture_modified",applied="2013-06-29 23:00:00";
+May need to bodge South: http://south.aeracode.org/ticket/1227
 ss migrate fileupload
 ss migrate organisation
 ss migrate programming
+Deduplicate images (see below)
 
-git://github.com/fnstudio/django-registration.git
-Update to django 1.5
-This is a Django project.
+Copy images from whereever to the various image folders.
 
-Dependencies (this is a rough list, I'm not 100% sure on the package names and whether they're all necessary):
+Edit an item and poke the image selector to pre-populate the image cache.
 
-Django 1.5-ish
-bleach 1.1.0
-django_piston-0.2.3
-MySQL_python-1.2.3
-PIL
-pip-1.0.2
-python-dateutil-1.5
-django-registration git://github.com/fnstudio/django-registration.git
-django-reversion
-sorl_thumbnail-11.09
-south-0.7.3
-django-compressor
+-------------------
+
+TODO:
+
+Add a notes field to all events.
+
+images moved from static/content to static/events and static/import to static/events
 
 Thoughts:
 

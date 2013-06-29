@@ -44,35 +44,35 @@ class Migration(SchemaMigration):
             approvalsetformigration.save()
             adminuser = orm.Programmer.objects.get(id=183)
             for item in orm.Film.objects.all():
-                if item.confirmedFlag:
+                if item.confirmed:
                     ap = orm['organisation.Approval'](approvalset=approvalsetformigration, approver=adminuser)
                     ap.save()
                     item.approval = ap
                     item.save()
 
             for item in orm.Festival.objects.all():
-                if item.confirmedFlag:
+                if item.confirmed:
                     ap = orm['organisation.Approval'](approvalset=approvalsetformigration, approver=adminuser)
                     ap.save()
                     item.approval = ap
                     item.save()
 
             for item in orm.Gig.objects.all():
-                if item.confirmedFlag:
+                if item.confirmed:
                     ap = orm['organisation.Approval'](approvalset=approvalsetformigration, approver=adminuser)
                     ap.save()
                     item.approval = ap
                     item.save()
 
             for item in orm.Season.objects.all():
-                if item.confirmedFlag:
+                if item.confirmed:
                     ap = orm['organisation.Approval'](approvalset=approvalsetformigration, approver=adminuser)
                     ap.save()
                     item.approval = ap
                     item.save()
 
             for item in orm.Event.objects.all():
-                if item.confirmedFlag:
+                if item.confirmed:
                     ap = orm['organisation.Approval'](approvalset=approvalsetformigration, approver=adminuser)
                     ap.save()
                     item.approval = ap
@@ -164,7 +164,7 @@ class Migration(SchemaMigration):
             'Meta': {'ordering': "['start']", 'object_name': 'Event'},
             'approval': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['organisation.Approval']", 'null': 'True', 'on_delete': 'models.SET_NULL', 'blank': 'True'}),
             'body': ('django.db.models.fields.TextField', [], {'default': "'<p>DEFAULT PLACEHOLDER TEXT</p>'", 'blank': 'True'}),
-            'confirmedFlag': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'confirmed': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'end': ('django.db.models.fields.TimeField', [], {}),
             'featured': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
@@ -181,7 +181,7 @@ class Migration(SchemaMigration):
             'Meta': {'ordering': "['start']", 'object_name': 'Festival'},
             'approval': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['organisation.Approval']", 'null': 'True', 'on_delete': 'models.SET_NULL', 'blank': 'True'}),
             'body': ('django.db.models.fields.TextField', [], {'default': "'<p>DEFAULT PLACEHOLDER TEXT</p>'", 'blank': 'True'}),
-            'confirmedFlag': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'confirmed': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'end': ('django.db.models.fields.DateTimeField', [], {}),
             'events': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['programming.Event']", 'symmetrical': 'False', 'blank': 'True'}),
             'featured': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
@@ -202,7 +202,7 @@ class Migration(SchemaMigration):
             'approval': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['organisation.Approval']", 'null': 'True', 'on_delete': 'models.SET_NULL', 'blank': 'True'}),
             'body': ('django.db.models.fields.TextField', [], {'default': "'<p>DEFAULT PLACEHOLDER TEXT</p>'", 'blank': 'True'}),
             'certificate': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['programming.Rating']"}),
-            'confirmedFlag': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'confirmed': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'country': ('django.db.models.fields.CharField', [], {'max_length': '150', 'blank': 'True'}),
             'director': ('django.db.models.fields.CharField', [], {'max_length': '150', 'blank': 'True'}),
             'featured': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
@@ -224,7 +224,7 @@ class Migration(SchemaMigration):
             'Meta': {'ordering': "['start']", 'object_name': 'Gig'},
             'approval': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['organisation.Approval']", 'null': 'True', 'on_delete': 'models.SET_NULL', 'blank': 'True'}),
             'body': ('django.db.models.fields.TextField', [], {'default': "'<p>DEFAULT PLACEHOLDER TEXT</p>'", 'blank': 'True'}),
-            'confirmedFlag': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'confirmed': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'end': ('django.db.models.fields.TimeField', [], {}),
             'featured': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
@@ -267,7 +267,7 @@ class Migration(SchemaMigration):
             'Meta': {'ordering': "['start']", 'object_name': 'Season'},
             'approval': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['organisation.Approval']", 'null': 'True', 'on_delete': 'models.SET_NULL', 'blank': 'True'}),
             'body': ('django.db.models.fields.TextField', [], {'default': "'<p>DEFAULT PLACEHOLDER TEXT</p>'", 'blank': 'True'}),
-            'confirmedFlag': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'confirmed': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'end': ('django.db.models.fields.DateField', [], {}),
             'featured': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),

@@ -9,63 +9,9 @@ class Migration(SchemaMigration):
 
     def forwards(self, orm):
         pass
-        # # Deleting field 'Film.confirmedFlag'
-        # db.delete_column('programming_film', 'confirmedFlag')
-        # # Deleting field 'Festival.confirmedFlag'
-        # db.delete_column('programming_festival', 'confirmedFlag')
-        # # Deleting field 'Gig.confirmedFlag'
-        # db.delete_column('programming_gig', 'confirmedFlag')
-        # # Deleting field 'Season.confirmedFlag'
-        # db.delete_column('programming_season', 'confirmedFlag')
-        # # Deleting field 'Event.confirmedFlag'
-        # db.delete_column('programming_event', 'confirmedFlag')
-
 
     def backwards(self, orm):
         pass
-        # # Adding field 'Film.confirmedFlag'
-        # db.add_column('programming_film', 'confirmedFlag',
-        #               self.gf('django.db.models.fields.BooleanField')(default=False),
-        #               keep_default=False)
-        #
-        # # Adding field 'Festival.confirmedFlag'
-        # db.add_column('programming_festival', 'confirmedFlag',
-        #               self.gf('django.db.models.fields.BooleanField')(default=False),
-        #               keep_default=False)
-        #
-        # # Adding field 'Gig.confirmedFlag'
-        # db.add_column('programming_gig', 'confirmedFlag',
-        #               self.gf('django.db.models.fields.BooleanField')(default=False),
-        #               keep_default=False)
-        #
-        # # Adding field 'Season.confirmedFlag'
-        # db.add_column('programming_season', 'confirmedFlag',
-        #               self.gf('django.db.models.fields.BooleanField')(default=False),
-        #               keep_default=False)
-        #
-        # # Adding field 'Event.confirmedFlag'
-        # db.add_column('programming_event', 'confirmedFlag',
-        #               self.gf('django.db.models.fields.BooleanField')(default=False),
-        #               keep_default=False)
-        #
-        # if not db.dry_run:
-        #     for item in orm.Film.objects.all():
-        #         item.confirmedFlag = item.approved
-        #         item.save()
-        #     for item in orm.Festival.objects.all():
-        #         item.confirmedFlag = item.approved
-        #         item.save()
-        #     for item in orm.Gig.objects.all():
-        #         item.confirmedFlag = item.approved
-        #         item.save()
-        #     for item in orm.Season.objects.all():
-        #         item.confirmedFlag = item.approved
-        #         item.save()
-        #     for item in orm.Event.objects.all():
-        #         item.confirmedFlag = item.approved
-        #         item.save()
-
-
 
     models = {
         'auth.group': {

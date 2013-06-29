@@ -2,7 +2,7 @@
 
 from settings_local import *
 
-import os.path, sys
+import os
 
 PROJECT_ROOT = os.path.dirname(os.path.realpath(__file__))
 
@@ -25,6 +25,7 @@ USE_TZ = True
 TIME_ZONE = 'Europe/London'
 
 import warnings
+
 warnings.filterwarnings(
     'error', r"DateTimeField received a naive datetime",
     RuntimeWarning, r'django\.db\.models\.fields')
@@ -71,7 +72,7 @@ SECRET_KEY = 'o3!=64qxq(8v%e9n62zu8zj#d0xdyajpic^-gopwhwu46t8$4h'
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
     'django.template.loaders.app_directories.Loader',
-#     'django.template.loaders.eggs.Loader',
+    #     'django.template.loaders.eggs.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -117,8 +118,8 @@ REGISTRATION_OPEN = True
 AUTH_PROFILE_MODULE = 'programming.Programmer'
 
 FIXTURE_DIRS = [
-                os.path.join(PROJECT_ROOT, 'fixtures'),
-                ]
+    os.path.join(PROJECT_ROOT, 'fixtures'),
+]
 
 STATIC_URL = '/static/'
 
