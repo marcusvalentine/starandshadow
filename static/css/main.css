@@ -310,10 +310,22 @@ body { background: #ddd2bc; }
 h1 { margin: 14px 0; line-height: 1.2em; font-size: 1.8em; }
 p, h2, h3, h4, h5, h6, ul, li { margin: 12px 0; }
 
+.editable .bodysection {
+    background: white;
+    z-index: 2;
+    position: relative;
+    background-color:rgba(255,255,230,0.9);
+}
 .fresheditor-toolbar {
-    clear: both;
-    border-top: 10px white solid;
     height: 28px;
+    position: absolute;
+    top: 268px;
+}
+.fresheditor-toolbar .buttons {
+    width: 924px;
+    height: 29px;
+    position: absolute;
+    background-color:rgba(255,255,230,0.9);
 }
 .fresheditor-toolbar .buttons ul.toolbarSection li a.toolbar_alignleft {
     background-image:url("../js/libs/jquery.contenteditable/jquery.contenteditable/images/alignleft.gif");
@@ -331,13 +343,13 @@ p, h2, h3, h4, h5, h6, ul, li { margin: 12px 0; }
     background-position:center center;
 }
 .editortable select {
-    width: 462px;
+    width: 362px;
 }
 .editortable textarea {
-    width: 456px;
+    width: 356px;
 }
 .editortable input {
-    width: 458px;
+    width: 358px;
 }
 
 .sidebar section {
@@ -708,7 +720,7 @@ button[data-fieldtype=BooleanField].false {
 .adminarea.adminarealeft {
     position: fixed;
     height: 100%;
-    width: 600px;
+    width: 500px;
     top: 0;
     left: 0px;
     padding: 8px;

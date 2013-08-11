@@ -30,6 +30,15 @@ ss migrate organisation
 ss migrate programming
 Deduplicate images (see below)
 
+JavaScript libs:
+
+static/js/libs:
+    jquery 1.10.1
+    jquery-ui custom, with humanity theme 1.10.3
+    knockout.js 2.2.1
+    knockout.mapping-2.4.1.js
+
+
 Copy images from whereever to the various image folders.
 
 Edit an item and poke the image selector to pre-populate the image cache.

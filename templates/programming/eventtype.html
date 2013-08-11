@@ -9,7 +9,7 @@
             <tbody>
             <tr>
                 <td>Title:</td>
-                <td><input data-bind="value: title"/></td>
+                <td><input data-bind="value: title, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Programmer:</td>
@@ -22,19 +22,19 @@
             </tr>
             <tr>
                 <td>Start Date:</td>
-                <td><input data-bind="value: startDate"/></td>
+                <td><input data-bind="value: startDate, valueUpdate: 'afterkeydown'" class="datePicker" /></td>
             </tr>
             <tr>
                 <td>Start Time:</td>
-                <td><input data-bind="value: startTime"/></td>
+                <td><input data-bind="value: startTime, valueUpdate: 'afterkeydown'" class="timePicker" /></td>
             </tr>
             <tr>
                 <td>Notes:</td>
-                <td><textarea data-bind="value: notes" rows="5"></textarea></td>
+                <td><textarea data-bind="value: notes, valueUpdate: 'afterkeydown'" rows="5"></textarea></td>
             </tr>
             <tr>
                 <td>Summary:</td>
-                <td><textarea data-bind="value: summary" rows="5" cols="65"></textarea></td>
+                <td><textarea data-bind="value: summary, valueUpdate: 'afterkeydown'" rows="5" cols="65"></textarea></td>
             </tr>
             <tr>
                 <td>Body:</td>
@@ -45,23 +45,23 @@
             </tr>
             <tr>
                 <td>Length:</td>
-                <td><input data-bind="value: length"/></td>
+                <td><input data-bind="value: length, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Director:</td>
-                <td><input data-bind="value: director"/></td>
+                <td><input data-bind="value: director, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Year:</td>
-                <td><input data-bind="value: year"/></td>
+                <td><input data-bind="value: year, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Language:</td>
-                <td><input data-bind="value: lang"/></td>
+                <td><input data-bind="value: lang, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Country:</td>
-                <td><input data-bind="value: country"/></td>
+                <td><input data-bind="value: country, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Certificate:</td>
@@ -116,23 +116,23 @@
             </tr>
             <tr>
                 <td>Approval:</td>
-                <td><input data-bind="value: approval"/></td>
+                <td><input data-bind="value: approval, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Confirmed:</td>
-                <td><input data-bind="value: confirmed"/></td>
+                <td><input data-bind="value: confirmed, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Private:</td>
-                <td><input data-bind="value: private"/></td>
+                <td><input data-bind="value: private, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             <tr>
                 <td>Featured:</td>
-                <td><input data-bind="value: featured"/></td>
+                <td><input data-bind="value: featured, valueUpdate: 'afterkeydown'"/></td>
             </tr>
             </tbody>
         </table>
-        <button id="deletebutton" data-bind="click: deleteEvent">Delete</button>
+        <button id="deletebutton" data-bind="click: deleteEvent, valueUpdate: 'afterkeydown'">Delete</button>
         <div class="clear"></div>
     </div>
 {% endblock %}

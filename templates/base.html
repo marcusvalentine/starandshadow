@@ -1,4 +1,4 @@
-<!doctype html>{% load compress %}
+<!doctype html>{% load compress %}{% load menu_item %}
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
@@ -14,22 +14,28 @@
     <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
     {% if authenticated %}
         {% compress css %}
+            <link href="/static/js/libs/jquery-ui-1.10.3.custom/css/humanity/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css"/>
+            <link href="/static/js/libs/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/>
+            <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>
             <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>
             <link href="/static/js/libs/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.css" rel="stylesheet" type="text/css"/>
+
+            <!--
             <link href="/static/js/libs/anytime/anytime.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/css/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
+            -->
+
             <link href="/static/css/main.css" rel="stylesheet" type="text/css"/>
         {% endcompress %}
     {% else %}
         {% compress css %}
-            <link href="/static/css/main.css" rel="stylesheet" type="text/css"/>
-            <!-- <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/css/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/> -->
+            <!--
             <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
+            <link href="/static/css/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/>
+            <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
+            -->
+            <link href="/static/css/main.css" rel="stylesheet" type="text/css"/>
         {% endcompress %}
     {% endif %}
-    <script src="/static/js/libs/modernizr.2.6.2.min.js"></script>
 </head>
 <body>
 {% if authenticated %}
@@ -46,16 +52,14 @@
                 {% endfor %}
             {% endif %}
         {% endblock %}
-        <div class="balloon">
-            <ul>
-                <li><a href="/org/on/">Programme</a></li>
-                <li><a href="/org/meetings/">Meetings</a></li>
-                <li><a href="/org/returns/">Box Office Returns</a></li>
-                <li><a href="/org/who/">Volunteers</a></li>
-                <li><a href="/org/changelog/">Log</a></li>
-                <li><a href="/org/who/%s/">My Profile</a></li>
-            </ul>
-        </div>
+        <ul id="logged-in-menu">
+            {% li_menu_item "url:report-index" "Programme" %}
+            {% li_menu_item "url:meetings-report" "Meetings" %}
+            {% li_menu_item "url:return-index" "Box Office Returns" %}
+            {% li_menu_item "url:volunteerIndex" "Volunteers" %}
+            {% li_menu_item "url:change-log" "Log" %}
+            {% li_menu_item "url:volunteerIndex" "My Profile" %}
+        </ul>
         <div id="debugarea"></div>
         {% block adminarea %}{% endblock %}
     </div>
@@ -83,19 +87,17 @@
         <div class="clear">&nbsp;</div>
     </div>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write("<script src='/static/js/libs/jquery-1.9.1.min.js'>\x3C/script>")</script>
-<script type="text/javascript" src="/static/js/libs/jquery-ui-1.10.0.custom/js/jquery-ui-1.10.0.custom.min.js" charset="utf-8"></script>
 {% if authenticated %}
     {% compress js %}
+        <script type="text/javascript" src="/static/js/libs/jquery-1.10.1.min.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/js/libs/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/js/libs/jquery-ui-timepicker-addon.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/js/libs/knockout-2.2.1.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/js/libs/knockout.mapping-2.4.1.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/js/libs/fineuploader-3.0/jquery.fineuploader-3.0.min.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/libs/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/libs/jquery.contenteditable/jquery.contenteditable/shortcut.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/libs/jquery.webkitresize.nonifrm.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery-ui-timepicker-addon.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/fineuploader-3.0/jquery.fineuploader-3.0.min.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/knockout-2.2.1.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/knockout.mapping-latest.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/plugins.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/main.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/admin.js" charset="utf-8"></script>
     {% endcompress %}
@@ -103,6 +105,7 @@
     {% csrf_token %}
 {% else %}
     {% compress js %}
+        <script type="text/javascript" src="/static/js/libs/jquery-1.10.1.min.js" charset="utf-8"></script>
         <script type="text/javascript" src="/static/js/main.js" charset="utf-8"></script>
     {% endcompress %}
 {% endif %}
@@ -119,7 +122,7 @@
     }(document, 'script'));
 </script>
 <!--[if lt IE 7 ]>
-<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
 <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 <![endif]-->
 </body>

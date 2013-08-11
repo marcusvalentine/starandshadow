@@ -135,6 +135,7 @@ INSTALLED_APPS = (
     'south',
     'reversion',
     'compressor',
+    'menus',
     'programming',
     'tastypie',
     'content',

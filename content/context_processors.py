@@ -21,12 +21,13 @@ def menus(request):
         <li><a href="/on/nextmonth/">Next Month</a></li>
     </ul>
 </section>'''
-    return {'menus': menus, }
+    return {'menus': menus, 'request': request, }
 
 
 def authenticated(request):
     if request.user.is_authenticated():
-        messages.info(request, 'Logged in as %s <a class="button" href="/accounts/logout/">Logout</a>' % request.user.username)
+        messages.info(request,
+                      'Logged in as %s <a class="button" href="/accounts/logout/">Logout</a>' % request.user.username)
         return {
             'authenticated': True,
             'user': request.user

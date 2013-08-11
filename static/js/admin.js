@@ -87,6 +87,28 @@ function appendImages(data, imagelist) {
 
 var lengthRegex = /[^\d]*(\d+)[^\d]*/;
 
+ko.bindingHandlers.htmlValue = {
+    init: function (element, valueAccessor, allBindingsAccessor) {
+        ko.utils.registerEventHandler(element, "keyup", function () {
+                var modelValue = valueAccessor();
+                var elementValue = element.innerHTML;
+                if (ko.isWriteableObservable(modelValue)) {
+                    modelValue(elementValue);
+
+                } else { //handle non-observable one-way binding
+                    var allBindings = allBindingsAccessor();
+                    if (allBindings['_ko_property_writers'] && allBindings['_ko_property_writers'].htmlValue) allBindings['_ko_property_writers'].htmlValue(elementValue);
+                }
+            }
+        )
+    },
+    update: function (element, valueAccessor) {
+        var value = ko.utils.unwrapObservable(valueAccessor()) || "";
+        if (element.innerHTML !== value) {
+            element.innerHTML = value;
+        }
+    }
+};
 
 function EventViewModel(data) {
     var self = this;
@@ -209,7 +231,7 @@ function EventViewModel(data) {
     };
 }
 
-$('#container').css('margin', '0 0 0 650px');
+$('#container').css('margin', '0 0 0 550px');
 
 $.getJSON($('.editthis').attr('data-apiobjecturl'), function (data) {
     editThis = new EventViewModel(data);
@@ -218,9 +240,15 @@ $.getJSON($('.editthis').attr('data-apiobjecturl'), function (data) {
 
 $('[data-fieldname=body]').parent().fresheditor().webkitimageresize();
 $('.fresheditor-toolbar').hide();
+$('.datePicker').datepicker({ dateFormat: 'yy-mm-dd' });
+$('.timePicker').timepicker({
+    timeFormat: 'HH:mm:ss',
+    stepMinute: 5,
+    showSecond: false
+});
 $('#editbodybutton').on('click.bodyeditable', function () {
     $('[data-fieldname=body]').fresheditor('edit', true);
-    $('.bodysection').addClass('editable');
+    $('.editthis').addClass('editable');
     $(this).hide();
     $('.fresheditor-toolbar').show();
     $('#donebodybutton').show();
@@ -228,11 +256,13 @@ $('#editbodybutton').on('click.bodyeditable', function () {
 })
 $('#donebodybutton').on('click.bodyeditable', function () {
     $('[data-fieldname=body]').fresheditor('edit', false);
-    $('.bodysection').removeClass('editable');
+    $('.editthis').removeClass('editable');
     $(this).hide();
     $('.fresheditor-toolbar').hide();
     $('#editbodybutton').show();
     return false;
 })
+$('#logged-in-menu').menu();
+
 //---------------------------------------------------------------
 //---------------------------------------------------------------

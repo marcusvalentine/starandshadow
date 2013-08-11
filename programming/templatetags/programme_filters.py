@@ -302,7 +302,7 @@ def md(event, fieldName=None):
             return ''
         elif fieldName == 'body':
             return mark_safe(
-                '''<div class="%s"%s data-fieldname="body" data-bind="html:body">%s</div>'''
+                '''<div class="%s"%s data-fieldname="body" data-bind="htmlValue:body">%s</div>'''
                 % (
                     fieldName,
                     itemprop,
