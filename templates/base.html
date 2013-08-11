@@ -3,39 +3,16 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js notie" lang="en" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <title>The Star And Shadow Cinema{% block extraTitle %}{% endblock %}</title>
     <meta name="description" content="The Star And Shadow Cinema">
     <meta name="author" content="The Star And Shadow Cinema">
-    <meta name="viewport" content="width=device-width">
-    <link rel="shortcut icon" href="/static/favicon.ico">
-    <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
-    {% if authenticated %}
-        {% compress css %}
-            <link href="/static/js/libs/jquery-ui-1.10.3.custom/css/humanity/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.css" rel="stylesheet" type="text/css"/>
-
-            <!--
-            <link href="/static/js/libs/anytime/anytime.css" rel="stylesheet" type="text/css"/>
-            -->
-
-            <link href="/static/css/main.css" rel="stylesheet" type="text/css"/>
-        {% endcompress %}
-    {% else %}
-        {% compress css %}
-            <!--
-            <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/css/jquery-ui-timepicker-addon.css" rel="stylesheet" type="text/css"/>
-            <link href="/static/js/libs/jquery-ui-1.10.0.custom/css/humanity/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css"/>
-            -->
-            <link href="/static/css/main.css" rel="stylesheet" type="text/css"/>
-        {% endcompress %}
-    {% endif %}
+    <link rel="stylesheet" href="/static/css/normalize.css"/>
+    <link rel="stylesheet" href="/static/css/foundation.css"/>
+    <link rel="stylesheet" href="/static/css/app.css"/>
+    <script src="/static/js/vendor/custom.modernizr.js"></script>
 </head>
 <body>
 {% if authenticated %}
@@ -66,64 +43,73 @@
     <div id="adminarearight" class="adminarea adminarearight">
     </div>
 {% endif %}
-<div id="container">
-    <div itemscope itemtype="http://schema.org/MovieTheater" id="thestarandshadowcinema" class="sidebar leftCol">
+<div id="container" class="row">
+    <div itemscope itemtype="http://schema.org/MovieTheater" id="thestarandshadowcinema"
+         class="small-12 large-2 columns sidebar">
         <meta itemprop="additionalType" content="http://schema.org/NightClub">
         <header>
             <h1>
                 <a itemprop="url" href="http://www.starandshadow.org.uk">
-                    <img class="largescreen" itemprop="image" width="175" height="230" src="/static/img/content/logo.jpg" alt="The Star And Shadow Cinema"/>
-                    <img class="smallscreen imgcenter" width="360" height="59" src="/static/img/content/logo_long.png" alt="The Star And Shadow Cinema"/>
+
+                    <img
+                            alt="The Star And Shadow Cinema"
+                            itemprop="image"
+                            src="/static/img/content/logo_long.png"
+                            data-interchange="[/static/img/content/logo_long.png, (default)], [/static/img/content/logo.png, (small)]"
+                            >
                     <meta itemprop="name" content="The Star And Shadow Cinema"/>
                 </a>
             </h1>
         </header>
         {% block leftPortlets %}{% endblock %}
     </div>
-    <div id="main" role="main">
+    <div id="main" role="main" class="small-12 large-10 columns">
         {% block extraContentBefore %}{% endblock %}
         {% block centralContent %}{% endblock %}
         {% block extraContentAfter %}{% endblock %}
         <div class="clear">&nbsp;</div>
     </div>
 </div>
-{% if authenticated %}
-    {% compress js %}
-        <script type="text/javascript" src="/static/js/libs/jquery-1.10.1.min.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery-ui-timepicker-addon.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/knockout-2.2.1.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/knockout.mapping-2.4.1.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/fineuploader-3.0/jquery.fineuploader-3.0.min.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery.contenteditable/jquery.contenteditable/shortcut.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/libs/jquery.webkitresize.nonifrm.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/main.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/admin.js" charset="utf-8"></script>
-    {% endcompress %}
-    {{ form.media }}
-    {% csrf_token %}
-{% else %}
-    {% compress js %}
-        <script type="text/javascript" src="/static/js/libs/jquery-1.10.1.min.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/js/main.js" charset="utf-8"></script>
-    {% endcompress %}
-{% endif %}
 <script>
-    var _gaq = [
-        ['_setAccount', 'UA-26510424-1'],
-        ['_trackPageview'],
-        ['_trackPageLoadTime']
-    ];
-    (function (d, t) {
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
-        s.parentNode.insertBefore(g, s)
-    }(document, 'script'));
+    document.write('<script src=' +
+            ('__proto__' in {} ? '/static/js/vendor/zepto' : '/static/js/vendor/jquery') +
+            '.js><\/script>')
 </script>
-<!--[if lt IE 7 ]>
-<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-<![endif]-->
+<script src="/static/js/foundation/foundation.js"></script>
+<script src="/static/js/foundation/foundation.alerts.js"></script>
+<script src="/static/js/foundation/foundation.clearing.js"></script>
+<script src="/static/js/foundation/foundation.cookie.js"></script>
+<script src="/static/js/foundation/foundation.dropdown.js"></script>
+<script src="/static/js/foundation/foundation.forms.js"></script>
+<script src="/static/js/foundation/foundation.joyride.js"></script>
+<script src="/static/js/foundation/foundation.magellan.js"></script>
+<script src="/static/js/foundation/foundation.orbit.js"></script>
+<script src="/static/js/foundation/foundation.placeholder.js"></script>
+<script src="/static/js/foundation/foundation.reveal.js"></script>
+<script src="/static/js/foundation/foundation.section.js"></script>
+<script src="/static/js/foundation/foundation.tooltips.js"></script>
+<script src="/static/js/foundation/foundation.topbar.js"></script>
+<script src="/static/js/foundation/foundation.interchange.js"></script>
+<script src="/static/js/app.js"></script>
+<script src="/static/js/app-admin.js"></script>
+<script>
+    $(document).foundation();
+</script>
+{#<script>#}
+{#    var _gaq = [#}
+{#        ['_setAccount', 'UA-26510424-1'],#}
+{#        ['_trackPageview'],#}
+{#        ['_trackPageLoadTime']#}
+{#    ];#}
+{#    (function (d, t) {#}
+{#        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];#}
+{#        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';#}
+{#        s.parentNode.insertBefore(g, s)#}
+{#    }(document, 'script'));#}
+{#</script>#}
+{#<!--[if lt IE 7 ]>#}
+{#<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>#}
+{#<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>#}
+{#<![endif]-->#}
 </body>
 </html>

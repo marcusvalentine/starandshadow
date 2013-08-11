@@ -1,6 +1,6 @@
 from django.template import RequestContext
 from django.shortcuts import render_to_response, get_object_or_404
-from ss.programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting
+from ss.programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, Picture
 from ss.organisation.models import ApprovalSet
 from ss.lib.utils import ssDate, Prog
 from django.utils import timezone
@@ -27,6 +27,7 @@ def listPeriod(request, dateObj=None, **kwargs):
                                'maintitle': kwargs['title'] if 'title' in kwargs else unicode(cal),
                                'earliertext': kwargs['earliertext'] if 'earliertext' in kwargs else 'Earlier',
                                'latertext': kwargs['latertext'] if 'latertext' in kwargs else 'Later',
+                               'fillerImage': Picture.objects.get(id=789),
                                'cal': cal,
                                'prog': prog.byDate(),
                               },

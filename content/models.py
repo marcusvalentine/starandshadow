@@ -29,7 +29,7 @@ class Menu(models.Model):
     def asUl(self):
         li = self.asLi()
         if len(li) > 0:
-            return '<ul>\n\t%s\n</ul>' % li
+            return '<ul class="side-nav">\n\t%s\n</ul>' % li
         return ''
 
     def asSmod(self):
