@@ -3,19 +3,20 @@
 {% block centralContent %}
 
     {% if maintitle %}
-        <header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+        <header class="text-center"><h1>{{ maintitle|title }}</h1></header>
+    {% endif %}
 
-    <p>
-        <a class="button" href="{% url "month-report" year=cal.previousMonth.year month=cal.previousMonth.month %}">&laquo; {{ cal.previousMonth|date:"F Y" }}</a>&nbsp;
-        <a class="button" href="{% url "month-report" year=cal.nextMonth.year month=cal.nextMonth.month %}">{{ cal.nextMonth|date:"F Y" }} &raquo;</a>
-    </p>
+    <ul class="pager">
+        <li><a class="button" href="{% url "month-report" year=cal.previousMonth.year month=cal.previousMonth.month %}">&laquo; {{ cal.previousMonth|date:"F Y" }}</a></li>
+        <li><a class="button" href="{% url "month-report" year=cal.nextMonth.year month=cal.nextMonth.month %}">{{ cal.nextMonth|date:"F Y" }} &raquo;</a></li>
+    </ul>
 
     <!-- <p><a href="{% url "month-report" year=cal.startDate.year month=cal.startDate.month %}">View as plain text</a></p> -->
 
-    <table class="report">
+    <table class="table table-bordered table-condensed report">
         <thead>
         <tr>
-            <th style="width: 75px;">Date</th>
+            <th style="width: 90px;">Date</th>
             <th style="width: 30px;">Day</th>
             <th style="width: 38px;">Start</th>
             <th style="width: 52px;">Type</th>

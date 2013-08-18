@@ -12,7 +12,8 @@
 
 {% block centralContent %}
 
-    <div class="editthis" itemscope itemtype="http://schema.org/Thing" data-apiurl="/api/page/" data-modeltype="Page" data-modelid="{{ page.id }}">
+    <div class="editthis" itemscope itemtype="http://schema.org/Thing" data-apiurl="/api/page/"
+         data-modeltype="Page" data-modelid="{{ page.id }}">
 
         <header>
             <h1>
@@ -28,7 +29,8 @@
             </tr>
             <tr>
                 <td>Parent:</td>
-                <td><span data-modelfield="parent" data-fieldtype="ForeignKey" data-fieldvalue="{{ page.parent.id }}" data-fieldapiurl="{{ page.parent.api_list_url }}">{{ page.parent }}</span></td>
+                <td><span data-modelfield="parent" data-fieldtype="ForeignKey" data-fieldvalue="{{ page.parent.id }}"
+                          data-fieldapiurl="{{ page.parent.api_list_url }}">{{ page.parent }}</span></td>
             </tr>
             <tr>
                 <td>Order:</td>
@@ -42,6 +44,10 @@
         </div>
 
     </div>
+
+{% endblock %}
+
+{% block extraContentAfter %}
 
     {% if prog %}
         <header>

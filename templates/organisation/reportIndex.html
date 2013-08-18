@@ -8,35 +8,38 @@
         <button onclick="parent.location='{% url "show-gig" id=0 %}'">Add Gig</button>
     <p>
     </p>
-        <button onclick="parent.location='{% url "show-event" id=0 %}'">Add Event</button>
-        <button onclick="parent.location='{% url "show-festival" id=0 %}'">Add Festival</button>
-        <button onclick="parent.location='{% url "show-meeting" id=0 %}'">Add Meeting</button>
+    <button onclick="parent.location='{% url "show-event" id=0 %}'">Add Event</button>
+    <button onclick="parent.location='{% url "show-festival" id=0 %}'">Add Festival</button>
+    <button onclick="parent.location='{% url "show-meeting" id=0 %}'">Add Meeting</button>
     </p>
 
 {% endblock %}
 
 {% block centralContent %}
 
-{% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+    {% if maintitle %}
+        <header><h1>{{ maintitle|title }}</h1></header>{% endif %}
 
-<table class="report reportIndex">
-<thead>
-	<tr>
-		{% for item in periods.0 %}
-		<th{% ifequal item.0 thisYear %} class="highlightCell"{% endifequal %}>{{ item.0 }}</th>
-		{% endfor %} 
-	</tr>
-</thead>	
-	<tbody>
-		{% for month in periods %}
-		<tr>
-			{% for item in month %}
-			<td{% ifequal item.0 thisYear %}{% ifequal item.1 thisMonth %} class="highlightCell"{% endifequal %}{% endifequal %}><a href="{% url "month-report" year=item.0 month=item.1 %}">{{ item.2 }}</a></td>
-			{% endfor %}
-		</tr>
-		{% endfor %} 
-	</tbody>
-</table>
-	
+    <table class="table table-bordered table-condensed report reportIndex">
+        <thead>
+        <tr>
+            {% for item in periods.0 %}
+                <th{% ifequal item.0 thisYear %} class="success"{% endifequal %}>{{ item.0 }}</th>
+            {% endfor %}
+        </tr>
+        </thead>
+        <tbody>
+        {% for month in periods %}
+            <tr>
+                {% for item in month %}
+                    <td{% ifequal item.0 thisYear %}{% ifequal item.1 thisMonth %} class="success"
+                    {% endifequal %}{% endifequal %}><a
+                            href="{% url "month-report" year=item.0 month=item.1 %}">{{ item.2 }}</a></td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
 
 {% endblock %}

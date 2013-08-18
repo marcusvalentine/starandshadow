@@ -72,7 +72,9 @@ def sanitize(value):
             img.extract()
     for mso in soup.findAll(True, "MsoNormal"):
         del (mso['class'])
-    for tag in soup.findAll(lambda tag: (tag.name == 'span' or tag.name == 'p' or tag.name == 'div') and tag.find(True) is None and (tag.string is None or tag.string.strip() == '')):
+    for tag in soup.findAll(
+            lambda tag: (tag.name == 'span' or tag.name == 'p' or tag.name == 'div') and tag.find(True) is None and (
+                    tag.string is None or tag.string.strip() == '')):
         tag.extract()
     value = soup.renderContents().decode('utf8')
     dotty = re.compile(r'\.{2,}', re.MULTILINE | re.IGNORECASE)
@@ -353,13 +355,15 @@ def md(event, fieldName=None):
             if event.picture is None:
                 event.picture = Picture.objects.get(id=789)
             return mark_safe(
-                '''<img class="%s imgright"%s'''
+                '''<img class="%s imgright img-responsive"%s'''
                 ''' src="%s"'''
                 ''' width="%s"'''
                 ''' height="%s"'''
                 ''' data-src="%s"'''
                 ''' data-width="%s"'''
                 ''' data-height="%s"'''
+                ''' data-toggle="modal"'''
+                ''' data-target="#img-picture-%s"'''
                 ''' alt=""'''
                 ''' data-bind="attr: {'''
                 ''' src: pictureData().displaySrc,'''
@@ -369,6 +373,20 @@ def md(event, fieldName=None):
                 ''' 'data-width': pictureData().width,'''
                 ''' 'data-height': pictureData().height'''
                 ''' }" />'''
+                '''<div class="modal " id="img-picture-%s">'''
+                '''    <div class="modal-dialog">'''
+                '''        <div class="modal-content">'''
+                '''            <div class="modal-header">'''
+                '''                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">'''
+                '''                    &times;'''
+                '''                </button>'''
+                '''            </div>'''
+                '''            <div class="modal-body">'''
+                '''                <img src="%s" class="img-responsive" alt="">'''
+                '''            </div>'''
+                '''        </div>'''
+                '''    </div>'''
+                '''</div>'''
                 % (
                     fieldName,
                     itemprop,
@@ -378,6 +396,9 @@ def md(event, fieldName=None):
                     event.picture.src,
                     event.picture.width,
                     event.picture.height,
+                    event.picture.id,
+                    event.picture.id,
+                    event.picture.src,
                 ))
         # elif fieldName == 'notes':
         # elif fieldName == 'approval':

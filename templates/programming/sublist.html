@@ -2,7 +2,7 @@
 {% load thumbnail %}
 
 {% if relatedHeader %}
-    <header>
+    <header class="row">
         <h3>{{ relatedHeader }}</h3>
     </header>
 {% endif %}
@@ -13,24 +13,18 @@
                  data-href="{{ eventt.get_absolute_url }}">
             <div class="imgleft">
                 {% if eventt.picture %}
-                    {% thumbnail eventt.picture.file "160x90" crop='top' as small_im %}
-                        {% thumbnail eventt.picture.file "240x135" crop='top' as large_im %}
-                            <img
-                                    alt=""
-                                    src="{{ small_im.url }}"
-                                    data-interchange="[{{ small_im.url }}, (default)], [{{ large_im.url }}, (medium)]"
-                                    />
-                        {% endthumbnail %}
+                    {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
+                        <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                    {% endthumbnail %}
+                    {% thumbnail eventt.picture.file "160x90" crop='top' as im %}
+                        <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
                     {% endthumbnail %}
                 {% else %}
-                    {% thumbnail fillerImage.file "160x90" crop='top' as small_im %}
-                        {% thumbnail fillerImage.file "240x135" crop='top' as large_im %}
-                            <img
-                                    alt=""
-                                    src="{{ small_im.url }}"
-                                    data-interchange="[{{ small_im.url }}, (default)], [{{ large_im.url }}, (medium)]"
-                                    />
-                        {% endthumbnail %}
+                    {% thumbnail fillerImage.file "240x135" crop='top' as im %}
+                        <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                    {% endthumbnail %}
+                    {% thumbnail fillerImage.file "160x90" crop='top' as im %}
+                        <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
                     {% endthumbnail %}
                 {% endif %}
             </div>
@@ -49,14 +43,11 @@
     {% empty %}
         <section class="row dmod clickable {% cycle boxy %} mo{{ day|date:"my" }}">
             <div class="imgleft">
-                {% thumbnail fillerImage.file "160x90" crop='top' as small_im %}
-                    {% thumbnail fillerImage.file "240x135" crop='top' as large_im %}
-                        <img
-                                alt=""
-                                src="{{ small_im.url }}"
-                                data-interchange="[{{ small_im.url }}, (default)], [{{ large_im.url }}, (medium)]"
-                                >
-                    {% endthumbnail %}
+                {% thumbnail fillerImage.file "240x135" crop='top' as im %}
+                    <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                {% endthumbnail %}
+                {% thumbnail fillerImage.file "160x90" crop='top' as im %}
+                    <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
                 {% endthumbnail %}
             </div>
             <h1 class="domdom">{{ day|date:"d" }}</h1>

@@ -6,95 +6,113 @@
 <html class="no-js notie" lang="en"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Star And Shadow Cinema{% block extraTitle %}{% endblock %}</title>
     <meta name="description" content="The Star And Shadow Cinema">
     <meta name="author" content="The Star And Shadow Cinema">
-    <link rel="stylesheet" href="/static/css/normalize.css"/>
-    <link rel="stylesheet" href="/static/css/foundation.css"/>
-    <link rel="stylesheet" href="/static/css/app.css"/>
-    <script src="/static/js/vendor/custom.modernizr.js"></script>
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/static/css/bootstrap-responsive.min.css"/>
+    <link rel="stylesheet" href="/static/css/style.css"/>
 </head>
-<body>
 {% if authenticated %}
-    <div id="adminarealeft" class="adminarea adminarealeft">
-        {% if messages %}
-            {% for message in messages %}
-                <div{% if message.tags %} class="balloon {{ message.tags }}"{% endif %}>{{ message|safe }}</div>
-            {% endfor %}
-        {% endif %}
-        {% block extramessagearea %}
-            {% if extramessagesss %}
-                {% for message in extramessage %}
-                    {{ message|safe }}
-                {% endfor %}
-            {% endif %}
-        {% endblock %}
-        <ul id="logged-in-menu">
-            {% li_menu_item "url:report-index" "Programme" %}
-            {% li_menu_item "url:meetings-report" "Meetings" %}
-            {% li_menu_item "url:return-index" "Box Office Returns" %}
-            {% li_menu_item "url:volunteerIndex" "Volunteers" %}
-            {% li_menu_item "url:change-log" "Log" %}
-            {% li_menu_item "url:volunteerIndex" "My Profile" %}
-        </ul>
-        <div id="debugarea"></div>
-        {% block adminarea %}{% endblock %}
-    </div>
-    <div id="adminarearight" class="adminarea adminarearight">
-    </div>
-{% endif %}
-<div id="container" class="row">
-    <div itemscope itemtype="http://schema.org/MovieTheater" id="thestarandshadowcinema"
-         class="small-12 large-2 columns sidebar">
-        <meta itemprop="additionalType" content="http://schema.org/NightClub">
-        <header>
-            <h1>
-                <a itemprop="url" href="http://www.starandshadow.org.uk">
+    <body style="padding-top: 70px;">
+    <nav class="navbar navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">{{ user|title }}</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                {#            {% if messages %}#}
+                {#                {% for message in messages %}#}
+                {#                    <div{% if message.tags %} class="balloon {{ message.tags }}"{% endif %}>{{ message|safe }}</div>#}
+                {#                {% endfor %}#}
+                {#            {% endif %}#}
+                {#            {% block extramessagearea %}#}
+                {#                {% if extramessagesss %}#}
+                {#                    {% for message in extramessage %}#}
+                {#                        {{ message|safe }}#}
+                {#                    {% endfor %}#}
+                {#                {% endif %}#}
+                {#            {% endblock %}#}
+                {% li_menu_item "url:report-index" "Programme" %}
+                {% li_menu_item "url:meetings-report" "Meetings" %}
+                {% li_menu_item "url:return-index" "Box Office Returns" %}
+                {% li_menu_item "url:volunteerIndex" "Volunteers" %}
+                {% li_menu_item "url:change-log" "Log" %}
+                {% li_menu_item "url:volunteerIndex" "My Profile" %}
+                {% li_menu_item "url:logout" "Log Out" %}
+            </ul>
+            {#            <div id="debugarea"></div>#}
+        </div>
+    </nav>
+    {% block adminarea %}
 
-                    <img
-                            alt="The Star And Shadow Cinema"
-                            itemprop="image"
-                            src="/static/img/content/logo_long.png"
-                            data-interchange="[/static/img/content/logo_long.png, (default)], [/static/img/content/logo.png, (small)]"
-                            >
-                    <meta itemprop="name" content="The Star And Shadow Cinema"/>
-                </a>
-            </h1>
-        </header>
-        {% block leftPortlets %}{% endblock %}
-    </div>
-    <div id="main" role="main" class="small-12 large-10 columns">
-        {% block extraContentBefore %}{% endblock %}
-        {% block centralContent %}{% endblock %}
-        {% block extraContentAfter %}{% endblock %}
-        <div class="clear">&nbsp;</div>
+    {% endblock %}
+{% else %}
+    <body>
+{% endif %}
+<div id="container" class="container">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            {% block leftPortlets %}{% endblock %}
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            {% block extraContentBefore %}{% endblock %}
+            {% block centralContent %}{% endblock %}
+            {% block extraContentAfter %}{% endblock %}
+        </div>
     </div>
 </div>
-<script>
-    document.write('<script src=' +
-            ('__proto__' in {} ? '/static/js/vendor/zepto' : '/static/js/vendor/jquery') +
-            '.js><\/script>')
-</script>
-<script src="/static/js/foundation/foundation.js"></script>
-<script src="/static/js/foundation/foundation.alerts.js"></script>
-<script src="/static/js/foundation/foundation.clearing.js"></script>
-<script src="/static/js/foundation/foundation.cookie.js"></script>
-<script src="/static/js/foundation/foundation.dropdown.js"></script>
-<script src="/static/js/foundation/foundation.forms.js"></script>
-<script src="/static/js/foundation/foundation.joyride.js"></script>
-<script src="/static/js/foundation/foundation.magellan.js"></script>
-<script src="/static/js/foundation/foundation.orbit.js"></script>
-<script src="/static/js/foundation/foundation.placeholder.js"></script>
-<script src="/static/js/foundation/foundation.reveal.js"></script>
-<script src="/static/js/foundation/foundation.section.js"></script>
-<script src="/static/js/foundation/foundation.tooltips.js"></script>
-<script src="/static/js/foundation/foundation.topbar.js"></script>
-<script src="/static/js/foundation/foundation.interchange.js"></script>
-<script src="/static/js/app.js"></script>
-<script src="/static/js/app-admin.js"></script>
-<script>
-    $(document).foundation();
-</script>
+<script src="/static/js/jquery-1.10.1.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/knockout-2.2.1.js"></script>
+<script src="/static/js/knockout.mapping-2.4.1.js"></script>
+<script src="/static/js/respond.min.js"></script>
+<script src="/static/js/user.js"></script>
+<script src="/static/js/admin.js"></script>
 {#<script>#}
 {#    var _gaq = [#}
 {#        ['_setAccount', 'UA-26510424-1'],#}

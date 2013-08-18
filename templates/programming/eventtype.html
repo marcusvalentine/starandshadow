@@ -2,99 +2,106 @@
 {% load thumbnail %}
 
 {% block adminarea %}
-    <div class="balloon">
+    <div id="adminarea">
         <button id="savebutton" data-bind="click: save">Save</button>
         <h3>Edit {{ event.typeName }}</h3>
-        <table class="editortable">
-            <tbody>
-            <tr>
-                <td>Title:</td>
-                <td><input data-bind="value: title, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Programmer:</td>
-                <td><select
+        <form class="form-horizontal" role="form">
+             <div class="form-group">
+                <label for="edit_title" class="col-lg-2 control-label">Title:</label>
+                <div class="col-lg-10"><input id="edit_title" name="title" type="text" class="form-control" data-bind="value: title, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_programmer" class="col-lg-2 control-label">Programmer:</label>
+                <div class="col-lg-10"><select
+                        id="edit_programmer" name="programmer" type="text" class="form-control"
                         data-fieldapiurl="{{ event.programmer.api_list_url }}"
                         data-fieldname="programmer"
                         data-fieldvalue="{{ event.programmer.id }}"
                         data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'id', value: selectedprogrammer"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Start Date:</td>
-                <td><input data-bind="value: startDate, valueUpdate: 'afterkeydown'" class="datePicker" /></td>
-            </tr>
-            <tr>
-                <td>Start Time:</td>
-                <td><input data-bind="value: startTime, valueUpdate: 'afterkeydown'" class="timePicker" /></td>
-            </tr>
-            <tr>
-                <td>Notes:</td>
-                <td><textarea data-bind="value: notes, valueUpdate: 'afterkeydown'" rows="5"></textarea></td>
-            </tr>
-            <tr>
-                <td>Summary:</td>
-                <td><textarea data-bind="value: summary, valueUpdate: 'afterkeydown'" rows="5" cols="65"></textarea></td>
-            </tr>
-            <tr>
-                <td>Body:</td>
-                <td id="bodyeditor">
-                    <button id="editbodybutton">Edit</button><button hidden id="donebodybutton">Done</button>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_startDate" class="col-lg-2 control-label">Start Date:</label>
+                <div class="col-lg-10"><input id="edit_startDate" name="startDate" type="text" class="form-control datePicker" data-bind="value: startDate, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_startTime" class="col-lg-2 control-label">Start Time:</label>
+                <div class="col-lg-10"><input id="edit_startTime" name="startTime" type="text" class="form-control timePicker" data-bind="value: startTime, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_notes" class="col-lg-2 control-label">Notes:</label>
+                <div class="col-lg-10"><textarea id="edit_notes" name="notes" type="text" class="form-control" data-bind="value: notes, valueUpdate: 'afterkeydown'" rows="5"></textarea></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_summary" class="col-lg-2 control-label">Summary:</label>
+                <div class="col-lg-10"><textarea id="edit_summary" name="summary" type="text" class="form-control" data-bind="value: summary, valueUpdate: 'afterkeydown'" rows="5" cols="65"></textarea></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_body" class="col-lg-2 control-label">Body:</label>
+                <div class="col-lg-10">
+                    <button id="edit_body" type="text" class="form-control" id="editbodybutton">Edit</button><button hidden id="donebodybutton">Done</button>
                     Click "edit" then type directly in the page on the right.  Remember to click "save" when finished.
-                </td>
-            </tr>
-            <tr>
-                <td>Length:</td>
-                <td><input data-bind="value: length, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Director:</td>
-                <td><input data-bind="value: director, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Year:</td>
-                <td><input data-bind="value: year, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Language:</td>
-                <td><input data-bind="value: lang, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Country:</td>
-                <td><input data-bind="value: country, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Certificate:</td>
-                <td><select
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_length" class="col-lg-2 control-label">Length:</label>
+                <div class="col-lg-10"><input id="edit_length" name="length" type="text" class="form-control" data-bind="value: length, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_director" class="col-lg-2 control-label">Director:</label>
+                <div class="col-lg-10"><input id="edit_director" name="director" type="text" class="form-control" data-bind="value: director, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_year" class="col-lg-2 control-label">Year:</label>
+                <div class="col-lg-10"><input id="edit_year" name="year" type="text" class="form-control" data-bind="value: year, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_lang" class="col-lg-2 control-label">Language:</label>
+                <div class="col-lg-10"><input id="edit_lang" name="lang" type="text" class="form-control" data-bind="value: lang, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_country" class="col-lg-2 control-label">Country:</label>
+                <div class="col-lg-10"><input id="edit_country" name="country" type="text" class="form-control" data-bind="value: country, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_certificate" class="col-lg-2 control-label">Certificate:</label>
+                <div class="col-lg-10">
+                    <select
+                        id="edit_certificate" name="certificate" type="text" class="form-control"
                         data-fieldapiurl="{{ event.certificate.api_list_url }}"
                         data-fieldname="certificate"
                         data-fieldvalue="{{ event.certificate.id }}"
                         data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Format:</td>
-                <td><select
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_filmFormat" class="col-lg-2 control-label">Format:</label>
+                <div class="col-lg-10">
+                    <select
+                        id="edit_filmFormat" name="filmFormat" type="text" class="form-control"
                         data-fieldapiurl="/api/1/selectfilmformat/"
                         data-fieldname="filmFormat"
                         data-fieldvalue="{{ event.filmFormat }}"
                         data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Season:</td>
-                <td><select
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_season" class="col-lg-2 control-label"></label>
+                <div class="col-lg-10">
+                    <select
+                        id="edit_season" name="season" type="text" class="form-control"
                         data-fieldapiurl="{{ event.season.api_list_url }}"
                         data-fieldname="season"
                         data-fieldvalue="{{ event.season.id }}"
                         data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Picture:</td>
-                <td>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_picture" class="col-lg-2 control-label">Picture:</label>
+                <div class="col-lg-10">
                     {% if event.picture %}
                         <img
+                                id="edit_picture" name="picture" type="text" class="form-control"
                                 data-fieldpapiurl="{{ event.picture.api_list_url }}"
                                 data-fieldname="picture"
                                 data-fieldvalue="{{ event.picture.id }}"
@@ -104,6 +111,7 @@
                                 height="{{ event.picture.thumbnailHeight }}">
                     {% else %}
                         <img
+                                id="edit_picture" name="picture"  type="text" class="form-control"
                                 data-fieldpapiurl="/api/select/graphic/"
                                 data-fieldname="picture"
                                 data-fieldvalue="789"
@@ -112,26 +120,25 @@
                                 width="100"
                                 height="100">
                     {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td>Approval:</td>
-                <td><input data-bind="value: approval, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Confirmed:</td>
-                <td><input data-bind="value: confirmed, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Private:</td>
-                <td><input data-bind="value: private, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Featured:</td>
-                <td><input data-bind="value: featured, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            </tbody>
-        </table>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="edit_approval" class="col-lg-2 control-label">Approval:</label>
+                <div class="col-lg-10"><input id="edit_approval" name="approval" type="text" class="form-control" data-bind="value: approval, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_confirmed" class="col-lg-2 control-label">Confirmed:</label>
+                <div class="col-lg-10"><input id="edit_confirmed" name="confirmed" type="text" class="form-control" data-bind="value: confirmed, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_private" class="col-lg-2 control-label">Private:</label>
+                <div class="col-lg-10"><input id="edit_private" name="private" type="text" class="form-control" data-bind="value: private, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+            <div class="form-group">
+                <label for="edit_featured" class="col-lg-2 control-label">Featured:</label>
+                <div class="col-lg-10"><input id="edit_featured" name="featured" type="text" class="form-control" data-bind="value: featured, valueUpdate: 'afterkeydown'"/></div>
+            </div>
+        </form>
         <button id="deletebutton" data-bind="click: deleteEvent, valueUpdate: 'afterkeydown'">Delete</button>
         <div class="clear"></div>
     </div>
