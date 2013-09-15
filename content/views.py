@@ -1,6 +1,7 @@
 from django.template import RequestContext
 from django.shortcuts import render_to_response, get_object_or_404, redirect
 from ss.content.models import *
+from ss.programming.models import Picture
 from ss.content.forms import *
 from ss.lib.utils import Prog
 from django.contrib.auth.decorators import login_required
@@ -21,6 +22,7 @@ def page(request, linkText=''):
                               {
                                'maintitle': page.title,
                                'page': page,
+                               'fillerImage': Picture.objects.get(id=789),
                                'prog': prog,
                                },
                               context_instance=RequestContext(request)
