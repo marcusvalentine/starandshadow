@@ -7,7 +7,8 @@ import pytz
 tz = pytz.timezone(settings.TIME_ZONE)
 timezone.activate(tz)
 
-DOC_TYPE = (('Film Review', 'Film Review'), ('Art Review', 'Art Review'), ('Book Review', 'Book Review'), ('Music Review', 'Music Review'), ('Essay', 'Essay'), ('General', 'General'),)
+DOC_TYPE = (('Film Review', 'Film Review'), ('Art Review', 'Art Review'), ('Book Review', 'Book Review'),
+            ('Music Review', 'Music Review'), ('Essay', 'Essay'), ('General', 'General'),)
 
 
 class Menu(models.Model):

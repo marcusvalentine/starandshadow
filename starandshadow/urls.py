@@ -1,10 +1,10 @@
 from django.conf.urls import patterns, url, include
 from programming.feeds import listPeriodFeed, listTodayFeed, listWeekFeed, listNextWeekFeed, listMonthFeed, listNextMonthFeed
 from tastypie.api import Api
-from ss.api.handlers import *
+from api.handlers import *
 from registration.signals import user_activated
 from django.dispatch import receiver
-from ss.programming.models import Programmer
+from programming.models import Programmer
 #from ss.programming.views import listHome
 import os
 from django.conf import settings
@@ -54,7 +54,7 @@ urlpatterns = patterns(
      {'document_root': os.path.join(settings.PROJECT_ROOT, 'static')}),
 )
 urlpatterns += patterns(
-    'ss.programming.views',
+    'programming.views',
     (r'^on/today/?$', 'listToday'),
     (r'^on/thisweek/?$', 'listWeek'),
     (r'^on/nextweek/?$', 'listNextWeek'),
@@ -80,7 +80,7 @@ urlpatterns += patterns(
     url(r'^on/meeting/(?P<id>\d+)/?$', 'meeting', name='show-meeting'),
 )
 urlpatterns += patterns(
-    'ss.organisation.views',
+    'organisation.views',
 
     url(r'^org/on/(?P<year>\d{4})/(?P<month>\d{1,2})/text/?$', 'monthReportText',
         name='month-report-text'),
@@ -115,7 +115,7 @@ urlpatterns += patterns(
     url(r'^org/who/?$', 'volunteerIndex', name='volunteerIndex'),
 )
 urlpatterns += patterns(
-    'ss.content.views',
+    'content.views',
     url(r'^work/review/?$', 'documentList', name='list-document'),
     url(r'^work/review/edit/?$', 'documentEdit', name='add-document'),
     url(r'^work/review/(?P<id>\d+)?/edit/?$', 'documentEdit', name='edit-document'),

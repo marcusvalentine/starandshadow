@@ -40,6 +40,7 @@ class MicroformatModel(object):
                         width="%()s"
                         height="%()s">
                         ''' ** kwargs
+
     '''
 <time itemprop="startDate" data-modelfield="start" data-fieldtype="DateTimeField" data-fieldvalue="{{ event.startDatetime|date:"c"|slice:":19" }}" datetime="{{ event.startDatetime|date:"c" }}">{{ event.displayStart }}</time>'''
 

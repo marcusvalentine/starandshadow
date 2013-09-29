@@ -3,15 +3,18 @@
 {% load thumbnail %}
 
 {% block centralContent %}
+
     {{ event|md }}
     <meta itemprop="description" content="{{ event.summary|safe|striptags }}" data-bind="attr: { content: summary }"/>
     <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
     <meta itemprop="duration" content="{{ event.isolength }}" data-bind="attr: { content: isolength }"/>
     <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
           content="thestarandshadowcinemaaddress"/>
+
     <header>
         <h1>{{ event|md:"title" }}{{ event|md:"year" }}</h1>
     </header>
+
     {{ event|md:"picture" }}
 
     <h3>{{ event|md:"season" }}</h3>
@@ -24,8 +27,6 @@
         {{ event|md_meta:"title" }}
         {{ event|md_meta:"year" }}
         <meta itemprop="image" content="
-
-
                 {% if event.picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
         <table class="table table-condensed event-table">
             <tbody>

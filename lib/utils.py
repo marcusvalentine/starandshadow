@@ -4,14 +4,14 @@ from django.core.mail import send_mail
 from django.db.models.signals import post_save, pre_delete
 from django.dispatch import receiver
 from reversion.models import Version
-from ss.content.models import Page, Document
-from ss.programming.models import Season, Film, Gig, Event, Festival, Meeting
-from ss.organisation.models import LogItem, Approval
+from content.models import Page, Document
+from programming.models import Season, Film, Gig, Event, Festival, Meeting
+from organisation.models import LogItem, Approval
 from django.core.exceptions import FieldError
 from django.conf import settings
 import pytz
 import itertools
-from ss.lib.middleware import CurrentUser
+from lib.middleware import CurrentUser
 from datetime import date
 
 tz = pytz.timezone(settings.TIME_ZONE)
@@ -25,7 +25,8 @@ class Prog(object):
             self.results = kwargs['types']
         else:
             if 'all' in kwargs and kwargs['all'] == True:
-                self.results = [Season.objects, Film.objects, Gig.objects, Event.objects, Festival.objects, Meeting.objects]
+                self.results = [Season.objects, Film.objects, Gig.objects, Event.objects, Festival.objects,
+                                Meeting.objects]
             else:
                 self.results = [Film.objects, Gig.objects, Event.objects, Festival.objects, Meeting.objects]
         self.filter(**kwargs)
@@ -81,7 +82,8 @@ class Prog(object):
         return r
 
     def filter(self, **kwargs):
-        for filter in ['cal', 'startDate', 'endDate', 'volunteer', 'festival', 'season', 'featured', 'public', 'approved']:
+        for filter in ['cal', 'startDate', 'endDate', 'volunteer', 'festival', 'season', 'featured', 'public',
+                       'approved']:
             try:
                 self.results = [getattr(self, filter + 'Filter')(r, kwargs[filter]) for r in self.results]
             except KeyError:
@@ -97,7 +99,8 @@ class Prog(object):
                 days.reverse()
         else:
             days = cal.days()
-        result = [[x, sorted([item for item in prog if item.startDate == x], key=lambda y: y.startDateTime)] for x in days]
+        result = [[x, sorted([item for item in prog if item.startDate == x], key=lambda y: y.startDateTime)] for x in
+                  days]
         if trimmed:
             result = [x for x in result if len(x[1]) > 0]
         return result
@@ -124,9 +127,11 @@ def programmeChanged(sender, **kwargs):
         changetype = 'modified'
     editing_user = CurrentUser().programmer
     if editing_user is None:
-        l = LogItem(logtext='%s %s by unknown: %s %s' % (event.typeName, changetype, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+        l = LogItem(logtext='%s %s by unknown: %s %s' % (
+        event.typeName, changetype, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
     else:
-        l = LogItem(logtext='%s %s by %s: %s %s' % (event.typeName, changetype, editing_user.get_link, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+        l = LogItem(logtext='%s %s by %s: %s %s' % (event.typeName, changetype, editing_user.get_link, event.get_link,
+                                                    event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
     l.save()
 
 
@@ -138,9 +143,11 @@ def eventApproved(sender, **kwargs):
             event = approval.event
             editing_user = CurrentUser().programmer
             if editing_user is None:
-                l = LogItem(logtext='%s approved by unknown: %s %s' % (event.typeName, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+                l = LogItem(logtext='%s approved by unknown: %s %s' % (
+                event.typeName, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
             else:
-                l = LogItem(logtext='%s approved by %s: %s %s' % (event.typeName, editing_user.get_link, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+                l = LogItem(logtext='%s approved by %s: %s %s' % (
+                event.typeName, editing_user.get_link, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
             l.save()
             message = '''A %s has been APPROVED on the website by %s:
 
@@ -148,14 +155,15 @@ def eventApproved(sender, **kwargs):
 %s
 http://www.starandshadow.org.uk%s
 ''' % (
-            event.typeName,
-            editing_user.name,
-            event.listHeading,
-            event.startDateTime.strftime('%Y/%m/%d, %H:%M'),
-            event.get_absolute_url(),
-        )
+                event.typeName,
+                editing_user.name,
+                event.listHeading,
+                event.startDateTime.strftime('%Y/%m/%d, %H:%M'),
+                event.get_absolute_url(),
+            )
             send_mail(
-                'S&S Website Change: %s, %s approved added by %s' % (event.startDateTime.strftime('%Y/%m/%d, %H:%M'), event.title, editing_user.name),
+                'S&S Website Change: %s, %s approved added by %s' % (
+                event.startDateTime.strftime('%Y/%m/%d, %H:%M'), event.title, editing_user.name),
                 message,
                 'info@starandshadow.org.uk',
                 [settings.NOTIFICATIONS_RECIPIENT, ],
@@ -172,9 +180,11 @@ def eventUnapproved(sender, **kwargs):
         event = approval.event
         editing_user = CurrentUser().programmer
         if editing_user is None:
-            l = LogItem(logtext='%s unapproved by unknown: %s %s' % (event.typeName, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+            l = LogItem(logtext='%s unapproved by unknown: %s %s' % (
+            event.typeName, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
         else:
-            l = LogItem(logtext='%s unapproved by %s: %s %s' % (event.typeName, editing_user.get_link, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
+            l = LogItem(logtext='%s unapproved by %s: %s %s' % (
+            event.typeName, editing_user.get_link, event.get_link, event.startDateTime.strftime('%Y/%m/%d, %H:%M')))
         l.save()
         message = '''A %s has been UNAPPROVED on the website by %s:
 
@@ -189,7 +199,8 @@ http://www.starandshadow.org.uk%s
             event.get_absolute_url(),
         )
         send_mail(
-            'S&S Website Change: %s, %s approval deleted by %s' % (event.startDateTime.strftime('%Y/%m/%d, %H:%M'), event.title, editing_user.name),
+            'S&S Website Change: %s, %s approval deleted by %s' % (
+            event.startDateTime.strftime('%Y/%m/%d, %H:%M'), event.title, editing_user.name),
             message,
             'info@starandshadow.org.uk',
             [settings.NOTIFICATIONS_RECIPIENT, ],

@@ -1,3 +1,11 @@
+$('.clickable')
+        .click(function() {
+            var link = $("a", $(this));
+            if (link.length) {
+                window.location.assign(link.attr("href"));
+            }
+        });
+
 //// Avoid `console` errors in browsers that lack a console.
 //(function() {
 //    var method;

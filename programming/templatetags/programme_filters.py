@@ -5,7 +5,7 @@ import bleach
 from BeautifulSoup import BeautifulSoup
 import re
 from sorl.thumbnail import get_thumbnail
-from ss.fileupload.models import Picture
+from fileupload.models import Picture
 from django.utils.formats import date_format
 
 register = template.Library()
@@ -74,7 +74,7 @@ def sanitize(value):
         del (mso['class'])
     for tag in soup.findAll(
             lambda tag: (tag.name == 'span' or tag.name == 'p' or tag.name == 'div') and tag.find(True) is None and (
-                    tag.string is None or tag.string.strip() == '')):
+                        tag.string is None or tag.string.strip() == '')):
         tag.extract()
     value = soup.renderContents().decode('utf8')
     dotty = re.compile(r'\.{2,}', re.MULTILINE | re.IGNORECASE)
@@ -109,7 +109,7 @@ def microdatafield(event, field=None):
         im = get_thumbnail(event.picture, "400")
         return mark_safe(
             '''<img '''
-            '''class="imgright" '''
+            '''class="pull-right" '''
             '''itemprop="image" '''
             '''data-modelfield="picture" '''
             '''data-field-type="ForeignKeyPicture" '''
@@ -273,7 +273,7 @@ def md(event, fieldName=None):
         # elif fieldName == 'startTime':
         if fieldName == 'startDateTime':
             return mark_safe(
-                '''<time class="%s"%s datetime="%s" data-bind="text:startDateTime()">%s</time>'''
+                '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:startDateTime()},text:displayStart()">%s</time>'''
                 % (
                     fieldName,
                     itemprop,
@@ -282,7 +282,7 @@ def md(event, fieldName=None):
                 ))
         elif fieldName == 'endDateTime':
             return mark_safe(
-                '''<time class="%s"%s datetime="%s" data-bind="text:endDateTime()">%s</time>'''
+                '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">%s</time>'''
                 % (
                     fieldName,
                     itemprop,
@@ -344,10 +344,12 @@ def md(event, fieldName=None):
                 ))
         elif fieldName == 'season':
             return mark_safe(
-                '''<span class="%s"%s data-bind="text:%s">%s</span>'''
+                '''Part of the <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a> Season'''
                 % (
+                    getattr(event, fieldName).get_absolute_url(),
                     fieldName,
                     itemprop + ' itemscope itemtype="http://schema.org/Event"',
+                    'selectedLink' + fieldName,
                     'selectedLabel' + fieldName,
                     getattr(event, fieldName),
                 ))
@@ -355,7 +357,7 @@ def md(event, fieldName=None):
             if event.picture is None:
                 event.picture = Picture.objects.get(id=789)
             return mark_safe(
-                '''<img class="%s imgright img-responsive"%s'''
+                '''<img class="%s pull-right img-responsive"%s'''
                 ''' src="%s"'''
                 ''' width="%s"'''
                 ''' height="%s"'''

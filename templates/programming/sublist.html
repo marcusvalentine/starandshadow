@@ -2,16 +2,20 @@
 {% load thumbnail %}
 
 {% if relatedHeader %}
+
     <header class="row">
         <h3>{{ relatedHeader }}</h3>
     </header>
+
 {% endif %}
 
 {% for day,events in prog %}
+
     {% for eventt in events %}
+
         <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
                  data-href="{{ eventt.get_absolute_url }}">
-            <div class="imgleft">
+            <div class="pull-left">
                 {% if eventt.picture %}
                     {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
                         <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
@@ -28,6 +32,7 @@
                     {% endthumbnail %}
                 {% endif %}
             </div>
+
             <h1 class="domdom">{{ day|date:"d" }}</h1>
 
             <h1>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h1>
@@ -38,11 +43,12 @@
 
             <p class="viewlink"><a href="{{ eventt.get_absolute_url }}">Read More &raquo;</a></p>
 
-            <div class="clear"></div>
         </section>
+
     {% empty %}
+
         <section class="row dmod clickable {% cycle boxy %} mo{{ day|date:"my" }}">
-            <div class="imgleft">
+            <div class="pull-left">
                 {% thumbnail fillerImage.file "240x135" crop='top' as im %}
                     <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
                 {% endthumbnail %}
@@ -56,5 +62,7 @@
 
             <div class="clear"></div>
         </section>
+
     {% endfor %}
+
 {% endfor %}

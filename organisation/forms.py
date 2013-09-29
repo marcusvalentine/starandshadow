@@ -1,7 +1,7 @@
 from django.forms import ModelForm, ChoiceField, ModelChoiceField
 from django.db import models
-from ss.programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, FILM_FORMATS, MEETING_TYPES
-from ss.organisation.models import Minutes, BoxOfficeReturn
+from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, FILM_FORMATS, MEETING_TYPES
+from organisation.models import Minutes, BoxOfficeReturn
 
 
 def custom_widgets(f):

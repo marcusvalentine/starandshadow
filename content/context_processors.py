@@ -1,4 +1,4 @@
-from ss.content.models import Menu
+from content.models import Menu
 from django.contrib import messages
 
 

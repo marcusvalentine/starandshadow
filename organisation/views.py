@@ -1,10 +1,10 @@
 from django.template import RequestContext
 from django.shortcuts import render_to_response, get_object_or_404, redirect
 from django.core.urlresolvers import reverse
-from ss.programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting
-from ss.organisation.models import Minutes, BoxOfficeReturn, LogItem
-from ss.organisation.forms import SeasonAdminForm, FilmAdminForm, GigAdminForm, EventAdminForm, FestivalAdminForm, MeetingAdminForm, SeasonForm, FilmForm, GigForm, EventForm, FestivalForm, MeetingForm, ProgrammerForm, MinutesForm, BoxOfficeReturnForm
-from ss.lib.utils import ssDate, Prog
+from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting
+from organisation.models import Minutes, BoxOfficeReturn, LogItem
+from organisation.forms import SeasonAdminForm, FilmAdminForm, GigAdminForm, EventAdminForm, FestivalAdminForm, MeetingAdminForm, SeasonForm, FilmForm, GigForm, EventForm, FestivalForm, MeetingForm, ProgrammerForm, MinutesForm, BoxOfficeReturnForm
+from lib.utils import ssDate, Prog
 from django.utils.timezone import datetime
 import calendar
 from django.contrib.auth.decorators import login_required
@@ -27,7 +27,7 @@ def reportIndex(request):
                                   'thisMonth': thisMonth,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -46,7 +46,7 @@ def returnReportIndex(request):
                                   'thisMonth': thisMonth,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -78,7 +78,7 @@ def itemEdit(request, item, ItemForm, ItemAdminForm, template='edit.html', viewA
                                   'form': form,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -171,7 +171,7 @@ def minutesView(request, eventId=None, forMeeting=None):
                                   'minutes': minutes,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -183,7 +183,7 @@ def minutesList(request):
                                   'minutess': minutess,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -199,7 +199,7 @@ def meetingsReport(request, year=None):
                                   'prog': prog.byDate(trimmed=True),
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -213,7 +213,7 @@ def monthReport(request, year, month):
                                   'prog': prog.byDate(),
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -229,7 +229,8 @@ def returnEdit(request, eventId=None, filmId=None):
         form = BoxOfficeReturnForm(request.POST, instance=ret)
         if form.is_valid():
             form.save()
-            return redirect(reverse('return-report', kwargs={'year': ret.film.start.year, 'month': ret.film.start.month}))
+            return redirect(
+                reverse('return-report', kwargs={'year': ret.film.start.year, 'month': ret.film.start.month}))
     else:
         form = BoxOfficeReturnForm(instance=ret)
     return render_to_response('organisation/editReturn.html',
@@ -239,7 +240,7 @@ def returnEdit(request, eventId=None, filmId=None):
                                   'form': form,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -279,7 +280,7 @@ def returnReport(request, year, month):
                                   'totals': totals,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -294,7 +295,7 @@ def monthReportText(request, year, month):
                               },
                               context_instance=RequestContext(request),
                               mimetype='text/plain; charset="utf-8"',
-                              )
+    )
 
 
 @login_required
@@ -306,7 +307,7 @@ def volunteerIndex(request):
                                   'volunteers': volunteers,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -329,7 +330,7 @@ def volunteerEdit(request, eventId):
                                   'form': form,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -343,7 +344,7 @@ def volunteerProfile(request, eventId):
                                   'prog': prog.byDate(trimmed=True),
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
 
 
 @login_required
@@ -355,4 +356,4 @@ def changeLog(request):
                                   'loglines': loglines,
                               },
                               context_instance=RequestContext(request)
-                              )
+    )
