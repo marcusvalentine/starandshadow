@@ -251,13 +251,6 @@ def md(event, fieldName=None):
         else:
             itemprop = ' itemprop="%s"' % MDPROPS[fieldName]
             #     return '<span itemprop="name" data-bind="text:title">{{ maintitle|title }}</span>'
-        # elif fieldName == 'startDate':
-        #     return mark_safe(
-        #         '''<time itemprop="startDate" datetime="%s">%s</time>'''
-        #         % (
-        #             event.startDateTime,
-        #             event.displayStart,
-        #         ))
         # elif fieldName == 'festivals':
         #     festivals = []
         #     for festival in event.festival_set.all():
@@ -269,9 +262,16 @@ def md(event, fieldName=None):
         #                 festival,
         #             ))
         #     return mark_safe(''.join(festivals))
-        # elif fieldName == 'startDate':
-        # elif fieldName == 'startTime':
-        if fieldName == 'startDateTime':
+        if fieldName == 'startDate':
+            return mark_safe(
+                '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:startDateTime()},text:displayStart()">%s</time>'''
+                % (
+                    fieldName,
+                    itemprop,
+                    event.startDate,
+                    event.displayStart,
+                ))
+        elif fieldName == 'startDateTime':
             return mark_safe(
                 '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:startDateTime()},text:displayStart()">%s</time>'''
                 % (
@@ -289,8 +289,15 @@ def md(event, fieldName=None):
                     event.endDateTime,
                     event.displayEnd,
                 ))
-        # elif fieldName == 'endDate':
-        # elif fieldName == 'endTime':
+        elif fieldName == 'endDate':
+            return mark_safe(
+                '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">%s</time>'''
+                % (
+                    fieldName,
+                    itemprop,
+                    event.endDate,
+                    event.displayEnd,
+                ))
         elif fieldName == 'length':
             return mark_safe(
                 '''<time class="%s"%s datetime="%s" data-bind="attr:{datetime:isolength()},text:lengthLabel()">%s</time>'''
@@ -384,7 +391,7 @@ def md(event, fieldName=None):
                 '''                </button>'''
                 '''            </div>'''
                 '''            <div class="modal-body">'''
-                '''                <img src="%s" class="img-responsive" alt="">'''
+                '''                <img src="%s" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">'''
                 '''            </div>'''
                 '''        </div>'''
                 '''    </div>'''
@@ -407,7 +414,17 @@ def md(event, fieldName=None):
         # elif fieldName == 'confirmed':
         # elif fieldName == 'private':
         # elif fieldName == 'featured':
-        # elif fieldName == 'website':
+        elif fieldName == 'website':
+            return mark_safe(
+                '''<div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">'''
+                '''    <meta itemprop="name" content="%s">'''
+                '''    <p>External Website: <a itemprop="url" data-bind="attr:{href:website},text:website" href="%s">%s</a></p>'''
+                '''</div>'''
+                % (
+                    event.title,
+                    event.website,
+                    event.website,
+                ))
         # elif fieldName == 'films':
         # elif fieldName == 'gigs':
         # elif fieldName == 'events':

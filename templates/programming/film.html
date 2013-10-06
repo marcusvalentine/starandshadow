@@ -65,28 +65,46 @@
 
     </div>
 
-    {% if event.season.title != 'None' and False %}
+    {% if event.season.title != 'None' %}
+
         <div class="smallsublist">
             <header>
                 <h3>Films in the <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a> season:</h3>
             </header>
             {% for day,events in prog %}{% for eventt in events %}
-                <section class="mod small emod {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}">
-                    <h1>{{ day|date:"DATE_FORMAT" }}</h1>
+                <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
+                         data-href="{{ eventt.get_absolute_url }}">
+                    <div class="pull-left">
+                        {% if eventt.picture %}
+                            {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
+                                <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                            {% endthumbnail %}
+                            {% thumbnail eventt.picture.file "160x90" crop='top' as im %}
+                                <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
+                            {% endthumbnail %}
+                        {% else %}
+                            {% thumbnail fillerImage.file "240x135" crop='top' as im %}
+                                <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                            {% endthumbnail %}
+                            {% thumbnail fillerImage.file "160x90" crop='top' as im %}
+                                <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
+                            {% endthumbnail %}
+                        {% endif %}
+                    </div>
 
-                    <h2>{{ eventt.typeName }}: <a
-                            href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h2>
+                    <h1 class="domdom">{{ day|date:"d" }}</h1>
 
-                    <h3>{{ eventt.start|date:"TIME_FORMAT" }}</h3>
+                    <h1>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h1>
 
-                    <p><a href="{{ eventt.get_absolute_url }}"><span class="viewlink"></span></a></p>
-                </section>{% empty %}
-                <section class="mod emod {% cycle boxy %} mo{{ day|date:"my" }}">
-                    <h1>{{ day|date:"DATE_FORMAT" }}</h1>
+                    <h2>{{ eventt.startDateTime|date:"DATETIME_FORMAT" }}</h2>
 
-                    <h2>Closed</h2>
+                    <p>{{ eventt.summary|sanitize }}</p>
+
+                    <p class="viewlink"><a href="{{ eventt.get_absolute_url }}">Read More &raquo;</a></p>
+
                 </section>{% endfor %}{% endfor %}
         </div>
+
     {% endif %}
 
 {% endblock %}

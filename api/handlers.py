@@ -88,7 +88,6 @@ class SelectFilmFormatResource(Resource):
 class SelectApprovalResource(ModelResource):
     class Meta:
         queryset = Approval.objects.all()
-        include_absolute_url = True
         # TODO fields = ['title', 'id']
         allowed_methods = ['get', ]
 
@@ -156,7 +155,7 @@ class EventResource(ModelResource):
 
 
 class FestivalResource(ModelResource):
-    # TODO picture = fields.ForeignKey(SelectPictureResource, 'picture')
+    picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
     approval = fields.ForeignKey(SelectApprovalResource, 'approval')
     films = fields.ManyToManyField(FilmResource, 'films')

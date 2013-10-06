@@ -64,19 +64,55 @@
                     />
         </div>
 
-        <label for="edit_startTime" class="col-lg-2 control-label">Start Time:</label>
+        {% if event.typeName != 'Season' %}
+            <label for="edit_startTime" class="col-lg-2 control-label">Start Time:</label>
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_startTime"
-                    name="startTime"
-                    type="time"
-                    class="form-control input-sm"
-                    data-bind="value: startTime, valueUpdate: 'afterkeydown'"
-                    />
-        </div>
+            <div class="col-lg-4">
+                <input
+                        id="edit_startTime"
+                        name="startTime"
+                        type="time"
+                        class="form-control input-sm"
+                        data-bind="value: startTime, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+        {% endif %}
 
     </div>
+
+    {% if event.typeName != 'Film' and event.typeName != 'Meeting' %}
+        <div class="form-group">
+
+            {% if event.typeName == 'Festival' or event.typeName == 'Season' %}
+                <label for="edit_endTime" class="col-lg-2 control-label">End Date:</label>
+
+                <div class="col-lg-4">
+                    <input
+                            id="edit_endDate"
+                            name="endDate"
+                            type="date"
+                            class="form-control input-sm"
+                            data-bind="value: endDate, valueUpdate: 'afterkeydown'"
+                            />
+                </div>
+            {% endif %}
+
+            {% if event.typeName == 'Festival' %}
+                <label for="edit_endTime" class="col-lg-2 control-label">End Time:</label>
+
+                <div class="col-lg-4">
+                    <input
+                            id="edit_endTime"
+                            name="endTime"
+                            type="time"
+                            class="form-control input-sm"
+                            data-bind="value: endTime, valueUpdate: 'afterkeydown'"
+                            />
+                </div>
+            {% endif %}
+
+        </div>
+    {% endif %}
 
     <div class="form-group">
 
@@ -102,8 +138,8 @@
         <label for="edit_body" class="col-lg-2 control-label">Body:</label>
 
         <div class="col-lg-4">
-            <button id="edit_body" type="text" class="form-control input-sm" id="editbodybutton">Edit</button>
-            <button hidden id="donebodybutton">Done</button>
+            <button id="edit_body" type="text" class="form-control input-sm">Edit</button>
+            <button hidden id="done_body" type="text" class="form-control input-sm">Done</button>
             Click "edit" then type directly in the page on the right. Remember to click "save" when finished.
         </div>
 
@@ -131,131 +167,148 @@
                         width="100"
                         height="100">
             {% endif %}
+            <div id="picturepicker" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Select Picture</h4>
+                        </div>
+                        <div class="modal-body">
+                            <ul id="picturelist"></ul>
+                        </div>
+                        <div class="modal-footer">
+                            <button id="imageupload" type="button" class="btn btn-primary">Add New</button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>
 
     {% ifequal event.typeName 'Film' %}
-    <div class="form-group">
+        <div class="form-group">
 
-        <label for="edit_length" class="col-lg-2 control-label">Length:</label>
+            <label for="edit_length" class="col-lg-2 control-label">Length:</label>
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_length"
-                    name="length"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: length, valueUpdate: 'afterkeydown'"
-                    />
+            <div class="col-lg-4">
+                <input
+                        id="edit_length"
+                        name="length"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: length, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+            <label for="edit_director" class="col-lg-2 control-label">Director:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_director"
+                        name="director"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: director, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
         </div>
 
-        <label for="edit_director" class="col-lg-2 control-label">Director:</label>
+        <div class="form-group">
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_director"
-                    name="director"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: director, valueUpdate: 'afterkeydown'"
-                    />
+            <label for="edit_year" class="col-lg-2 control-label">Year:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_year"
+                        name="year"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: year, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+            <label for="edit_lang" class="col-lg-2 control-label">Language:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_lang"
+                        name="lang"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: lang, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
         </div>
 
-    </div>
+        <div class="form-group">
 
-    <div class="form-group">
+            <label for="edit_country" class="col-lg-2 control-label">Country:</label>
 
-        <label for="edit_year" class="col-lg-2 control-label">Year:</label>
+            <div class="col-lg-4">
+                <input
+                        id="edit_country"
+                        name="country"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: country, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_year"
-                    name="year"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: year, valueUpdate: 'afterkeydown'"
-                    />
+            <label for="edit_certificate" class="col-lg-2 control-label">Certificate:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_certificate"
+                        name="certificate"
+                        type="text"
+                        class="form-control input-sm"
+                        data-fieldapiurl="{{ event.certificate.api_list_url }}"
+                        data-fieldname="certificate"
+                        data-fieldvalue="{{ event.certificate.id }}"
+                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"
+                        >
+                </select>
+            </div>
+
         </div>
 
-        <label for="edit_lang" class="col-lg-2 control-label">Language:</label>
+        <div class="form-group">
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_lang"
-                    name="lang"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: lang, valueUpdate: 'afterkeydown'"
-                    />
+            <label for="edit_filmFormat" class="col-lg-2 control-label">Format:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_filmFormat"
+                        name="filmFormat"
+                        type="text"
+                        class="form-control input-sm"
+                        data-fieldapiurl="/api/1/selectfilmformat/"
+                        data-fieldname="filmFormat"
+                        data-fieldvalue="{{ event.filmFormat }}"
+                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"
+                        >
+                </select>
+            </div>
+
+            <label for="edit_season" class="col-lg-2 control-label">Season:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_season" name="season" type="text" class="form-control input-sm"
+                        data-fieldapiurl="{{ event.season.api_list_url }}"
+                        data-fieldname="season"
+                        data-fieldvalue="{{ event.season.id }}"
+                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"
+                        >
+                </select>
+            </div>
+
         </div>
-
-    </div>
-
-    <div class="form-group">
-
-        <label for="edit_country" class="col-lg-2 control-label">Country:</label>
-
-        <div class="col-lg-4">
-            <input
-                    id="edit_country"
-                    name="country"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: country, valueUpdate: 'afterkeydown'"
-                    />
-        </div>
-
-        <label for="edit_certificate" class="col-lg-2 control-label">Certificate:</label>
-
-        <div class="col-lg-4">
-            <select
-                    id="edit_certificate"
-                    name="certificate"
-                    type="text"
-                    class="form-control input-sm"
-                    data-fieldapiurl="{{ event.certificate.api_list_url }}"
-                    data-fieldname="certificate"
-                    data-fieldvalue="{{ event.certificate.id }}"
-                    data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"
-                    >
-            </select>
-        </div>
-
-    </div>
-
-    <div class="form-group">
-
-        <label for="edit_filmFormat" class="col-lg-2 control-label">Format:</label>
-
-        <div class="col-lg-4">
-            <select
-                    id="edit_filmFormat"
-                    name="filmFormat"
-                    type="text"
-                    class="form-control input-sm"
-                    data-fieldapiurl="/api/1/selectfilmformat/"
-                    data-fieldname="filmFormat"
-                    data-fieldvalue="{{ event.filmFormat }}"
-                    data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"
-                    >
-            </select>
-        </div>
-
-        <label for="edit_season" class="col-lg-2 control-label">Season:</label>
-
-        <div class="col-lg-4">
-            <select
-                    id="edit_season" name="season" type="text" class="form-control input-sm"
-                    data-fieldapiurl="{{ event.season.api_list_url }}"
-                    data-fieldname="season"
-                    data-fieldvalue="{{ event.season.id }}"
-                    data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"
-                    >
-            </select>
-        </div>
-
-    </div>
     {% endifequal %}
 
     <div class="form-group">
@@ -306,6 +359,25 @@
                     />
         </div>
     </div>
+
+    {% if event.typeName == 'Gig' or event.typeName == 'Event' %}
+        <div class="form-group">
+
+            <label for="edit_website" class="col-lg-2 control-label">Website:</label>
+
+            <div class="col-lg-10">
+                <input
+                        id="edit_website"
+                        name="featured"
+                        type="url"
+                        class="form-control input-sm"
+                        data-bind="value: website, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+        </div>
+    {% endif %}
+
     <div class="form-group">
         <label for="edit_notes" class="col-lg-2 control-label">Notes:</label>
 
@@ -320,6 +392,7 @@
             </textarea>
         </div>
     </div>
+
     </form>
     </div>
     <footer>

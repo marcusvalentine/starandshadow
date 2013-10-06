@@ -67,6 +67,7 @@ def season(request, id):
                                   'event': event,
                                   'extramessage': event.extramessage(request),
                                   'prog': prog.byDate(),
+                                  'fillerImage': Picture.objects.get(id=789),
                               },
                               context_instance=RequestContext(request)
     )
@@ -94,6 +95,7 @@ def film(request, id):
                                   'event': event,
                                   'extramessage': event.extramessage(request),
                                   'prog': prog,
+                                  'fillerImage': Picture.objects.get(id=789),
                               },
                               context_instance=RequestContext(request)
     )
@@ -113,6 +115,7 @@ def gig(request, id):
                                   'maintitle': event.title,
                                   'extramessage': event.extramessage(request),
                                   'event': event,
+                                  'fillerImage': Picture.objects.get(id=789),
                               },
                               context_instance=RequestContext(request)
     )
@@ -132,6 +135,7 @@ def event(request, id):
                                   'maintitle': event.title,
                                   'event': event,
                                   'extramessage': event.extramessage(request),
+                                  'fillerImage': Picture.objects.get(id=789),
                               },
                               context_instance=RequestContext(request)
     )
@@ -154,6 +158,7 @@ def festival(request, id):
                                   'event': event,
                                   'extramessage': event.extramessage(request),
                                   'prog': prog.byDate(),
+                                  'fillerImage': Picture.objects.get(id=789),
                               },
                               context_instance=RequestContext(request)
     )
