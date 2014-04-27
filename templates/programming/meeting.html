@@ -1,4 +1,5 @@
-{% extends "programming/eventtype.html" %}
+{% extends "normal.html" %}
+{#{% extends "programming/eventtype.html" %}#}
 {% load programme_filters %}
 {% load thumbnail %}
 
@@ -43,48 +44,48 @@
         <div class="bodysection"><div class="body">
             {% if event.id %}{% if authenticated %}
                 <hr>
-                <h3>Event Approvals:</h3>
-                {% if meetingInFuture %}
-                    <p>This meeting starts in the future, so no events can have been approval at it.</p>
-                {% else %}
-                    {% if approvalSet %}
-                        <table class="report">
-                            <thead>
-                            <tr>
-                                <th style="width: 90px;">Date</th>
-                                <th style="width: 40px;">Day</th>
-                                <th style="width: 40px;">Start</th>
-                                <th style="width: 60px;">Type</th>
-                                <th>Title</th>
-                                <th style="width: 75px;">Approved</th>
-                                <th style="width: 170px;">Approved by</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            {% for approval in approvalSet.approvals %}
-                                {% with event=approval.event %}
-                                    <tr>
-                                        <td><a href="/on/{{ event.start|date:"Y/m/d/" }}">{{ event.start|date:"SHORT_DATE_FORMAT" }}</a></td>
-                                        <td><a href="/on/{{ event.start|date:"Y/m/d/" }}">{{ event.start|date:"D" }}</a></td>
-                                        <td>{{ event.start|date:"H:i" }}</td>
-                                        <td>{{ event.typeName }}</td>
-                                        <td><a href="{{ event.get_absolute_url }}">{{ event.listHeading }}</a></td>
-                                        <td style="text-align: center;">{% if event.approved %}<img src="/static/icon_success.gif" height="16" width="16" alt="yes"/>{% else %}<img src="/static/icon_error.gif" height="16" width="16" alt="yes"/>{% endif %}</td>
-                                        <td><a href="{{ approval.approver.get_absolute_url }}">{{ approval.approver }}</a></td>
-                                    </tr>
-                                {% endwith %}
-                            {% empty %}
-                                <tr>
-                                    <td colspan="7">None</td>
-                                </tr>
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    {% else %}
-                        <p>No events have been recorded as having been approved at this meeting.</p>
-                    {% endif %}
-                {% endif %}
-                <hr>
+{#                <h3>Event Approvals:</h3>#}
+{#                {% if meetingInFuture %}#}
+{#                    <p>This meeting starts in the future, so no events can have been approval at it.</p>#}
+{#                {% else %}#}
+{#                    {% if approvalSet %}#}
+{#                        <table class="table table-bordered table-condensed">#}
+{#                            <thead>#}
+{#                            <tr>#}
+{#                                <th style="width: 90px;">Date</th>#}
+{#                                <th style="width: 40px;">Day</th>#}
+{#                                <th style="width: 40px;">Start</th>#}
+{#                                <th style="width: 60px;">Type</th>#}
+{#                                <th>Title</th>#}
+{#                                <th style="width: 75px;">Approved</th>#}
+{#                                <th style="width: 170px;">Approved by</th>#}
+{#                            </tr>#}
+{#                            </thead>#}
+{#                            <tbody>#}
+{#                            {% for approval in approvalSet.approvals %}#}
+{#                                {% with event=approval.event %}#}
+{#                                    <tr>#}
+{#                                        <td><a href="/on/{{ event.start|date:"Y/m/d/" }}">{{ event.start|date:"SHORT_DATE_FORMAT" }}</a></td>#}
+{#                                        <td><a href="/on/{{ event.start|date:"Y/m/d/" }}">{{ event.start|date:"D" }}</a></td>#}
+{#                                        <td>{{ event.start|date:"H:i" }}</td>#}
+{#                                        <td>{{ event.typeName }}</td>#}
+{#                                        <td><a href="{{ event.get_absolute_url }}">{{ event.listHeading }}</a></td>#}
+{#                                        <td style="text-align: center;">{% if event.approved %}<img src="/static/icon_success.gif" height="16" width="16" alt="yes"/>{% else %}<img src="/static/icon_error.gif" height="16" width="16" alt="yes"/>{% endif %}</td>#}
+{#                                        <td><a href="{{ approval.approver.get_absolute_url }}">{{ approval.approver }}</a></td>#}
+{#                                    </tr>#}
+{#                                {% endwith %}#}
+{#                            {% empty %}#}
+{#                                <tr>#}
+{#                                    <td colspan="7">None</td>#}
+{#                                </tr>#}
+{#                            {% endfor %}#}
+{#                            </tbody>#}
+{#                        </table>#}
+{#                    {% else %}#}
+{#                        <p>No events have been recorded as having been approved at this meeting.</p>#}
+{#                    {% endif %}#}
+{#                {% endif %}#}
+{#                <hr>#}
                 <h3>Documents:</h3>
                 {% if meetingInFuture %}
                     <p>This meeting starts in the future, so it has no minutes.</p>
@@ -92,9 +93,8 @@
                     <ul>
                         {% for min in event.minutes_set.all %}
                             <li><a href="{{ min.get_absolute_url }}">{{ min }}</a></li>
-                        {% empty %}
-                            <li><a href="{% url add-minutes forMeeting=event.id %}">Add minutes</a></li>
                         {% endfor %}
+                        <li><a href="{% url 'add-minutes' forMeeting=event.id %}">Add minutes</a></li>
                     </ul>
                 {% endif %}
                 <hr>

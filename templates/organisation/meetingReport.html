@@ -2,11 +2,14 @@
 
 {% block centralContent %}
 
-{% if maintitle %}<header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+{% if maintitle %}<header class="text-center"><h1>{{ maintitle|title }}</h1></header>{% endif %}
 
-<p><a href="{% url organisation.views.meetingsReport year=cal.previous %}">&laquo; {{ cal.previous }}</a> | <a href="{% url organisation.views.meetingsReport year=cal.next %}">{{ cal.next }} &raquo;</a></p>
+    <ul class="pager">
+        <li><a class="button" href="{% url 'organisation.views.meetingsReport' year=cal.previous %}">&laquo; {{ cal.previous }}</a></li>
+        <li><a class="button" href="{% url 'organisation.views.meetingsReport' year=cal.next %}">{{ cal.next }} &raquo;</a></li>
+    </ul>
 
-<table class="report">
+<table class="table table-bordered table-condensed">
 <thead>
 	<tr>
 		<th style="width: 75px;">Date</th>

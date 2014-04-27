@@ -8,6 +8,7 @@ from django.contrib.auth.decorators import login_required
 from django.utils import timezone
 from dateutil.relativedelta import *
 from datetime import date
+from django.core.urlresolvers import reverse
 
 
 def page(request, linkText=''):
@@ -23,7 +24,7 @@ def page(request, linkText=''):
     return render_to_response('page.html',
                               {
                                   'maintitle': page.title,
-                                  'page': page,
+                                  'event': page,
                                   'fillerImage': Picture.objects.get(id=789),
                                   'prog': prog,
                               },
@@ -53,20 +54,22 @@ def documentEdit(request, id=None):
                               context_instance=RequestContext(request)
     )
 
+@login_required
+def documentAdd(request):
+    doc = Document()
+    doc.title = "New document"
+    doc.author = "AUTHOR"
+    doc.created = timezone.now().date()
+    doc.body = "New document"
+    doc.save()
+    return redirect(reverse('view-document', kwargs={'documentId': doc.pk}))
 
-def documentView(request, id=None):
-    if id == '0' and request.user.is_authenticated():
-        doc = Document()
-        doc.title = "New document"
-        doc.author = "AUTHOR"
-        doc.created = timezone.now().date()
-        doc.body = "New document"
-    else:
-        doc = get_object_or_404(Document, id=id)
+def documentView(request, documentId=None):
+    doc = get_object_or_404(Document, id=documentId)
     return render_to_response('content/document.html',
                               {
                                   'maintitle': doc.title,
-                                  'doc': doc,
+                                  'event': doc,
                               },
                               context_instance=RequestContext(request)
     )

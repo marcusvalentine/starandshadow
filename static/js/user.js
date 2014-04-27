@@ -55,43 +55,43 @@ $('.clickable')
 ////
 ////$('.clickable[data-href]').on('click', function () { window.location = ($(this).attr('data-href'));})
 ////
-////$('#viewprintprogramme').on('click', viewprintprogramme);
-////
-////if (location.search.indexOf('?vpp') >= 0) {
-////    $('#viewprintprogramme').trigger('click');
-////}
-////
-////function viewprintprogramme() {
-////    var dialogdiv = $('<div id="dialogdiv">');
-////    t = $(this);
-////    t.append(dialogdiv);
-////    $.ajax({
-////        url:'/api/printprogramme/',
-////        type:'POST',
-////        dataType:'json',
-////        data:{
-////            'year':t.attr('data-year'),
-////            'month':t.attr('data-month')
-////        },
-////        success:function (data) {
-////            dialogdiv.empty();
-////            for (var i = 0; i < data.sections.length; i++) {
-////                dialogdiv.append($(data.sections[i]));
-////            }
-////            dialogdiv
-////                .attr('title', data['title'])
-////                .dialog({
-////                    width:590,
-////                    create:function (event, ui) {
-////                        $("html").css('overflow', 'hidden');
-////                    },
-////                    beforeClose:function (event, ui) {
-////                        $("html").css('overflow', 'inherit');
-////                    }
-////                });
-////        }
-////    });
-////}
+$('#viewprintprogramme').on('click', viewprintprogramme);
+
+if (location.search.indexOf('?vpp') >= 0) {
+    $('#viewprintprogramme').trigger('click');
+}
+
+function viewprintprogramme() {
+    var dialogdiv = $('<div id="dialogdiv">');
+    t = $(this);
+    t.append(dialogdiv);
+    $.ajax({
+        url:'/api/printprogramme/',
+        type:'GET',
+        dataType:'json',
+        data:{
+            'year':t.attr('data-year'),
+            'month':t.attr('data-month')
+        },
+        success:function (data) {
+            dialogdiv.empty();
+            for (var i = 0; i < data.sections.length; i++) {
+                dialogdiv.append($(data.sections[i]));
+            }
+            dialogdiv
+                .attr('title', data['title'])
+                .dialog({
+                    width:590,
+                    create:function (event, ui) {
+                        $("html").css('overflow', 'hidden');
+                    },
+                    beforeClose:function (event, ui) {
+                        $("html").css('overflow', 'inherit');
+                    }
+                });
+        }
+    });
+}
 ////
 //
 

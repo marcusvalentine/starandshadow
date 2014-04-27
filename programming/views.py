@@ -27,8 +27,8 @@ def listNextWeek(request):
 
 
 def listMonth(request):
-    return listPeriod(request, date.today(), size='month', title='This Month', earliertext='Last Month',
-                      latertext='Next Month')
+    return listPeriod(request, date.today(), size='month', title=date.today().strftime('%B %Y'), earliertext='Earlier',
+                      latertext='Later')
 
 
 def listNextMonth(request):
@@ -56,8 +56,17 @@ def season(request, id):
     if id == '0' and request.user.is_authenticated():
         event = Season()
         event.programmer = Programmer.objects.get(user=request.user)
-        event.startDate = date.today()
         event.endDate = date.today()
+        try:
+            year = int(request.GET['year'])
+            month = int(request.GET['month'])
+            if year in range(1970,2050) and month in range(1,13):
+                event.startDate = date(year, month, 1)
+            else:
+                event.startDate = date.today()
+        except:
+            event.startDate = date.today()
+        event.save()
     else:
         event = get_object_or_404(Season, id=id)
     prog = Prog(type=[Film.objects, ], season=event, public=True, approved=True)
@@ -80,8 +89,17 @@ def film(request, id):
         event.director = 'Unknown'
         event.certificate = Rating.objects.get(pk=1)
         event.season = Season.objects.get(pk=2)
-        event.startDate = date.today()
         event.startTime = time(19, 30)
+        try:
+            year = int(request.GET['year'])
+            month = int(request.GET['month'])
+            if year in range(1970,2050) and month in range(1,13):
+                event.startDate = date(year, month, 1)
+            else:
+                event.startDate = date.today()
+        except:
+            event.startDate = date.today()
+        event.save()
     else:
         event = get_object_or_404(Film, id=id)
     if event.season.title == 'None':
@@ -105,9 +123,18 @@ def gig(request, id):
     if id == '0' and request.user.is_authenticated():
         event = Gig()
         event.programmer = Programmer.objects.get(user=request.user)
-        event.startDate = date.today()
         event.startTime = time(19, 30)
         event.endTime = time(19, 30)
+        try:
+            year = int(request.GET['year'])
+            month = int(request.GET['month'])
+            if year in range(1970,2050) and month in range(1,13):
+                event.startDate = date(year, month, 1)
+            else:
+                event.startDate = date.today()
+        except:
+            event.startDate = date.today()
+        event.save()
     else:
         event = get_object_or_404(Gig, id=id)
     return render_to_response('programming/gig.html',
@@ -125,9 +152,18 @@ def event(request, id):
     if id == '0' and request.user.is_authenticated():
         event = Event()
         event.programmer = Programmer.objects.get(user=request.user)
-        event.startDate = date.today()
         event.startTime = time(19, 30)
         event.endTime = time(19, 30)
+        try:
+            year = int(request.GET['year'])
+            month = int(request.GET['month'])
+            if year in range(1970,2050) and month in range(1,13):
+                event.startDate = date(year, month, 1)
+            else:
+                event.startDate = date.today()
+        except:
+            event.startDate = date.today()
+        event.save()
     else:
         event = get_object_or_404(Event, id=id)
     return render_to_response('programming/event.html',
@@ -168,10 +204,19 @@ def meeting(request, id):
     if id == '0' and request.user.is_authenticated():
         event = Meeting()
         event.programmer = Programmer.objects.get(id=183)
-        event.startDate = date.today()
         event.startTime = time(19, 30)
         meetingInFuture = True
         approvalSet = None
+        try:
+            year = int(request.GET['year'])
+            month = int(request.GET['month'])
+            if year in range(1970,2050) and month in range(1,13):
+                event.startDate = date(year, month, 1)
+            else:
+                event.startDate = date.today()
+        except:
+            event.startDate = date.today()
+        event.save()
     else:
         event = get_object_or_404(Meeting, id=id)
         if event.startDateTime > timezone.now():

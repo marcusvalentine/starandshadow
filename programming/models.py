@@ -213,11 +213,11 @@ class Programmer(models.Model, ProgrammeType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'organisation.views.volunteerProfile', (), {'id': self.user.id, }
+        return 'organisation.views.volunteerProfile', (), {'volunteerId': self.user.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'organisation.views.volunteerEdit', (), {'id': self.user.id, }
+        return 'organisation.views.volunteerEdit', (), {'volunteerId': self.user.id, }
 
     @property
     def get_link(self):

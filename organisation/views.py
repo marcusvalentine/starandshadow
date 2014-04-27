@@ -156,22 +156,35 @@ def minutesEdit(request, eventId=None, forMeeting=None):
 
 @login_required
 def minutesAdd(request, forMeeting=None):
-    return minutesView(request, None, forMeeting)
+    minutes = Minutes(meeting=get_object_or_404(Meeting, id=forMeeting))
+    minutes.save()
+    return redirect(reverse('view-minutes', kwargs={'minutesId': minutes.pk}))
 
 
 @login_required
-def minutesView(request, eventId=None, forMeeting=None):
-    if eventId is None:
-        minutes = Minutes(meeting=get_object_or_404(Meeting, id=forMeeting))
-    else:
-        minutes = get_object_or_404(Minutes, id=eventId)
+def minutesView(request, minutesId=None):
+    minutes = get_object_or_404(Minutes, id=minutesId)
     return render_to_response('organisation/minutes.html',
                               {
                                   'maintitle': minutes.listHeading,
-                                  'minutes': minutes,
+                                  'event': minutes,
                               },
                               context_instance=RequestContext(request)
     )
+
+# @login_required
+# def minutesView(request, eventId=None, forMeeting=None):
+#     if eventId is None:
+#         minutes = Minutes(meeting=get_object_or_404(Meeting, id=forMeeting))
+#     else:
+#         minutes = get_object_or_404(Minutes, id=eventId)
+#     return render_to_response('organisation/minutes.html',
+#                               {
+#                                   'maintitle': minutes.listHeading,
+#                                   'minutes': minutes,
+#                               },
+#                               context_instance=RequestContext(request)
+#     )
 
 
 @login_required
@@ -230,7 +243,7 @@ def returnEdit(request, eventId=None, filmId=None):
         if form.is_valid():
             form.save()
             return redirect(
-                reverse('return-report', kwargs={'year': ret.film.start.year, 'month': ret.film.start.month}))
+                reverse('return-report', kwargs={'year': ret.film.startDate.year, 'month': ret.film.startDate.month}))
     else:
         form = BoxOfficeReturnForm(instance=ret)
     return render_to_response('organisation/editReturn.html',
@@ -311,9 +324,9 @@ def volunteerIndex(request):
 
 
 @login_required
-def volunteerEdit(request, eventId):
-    volunteer = get_object_or_404(Programmer, user=eventId)
-    if request.user.is_staff or volunteer.user.id == int(eventId):
+def volunteerEdit(request, volunteerId):
+    volunteer = get_object_or_404(Programmer, user=volunteerId)
+    if request.user.is_staff or volunteer.user.id == int(volunteerId):
         if request.method == 'POST':
             form = ProgrammerForm(request.POST, request.FILES, instance=volunteer)
             if form.is_valid():
@@ -334,8 +347,8 @@ def volunteerEdit(request, eventId):
 
 
 @login_required
-def volunteerProfile(request, eventId):
-    volunteer = get_object_or_404(Programmer, user=eventId)
+def volunteerProfile(request, volunteerId):
+    volunteer = get_object_or_404(Programmer, user=volunteerId)
     prog = Prog(volunteer=volunteer, all=True, reverse=True)
     return render_to_response('organisation/volunteerProfile.html',
                               {
@@ -346,6 +359,9 @@ def volunteerProfile(request, eventId):
                               context_instance=RequestContext(request)
     )
 
+@login_required
+def volunteerMe(request):
+    return volunteerProfile(request, request.user.id)
 
 @login_required
 def changeLog(request):

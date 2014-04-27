@@ -71,6 +71,24 @@ class Page(models.Model):
     def api_list_url(self):
         return '/api/select/page/'
 
+    @property
+    def typeName(self):
+        return 'page'
+
+    @property
+    def api_url(self):
+        return '/api/page/'
+
+    @property
+    def api_model_url(self):
+        return '/api/1/%s/' % self.typeName.lower()
+
+    @property
+    def api_object_url(self):
+        if self.id is None:
+            return '/api/1/%s/' % self.typeName.lower()
+        else:
+            return '/api/1/%s/%s/' % (self.typeName.lower(), self.id)
 
 class News(models.Model):
     class Meta:
@@ -112,16 +130,31 @@ class Document(models.Model):
 
     @models.permalink
     def get_absolute_url(self):
-        return ('ss.content.views.documentView', (), {'id': self.id, })
+        return ('content.views.documentView', (), {'documentId': self.id, })
 
     @models.permalink
     def get_edit_url(self):
-        return ('ss.content.views.documentEdit', (), {'id': self.id, })
+        return ('content.views.documentEdit', (), {'documentId': self.id, })
 
     @property
     def createdDatetime(self):
         return timezone.make_aware(timezone.datetime.combine(self.created, time(0, 0)), tz)
 
     @property
+    def typeName(self):
+        return 'document'
+
+    @property
     def api_url(self):
         return '/api/document/'
+
+    @property
+    def api_model_url(self):
+        return '/api/1/%s/' % self.typeName.lower()
+
+    @property
+    def api_object_url(self):
+        if self.id is None:
+            return '/api/1/%s/' % self.typeName.lower()
+        else:
+            return '/api/1/%s/%s/' % (self.typeName.lower(), self.id)

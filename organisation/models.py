@@ -8,11 +8,11 @@ class Minutes(models.Model):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.organisation.views.minutesView', (), {'id': self.id, }
+        return 'organisation.views.minutesView', (), {'minutesId': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.minutesEdit', (), {'id': self.id, }
+        return 'organisation.views.minutesEdit', (), {'id': self.id, }
 
     def __unicode__(self):
         try:
@@ -25,8 +25,23 @@ class Minutes(models.Model):
         return self.__unicode__()
 
     @property
+    def typeName(self):
+        return 'minutes'
+
+    @property
     def api_url(self):
         return '/api/minutes/'
+
+    @property
+    def api_model_url(self):
+        return '/api/1/%s/' % self.typeName.lower()
+
+    @property
+    def api_object_url(self):
+        if self.id is None:
+            return '/api/1/%s/' % self.typeName.lower()
+        else:
+            return '/api/1/%s/%s/' % (self.typeName.lower(), self.id)
 
 
 class PrintProgramme(models.Model):
@@ -117,7 +132,7 @@ class BoxOfficeReturn(models.Model):
         return '&pound;%s' % self.ticketTake()
 
     def __unicode__(self):
-        return 'Returns for %s %s' % (self.film.title, self.film.displayTime)
+        return 'Returns for %s %s' % (self.film.title, self.film.displayStart)
 
 
 class LogItem(models.Model):

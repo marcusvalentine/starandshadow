@@ -53,10 +53,17 @@ images moved from static/content to static/events and static/import to static/ev
 
 Thoughts:
 
+Add straight from month list.
 landing page should be the "this month" page
 symbols for event types?
 onhover highlighting similar events
 "upcoming highlights" page
+Tooltips for info on "confirmed" and "approved" icons.
+Approvals logic needs finishing.
+
+Make people aware of:
+
+Distinction between Approved and Confirmed.
 
 -----------------------
 

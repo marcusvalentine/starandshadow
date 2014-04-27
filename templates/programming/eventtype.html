@@ -3,16 +3,61 @@
 
 {% block container_classes %} eventtype{% endblock %}
 
-{% block adminarea %}
-    <div id="adminarea">
+{% block adminExtraContentBefore %}
+    <button type="button" id="start_edit" class="btn btn-primary pull-right top-button">
+        <span class="glyphicon glyphicon-edit"></span> Edit
+    </button>
+{% endblock %}
 
-    <header>
-        <h3>Edit {{ event.typeName }}</h3>
-    </header>
+{% block adminarea %}
+    <div id="adminarea" hidden>
 
     <div id="adminform">
 
     <form class="form-horizontal" role="form">{% csrf_token %}
+
+    <div class="form-group">
+        <div class="col-lg-10 col-lg-offset-2">
+            <button type="button" data-bind="click: save" id="save_edit" class="btn btn-success top-button">
+                <span class="glyphicon glyphicon-floppy-save"></span> Save
+            </button>
+            <div id="save_message" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Saved</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Your changes have been successfully saved.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="save_error" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Save Error!</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>An error occurred.  Your changes have not been saved, please try again.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+{#            <button type="button" id="cancel_edit" class="btn btn-warning top-button">#}
+{#                <span class="glyphicon glyphicon-remove"></span> Cancel#}
+{#            </button>#}
+        </div>
+    </div>
 
     <div class="form-group">
 
@@ -138,9 +183,7 @@
         <label for="edit_body" class="col-lg-2 control-label">Body:</label>
 
         <div class="col-lg-4">
-            <button id="edit_body" type="text" class="form-control input-sm">Edit</button>
-            <button hidden id="done_body" type="text" class="form-control input-sm">Done</button>
-            Click "edit" then type directly in the page on the right. Remember to click "save" when finished.
+            Edit body text directly on the page opposite.
         </div>
 
         <label for="edit_picture" class="col-lg-2 control-label">Picture:</label>
@@ -312,52 +355,33 @@
     {% endifequal %}
 
     <div class="form-group">
-        <label for="edit_approval" class="col-lg-2 control-label">Approval:</label>
+
+        <label class="col-lg-2 control-label">Status:</label>
+
+        <div class="col-lg-3">
+            <button
+                    type="button"
+                    data-bind="css: confirmedClass, text: confirmedText, click: toggleConfirmed"
+                    class="btn btn-default btn-sm"
+            >Confirmed?</button>
+        </div>
+
+        <div class="col-lg-3">
+            <button
+                    type="button"
+                    data-bind="css: featuredClass, text: featuredText, click: toggleFeatured"
+                    class="btn btn-default btn-sm"
+            >Featured?</button>
+        </div>
 
         <div class="col-lg-4">
-            <input
-                    id="edit_approval"
-                    name="approval"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: approval, valueUpdate: 'afterkeydown'"
-                    />
+            <button
+                    type="button"
+                    data-bind="css: privateClass, text: privateText, click: togglePrivate"
+                    class="btn btn-default btn-sm"
+            >Private?</button>
         </div>
-        <label for="edit_confirmed" class="col-lg-2 control-label">Confirmed:</label>
 
-        <div class="col-lg-4">
-            <input
-                    id="edit_confirmed"
-                    name="confirmed"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: confirmed, valueUpdate: 'afterkeydown'"
-                    />
-        </div>
-    </div>
-    <div class="form-group">
-        <label for="edit_private" class="col-lg-2 control-label">Private:</label>
-
-        <div class="col-lg-4">
-            <input
-                    id="edit_private"
-                    name="private"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: private, valueUpdate: 'afterkeydown'"
-                    />
-        </div>
-        <label for="edit_featured" class="col-lg-2 control-label">Featured:</label>
-
-        <div class="col-lg-4">
-            <input
-                    id="edit_featured"
-                    name="featured"
-                    type="text"
-                    class="form-control input-sm"
-                    data-bind="value: featured, valueUpdate: 'afterkeydown'"
-                    />
-        </div>
     </div>
 
     {% if event.typeName == 'Gig' or event.typeName == 'Event' %}
@@ -395,9 +419,6 @@
 
     </form>
     </div>
-    <footer>
-        <button id="deletebutton" data-bind="click: deleteEvent, valueUpdate: 'afterkeydown'">Delete</button>
-        <button id="savebutton" data-bind="click: save">Save</button>
-    </footer>
+
     </div>
 {% endblock %}

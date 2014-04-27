@@ -1,20 +1,5 @@
 {% extends "normal.html" %}
 
-{% block buttonbar %}
-
-    <p>
-        <button onclick="parent.location='{% url "show-season" id=0 %}'">Add Season</button>
-        <button onclick="parent.location='{% url "show-film" id=0 %}'">Add Film</button>
-        <button onclick="parent.location='{% url "show-gig" id=0 %}'">Add Gig</button>
-    <p>
-    </p>
-    <button onclick="parent.location='{% url "show-event" id=0 %}'">Add Event</button>
-    <button onclick="parent.location='{% url "show-festival" id=0 %}'">Add Festival</button>
-    <button onclick="parent.location='{% url "show-meeting" id=0 %}'">Add Meeting</button>
-    </p>
-
-{% endblock %}
-
 {% block centralContent %}
 
     {% if maintitle %}

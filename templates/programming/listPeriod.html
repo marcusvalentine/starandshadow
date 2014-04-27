@@ -3,15 +3,17 @@
 
 {% block extraContentBefore %}
 
-{#    <p class="feedbutton">#}
-{#        <a href="#" class="button radius small" id="viewprintprogramme" data-year="{{ cal.startDate.year }}"#}
-{#           data-month="{{ cal.startDate.month }}">#}
-{#            <img#}
-{#                    alt="PDF Brochure"#}
-{#                    src="/static/img/content/application-pdf-24x24.png"#}
-{#                    data-interchange="[/static/img/content/application-pdf-24x24.png, (default)], [/static/img/content/application-pdf-32x32.png, (large)]"#}
-{#                    >Brochure#}
-{#        </a>#}
+    <header class="text-center"><h1>{{ maintitle|title }}</h1></header>
+
+{#    <p class="pull-right" style="padding: 5px 0">#}
+        {#        <a href="#" class="button radius small" id="viewprintprogramme" data-year="{{ cal.startDate.year }}"#}
+        {#           data-month="{{ cal.startDate.month }}">#}
+        {#            <img#}
+        {#                    alt="PDF Brochure"#}
+        {#                    src="/static/img/content/application-pdf-24x24.png"#}
+        {#                    data-interchange="[/static/img/content/application-pdf-24x24.png, (default)], [/static/img/content/application-pdf-32x32.png, (large)]"#}
+        {#                    >Brochure#}
+        {#        </a>#}
 {#        <a href="feed/" class="button radius small">#}
 {#            <img#}
 {#                    alt="RSS"#}
@@ -20,8 +22,6 @@
 {#                    >RSS#}
 {#        </a>#}
 {#    </p>#}
-
-    <header class="text-center"><h1>{{ maintitle|title }}</h1></header>
 
     <ul class="pager">
         <li><a href="{{ cal.previous.onUrl }}">&laquo; {{ earliertext|default:"Earlier" }}</a></li>

@@ -20,6 +20,8 @@ def sanitize(value):
     #value = oldstyle.sub(r'<strong>\1</strong>', value)
     #oldstyle = re.compile(r'<i>(.*?)</i>', re.MULTILINE | re.IGNORECASE)
     #value = oldstyle.sub(r'<em>\1</em>', value)
+    styletag = re.compile(r'<style(.*?)</style>', re.MULTILINE | re.IGNORECASE)
+    value = styletag.sub(r'', value)
     tags = [
         'div',
         'span',
@@ -209,6 +211,17 @@ MDPROPS = {
     'gigs': '',
     'events': '',
     'festivals': '',
+    # docs:
+    'author': 'author',
+    'source': 'author',
+    'created': 'dateCreated',
+    'articleBody': 'articleBody',
+    # minutes:
+    'meeting': 'title',
+    # pages
+    'slug': '',
+    'parent': '',
+    'order': '',
 }
 
 
@@ -229,18 +242,26 @@ def md_meta(event, fieldName=None):
 @register.filter
 def md(event, fieldName=None):
     if fieldName is None:
+        if event.typeName == 'document' or event.typeName == 'minutes':
+            itemtype = 'http://schema.org/Article'
+            itemtypeclass = 'documenttype'
+        else:
+            itemtype = 'http://schema.org/Event'
+            itemtypeclass = 'eventtype'
         return mark_safe(
             '''<div '''
             '''id="%s-%s" '''
-            '''class="eventtype editthis" '''
+            '''class="%s editthis" '''
             '''itemscope '''
-            '''itemtype="http://schema.org/Event" '''
+            '''itemtype="%s" '''
             '''data-modeltype="%s" '''
             '''data-modelid="%s" '''
             '''data-apiobjecturl="%s">'''
             % (
                 event.typeName.lower(),
                 event.id,
+                itemtypeclass,
+                itemtype,
                 event.typeName,
                 event.id,
                 event.api_object_url,
@@ -309,13 +330,14 @@ def md(event, fieldName=None):
                 ))
         elif fieldName == 'summary':
             return ''
-        elif fieldName == 'body':
+        elif fieldName == 'body' or fieldName == 'articleBody':
             return mark_safe(
                 '''<div class="%s"%s data-fieldname="body" data-bind="htmlValue:body">%s</div>'''
                 % (
                     fieldName,
                     itemprop,
-                    event.body
+                    #event.body,
+                    sanitize(event.body),
                 ))
         elif fieldName == 'director':
             return mark_safe(
@@ -360,11 +382,23 @@ def md(event, fieldName=None):
                     'selectedLabel' + fieldName,
                     getattr(event, fieldName),
                 ))
+        elif fieldName == 'meeting':
+            return mark_safe(
+                '''Minutes of <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a>'''
+                % (
+                    getattr(event, fieldName).get_absolute_url(),
+                    fieldName,
+                    itemprop + ' itemscope itemtype="http://schema.org/Event"',
+                    'selectedLink' + fieldName,
+                    'selectedLabel' + fieldName,
+                    event.meeting.longHeading,
+                ))
         elif fieldName == 'picture':
             if event.picture is None:
                 event.picture = Picture.objects.get(id=789)
             return mark_safe(
                 '''<img class="%s pull-right img-responsive"%s'''
+                ''' data-fieldname="picture"'''
                 ''' src="%s"'''
                 ''' width="%s"'''
                 ''' height="%s"'''
@@ -431,12 +465,15 @@ def md(event, fieldName=None):
         elif fieldName == 'festivals':
             return ''
         else:
-            return mark_safe(
-                '''<span class="%s"%s data-bind="text:%s">%s</span>'''
-                % (
-                    fieldName,
-                    itemprop,
-                    fieldName,
-                    getattr(event, fieldName),
-                ))
+            try:
+                return mark_safe(
+                    '''<span class="%s"%s data-bind="text:%s">%s</span>'''
+                    % (
+                        fieldName,
+                        itemprop,
+                        fieldName,
+                        getattr(event, fieldName),
+                    ))
+            except AttributeError:
+                return mark_safe('''<span>Error</span>''')
 

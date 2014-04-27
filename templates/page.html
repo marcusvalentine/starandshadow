@@ -1,47 +1,18 @@
-{% extends "normal.html" %}
+{% extends "content/documenttype.html" %}
 {% load programme_filters %}
-
-{% block buttonbar %}
-    <div class="balloon buttonbar">
-        Modify:
-        <button id="deletebutton">Delete</button>
-        <button id="savebutton" disabled>Save</button>
-        <button id="editbutton">Edit</button>
-    </div>
-{% endblock %}
 
 {% block centralContent %}
 
-    <div class="editthis" itemscope itemtype="http://schema.org/Thing" data-apiurl="/api/page/"
-         data-modeltype="Page" data-modelid="{{ page.id }}">
+    {{ event|md }}
+    <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
 
-        <header>
-            <h1>
-                <span itemprop="name" data-modelfield="title" data-fieldtype="CharField">{{ maintitle|title }}</span>
-            </h1>
-        </header>
+    <header>
+        <h1>{{ event|md:"title" }}</h1>
+    </header>
 
-        <table data-whileediting="show" hidden>
-            <tbody>
-            <tr>
-                <td>Slug:</td>
-                <td><span data-modelfield="linkText" data-fieldtype="CharField">{{ page.linkText }}</span></td>
-            </tr>
-            <tr>
-                <td>Parent:</td>
-                <td><span data-modelfield="parent" data-fieldtype="ForeignKey" data-fieldvalue="{{ page.parent.id }}"
-                          data-fieldapiurl="{{ page.parent.api_list_url }}">{{ page.parent }}</span></td>
-            </tr>
-            <tr>
-                <td>Order:</td>
-                <td><span data-modelfield="order" data-fieldtype="CharField">{{ page.order }}</span></td>
-            </tr>
-            </tbody>
-        </table>
-
-        <div class="bodysection">
-            <div class="body" data-modelfield="body" data-fieldtype="TextField">{{ page.body|sanitize }}</div>
-        </div>
+    <div class="bodysection">
+        {{ event|md:'articleBody' }}
+    </div>
 
     </div>
 

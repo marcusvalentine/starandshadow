@@ -218,11 +218,9 @@ def contentChanged(sender, **kwargs):
         changetype = 'added'
     else:
         changetype = 'modified'
-    available_versions = Version.objects.get_for_object(item)
-    try:
-        editing_user = available_versions[len(available_versions) - 1].revision.user.username
-    except (IndexError, AssertionError):
-        editing_user = "unknown"
+    editing_user = CurrentUser().programmer
+    if editing_user is None:
+        editing_user = 'unknown'
     l = LogItem(logtext='%s %s by %s.' % (item._meta.object_name, changetype, editing_user))
     l.save()
     message = '''%s "%s" has been %s on the website by %s.
@@ -235,7 +233,7 @@ def contentChanged(sender, **kwargs):
     send_mail('Website Change: "%s", %s' % (item, changetype, ),
               message,
               'info@starandshadow.org.uk',
-              ['sjk@psimonkey.org.uk'],
+              [settings.NOTIFICATIONS_RECIPIENT, ],
               fail_silently=False,
     )
 

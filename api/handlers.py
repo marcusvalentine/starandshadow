@@ -25,8 +25,10 @@ class SelectProgrammerResource(ModelResource):
 
 
 class SelectMeetingResource(ModelResource):
+    title = fields.CharField(attribute='longHeading', default="ERROR")
+
     class Meta:
-        queryset = Meeting.objects.all().order_by('start')
+        queryset = Meeting.objects.all().order_by('startDate')
         fields = ['title', 'id']
         include_absolute_url = True
         allowed_methods = ['get', ]
@@ -100,7 +102,7 @@ class SelectMenuResource(ModelResource):
 
 
 class PageResource(ModelResource):
-    menu = fields.ForeignKey(SelectMenuResource, 'menu')
+    menu = fields.ForeignKey(SelectMenuResource, 'menu', null=True)
 
     class Meta:
         queryset = Page.objects.all()
@@ -111,7 +113,7 @@ class PageResource(ModelResource):
 class SeasonResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Season.objects.all()
@@ -124,7 +126,7 @@ class FilmResource(ModelResource):
     season = fields.ForeignKey(SelectSeasonResource, 'season')
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Film.objects.all()
@@ -135,7 +137,7 @@ class FilmResource(ModelResource):
 class GigResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Gig.objects.all()
@@ -146,7 +148,7 @@ class GigResource(ModelResource):
 class EventResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Event.objects.all()
@@ -157,7 +159,7 @@ class EventResource(ModelResource):
 class FestivalResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
     films = fields.ManyToManyField(FilmResource, 'films')
     gigs = fields.ManyToManyField(GigResource, 'events')
     events = fields.ManyToManyField(EventResource, 'events')
@@ -170,7 +172,7 @@ class FestivalResource(ModelResource):
 
 class MeetingResource(ModelResource):
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Meeting.objects.all()
@@ -178,13 +180,13 @@ class MeetingResource(ModelResource):
         authorization = Authorization()
 
 
-class MinutesResource(ModelResource):
-    meeting = fields.ForeignKey(MeetingResource, 'meeting')
-
-    class Meta:
-        queryset = Minutes.objects.all()
-        authentication = SessionAuthentication()
-        authorization = Authorization()
+# class MinutesResource(ModelResource):
+#     meeting = fields.ForeignKey(MeetingResource, 'meeting')
+#
+#     class Meta:
+#         queryset = Minutes.objects.all()
+#         authentication = SessionAuthentication()
+#         authorization = Authorization()
 
 
 class DocumentResource(ModelResource):
@@ -195,8 +197,10 @@ class DocumentResource(ModelResource):
 
 
 class MinutesResource(ModelResource):
+    meeting = fields.ForeignKey(MeetingResource, 'meeting')
+
     class Meta:
-        queryset = Picture.objects.all()
+        queryset = Minutes.objects.all()
         authentication = SessionAuthentication()
         authorization = Authorization()
 

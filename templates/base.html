@@ -11,20 +11,22 @@
     <title>The Star And Shadow Cinema{% block extraTitle %}{% endblock %}</title>
     <meta name="description" content="The Star And Shadow Cinema">
     <meta name="author" content="The Star And Shadow Cinema">
-    <link rel="stylesheet/less" type="text/css" href="{% static 'less/main.less' %}"/>
+    <link rel="stylesheet/less" type="text/css" href="{% static 'less/main.less' %}#!watch"/>
+    {% if cal %}<link rel="alternate" type="application/rss+xml" title="RSS" href="feed/" />{% endif %}
     <script type="text/javascript">
         less = {
-            env: "development"
+            env: "development", // or "production"
+            async: false,       // load imports async
+            fileAsync: false,   // load imports async when in a page under
+            // a file protocol
+            poll: 1000         // when in watch mode, time in ms between polls
         };
     </script>
-    <script src="/static/js/less-1.4.1.min.js" type="text/javascript"></script>
-    {#            <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>#}
-    {#            <link href="/static/js/libs/fineuploader-3.0/fineuploader.css" rel="stylesheet" type="text/css"/>#}
-{#    <link href="/static/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.css" rel="stylesheet" type="text/css"/>#}
+    <script src="/static/js/less-1.5.0.min.js" type="text/javascript"></script>
 </head>
 {% if authenticated %}
     <body class="authenticated">
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -32,7 +34,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">{{ user|title }}</a>
+            <a class="navbar-brand" href="#">S&S</a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
@@ -53,9 +55,11 @@
                 {% li_menu_item "url:return-index" "Box Office Returns" %}
                 {% li_menu_item "url:volunteerIndex" "Volunteers" %}
                 {% li_menu_item "url:change-log" "Log" %}
-                {% li_menu_item "url:volunteerIndex" "My Profile" %}
+                {% li_menu_item "url:volunteerMe" "My Profile" %}
                 {% li_menu_item "url:logout" "Log Out" %}
+
             </ul>
+            <p class="navbar-text pull-right">Signed in as {{ user | title }}</p>
         </div>
     </nav>
     {% block adminarea %}
@@ -106,6 +110,7 @@
             {% block leftPortlets %}{% endblock %}
         </div>
         <div id="main" role="main" class="col-md-10">
+            {% if authenticated %}{% block adminExtraContentBefore %}{% endblock %}{% endif %}
             {% block extraContentBefore %}{% endblock %}
             {% block centralContent %}{% endblock %}
             {% block extraContentAfter %}{% endblock %}
@@ -113,14 +118,15 @@
     </div>
 </div>
 <script src="/static/js/jquery-1.10.2.min.js"></script>
+<script src="/static/js/jquery.mb.browser.min.js"></script>
+<script src="/static/js/jquery.webkitresize.nonifrm.js"></script>
 <script src="/static/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
 <script src="/static/js/knockout-2.2.1.js"></script>
 <script src="/static/js/knockout.mapping-2.4.1.js"></script>
 <script src="/static/js/respond.min.js"></script>
-{#<script src="/static/js/libs/fineuploader-3.0/jquery.fineuploader-3.0.min.js"></script>#}
+<script src="/static/fineuploader-3.0/jquery.fineuploader-3.0.min.js"></script>
 <script src="/static/jquery.contenteditable/jquery.contenteditable/jquery.contenteditable.js"></script>
 <script src="/static/jquery.contenteditable/jquery.contenteditable/shortcut.js"></script>
-{#<script src="/static/js/jquery.webkitresize.nonifrm.js"></script>#}
 <script src="/static/js/moment.min.js"></script>
 <script src="/static/js/user.js"></script>
 <script src="/static/js/admin.js"></script>
