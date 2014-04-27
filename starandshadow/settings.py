@@ -121,13 +121,26 @@ AUTH_PROFILE_MODULE = 'programming.Programmer'
 FIXTURE_DIRS = [
     os.path.join(PROJECT_ROOT, 'fixtures'),
 ]
-
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'compressor.finders.CompressorFinder',
+)
 STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
 STATIC_URL = '/static/'
 
-COMPRESS_ENABLED = not DEBUG
+#COMPRESS_ENABLED = not DEBUG
+COMPRESS_ENABLED = True
+COMPRESS_PRECOMPILERS = (
+    ('text/coffeescript', 'coffee --compile --stdio'),
+    ('text/less', 'lessc {infile} {outfile}'),
+    ('text/x-sass', 'sass {infile} {outfile}'),
+    ('text/x-scss', 'sass --scss {infile} {outfile}'),
+    ('text/stylus', 'stylus < {infile} > {outfile}'),
+    ('text/foobar', 'path.to.MyPrecompilerFilter'),
+)
 
 INSTALLED_APPS = (
     'django.contrib.auth',

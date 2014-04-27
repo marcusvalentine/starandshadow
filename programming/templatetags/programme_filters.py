@@ -76,7 +76,7 @@ def sanitize(value):
         del (mso['class'])
     for tag in soup.findAll(
             lambda tag: (tag.name == 'span' or tag.name == 'p' or tag.name == 'div') and tag.find(True) is None and (
-                        tag.string is None or tag.string.strip() == '')):
+                            tag.string is None or tag.string.strip() == '')):
         tag.extract()
     value = soup.renderContents().decode('utf8')
     dotty = re.compile(r'\.{2,}', re.MULTILINE | re.IGNORECASE)
@@ -86,99 +86,6 @@ def sanitize(value):
     starry = re.compile(r'\*{1,}([^\*]*)\*{1,}', re.MULTILINE | re.IGNORECASE)
     value = starry.sub(r'<strong>\1</strong>', value)
     return mark_safe(value)
-
-
-@register.filter
-def microdatafield(event, field=None):
-    if field is None:
-        return mark_safe('''<div
-    id="%s-%s"
-    class="eventtype editthis"
-    itemscope
-    itemtype="http://schema.org/Event"
-    data-modeltype="%s"
-    data-modelid="%s"
-    data-apiobjecturl="%s">''' % (
-            event.typeName.lower(),
-            event.id,
-            event.typeName,
-            event.id,
-            event.api_object_url)
-        )
-    elif field == 'picture':
-        if not event.picture:
-            event.picture = Picture.objects.get(id=789)
-        im = get_thumbnail(event.picture, "400")
-        return mark_safe(
-            '''<img '''
-            '''class="pull-right" '''
-            '''itemprop="image" '''
-            '''data-modelfield="picture" '''
-            '''data-field-type="ForeignKeyPicture" '''
-            '''data-field-value="%s" '''
-            '''data-field-apiobjecturl="%s" '''
-            '''data-field-apilisturl="%s" '''
-            '''src="%s" '''
-            '''data-src="%s" '''
-            '''data-width="%s" '''
-            '''data-height="%s" '''
-            '''alt="%s" '''
-            '''width="%s" '''
-            '''height="%s" '''
-            '''>''' % (
-                event.picture.id,
-                event.picture.api_object_url,
-                event.picture.api_list_url,
-                im.url,
-                event.picture.get_img_url,
-                event.picture.file.width,
-                event.picture.file.height,
-                event.picture.slug,
-                im.width,
-                im.height,
-            ))
-    elif field == 'season':
-        return mark_safe(
-            '''<span '''
-            '''data-modelfield="season" '''
-            '''data-field-type="ForeignKey" '''
-            '''data-field-value="%s" '''
-            '''data-field-apiobjecturl="%s" '''
-            '''data-field-apilisturl="%s" '''
-            '''>'''
-            '''<a itemprop="url" href="%s"><span itemprop="name">%s</span></a>'''
-            '''</span>'''
-            % (
-                event.season.id,
-                event.season.api_object_url,
-                event.season.api_list_url,
-                event.season.get_absolute_url(),
-                event.season,
-            ))
-    elif field == 'startDate':
-        return mark_safe(
-            '''<span '''
-            '''data-modelfield="startDate" '''
-            '''data-field-type="DateField" '''
-            '''data-field-value="%s"'''
-            '''>%s</span>'''
-            % (
-                event.startDate,
-                event.startDate,
-            ))
-    elif field == 'startTime':
-        return mark_safe(
-            '''<span '''
-            '''data-modelfield="startTime" '''
-            '''data-field-type="TimeField" '''
-            '''data-field-value="%s"'''
-            '''>%s</span>'''
-            % (
-                date_format(event.startTime, "SHORT_TIME_FORMAT"),
-                date_format(event.startTime, "SHORT_TIME_FORMAT"),
-            ))
-    else:
-        return ""
 
 
 MDPROPS = {

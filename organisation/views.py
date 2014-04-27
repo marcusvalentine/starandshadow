@@ -172,20 +172,6 @@ def minutesView(request, minutesId=None):
                               context_instance=RequestContext(request)
     )
 
-# @login_required
-# def minutesView(request, eventId=None, forMeeting=None):
-#     if eventId is None:
-#         minutes = Minutes(meeting=get_object_or_404(Meeting, id=forMeeting))
-#     else:
-#         minutes = get_object_or_404(Minutes, id=eventId)
-#     return render_to_response('organisation/minutes.html',
-#                               {
-#                                   'maintitle': minutes.listHeading,
-#                                   'minutes': minutes,
-#                               },
-#                               context_instance=RequestContext(request)
-#     )
-
 
 @login_required
 def minutesList(request):

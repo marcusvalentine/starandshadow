@@ -5,7 +5,6 @@ from api.handlers import *
 from registration.signals import user_activated
 from django.dispatch import receiver
 from programming.models import Programmer
-#from programming.views import listHome
 import os
 from django.conf import settings
 
@@ -86,13 +85,6 @@ urlpatterns += patterns(
         name='month-report-text'),
     url(r'^org/on/(?P<year>\d{4})/(?P<month>\d{1,2})/?$', 'monthReport', name='month-report'),
 
-    # url(r'^org/on/season/(?P<id>\d+/?)?$', 'seasonEdit', name='edit-season'),
-    # url(r'^org/on/film/(?P<id>\d+/?)?$', 'filmEdit', name='edit-film'),
-    # url(r'^org/on/gig/(?P<id>\d+/?)?$', 'gigEdit', name='edit-gig'),
-    # url(r'^org/on/event/(?P<id>\d+/?)?$', 'eventEdit', name='edit-event'),
-    # url(r'^org/on/festival/(?P<id>\d+/?)?$', 'festivalEdit', name='edit-festival'),
-    # url(r'^org/on/meeting/(?P<id>\d+/?)?$', 'meetingEdit', name='edit-meeting'),
-
     url(r'^org/on/?$', 'reportIndex', name='report-index'),
 
     url(r'^org/returns/(?P<year>\d{4})/(?P<month>\d{1,2})/?$', 'returnReport',
@@ -108,12 +100,6 @@ urlpatterns += patterns(
     url(r'^org/minutes/add/(?P<forMeeting>\d+)/?$', 'minutesAdd', name='add-minutes'),
     url(r'^org/minutes/(?P<minutesId>\d+/?)$', 'minutesView', name='view-minutes'),
 
-    #url(r'^org/minutes/?$', 'minutesList', name='list-minutes'),
-    #url(r'^org/minutes/edit/(?P<forMeeting>\d+)/?$', 'minutesAdd', name='add-minutes'),
-    #url(r'^org/minutes/(?P<id>\d+)?/edit/?$', 'minutesEdit', name='edit-minutes'),
-    #url(r'^org/minutes/(?P<id>\d+/?)$', 'minutesView', name='view-minutes'),
-
-    # url(r'^org/who/(?P<volunteerId>\d+)/edit/?$', 'volunteerEdit', name='volunteerEdit'),
     url(r'^org/who/(?P<volunteerId>\d+)/?$', 'volunteerProfile', name='volunteerProfile'),
     url(r'^org/who/me/?$', 'volunteerMe', name='volunteerMe'),
     url(r'^org/who/?$', 'volunteerIndex', name='volunteerIndex'),
@@ -121,11 +107,8 @@ urlpatterns += patterns(
 urlpatterns += patterns(
     'content.views',
     url(r'^work/review/?$', 'documentList', name='list-document'),
-    #url(r'^work/review/edit/?$', 'documentEdit', name='add-document'),
-    #url(r'^work/review/(?P<documentId>\d+)?/edit/?$', 'documentEdit', name='edit-document'),
     url(r'^work/review/add/?$', 'documentAdd', name='add-document'),
     url(r'^work/review/(?P<documentId>\d+)/?$', 'documentView', name='view-document'),
     (r'^(?P<linkText>[\w\/-]+)/?$', 'page'),
     (r'^/?$', 'page'),
-    #(r'^/?$', listHome),
 )
