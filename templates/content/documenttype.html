@@ -1,0 +1,187 @@
+{% extends "normal.html" %}
+{% load thumbnail %}
+
+{% block container_classes %} documenttype{% endblock %}
+
+{% block adminExtraContentBefore %}
+    <button type="button" id="start_edit" class="btn btn-primary pull-right top-button">
+        <span class="glyphicon glyphicon-edit"></span> Edit
+    </button>
+{% endblock %}
+
+{% block adminarea %}
+    <div id="adminarea" hidden>
+
+    <div id="adminform">
+
+    <form class="form-horizontal" role="form">{% csrf_token %}
+
+    <div class="form-group">
+        <div class="col-lg-10 col-lg-offset-2">
+            <button type="button" data-bind="click: save" id="save_edit" class="btn btn-success top-button">
+                <span class="glyphicon glyphicon-floppy-save"></span> Save
+            </button>
+            <div id="save_message" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Saved</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Your changes have been successfully saved.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="save_error" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Save Error!</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>An error occurred.  Your changes have not been saved, please try again.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+{#            <button type="button" id="cancel_edit" class="btn btn-warning top-button">#}
+{#                <span class="glyphicon glyphicon-remove"></span> Cancel#}
+{#            </button>#}
+        </div>
+    </div>
+
+    {% if event.typeName == 'document' %}
+
+    <div class="form-group">
+
+        <label for="edit_title" class="col-lg-2 control-label">Title:</label>
+
+        <div class="col-lg-10">
+            <input
+                    id="edit_title"
+                    name="title"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: title, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_author" class="col-lg-2 control-label">Author:</label>
+
+        <div class="col-lg-10">
+            <input
+                    id="edit_author"
+                    name="author"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: author, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_startDate" class="col-lg-2 control-label">Created:</label>
+
+        <div class="col-lg-4">
+            <input
+                    id="edit_created"
+                    name="created"
+                    type="date"
+                    class="form-control input-sm"
+                    data-bind="value: created, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_summary" class="col-lg-2 control-label">Summary:</label>
+
+        <div class="col-lg-10">
+            <textarea
+                    id="edit_summary"
+                    name="summary"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: summary, valueUpdate: 'afterkeydown'"
+                    rows="5"
+                    cols="65"
+                    >
+            </textarea>
+        </div>
+
+    </div>
+
+    {% elif event.typeName == 'minutes' %}
+
+    <div class="form-group">
+
+        <label for="edit_programmer" class="col-lg-2 control-label">Meeting:</label>
+
+        <div class="col-lg-10">
+            <select
+                    id="edit_meeting"
+                    name="meeting"
+                    type="text"
+                    class="form-control input-sm"
+                    data-fieldapiurl="{{ event.meeting.api_list_url }}"
+                    data-fieldname="meeting"
+                    data-fieldvalue="{{ event.meeting.id }}"
+                    data-bind="options: selectmeeting, optionsText: 'title', optionsValue: 'id', value: selectedmeeting"
+                    >
+            </select>
+        </div>
+
+    </div>
+
+    {% elif event.typeName == 'page' %}
+
+    <div class="form-group">
+
+        <label for="edit_title" class="col-lg-2 control-label">Title:</label>
+
+        <div class="col-lg-10">
+            <input
+                    id="edit_title"
+                    name="title"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: title, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+    </div>
+
+    {% endif %}
+
+    <div class="form-group">
+
+        <label for="edit_body" class="col-lg-2 control-label">Body:</label>
+
+        <div class="col-lg-4">
+            Edit body text directly on the page opposite.
+        </div>
+
+    </div>
+
+    </form>
+    </div>
+
+    </div>
+{% endblock %}
