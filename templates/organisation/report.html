@@ -3,25 +3,34 @@
 {% block centralContent %}
 
     {% if maintitle %}
-        <header><h1>{{ maintitle|title }}</h1></header>{% endif %}
+        <header class="text-center"><h1>{{ maintitle|title }}</h1></header>
+    {% endif %}
 
-    <p>
-        <a class="button" href="{% url "month-report" year=cal.previousMonth.year month=cal.previousMonth.month %}">&laquo; {{ cal.previousMonth|date:"F Y" }}</a>&nbsp;
-        <a class="button" href="{% url "month-report" year=cal.nextMonth.year month=cal.nextMonth.month %}">{{ cal.nextMonth|date:"F Y" }} &raquo;</a>
-    </p>
+    <ul class="pager">
+        <li><a class="button" href="{% url "month-report" year=cal.previousMonth.year month=cal.previousMonth.month %}">&laquo; {{ cal.previousMonth|date:"F Y" }}</a></li>
+        <li><a class="button" href="{% url "month-report" year=cal.nextMonth.year month=cal.nextMonth.month %}">{{ cal.nextMonth|date:"F Y" }} &raquo;</a></li>
+    </ul>
+
+    <ul class="pager">
+        <li><a class="button" href="{% url "show-film" id=0 %}?year={{ cal.startDate.year }}&month={{ cal.startDate.month }}">Add Film</a></li>
+        <li><a class="button" href="{% url "show-gig" id=0 %}?year={{ cal.startDate.year }}&month={{ cal.startDate.month }}">Add Gig</a></li>
+        <li><a class="button" href="{% url "show-event" id=0 %}?year={{ cal.startDate.year }}&month={{ cal.startDate.month }}">Add Event</a></li>
+        <li><a class="button" href="{% url "show-season" id=0 %}?year={{ cal.startDate.year }}&month={{ cal.startDate.month }}">Add Season</a></li>
+{#        <li><a class="button" href="{% url "show-meeting" id=0 %}?year={{ cal.startDate.year }}&month={{ cal.startDate.month }}">Add Meeting</a></li>#}
+    </ul>
 
     <!-- <p><a href="{% url "month-report" year=cal.startDate.year month=cal.startDate.month %}">View as plain text</a></p> -->
 
-    <table class="report">
+    <table class="table table-bordered table-condensed">
         <thead>
         <tr>
-            <th style="width: 75px;">Date</th>
+            <th style="width: 90px;">Date</th>
             <th style="width: 30px;">Day</th>
             <th style="width: 38px;">Start</th>
             <th style="width: 52px;">Type</th>
             <th>Title</th>
             <th style="width: 73px;">Confirmed</th>
-            <th style="width: 73px;">Approved</th>
+{#            <th style="width: 73px;">Approved</th>#}
         </tr>
         </thead>
         <tbody>
@@ -40,11 +49,11 @@
                     {% else %}
                         <img src="/static/icon_error.gif" height="16" width="16" alt="no"/>
                     {% endif %}</td>
-                    <td style="text-align: center;">{% if event.approved %}
-                        <img src="/static/icon_success.gif" height="16" width="16" alt="yes"/>
-                    {% else %}
-                        <img src="/static/icon_error.gif" height="16" width="16" alt="no"/>
-                    {% endif %}</td>
+{#                    <td style="text-align: center;">{% if event.approved %}#}
+{#                        <img src="/static/icon_success.gif" height="16" width="16" alt="yes"/>#}
+{#                    {% else %}#}
+{#                        <img src="/static/icon_error.gif" height="16" width="16" alt="no"/>#}
+{#                    {% endif %}</td>#}
                 </tr>
             {% empty %}
                 <tr class="{{ day|date:"D" }}">
@@ -54,7 +63,7 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
+{#                    <td></td>#}
                 </tr>
             {% endfor %}
         {% endfor %}

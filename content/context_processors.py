@@ -1,19 +1,19 @@
-from ss.content.models import Menu
+from content.models import Menu
 from django.contrib import messages
 
 
 def menus(request):
     menus = ''
-    menus += '''<section>
-    <header class="smallscreen"><h3>About Us</h3></header>
-    <ul>
+    menus += '''<section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
         %s
         <li><a href="/accounts/login/">Login</a></li>
     </ul>
 </section>''' % Menu.objects.get(id=2).asLi()
-    menus += '''<section>
+    menus += '''<section class="row">
     <header><h3>What's On</h3></header>
-    <ul>
+    <ul class="nav nav-list">
         <li><a href="/on/today/">Today</a></li>
         <li><a href="/on/thisweek/">This Week</a></li>
         <li><a href="/on/nextweek/">Next Week</a></li>

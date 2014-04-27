@@ -8,15 +8,13 @@
     {% endif %}
 
     {% for volunteer in volunteers %}
-        <section class="mod dmod clickable {% cycle 'boxb' 'boxa' as boxy %}" data-href="{{ volunteer.get_absolute_url }}">
-            <div class="imgleft sq smallscreen">
+        <section class="row mod dmod clickable {% cycle 'boxb' 'boxa' as boxy %}" data-href="{{ volunteer.get_absolute_url }}">
+            <div class="pull-left sq smallscreen">
                 {% thumbnail volunteer.photo "50x50" crop='center' as im %}
-                    <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
+                    <img class="img-responsive visible-xs" alt="{{ volunteer.name }}" src="{{ im.url }}"/>
                 {% endthumbnail %}
-            </div>
-            <div class="imgleft sq largescreen">
                 {% thumbnail volunteer.photo "150x150" crop='center' as im %}
-                    <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
+                    <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
                 {% endthumbnail %}
             </div>
             <h1>{{ volunteer.name }}</h1>

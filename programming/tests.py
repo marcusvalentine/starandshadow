@@ -1,6 +1,6 @@
-from django.utils import unittest, timezone
+from django.utils import unittest
 import datetime
-from ss.lib.utils import ssDate
+from lib.utils import ssDate
 
 
 class MonthTestCase(unittest.TestCase):
@@ -79,14 +79,22 @@ class MonthTestCase(unittest.TestCase):
 
 class MonthDatetimeTestCase(MonthTestCase):
     def setUp(self):
-        self.january = ssDate(datetime.datetime(2011, 01, 12, 14, 23, 01, 50))# year='2011', month='01', day='12', size='month')
-        self.february = ssDate(datetime.datetime(2011, 02, 12, 14, 23, 01, 50))# year='2011', month='02', day='12', size='month')
-        self.earlymarch = ssDate(datetime.datetime(2011, 03, 05, 14, 23, 01, 50))# year='2011', month='03', day='05', size='month')
-        self.latemarch = ssDate(datetime.datetime(2011, 03, 31, 14, 23, 01, 50))# year='2011', month='03', day='31', size='month')
-        self.july = ssDate(datetime.datetime(2011, 07, 12, 14, 23, 01, 50))# year='2011', month='07', day='12', size='month')
-        self.earlyoctober = ssDate(datetime.datetime(2011, 10, 10, 14, 23, 01, 50))# year='2011', month='10', day='10', size='month')
-        self.lateoctober = ssDate(datetime.datetime(2011, 10, 31, 14, 23, 01, 50))# year='2011', month='10', day='31', size='month')
-        self.november = ssDate(datetime.datetime(2011, 11, 12, 14, 23, 01, 50))# year='2011', month='11', day='12', size='month')
+        self.january = ssDate(
+            datetime.datetime(2011, 01, 12, 14, 23, 01, 50))  # year='2011', month='01', day='12', size='month')
+        self.february = ssDate(
+            datetime.datetime(2011, 02, 12, 14, 23, 01, 50))  # year='2011', month='02', day='12', size='month')
+        self.earlymarch = ssDate(
+            datetime.datetime(2011, 03, 05, 14, 23, 01, 50))  # year='2011', month='03', day='05', size='month')
+        self.latemarch = ssDate(
+            datetime.datetime(2011, 03, 31, 14, 23, 01, 50))  # year='2011', month='03', day='31', size='month')
+        self.july = ssDate(
+            datetime.datetime(2011, 07, 12, 14, 23, 01, 50))  # year='2011', month='07', day='12', size='month')
+        self.earlyoctober = ssDate(
+            datetime.datetime(2011, 10, 10, 14, 23, 01, 50))  # year='2011', month='10', day='10', size='month')
+        self.lateoctober = ssDate(
+            datetime.datetime(2011, 10, 31, 14, 23, 01, 50))  # year='2011', month='10', day='31', size='month')
+        self.november = ssDate(
+            datetime.datetime(2011, 11, 12, 14, 23, 01, 50))  # year='2011', month='11', day='12', size='month')
 
 
 class WeekTestCase(unittest.TestCase):

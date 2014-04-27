@@ -1,7 +1,8 @@
 from fileupload.models import Picture
 from django.http import HttpResponse, HttpResponseNotAllowed
-from django.utils import simplejson
+import simplejson as json
 from django.core.files import File
+
 
 def upload_file(request):
     if request.method == 'POST':
@@ -9,7 +10,7 @@ def upload_file(request):
             filename = request.FILES.keys()[0]
             file = File(request.FILES[filename])
             picture = Picture(
-                slug = request.GET.get('slug'),
+                slug=request.GET.get('slug'),
             )
             picture.file.save(file.name, file)
             picture.save()
@@ -20,7 +21,7 @@ def upload_file(request):
         except:
             data = {
                 'error': 'invalid image data',
-                'errors' : 'something went wrong',
+                'errors': 'something went wrong',
             }
-        return HttpResponse(simplejson.dumps(data), mimetype="application/json")
-    return HttpResponseNotAllowed(['POST',])
+        return HttpResponse(json.dumps(data), mimetype="application/json")
+    return HttpResponseNotAllowed(['POST', ])

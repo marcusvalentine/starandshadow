@@ -1,51 +1,25 @@
-{% extends "normal.html" %}
+{% extends "content/documenttype.html" %}
 {% load programme_filters %}
-
-{% block buttonbar %}
-    <div class="balloon buttonbar">
-        Modify:
-        <button id="deletebutton">Delete</button>
-        <button id="savebutton" disabled>Save</button>
-        <button id="editbutton">Edit</button>
-    </div>
-{% endblock %}
+{% load thumbnail %}
 
 {% block centralContent %}
 
-    <div class="eventtype editthis" data-apiurl="{{ doc.api_url }}" data-modeltype="Document" data-modelid="{{ doc.id }}">
+    {{ event|md }}
+    <meta itemprop="description" content="{{ event.summary|safe|striptags }}" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
 
-        <header>
-            <h1><span data-modelfield="title" data-fieldtype="CharField">{{ doc.title|title }}</span></h1>
-        </header>
+    <header>
+        <h1>{{ event|md:"title" }}</h1>
+    </header>
 
-        <h3>By <span data-modelfield="author" data-fieldtype="CharField">{{ doc.author }}</span></h3>
+    <h3>{{ event|md:"author" }}, {{ event|md:"created" }}</h3>
 
-        <h3>
-            <span data-whileediting="show" hidden style="display: none;">Created:</span>
-            <time data-modelfield="created" data-fieldtype="DateField" datetime="{{ doc.createdDatetime|date:"SHORT_DATE_FORMAT" }}">{{ doc.created }}</time>
-        </h3>
+{#    From {{ event|md:"source" }}#}
+{#    Type {{ event|md:"type" }}#}
 
-        <table>
-            <tbody>
-            <tr{% if not doc.source %} data-whileediting="show" hidden style="display: none;"{% endif %}>
-                <td>Source:</td>
-                <td><span data-modelfield="source" data-fieldtype="CharField">{{ doc.source|default:"None" }}</span></td>
-            </tr>
-            <tr data-whileediting="show" hidden style="display: none;">
-                <td>Type:</td>
-                <td><span data-modelfield="type" data-fieldtype="ForeignKey" data-fieldvalue="{{ doc.type }}" data-fieldapiurl="/api/select/documenttype/">{{ doc.type }}</span></td>
-            </tr>
-            <tr data-whileediting="show" hidden style="display: none;">
-                <td>Summary:</td>
-                <td>
-                    <div class="summary" data-modelfield="summary" data-fieldtype="PlainTextField">{{ doc.summary }}</div>
-                </td>
-            </tr>
-        </table>
-
-        <div class="bodysection">
-            <div class="body" data-modelfield="body" data-fieldtype="TextField">{{ doc.body|safe }}</div>
-        </div>
+    <div class="bodysection">
+        {{ event|md:'articleBody' }}
+    </div>
 
     </div>
 

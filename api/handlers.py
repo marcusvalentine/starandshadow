@@ -1,19 +1,7 @@
-from sorl.thumbnail import get_thumbnail
-from ss.programming.models import Season, Film, Gig, Event, Festival, Programmer, Rating, Meeting, FILM_FORMATS, MEETING_TYPES
-from ss.content.models import Page, Menu, Document, DOC_TYPE
-from ss.content.forms import PageForm, DocumentForm
-from ss.fileupload.models import Picture
-from ss.organisation.models import Minutes, PrintProgramme, Approval, ApprovalSet
-from ss.organisation.forms import SeasonAdminForm, FilmAdminForm, GigAdminForm, EventAdminForm, FestivalAdminForm, MeetingAdminForm, MinutesForm
-from django.contrib import messages
-from django.utils import simplejson
-from django.http import HttpResponse
-from django.db.models import get_model
-from django.contrib.auth.decorators import login_required
-from django.core.exceptions import *
-from django.views.decorators.csrf import csrf_exempt
-from django.utils.timezone import datetime
-from django.contrib.auth.models import User
+from programming.models import Season, Film, Gig, Event, Festival, Programmer, Rating, Meeting, FILM_FORMATS
+from content.models import Page, Menu, Document
+from fileupload.models import Picture
+from organisation.models import Minutes, Approval
 from tastypie import fields
 from tastypie.resources import Resource, ModelResource
 from tastypie.authentication import SessionAuthentication
@@ -24,6 +12,7 @@ class SelectSeasonResource(ModelResource):
     class Meta:
         queryset = Season.objects.all().order_by('title')
         fields = ['title', 'id']
+        include_absolute_url = True
         allowed_methods = ['get', ]
 
 
@@ -31,13 +20,17 @@ class SelectProgrammerResource(ModelResource):
     class Meta:
         queryset = Programmer.objects.all().order_by('name')
         fields = ['name', 'id']
+        include_absolute_url = True
         allowed_methods = ['get', ]
 
 
 class SelectMeetingResource(ModelResource):
+    title = fields.CharField(attribute='longHeading', default="ERROR")
+
     class Meta:
-        queryset = Meeting.objects.all().order_by('start')
+        queryset = Meeting.objects.all().order_by('startDate')
         fields = ['title', 'id']
+        include_absolute_url = True
         allowed_methods = ['get', ]
 
 
@@ -45,6 +38,7 @@ class SelectRatingResource(ModelResource):
     class Meta:
         queryset = Rating.objects.all().order_by('name')
         fields = ['name', 'id']
+        # TODO: include_absolute_url = True
         allowed_methods = ['get', ]
 
 
@@ -53,6 +47,7 @@ class SelectCertificateResource(ModelResource):
         resource_name = 'certificate'
         queryset = Rating.objects.all().order_by('name')
         fields = ['name', 'id']
+        # TODO: include_absolute_url = True
         allowed_methods = ['get', ]
 
 
@@ -66,8 +61,10 @@ class SelectPictureResource(ModelResource):
     displaySrc = fields.CharField(attribute='displaySrc', default="")
     displayHeight = fields.CharField(attribute='displayHeight', default="400")
     displayWidth = fields.CharField(attribute='displayWidth', default="400")
+
     class Meta:
         queryset = Picture.objects.all().order_by('-modified', '-id')
+        include_absolute_url = True
         allowed_methods = ['get', ]
 
 
@@ -83,6 +80,7 @@ class SelectFilmFormatResource(Resource):
     name = fields.CharField(attribute='name')
 
     class Meta:
+        include_absolute_url = True
         object_class = PlainFilmFormat
 
     def obj_get_list(self, request=None, **kwargs):
@@ -104,7 +102,7 @@ class SelectMenuResource(ModelResource):
 
 
 class PageResource(ModelResource):
-    menu = fields.ForeignKey(SelectMenuResource, 'menu')
+    menu = fields.ForeignKey(SelectMenuResource, 'menu', null=True)
 
     class Meta:
         queryset = Page.objects.all()
@@ -115,7 +113,7 @@ class PageResource(ModelResource):
 class SeasonResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Season.objects.all()
@@ -128,7 +126,7 @@ class FilmResource(ModelResource):
     season = fields.ForeignKey(SelectSeasonResource, 'season')
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Film.objects.all()
@@ -139,7 +137,7 @@ class FilmResource(ModelResource):
 class GigResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Gig.objects.all()
@@ -150,7 +148,7 @@ class GigResource(ModelResource):
 class EventResource(ModelResource):
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Event.objects.all()
@@ -159,9 +157,9 @@ class EventResource(ModelResource):
 
 
 class FestivalResource(ModelResource):
-    # TODO picture = fields.ForeignKey(SelectPictureResource, 'picture')
+    picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
     films = fields.ManyToManyField(FilmResource, 'films')
     gigs = fields.ManyToManyField(GigResource, 'events')
     events = fields.ManyToManyField(EventResource, 'events')
@@ -174,7 +172,7 @@ class FestivalResource(ModelResource):
 
 class MeetingResource(ModelResource):
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
-    approval = fields.ForeignKey(SelectApprovalResource, 'approval')
+    approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
 
     class Meta:
         queryset = Meeting.objects.all()
@@ -182,13 +180,13 @@ class MeetingResource(ModelResource):
         authorization = Authorization()
 
 
-class MinutesResource(ModelResource):
-    meeting = fields.ForeignKey(MeetingResource, 'meeting')
-
-    class Meta:
-        queryset = Minutes.objects.all()
-        authentication = SessionAuthentication()
-        authorization = Authorization()
+# class MinutesResource(ModelResource):
+#     meeting = fields.ForeignKey(MeetingResource, 'meeting')
+#
+#     class Meta:
+#         queryset = Minutes.objects.all()
+#         authentication = SessionAuthentication()
+#         authorization = Authorization()
 
 
 class DocumentResource(ModelResource):
@@ -199,8 +197,10 @@ class DocumentResource(ModelResource):
 
 
 class MinutesResource(ModelResource):
+    meeting = fields.ForeignKey(MeetingResource, 'meeting')
+
     class Meta:
-        queryset = Picture.objects.all()
+        queryset = Minutes.objects.all()
         authentication = SessionAuthentication()
         authorization = Authorization()
 

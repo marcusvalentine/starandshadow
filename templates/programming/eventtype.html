@@ -1,138 +1,424 @@
 {% extends "normal.html" %}
 {% load thumbnail %}
 
+{% block container_classes %} eventtype{% endblock %}
+
+{% block adminExtraContentBefore %}
+    <button type="button" id="start_edit" class="btn btn-primary pull-right top-button">
+        <span class="glyphicon glyphicon-edit"></span> Edit
+    </button>
+{% endblock %}
+
 {% block adminarea %}
-    <div class="balloon">
-        <button id="savebutton" data-bind="click: save">Save</button>
-        <h3>Edit {{ event.typeName }}</h3>
-        <table class="editortable">
-            <tbody>
-            <tr>
-                <td>Title:</td>
-                <td><input data-bind="value: title, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Programmer:</td>
-                <td><select
-                        data-fieldapiurl="{{ event.programmer.api_list_url }}"
-                        data-fieldname="programmer"
-                        data-fieldvalue="{{ event.programmer.id }}"
-                        data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'id', value: selectedprogrammer"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Start Date:</td>
-                <td><input data-bind="value: startDate, valueUpdate: 'afterkeydown'" class="datePicker" /></td>
-            </tr>
-            <tr>
-                <td>Start Time:</td>
-                <td><input data-bind="value: startTime, valueUpdate: 'afterkeydown'" class="timePicker" /></td>
-            </tr>
-            <tr>
-                <td>Notes:</td>
-                <td><textarea data-bind="value: notes, valueUpdate: 'afterkeydown'" rows="5"></textarea></td>
-            </tr>
-            <tr>
-                <td>Summary:</td>
-                <td><textarea data-bind="value: summary, valueUpdate: 'afterkeydown'" rows="5" cols="65"></textarea></td>
-            </tr>
-            <tr>
-                <td>Body:</td>
-                <td id="bodyeditor">
-                    <button id="editbodybutton">Edit</button><button hidden id="donebodybutton">Done</button>
-                    Click "edit" then type directly in the page on the right.  Remember to click "save" when finished.
-                </td>
-            </tr>
-            <tr>
-                <td>Length:</td>
-                <td><input data-bind="value: length, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Director:</td>
-                <td><input data-bind="value: director, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Year:</td>
-                <td><input data-bind="value: year, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Language:</td>
-                <td><input data-bind="value: lang, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Country:</td>
-                <td><input data-bind="value: country, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Certificate:</td>
-                <td><select
+    <div id="adminarea" hidden>
+
+    <div id="adminform">
+
+    <form class="form-horizontal" role="form">{% csrf_token %}
+
+    <div class="form-group">
+        <div class="col-lg-10 col-lg-offset-2">
+            <button type="button" data-bind="click: save" id="save_edit" class="btn btn-success top-button">
+                <span class="glyphicon glyphicon-floppy-save"></span> Save
+            </button>
+            <div id="save_message" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Saved</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Your changes have been successfully saved.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="save_error" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Save Error!</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>An error occurred.  Your changes have not been saved, please try again.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+{#            <button type="button" id="cancel_edit" class="btn btn-warning top-button">#}
+{#                <span class="glyphicon glyphicon-remove"></span> Cancel#}
+{#            </button>#}
+        </div>
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_title" class="col-lg-2 control-label">Title:</label>
+
+        <div class="col-lg-10">
+            <input
+                    id="edit_title"
+                    name="title"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: title, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_programmer" class="col-lg-2 control-label">Programmer:</label>
+
+        <div class="col-lg-10">
+            <select
+                    id="edit_programmer"
+                    name="programmer"
+                    type="text"
+                    class="form-control input-sm"
+                    data-fieldapiurl="{{ event.programmer.api_list_url }}"
+                    data-fieldname="programmer"
+                    data-fieldvalue="{{ event.programmer.id }}"
+                    data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'id', value: selectedprogrammer"
+                    >
+            </select>
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_startDate" class="col-lg-2 control-label">Start Date:</label>
+
+        <div class="col-lg-4">
+            <input
+                    id="edit_startDate"
+                    name="startDate"
+                    type="date"
+                    class="form-control input-sm"
+                    data-bind="value: startDate, valueUpdate: 'afterkeydown'"
+                    />
+        </div>
+
+        {% if event.typeName != 'Season' %}
+            <label for="edit_startTime" class="col-lg-2 control-label">Start Time:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_startTime"
+                        name="startTime"
+                        type="time"
+                        class="form-control input-sm"
+                        data-bind="value: startTime, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+        {% endif %}
+
+    </div>
+
+    {% if event.typeName != 'Film' and event.typeName != 'Meeting' %}
+        <div class="form-group">
+
+            {% if event.typeName == 'Festival' or event.typeName == 'Season' %}
+                <label for="edit_endTime" class="col-lg-2 control-label">End Date:</label>
+
+                <div class="col-lg-4">
+                    <input
+                            id="edit_endDate"
+                            name="endDate"
+                            type="date"
+                            class="form-control input-sm"
+                            data-bind="value: endDate, valueUpdate: 'afterkeydown'"
+                            />
+                </div>
+            {% endif %}
+
+            {% if event.typeName == 'Festival' %}
+                <label for="edit_endTime" class="col-lg-2 control-label">End Time:</label>
+
+                <div class="col-lg-4">
+                    <input
+                            id="edit_endTime"
+                            name="endTime"
+                            type="time"
+                            class="form-control input-sm"
+                            data-bind="value: endTime, valueUpdate: 'afterkeydown'"
+                            />
+                </div>
+            {% endif %}
+
+        </div>
+    {% endif %}
+
+    <div class="form-group">
+
+        <label for="edit_summary" class="col-lg-2 control-label">Summary:</label>
+
+        <div class="col-lg-10">
+            <textarea
+                    id="edit_summary"
+                    name="summary"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: summary, valueUpdate: 'afterkeydown'"
+                    rows="5"
+                    cols="65"
+                    >
+            </textarea>
+        </div>
+
+    </div>
+
+    <div class="form-group">
+
+        <label for="edit_body" class="col-lg-2 control-label">Body:</label>
+
+        <div class="col-lg-4">
+            Edit body text directly on the page opposite.
+        </div>
+
+        <label for="edit_picture" class="col-lg-2 control-label">Picture:</label>
+
+        <div class="col-lg-4">
+            {% if event.picture %}
+                <img
+                        id="edit_picture" name="picture" type="text"
+                        data-fieldpapiurl="{{ event.picture.api_list_url }}"
+                        data-fieldname="picture"
+                        data-fieldvalue="{{ event.picture.id }}"
+                        data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
+                        src="{{ event.picture.thumbnailSrc }}"
+                        width="{{ event.picture.thumbnailWidth }}"
+                        height="{{ event.picture.thumbnailHeight }}">
+            {% else %}
+                <img
+                        id="edit_picture" name="picture" type="text"
+                        data-fieldpapiurl="/api/select/graphic/"
+                        data-fieldname="picture"
+                        data-fieldvalue="789"
+                        data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
+                        src="/static/img/events/filler.png"
+                        width="100"
+                        height="100">
+            {% endif %}
+            <div id="picturepicker" class="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title">Select Picture</h4>
+                        </div>
+                        <div class="modal-body">
+                            <ul id="picturelist"></ul>
+                        </div>
+                        <div class="modal-footer">
+                            <button id="imageupload" type="button" class="btn btn-primary">Add New</button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    {% ifequal event.typeName 'Film' %}
+        <div class="form-group">
+
+            <label for="edit_length" class="col-lg-2 control-label">Length:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_length"
+                        name="length"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: length, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+            <label for="edit_director" class="col-lg-2 control-label">Director:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_director"
+                        name="director"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: director, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="edit_year" class="col-lg-2 control-label">Year:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_year"
+                        name="year"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: year, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+            <label for="edit_lang" class="col-lg-2 control-label">Language:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_lang"
+                        name="lang"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: lang, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="edit_country" class="col-lg-2 control-label">Country:</label>
+
+            <div class="col-lg-4">
+                <input
+                        id="edit_country"
+                        name="country"
+                        type="text"
+                        class="form-control input-sm"
+                        data-bind="value: country, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+            <label for="edit_certificate" class="col-lg-2 control-label">Certificate:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_certificate"
+                        name="certificate"
+                        type="text"
+                        class="form-control input-sm"
                         data-fieldapiurl="{{ event.certificate.api_list_url }}"
                         data-fieldname="certificate"
                         data-fieldvalue="{{ event.certificate.id }}"
-                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Format:</td>
-                <td><select
+                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"
+                        >
+                </select>
+            </div>
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="edit_filmFormat" class="col-lg-2 control-label">Format:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_filmFormat"
+                        name="filmFormat"
+                        type="text"
+                        class="form-control input-sm"
                         data-fieldapiurl="/api/1/selectfilmformat/"
                         data-fieldname="filmFormat"
                         data-fieldvalue="{{ event.filmFormat }}"
-                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Season:</td>
-                <td><select
+                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"
+                        >
+                </select>
+            </div>
+
+            <label for="edit_season" class="col-lg-2 control-label">Season:</label>
+
+            <div class="col-lg-4">
+                <select
+                        id="edit_season" name="season" type="text" class="form-control input-sm"
                         data-fieldapiurl="{{ event.season.api_list_url }}"
                         data-fieldname="season"
                         data-fieldvalue="{{ event.season.id }}"
-                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Picture:</td>
-                <td>
-                    {% if event.picture %}
-                        <img
-                                data-fieldpapiurl="{{ event.picture.api_list_url }}"
-                                data-fieldname="picture"
-                                data-fieldvalue="{{ event.picture.id }}"
-                                data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
-                                src="{{ event.picture.thumbnailSrc }}"
-                                width="{{ event.picture.thumbnailWidth }}"
-                                height="{{ event.picture.thumbnailHeight }}">
-                    {% else %}
-                        <img
-                                data-fieldpapiurl="/api/select/graphic/"
-                                data-fieldname="picture"
-                                data-fieldvalue="789"
-                                data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
-                                src="/static/img/events/filler.png"
-                                width="100"
-                                height="100">
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td>Approval:</td>
-                <td><input data-bind="value: approval, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Confirmed:</td>
-                <td><input data-bind="value: confirmed, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Private:</td>
-                <td><input data-bind="value: private, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            <tr>
-                <td>Featured:</td>
-                <td><input data-bind="value: featured, valueUpdate: 'afterkeydown'"/></td>
-            </tr>
-            </tbody>
-        </table>
-        <button id="deletebutton" data-bind="click: deleteEvent, valueUpdate: 'afterkeydown'">Delete</button>
-        <div class="clear"></div>
+                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"
+                        >
+                </select>
+            </div>
+
+        </div>
+    {% endifequal %}
+
+    <div class="form-group">
+
+        <label class="col-lg-2 control-label">Status:</label>
+
+        <div class="col-lg-3">
+            <button
+                    type="button"
+                    data-bind="css: confirmedClass, text: confirmedText, click: toggleConfirmed"
+                    class="btn btn-default btn-sm"
+            >Confirmed?</button>
+        </div>
+
+        <div class="col-lg-3">
+            <button
+                    type="button"
+                    data-bind="css: featuredClass, text: featuredText, click: toggleFeatured"
+                    class="btn btn-default btn-sm"
+            >Featured?</button>
+        </div>
+
+        <div class="col-lg-4">
+            <button
+                    type="button"
+                    data-bind="css: privateClass, text: privateText, click: togglePrivate"
+                    class="btn btn-default btn-sm"
+            >Private?</button>
+        </div>
+
+    </div>
+
+    {% if event.typeName == 'Gig' or event.typeName == 'Event' %}
+        <div class="form-group">
+
+            <label for="edit_website" class="col-lg-2 control-label">Website:</label>
+
+            <div class="col-lg-10">
+                <input
+                        id="edit_website"
+                        name="featured"
+                        type="url"
+                        class="form-control input-sm"
+                        data-bind="value: website, valueUpdate: 'afterkeydown'"
+                        />
+            </div>
+
+        </div>
+    {% endif %}
+
+    <div class="form-group">
+        <label for="edit_notes" class="col-lg-2 control-label">Notes:</label>
+
+        <div class="col-lg-10">
+            <textarea
+                    id="edit_notes"
+                    name="notes"
+                    type="text"
+                    class="form-control input-sm"
+                    data-bind="value: notes, valueUpdate: 'afterkeydown'"
+                    rows="5">
+            </textarea>
+        </div>
+    </div>
+
+    </form>
+    </div>
+
     </div>
 {% endblock %}

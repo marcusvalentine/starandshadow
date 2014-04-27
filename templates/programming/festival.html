@@ -4,86 +4,65 @@
 
 {% block centralContent %}
 
-    <div class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-apiurl="{{ event.api_url }}" data-modeltype="Festival" data-modelid="{{ event.id }}">
+    {{ event|md }}
+    <meta itemprop="description" content="{{ event.summary|safe|striptags }}" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
+    <meta itemprop="duration" content="{{ event.isolength }}" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
 
+    <header>
+        <h1>{{ event|md:"title" }}</h1>
+    </header>
+
+    {{ event|md:"picture" }}
+
+    <h3>{{ event|md:"startDateTime" }} to {{ event|md:'endDateTime' }}</h3>
+
+    <meta itemprop="image" content="{% if event.picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
+
+    <div class="bodysection">
+        {{ event|md:'body' }}
+    </div>
+
+    </div>
+
+    <div class="smallsublist">
         <header>
-            <h1>
-                <span itemprop="name" data-modelfield="title" data-fieldtype="CharField">{{ maintitle|title }}</span>
-            </h1>
+            <h3>Events in the {{ maintitle|title }} festival:</h3>
         </header>
+        {% for day,events in prog %}{% for eventt in events %}
+            <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
+                     data-href="{{ eventt.get_absolute_url }}">
+                <div class="pull-left">
+                    {% if eventt.picture %}
+                        {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
+                            <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                        {% endthumbnail %}
+                        {% thumbnail eventt.picture.file "160x90" crop='top' as im %}
+                            <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
+                        {% endthumbnail %}
+                    {% else %}
+                        {% thumbnail fillerImage.file "240x135" crop='top' as im %}
+                            <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
+                        {% endthumbnail %}
+                        {% thumbnail fillerImage.file "160x90" crop='top' as im %}
+                            <img class="img-responsive visible-xs" alt="" src="{{ im.url }}"/>
+                        {% endthumbnail %}
+                    {% endif %}
+                </div>
 
-        {% if event.picture %}
-            {% thumbnail event.picture.file "400" as im %}
-                <img class="imgright"
-                     data-modelfield="picture"
-                     data-fieldtype="ForeignKeyPicture"
-                     data-fieldvalue="{{ event.picture.id }}"
-                     data-fieldapiurl="{{ event.picture.api_list_url }}"
-                     itemprop="image"
-                     src="{{ im.url }}"
-                     data-src="{{ event.picture.get_img_url }}"
-                     data-width="{{ event.picture.file.width }}"
-                     data-height="{{ event.picture.file.height }}"
-                     alt=""
-                     width="{{ im.width }}"
-                     height="{{ im.height }}">
-            {% endthumbnail %}
-        {% else %}
-            <img class="imgright"
-                 data-modelfield="picture"
-                 data-fieldtype="ForeignKeyPicture"
-                 data-fieldvalue="789"
-                 data-fieldapiurl="/api/select/graphic/"
-                 itemprop="image"
-                 src="/static/img/events/filler.png"
-                 data-src=""
-                 alt=""
-                 width="400"
-                 height="400"
-                 hidden>
-        {% endif %}
+                <h1 class="domdom">{{ day|date:"d" }}</h1>
 
-        <h3 data-whileediting="hide">
-            <time itemprop="startDate" datetime="{{ event.startDateTime|date:"c"|slice:":19" }}{{ event.startDateTime|date:"O" }}">{{ event.displayStart }}</time>
-            {% ifnotequal event.displayStart '' %} to {% endifnotequal %}
-            <time itemprop="endDate" datetime="{{ event.endDateTime|date:"c"|slice:":19" }}{{ event.startDateTime|date:"O" }}">{{ event.displayEnd }}</time>
-        </h3>
-        {% if authenticated %}
-            <h3 data-whileediting="show" hidden style="display: none;">
-                <span data-modelfield="startDate" data-fieldtype="DateField" data-fieldvalue="{{ event.startDate|date:"SHORT_DATE_FORMAT" }}">{{ event.startDate|date:"SHORT_DATE_FORMAT" }}</span>
-                <span data-modelfield="startTime" data-fieldtype="TimeField" data-fieldvalue="{{ event.startTime|date:"SHORT_TIME_FORMAT" }}">{{ event.startTime|date:"SHORT_TIME_FORMAT" }}</span>
-                to <span data-modelfield="endDate" data-fieldtype="DateField" data-fieldvalue="{{ event.endDate|date:"SHORT_DATE_FORMAT" }}">{{ event.endDate|date:"SHORT_DATE_FORMAT" }}</span>
-                <span data-modelfield="endTime" data-fieldtype="TimeField" data-fieldvalue="{{ event.endTime|date:"SHORT_TIME_FORMAT" }}">{{ event.endTime|date:"SHORT_TIME_FORMAT" }}</span>
-            </h3>
-        {% endif %}
+                <h1>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h1>
 
-        <table>
-            <tbody>
-                {% if authenticated %}
-                    <tr itemscope itemtype="http://schema.org/Person">
-                        <td>Programmer:</td>
-                        <td>
-                            <span data-modelfield="programmer" data-fieldtype="ForeignKey" data-fieldvalue="{{ event.programmer.id }}" data-fieldapiurl="{{ event.programmer.api_list_url }}">
-                                <a itemprop="url" href="{{ event.programmer.get_absolute_url }}">
-                                    <span itemprop="name">{{ event.programmer.name }}</span>
-                                </a>
-                            </span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Public/Private:</td>
-                        <td><span data-modelfield="private" data-fieldtype="BooleanField" data-iftrue="Private" data-iffalse="Public"{% if event.private %} class="true">Private{% else %} class="false">Public{% endif %}</span></td>
-                    </tr>
-                {% endif %}
-                <tr data-whileediting="show" hidden style="display: none;">
-                    <td>Summary:</td>
-                    <td class="summary" itemprop="description" data-modelfield="summary" data-fieldtype="PlainTextField">{{ event.summary|safe|striptags }}</td>
-                </tr>
-            </tbody>
-        </table>
+                <h2>{{ eventt.startDateTime|date:"DATETIME_FORMAT" }}</h2>
 
-        <div class="bodysection"><div class="body" data-modelfield="body" data-fieldtype="TextField">{{ event.body|sanitize }}</div></div>
+                <p>{{ eventt.summary|sanitize }}</p>
 
+                <p class="viewlink"><a href="{{ eventt.get_absolute_url }}">Read More &raquo;</a></p>
+
+            </section>{% endfor %}{% endfor %}
     </div>
 
 {% endblock %}

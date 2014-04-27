@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
-from ss.fileupload.models import Picture
+from fileupload.models import Picture
 import re
 import htmlentitydefs
 import pytz
@@ -9,7 +9,10 @@ from django.utils import timezone
 from datetime import time
 from django.conf import settings
 
-FILM_FORMATS = (("Unknown", "Unknown"), ("16mm", "16mm"), ("35mm", "35mm"), ("DVD", "DVD"), ("VHS", "VHS"), ("DigiBeta", "DigiBeta"), ("Various", "Various"), ("Other", "Other"))
+FILM_FORMATS = (
+    ("Unknown", "Unknown"), ("16mm", "16mm"), ("35mm", "35mm"), ("DVD", "DVD"), ("VHS", "VHS"),
+    ("DigiBeta", "DigiBeta"),
+    ("Various", "Various"), ("Other", "Other"))
 MEETING_TYPES = (
     ('General Meeting', 'General Meeting'),
     ('Programming Meeting', 'Programming Meeting'),
@@ -92,13 +95,17 @@ class ProgrammeType(object):
     def extramessage(self, request):
         extramessages = []
         if self.confirmed:
-            extramessages.append('<div class="message info">This is a confirmed booking.  This means it is no longer a provisional booking.<button class="unconfirmitem" href="#">Unconfirm</button></div>')
+            extramessages.append(
+                '<div class="message info">This is a confirmed booking.  This means it is no longer a provisional booking.<button class="unconfirmitem" href="#">Unconfirm</button></div>')
         else:
-            extramessages.append('<div class="message warning">This is a provisional booking.<button class="confirmitem" href="#">Confirm</button></div>')
+            extramessages.append(
+                '<div class="message warning">This is a provisional booking.<button class="confirmitem" href="#">Confirm</button></div>')
         if self.approved:
-            extramessages.append('<div class="message info">%s<button class="unapproveitem" href="#">Unapprove</button><div id="approvedialog" hidden></div></div>' % self.approval.itemapprovalinfo)
+            extramessages.append(
+                '<div class="message info">%s<button class="unapproveitem" href="#">Unapprove</button><div id="approvedialog" hidden></div></div>' % self.approval.itemapprovalinfo)
         else:
-            extramessages.append('<div class="message warning">This %s is not approved.<button class="approvedialog" href="#">Approve</button><div id="approvedialog" hidden></div></div>' % self.typeName)
+            extramessages.append(
+                '<div class="message warning">This %s is not approved.<button class="approvedialog" href="#">Approve</button><div id="approvedialog" hidden></div></div>' % self.typeName)
         return extramessages
 
     @property
@@ -107,6 +114,7 @@ class ProgrammeType(object):
             return ["Details are valid.", ]
         else:
             return ["Details are not valid.", ]
+
 
 class EventType(object):
     class Meta:
@@ -205,11 +213,11 @@ class Programmer(models.Model, ProgrammeType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.organisation.views.volunteerProfile', (), {'id': self.user.id, }
+        return 'organisation.views.volunteerProfile', (), {'volunteerId': self.user.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.volunteerEdit', (), {'id': self.user.id, }
+        return 'organisation.views.volunteerEdit', (), {'volunteerId': self.user.id, }
 
     @property
     def get_link(self):
@@ -251,11 +259,11 @@ class Season(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.season', (), {'id': self.id, }
+        return 'programming.views.season', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.seasonEdit', (), {'id': self.id, }
+        return 'organisation.views.seasonEdit', (), {'id': self.id, }
 
     @property
     def startTime(self):
@@ -305,11 +313,11 @@ class Film(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.film', (), {'id': self.id, }
+        return 'programming.views.film', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.filmEdit', (), {'id': self.id, }
+        return 'organisation.views.filmEdit', (), {'id': self.id, }
 
     @property
     def listHeading(self):
@@ -353,7 +361,8 @@ Language: %(lang)s
         return self.startDate
 
     @property
-    def endTime(self):  # TODO: Change length to an int field and calculate this properly.  Can then also improve isolength.
+    def endTime(
+            self):  # TODO: Change length to an int field and calculate this properly.  Can then also improve isolength.
         return self.startTime
 
     @property
@@ -388,11 +397,11 @@ class Gig(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.gig', (), {'id': self.id, }
+        return 'programming.views.gig', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.gigEdit', (), {'id': self.id, }
+        return 'organisation.views.gigEdit', (), {'id': self.id, }
 
 
 class Event(models.Model, ProgrammeType, EventType):
@@ -414,11 +423,11 @@ class Event(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.event', (), {'id': self.id, }
+        return 'programming.views.event', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.eventEdit', (), {'id': self.id, }
+        return 'organisation.views.eventEdit', (), {'id': self.id, }
 
 
 class Festival(models.Model, ProgrammeType, EventType):
@@ -447,11 +456,11 @@ class Festival(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.festival', (), {'id': self.id, }
+        return 'programming.views.festival', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.festivalEdit', (), {'id': self.id, }
+        return 'organisation.views.festivalEdit', (), {'id': self.id, }
 
 
 class Meeting(models.Model, ProgrammeType, EventType):
@@ -471,11 +480,11 @@ class Meeting(models.Model, ProgrammeType, EventType):
 
     @models.permalink
     def get_absolute_url(self):
-        return 'ss.programming.views.meeting', (), {'id': self.id, }
+        return 'programming.views.meeting', (), {'id': self.id, }
 
     @models.permalink
     def get_edit_url(self):
-        return 'ss.organisation.views.meetingEdit', (), {'id': self.id, }
+        return 'organisation.views.meetingEdit', (), {'id': self.id, }
 
     def plainText(self, formatString=None):
         if formatString is None:

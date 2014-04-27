@@ -1,25 +1,36 @@
 {% extends "normal.html" %}
 {% load thumbnail %}
 
+{% block extraContentBefore %}
+
+    <header class="text-center"><h1>{{ maintitle|title }}</h1></header>
+
+{#    <p class="pull-right" style="padding: 5px 0">#}
+        {#        <a href="#" class="button radius small" id="viewprintprogramme" data-year="{{ cal.startDate.year }}"#}
+        {#           data-month="{{ cal.startDate.month }}">#}
+        {#            <img#}
+        {#                    alt="PDF Brochure"#}
+        {#                    src="/static/img/content/application-pdf-24x24.png"#}
+        {#                    data-interchange="[/static/img/content/application-pdf-24x24.png, (default)], [/static/img/content/application-pdf-32x32.png, (large)]"#}
+        {#                    >Brochure#}
+        {#        </a>#}
+{#        <a href="feed/" class="button radius small">#}
+{#            <img#}
+{#                    alt="RSS"#}
+{#                    src="/static/img/content/application-rss+xml-24x24.png"#}
+{#                    data-interchange="[/static/img/content/application-rss+xml-24x24.png, (default)], [/static/img/content/application-rss+xml-32x32.png, (large)]"#}
+{#                    >RSS#}
+{#        </a>#}
+{#    </p>#}
+
+    <ul class="pager">
+        <li><a href="{{ cal.previous.onUrl }}">&laquo; {{ earliertext|default:"Earlier" }}</a></li>
+        <li><a href="{{ cal.next.onUrl }}">{{ latertext|default:"Later" }} &raquo;</a></li>
+    </ul>
+
+{% endblock %}
+
 {% block centralContent %}
-
-    <p class="feedbutton">
-        <a href="#" class="button" id="viewprintprogramme" data-year="{{ cal.startDate.year }}" data-month="{{ cal.startDate.month }}">
-            <span class="largescreen"><img src="/static/img/content/application-pdf-32x32.png" style="display:block; margin: 0 auto;" height="32" width="32" alt="PDF Brochure">Brochure</span>
-            <span class="smallscreen"><img src="/static/img/content/application-pdf-24x24.png" style="display:block; margin: 0 auto;" height="24" width="24" alt="PDF Brochure"></span>
-        </a>
-        <a href="feed/" class="button">
-            <span class="largescreen"><img src="/static/img/content/application-rss+xml-32x32.png" style="display:block; margin: 0 auto;" height="32" width="32" alt="RSS">RSS</span>
-            <span class="smallscreen"><img src="/static/img/content/application-rss+xml-24x24.png" style="display:block; margin: 0 auto;" height="24" width="24" alt="RSS"></span>
-        </a>
-    </p>
-
-    <header><h1>{{ maintitle|title }}</h1></header>
-
-    <p class="navbuttons">
-        <a class="button" href="{{ cal.previous.onUrl }}">&laquo; {{ earliertext|default:"Earlier" }}</a>&nbsp;
-        <a class="button" href="{{ cal.next.onUrl }}">{{ latertext|default:"Later" }} &raquo;</a>
-    </p>
 
     {% include 'programming/sublist.html' %}
 
