@@ -1,3 +1,11 @@
+Problems after move:
+
+Exception and therefore 500 on missing image file.
+
+
+
+------------------
+
 Install:
 
 Install Python 2.7, 64 bit
