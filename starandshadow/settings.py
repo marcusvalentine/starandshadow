@@ -126,6 +126,7 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'compressor.finders.CompressorFinder',
 )
+STATICFILES_ROOT = os.path.join(PROJECT_ROOT, 'static')
 STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
@@ -141,6 +142,8 @@ COMPRESS_PRECOMPILERS = (
     ('text/stylus', 'stylus < {infile} > {outfile}'),
     ('text/foobar', 'path.to.MyPrecompilerFilter'),
 )
+COMPRESS_ROOT = os.path.join(PROJECT_ROOT, 'static')
+COMPRESS_OUTPUT_DIR = 'cache'
 
 INSTALLED_APPS = (
     'django.contrib.auth',

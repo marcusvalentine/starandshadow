@@ -1,9 +1,39 @@
+import sys
+
 DEBUG = True
 
-EMAIL_HOST = ''
-EMAIL_PORT = 25
+EMAIL_HOST = 'mail.example.com'
+EMAIL_PORT = 587
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASS = ''
+DEFAULT_FROM_EMAIL = 'info@starandshadow.org.uk'
+NOTIFICATIONS_RECIPIENT = 'info@starandshadow.org.uk'
 
-CSSTIDY_BINARY = 'c:\dev\csstidy.exe'
-PIPELINE_YUI_BINARY = 'c:\dev\yuicompressor-2.4.7\yui.bat'
+if 'test' in sys.argv:
+    DATABASES = {'default': {'ENGINE': 'django.db.backends.sqlite3'}}
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'ss',
+            'USER': 'ss',
+            'PASSWORD': '',
+            'HOST': '',
+            'PORT': '',
+            'STORAGE_ENGINE': 'INNODB',
+        }
+    }
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+        'LOCATION': 'unique-snowflake'
+    }
+}
+
+import mimetypes
+
+mimetypes.init()
+mimetypes.types_map['.jpg'] = 'image/jpeg'
+mimetypes.types_map['.js'] = 'application/javascript'
+

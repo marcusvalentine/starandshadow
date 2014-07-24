@@ -7,17 +7,7 @@ Install distribute and pip, through pycharm
 pip install virtualenv
 virtualenv --system-site-packages PATH_TO_PROJECT\venv
 PATH_TO_PROJECT\venv\scripts\activate
-pip install django # Django 1.5.1
-pip install bleach # bleach 1.2.2
-pip install python-dateutil # python-dateutil 2.1
-pip install django-registration # django-registration 1.0
-pip install django-reversion # django-reversion 1.7.1
-pip install sorl-thumbnail # sorl-thumbnail 11.12
-pip install South # South 0.8.1
-pip install django-compressor # django-compressor 1.3
-pip install django-tastypie # tastypie 0.9.15
-pip install pytz # pytz 2013b
-pip install BeautifulSoup # BeautifulSoup 3.2.1
+pip install -r requirements.txt
 
 Get DB Dump
 s/ENGINE=MyISAM/ENGINE=InnoDB/g
