@@ -8,7 +8,7 @@
 {#        {% if authenticated %} (<a href="{{ volunteer.get_edit_url }}">Edit</a>){% endif %}#}
     {% endif %}
 
-    <div class="imgright"><p>{% thumbnail volunteer.photo "x300" as im %}
+    <div class="pull-right"><p>{% thumbnail volunteer.photo "x300" as im %}
         <img class="boxyimg" src="{{ im.url }}" alt="{{ volunteer.name }}" width="{{ im.width }}" height="{{ im.height }}">
     {% endthumbnail %}</p></div>
     <table>

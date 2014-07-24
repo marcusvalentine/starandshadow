@@ -9,6 +9,8 @@ EMAIL_HOST_PASS = ''
 DEFAULT_FROM_EMAIL = 'info@starandshadow.org.uk'
 NOTIFICATIONS_RECIPIENT = 'info@starandshadow.org.uk'
 
+ALLOWED_HOSTS = ['*',]
+
 if 'test' in sys.argv:
     DATABASES = {'default': {'ENGINE': 'django.db.backends.sqlite3'}}
 else:

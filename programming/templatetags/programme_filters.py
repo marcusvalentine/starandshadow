@@ -356,13 +356,18 @@ def md(event, fieldName=None):
         # elif fieldName == 'private':
         # elif fieldName == 'featured':
         elif fieldName == 'website':
+            if str(event.website) == '':
+                label_text = ''
+            else:
+                label_text = 'External Website: '
             return mark_safe(
                 '''<div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">'''
                 '''    <meta itemprop="name" content="%s">'''
-                '''    <p>External Website: <a itemprop="url" data-bind="attr:{href:website},text:website" href="%s">%s</a></p>'''
+                '''    <p>%s<a itemprop="url" data-bind="attr:{href:website},text:website" href="%s">%s</a></p>'''
                 '''</div>'''
                 % (
                     event.title,
+                    label_text,
                     event.website,
                     event.website,
                 ))
