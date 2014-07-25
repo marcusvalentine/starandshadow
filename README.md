@@ -1,6 +1,7 @@
 Problems after move:
 
 Exception and therefore 500 on missing image file.
+Pages have eventtype -> schema.org problem
 
 
 
