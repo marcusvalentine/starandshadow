@@ -6255,6 +6255,9 @@ div.pull-right {
 .fresheditor-toolbar {
   display: none;
 }
+.articleBody[contenteditable=true] {
+  min-height: 30em;
+}
 .editing .bodysection {
   width: 102%;
   min-height: 800px;
@@ -6278,9 +6281,6 @@ div.pull-right {
 .editing .bodysection [data-fieldname=body] {
   margin-top: 40px;
   background: white;
-}
-.editing .bodysection .articleBody {
-  min-height: 30em;
 }
 .table > thead > tr > td.Mon,
 .table > tbody > tr > td.Mon,
