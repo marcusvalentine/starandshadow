@@ -6355,6 +6355,15 @@ table.maths tr th span {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+ul.qq-upload-list {
+  margin-bottom: 0;
+}
+.qq-upload-button div {
+  padding: 6px 12px;
+}
+button#imageupload {
+  padding: 0;
+}
 @media screen and (min-width: 768px) {
   #picturepicker .modal-dialog {
     width: 900px;
