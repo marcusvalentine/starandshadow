@@ -303,6 +303,11 @@ def md(event, fieldName=None):
         elif fieldName == 'picture':
             if event.picture is None:
                 event.picture = Picture.objects.get(id=789)
+            try:
+                displaySrc = event.picture.displaySrc
+            except IOError:
+                event.picture = Picture.objects.get(id=1960)
+                displaySrc = event.picture.displaySrc
             return mark_safe(
                 '''<img class="%s pull-right img-responsive"%s'''
                 ''' data-fieldname="picture"'''
@@ -340,7 +345,7 @@ def md(event, fieldName=None):
                 % (
                     fieldName,
                     itemprop,
-                    event.picture.displaySrc,
+                    displaySrc,
                     event.picture.displayWidth,
                     event.picture.displayHeight,
                     event.picture.src,
