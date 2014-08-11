@@ -97,7 +97,7 @@ class ProgrammeType(object):
             try:
                 t = self.picture.thumbnailSrc
                 return True
-            except IOError:
+            except IOError, IndexError:
                 return False
         return False
 

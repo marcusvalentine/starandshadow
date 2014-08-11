@@ -305,7 +305,7 @@ def md(event, fieldName=None):
                 event.picture = Picture.objects.get(id=789)
             try:
                 displaySrc = event.picture.displaySrc
-            except IOError:
+            except IOError, IndexError:
                 event.picture = Picture.objects.get(id=1960)
                 displaySrc = event.picture.displaySrc
             return mark_safe(
