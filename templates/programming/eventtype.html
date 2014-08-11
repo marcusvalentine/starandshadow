@@ -189,7 +189,7 @@
         <label for="edit_picture" class="col-lg-2 control-label">Picture:</label>
 
         <div class="col-lg-4">
-            {% if event.picture %}
+            {% if event.valid_picture %}
                 <img
                         id="edit_picture" name="picture" type="text"
                         data-fieldpapiurl="{{ event.picture.api_list_url }}"

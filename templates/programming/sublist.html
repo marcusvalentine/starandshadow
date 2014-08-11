@@ -16,7 +16,7 @@
         <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
                  data-href="{{ eventt.get_absolute_url }}">
             <div class="pull-left">
-                {% if eventt.picture %}
+                {% if eventt.valid_picture %}
                     {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
                         <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
                     {% endthumbnail %}

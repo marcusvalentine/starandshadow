@@ -21,7 +21,7 @@
 
     <h3>{{ event|md:"startDateTime" }} to {{ event|md:'endDateTime' }}</h3>
 
-    <meta itemprop="image" content="{% if event.picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
+    <meta itemprop="image" content="{% if event.valid_picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
 
     <div class="bodysection">
         {{ event|md:'body' }}

@@ -91,6 +91,16 @@ class ProgrammeType(object):
     def get_absolute_url(self):
         raise NotImplementedError("Please Implement this method.")
 
+    @property
+    def valid_picture(self):
+        if self.picture:
+            try:
+                t = self.picture.thumbnailSrc
+                return True
+            except IOError:
+                return False
+        return False
+
     # noinspection PyUnusedLocal
     def extramessage(self, request):
         extramessages = []

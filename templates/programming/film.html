@@ -27,7 +27,7 @@
         {{ event|md_meta:"title" }}
         {{ event|md_meta:"year" }}
         <meta itemprop="image" content="
-                {% if event.picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
+                {% if event.valid_picture %}{% thumbnail event.picture.file "400" as im %}{{ im.url }}{% endthumbnail %}{% endif %}">
         <table class="table table-condensed event-table">
             <tbody>
             <tr>
@@ -75,7 +75,7 @@
                 <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
                          data-href="{{ eventt.get_absolute_url }}">
                     <div class="pull-left">
-                        {% if eventt.picture %}
+                        {% if eventt.valid_picture %}
                             {% thumbnail eventt.picture.file "240x135" crop='top' as im %}
                                 <img class="img-responsive hidden-xs" alt="" src="{{ im.url }}"/>
                             {% endthumbnail %}

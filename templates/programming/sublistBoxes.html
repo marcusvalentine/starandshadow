@@ -9,7 +9,7 @@
 <h2>{{ eventt.typeName }}: <a href="{{ eventt.get_absolute_url }}">{{ eventt.listHeading|title }}</a></h2>
 <h3>{{ eventt.start|date:"TIME_FORMAT" }}</h3>
 <p>
-    {% if eventt.picture %}{% thumbnail eventt.picture.file "150x150" as im %}
+    {% if eventt.valid_picture %}{% thumbnail eventt.picture.file "150x150" as im %}
         <img class="boxyimg" src="{{ im.url }}" alt="" width="{{ im.width }}" height="{{ im.height }}">
     {% endthumbnail %}{% endif %}
     {{ eventt.summary|sanitize }}
