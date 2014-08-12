@@ -24,7 +24,7 @@ class Prog(object):
         if 'types' in kwargs:
             self.results = kwargs['types']
         else:
-            if 'all' in kwargs and kwargs['all'] == True:
+            if 'all' in kwargs and kwargs['all'] is True:
                 self.results = [Season.objects, Film.objects, Gig.objects, Event.objects, Festival.objects,
                                 Meeting.objects]
             else:

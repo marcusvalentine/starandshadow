@@ -74,6 +74,9 @@ class PlainFilmFormat(object):
             self.id = ff[0]
             self.name = ff[1]
 
+    def api_object_url(self):
+        return 'Nope'
+
 
 class SelectFilmFormatResource(Resource):
     id = fields.CharField(attribute='id')

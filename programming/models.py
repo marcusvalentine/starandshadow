@@ -59,7 +59,8 @@ class ProgrammeType(object):
 
     @property
     def approved(self):
-        return self.approval is not None
+        return self.confirmed is not None
+        #return self.approval is not None
 
     @property
     def valid(self):
@@ -548,4 +549,5 @@ class Meeting(models.Model, ProgrammeType, EventType):
     @property
     def longHeading(self):
         return "%s %s" % (self.shortDate, self.listHeading)
+
 
