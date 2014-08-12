@@ -111,12 +111,12 @@ class ProgrammeType(object):
         else:
             extramessages.append(
                 '<div class="message warning">This is a provisional booking.<button class="confirmitem" href="#">Confirm</button></div>')
-        if self.approved:
-            extramessages.append(
-                '<div class="message info">%s<button class="unapproveitem" href="#">Unapprove</button><div id="approvedialog" hidden></div></div>' % self.approval.itemapprovalinfo)
-        else:
-            extramessages.append(
-                '<div class="message warning">This %s is not approved.<button class="approvedialog" href="#">Approve</button><div id="approvedialog" hidden></div></div>' % self.typeName)
+        # if self.approved:
+        #     extramessages.append(
+        #         '<div class="message info">%s<button class="unapproveitem" href="#">Unapprove</button><div id="approvedialog" hidden></div></div>' % self.approval.itemapprovalinfo)
+        # else:
+        #     extramessages.append(
+        #         '<div class="message warning">This %s is not approved.<button class="approvedialog" href="#">Approve</button><div id="approvedialog" hidden></div></div>' % self.typeName)
         return extramessages
 
     @property
