@@ -129,7 +129,7 @@
         <div class="form-group">
 
             {% if event.typeName == 'Festival' or event.typeName == 'Season' %}
-                <label for="edit_endTime" class="col-lg-2 control-label">End Date:</label>
+                <label for="edit_endDate" class="col-lg-2 control-label">End Date:</label>
 
                 <div class="col-lg-4">
                     <input
@@ -142,7 +142,7 @@
                 </div>
             {% endif %}
 
-            {% if event.typeName == 'Festival' %}
+            {% if event.typeName == 'Gig' or event.typeName == 'Event' or event.typeName == 'Festival' %}
                 <label for="edit_endTime" class="col-lg-2 control-label">End Time:</label>
 
                 <div class="col-lg-4">
