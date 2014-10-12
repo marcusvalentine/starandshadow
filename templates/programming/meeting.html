@@ -30,7 +30,7 @@
                 <tr itemscope itemtype="http://schema.org/Person" hidden>
                     <td>Programmer:</td>
                     <td>
-                        <span data-modelfield="programmer" data-fieldtype="ForeignKey" data-fieldvalue="{{ event.programmer.id }}" data-fieldapiurl="{{ event.programmer.api_list_url }}">
+                        <span data-modelfield="programmer" data-fieldtype="ForeignKey" data-fieldvalue="{{ event.programmer.id }}" data-fieldapiurl="{{ event.programmer.api_list_model_url }}">
                             <a itemprop="url" href="{{ event.programmer.get_absolute_url }}">
                                 <span itemprop="name">{{ event.programmer.name }}</span>
                             </a>

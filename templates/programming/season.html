@@ -33,7 +33,7 @@
 
     <div class="smallsublist">
         <header>
-            <h3>Films in the {{ maintitle|title }} season:</h3>
+            <h3>{{ maintitle|title }} films:</h3>
         </header>
         {% for day,events in prog %}{% for eventt in events %}
             <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"

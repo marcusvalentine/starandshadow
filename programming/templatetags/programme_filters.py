@@ -6,6 +6,7 @@ from BeautifulSoup import BeautifulSoup
 import re
 from sorl.thumbnail import get_thumbnail
 from fileupload.models import Picture
+from programming.models import Season
 from django.utils.formats import date_format
 
 register = template.Library()
@@ -16,7 +17,7 @@ register = template.Library()
 def sanitize(value):
     parenty = re.compile(r'"(\.\.\/)+', re.MULTILINE | re.IGNORECASE)
     value = parenty.sub(r'"/', value)
-    #oldstyle = re.compile(r'<b>(.*?)</b>', re.MULTILINE | re.IGNORECASE)
+    # oldstyle = re.compile(r'<b>(.*?)</b>', re.MULTILINE | re.IGNORECASE)
     #value = oldstyle.sub(r'<strong>\1</strong>', value)
     #oldstyle = re.compile(r'<i>(.*?)</i>', re.MULTILINE | re.IGNORECASE)
     #value = oldstyle.sub(r'<em>\1</em>', value)
@@ -178,9 +179,9 @@ def md(event, fieldName=None):
             itemprop = ''
         else:
             itemprop = ' itemprop="%s"' % MDPROPS[fieldName]
-            #     return '<span itemprop="name" data-bind="text:title">{{ maintitle|title }}</span>'
+            # return '<span itemprop="name" data-bind="text:title">{{ maintitle|title }}</span>'
         # elif fieldName == 'festivals':
-        #     festivals = []
+        # festivals = []
         #     for festival in event.festival_set.all():
         #         festivals.append(
         #             '''<h3 itemprop="superEvent" itemscope itemtype="http://schema.org/Event">'''
@@ -279,15 +280,24 @@ def md(event, fieldName=None):
                     getattr(event, fieldName),
                 ))
         elif fieldName == 'season':
+            season = getattr(event, fieldName)
+            if season is None:
+                season = Season.objects.get(id=2)
+            if season.id == 2:
+                visibility = ''' style="display: none;"'''
+            else:
+                visibility = ''
             return mark_safe(
-                '''Part of the <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a> Season'''
+                '''<h3%s data-bind="visible: %s()">Part of <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a></h3>'''
                 % (
-                    getattr(event, fieldName).get_absolute_url(),
+                    visibility,
+                    'selectedVisible' + fieldName,
+                    season.get_absolute_url(),
                     fieldName,
                     itemprop + ' itemscope itemtype="http://schema.org/Event"',
                     'selectedLink' + fieldName,
                     'selectedLabel' + fieldName,
-                    getattr(event, fieldName),
+                    season,
                 ))
         elif fieldName == 'meeting':
             return mark_safe(

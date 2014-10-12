@@ -12,7 +12,11 @@ class Picture(models.Model):
     _display = None
 
     def __unicode__(self):
-        return self.file.name
+        try:
+            return self.file.name
+        except IOError:
+            return 100
+
 
     @models.permalink
     def get_absolute_url(self):
@@ -34,7 +38,7 @@ class Picture(models.Model):
             return '/api/1/picture/%s/' % self.id
 
     @property
-    def api_list_url(self):
+    def api_list_model_url(self):
         return '/api/1/selectpicture/'
 
     @property
@@ -43,47 +47,71 @@ class Picture(models.Model):
 
     @property
     def width(self):
-        return self.file.width
+        try:
+            return self.file.width
+        except IOError:
+            return 100
 
     @property
     def height(self):
-        return self.file.height
+        try:
+            return self.file.height
+        except IOError:
+            return 100
 
     @property
     def thumbnailSrc(self):
-        if self._thumbnail is None:
-            self._thumbnail = get_thumbnail(self, '100x100', crop='top')
-        return self._thumbnail.url
+        try:
+            if self._thumbnail is None:
+                self._thumbnail = get_thumbnail(self, '100x100', crop='top')
+            return self._thumbnail.url
+        except IOError:
+            return ''
 
     @property
     def thumbnailHeight(self):
-        if self._thumbnail is None:
-            self._thumbnail = get_thumbnail(self, '100x100', crop='top')
-        return self._thumbnail.height
+        try:
+            if self._thumbnail is None:
+                    self._thumbnail = get_thumbnail(self, '100x100', crop='top')
+            return self._thumbnail.height
+        except IOError:
+            return 100
 
     @property
     def thumbnailWidth(self):
-        if self._thumbnail is None:
-            self._thumbnail = get_thumbnail(self, '100x100', crop='top')
-        return self._thumbnail.width
+        try:
+            if self._thumbnail is None:
+                self._thumbnail = get_thumbnail(self, '100x100', crop='top')
+            return self._thumbnail.width
+        except IOError:
+            return 100
 
     @property
     def displaySrc(self):
-        if self._display is None:
-            self._display = get_thumbnail(self, "400")
-        return self._display.url
+        try:
+            if self._display is None:
+                self._display = get_thumbnail(self, "400")
+            return self._display.url
+        except IOError:
+            return 400
 
     @property
     def displayHeight(self):
-        if self._display is None:
-            self._display = get_thumbnail(self, "400")
-        return self._display.height
+        try:
+            if self._display is None:
+                self._display = get_thumbnail(self, "400")
+            return self._display.height
+        except IOError:
+            return 400
 
     @property
     def displayWidth(self):
-        if self._display is None:
-            self._display = get_thumbnail(self, "400")
-        return self._display.width
+        try:
+            if self._display is None:
+                self._display = get_thumbnail(self, "400")
+            return self._display.width
+        except IOError:
+            return 400
 
     def save(self, *args, **kwargs):
         self.slug = self.file.name.split('/')[-1]

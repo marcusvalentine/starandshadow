@@ -32,7 +32,7 @@ class MicroformatModel(object):
         return '''<img  data-modelfield="picture"
                         data-fieldtype="ForeignKeyPicture"
                         data-fieldvalue="{{ event.picture.id }}"
-                        data-fieldapiurl="{{ event.picture.api_list_url }}"
+                        data-fieldapiurl="{{ event.picture.api_list_model_url }}"
                         itemprop="image"
                         src="{{ im.url }}"
                         data-src="{{ event.picture.get_img_url }}"

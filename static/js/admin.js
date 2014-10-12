@@ -343,12 +343,10 @@ function EventViewModel(data) {
         var fieldname = $(this).attr('data-fieldname');
         var fieldvalue = $(this).attr('data-fieldvalue');
         self['select' + fieldname] = ko.observableArray([]);
-        self['selected' + fieldname] = ko.observable(fieldvalue);
         self['selectedLink' + fieldname] = ko.computed(function () {
             var items = self['select' + fieldname]();
-            var si = self['selected' + fieldname]()
             for (var i = 0; i < items.length; i++) {
-                if (items[i].id == si) {
+                if (items[i].resource_uri == self[fieldname]()) {
                     return items[i].absolute_url;
                 }
             }
@@ -356,9 +354,8 @@ function EventViewModel(data) {
         })
         self['selectedLabel' + fieldname] = ko.computed(function () {
             var items = self['select' + fieldname]();
-            var si = self['selected' + fieldname]()
             for (var i = 0; i < items.length; i++) {
-                if (items[i].id == si) {
+                if (items[i].resource_uri == self[fieldname]()) {
                     if (typeof items[i].name == 'undefined') {
                         return items[i].title;
                     } else {
@@ -368,9 +365,12 @@ function EventViewModel(data) {
             }
             return '';
         })
+        self['selectedVisible' + fieldname] = ko.computed(function () {
+            return ((fieldname == 'season') && (self[fieldname]() != '/api/1/selectseason/2/'));
+        })
         $.getJSON($(this).attr('data-fieldapiurl') + '?limit=0', function (data) {
             self['select' + fieldname](data.objects);
-            self['selected' + fieldname](fieldvalue);
+            self[fieldname](fieldvalue);
         })
     })
 

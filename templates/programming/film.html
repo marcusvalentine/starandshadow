@@ -17,7 +17,7 @@
 
     {{ event|md:"picture" }}
 
-    <h3>{{ event|md:"season" }}</h3>
+    {{ event|md:"season" }}
 
     {{ event|md:"festivals" }}
 
@@ -65,13 +65,13 @@
 
     </div>
 
-    {% if event.season.title != 'None' %}
+    {% if prog %}
 
         <div class="smallsublist">
             <header>
-                <h3>Films in the <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a> season:</h3>
+                <h3>Other <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a> films:</h3>
             </header>
-            {% for day,events in prog %}{% for eventt in events %}
+            {% for day,events in prog %}{% for eventt in events %}{% if eventt != event %}
                 <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
                          data-href="{{ eventt.get_absolute_url }}">
                     <div class="pull-left">
@@ -102,7 +102,7 @@
 
                     <p class="viewlink"><a href="{{ eventt.get_absolute_url }}">Read More &raquo;</a></p>
 
-                </section>{% endfor %}{% endfor %}
+                </section>{% endif %}{% endfor %}{% endfor %}
         </div>
 
     {% endif %}

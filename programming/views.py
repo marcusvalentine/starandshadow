@@ -88,7 +88,7 @@ def film(request, id):
         event.programmer = Programmer.objects.get(user=request.user)
         event.director = 'Unknown'
         event.certificate = Rating.objects.get(pk=1)
-        event.season = Season.objects.get(pk=2)
+        event.season = None
         event.startTime = time(19, 30)
         try:
             year = int(request.GET['year'])
@@ -102,7 +102,8 @@ def film(request, id):
         event.save()
     else:
         event = get_object_or_404(Film, id=id)
-    if event.season.title == 'None':
+    if event.season is None:
+        event.season = Season.objects.get(id=2)
         prog = None
     else:
         prog = Prog(type=[Film.objects, ], season=event.season, public=True, approved=True)

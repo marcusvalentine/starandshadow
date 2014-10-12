@@ -1,6 +1,6 @@
 from django.forms import ModelForm, ChoiceField, ModelChoiceField
 from django.db import models
-from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, FILM_FORMATS, MEETING_TYPES
+from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, FilmFormat, MEETING_TYPES
 from organisation.models import Minutes, BoxOfficeReturn
 
 
@@ -62,7 +62,7 @@ class FilmForm(ModelForm, FormMedia):
     error_css_class = 'errorField'
     required_css_class = 'requiredField'
     certificate = ModelChoiceField(queryset=Rating.objects.all(), empty_label=None)
-    filmFormat = ChoiceField(choices=FILM_FORMATS)
+    filmFormat = ModelChoiceField(queryset=FilmFormat.objects.all(), empty_label=None)
     season = ModelChoiceField(queryset=Season.objects.all().order_by('title'), empty_label=None)
     formfield_callback = custom_widgets
 
@@ -75,7 +75,7 @@ class FilmAdminForm(ModelForm, FormMedia):
     error_css_class = 'errorField'
     required_css_class = 'requiredField'
     certificate = ModelChoiceField(queryset=Rating.objects.all(), empty_label=None)
-    filmFormat = ChoiceField(choices=FILM_FORMATS)
+    filmFormat = ModelChoiceField(queryset=FilmFormat.objects.all(), empty_label=None)
     season = ModelChoiceField(queryset=Season.objects.all().order_by('title'), empty_label=None)
     formfield_callback = custom_widgets
 

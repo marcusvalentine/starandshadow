@@ -41,7 +41,7 @@ class Menu(models.Model):
 </div>''' % self.asUl()
 
     @property
-    def api_list_url(self):
+    def api_list_model_url(self):
         return '/api/select/menu/'
 
 
@@ -68,7 +68,7 @@ class Page(models.Model):
         return '<li>%s%s</li>' % (self.prettyLink(), extraContent)
 
     @property
-    def api_list_url(self):
+    def api_list_model_url(self):
         return '/api/select/page/'
 
     @property

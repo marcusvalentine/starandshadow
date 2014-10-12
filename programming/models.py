@@ -9,10 +9,6 @@ from django.utils import timezone
 from datetime import time
 from django.conf import settings
 
-FILM_FORMATS = (
-    ("Unknown", "Unknown"), ("16mm", "16mm"), ("35mm", "35mm"), ("DVD", "DVD"), ("VHS", "VHS"),
-    ("DigiBeta", "DigiBeta"),
-    ("Various", "Various"), ("Other", "Other"))
 MEETING_TYPES = (
     ('General Meeting', 'General Meeting'),
     ('Programming Meeting', 'Programming Meeting'),
@@ -82,8 +78,15 @@ class ProgrammeType(object):
             return '/api/1/%s/%s/' % (self.typeName.lower(), self.id)
 
     @property
-    def api_list_url(self):
+    def api_list_model_url(self):
         return '/api/1/select%s/' % self.typeName.lower()
+
+    @property
+    def api_list_object_url(self):
+        if self.id is None:
+            return '/api/1/select%s/' % self.typeName.lower()
+        else:
+            return '/api/1/select%s/%s/' % (self.typeName.lower(), self.id)
 
     @property
     def get_link(self):
@@ -251,6 +254,16 @@ class Rating(models.Model, ProgrammeType):
     smallImage = models.ImageField(blank=True, upload_to='img/rating')
 
 
+class FilmFormat(models.Model, ProgrammeType):
+    class Meta:
+        ordering = ['name']
+
+    def __unicode__(self):
+        return self.name
+
+    name = models.CharField(max_length=20)
+
+
 class Season(models.Model, ProgrammeType, EventType):
     class Meta:
         ordering = ['startDate']
@@ -312,8 +325,8 @@ class Film(models.Model, ProgrammeType, EventType):
     lang = models.CharField(blank=True, max_length=150)
     country = models.CharField(blank=True, max_length=150)
     certificate = models.ForeignKey(Rating)
-    filmFormat = models.CharField(max_length=15, choices=FILM_FORMATS, default="Unknown")
-    season = models.ForeignKey(Season)
+    filmFormat = models.ForeignKey(FilmFormat)
+    season = models.ForeignKey(Season, blank=True, null=True, on_delete=models.SET_NULL)
     picture = models.ForeignKey(Picture, blank=True, null=True)
     notes = models.TextField(blank=True, )
     programmer = models.ForeignKey(Programmer)
@@ -387,6 +400,11 @@ Language: %(lang)s
         except IndexError:
             length = ''
         return 'PT%sM' % length
+
+    def save(self, *args, **kwargs):
+        if self.season_id == 2:
+            self.season = None
+        super(Film, self).save(*args, **kwargs)
 
 
 class Gig(models.Model, ProgrammeType, EventType):

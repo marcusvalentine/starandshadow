@@ -1,9 +1,9 @@
-from programming.models import Season, Film, Gig, Event, Festival, Programmer, Rating, Meeting, FILM_FORMATS
+from programming.models import Season, Film, Gig, Event, Festival, Programmer, Rating, Meeting, FilmFormat
 from content.models import Page, Menu, Document
 from fileupload.models import Picture
 from organisation.models import Minutes, Approval
 from tastypie import fields
-from tastypie.resources import Resource, ModelResource
+from tastypie.resources import ModelResource
 from tastypie.authentication import SessionAuthentication
 from tastypie.authorization import Authorization
 
@@ -42,6 +42,14 @@ class SelectRatingResource(ModelResource):
         allowed_methods = ['get', ]
 
 
+class SelectFilmFormatResource(ModelResource):
+    class Meta:
+        queryset = FilmFormat.objects.all().order_by('name')
+        fields = ['name', 'id']
+        # TODO: include_absolute_url = True
+        allowed_methods = ['get', ]
+
+
 class SelectCertificateResource(ModelResource):
     class Meta:
         resource_name = 'certificate'
@@ -66,28 +74,6 @@ class SelectPictureResource(ModelResource):
         queryset = Picture.objects.all().order_by('-modified', '-id')
         include_absolute_url = True
         allowed_methods = ['get', ]
-
-
-class PlainFilmFormat(object):
-    def __init__(self, ff=None):
-        if ff is not None:
-            self.id = ff[0]
-            self.name = ff[1]
-
-    def api_object_url(self):
-        return 'Nope'
-
-
-class SelectFilmFormatResource(Resource):
-    id = fields.CharField(attribute='id')
-    name = fields.CharField(attribute='name')
-
-    class Meta:
-        include_absolute_url = True
-        object_class = PlainFilmFormat
-
-    def obj_get_list(self, request=None, **kwargs):
-        return [PlainFilmFormat(ff) for ff in FILM_FORMATS]
 
 
 class SelectApprovalResource(ModelResource):
@@ -126,7 +112,8 @@ class SeasonResource(ModelResource):
 
 class FilmResource(ModelResource):
     certificate = fields.ForeignKey(SelectRatingResource, 'certificate')
-    season = fields.ForeignKey(SelectSeasonResource, 'season')
+    season = fields.ForeignKey(SelectSeasonResource, 'season', null=True)
+    filmFormat = fields.ForeignKey(SelectFilmFormatResource, 'filmFormat', null=True)
     picture = fields.ForeignKey(SelectPictureResource, 'picture', null=True)
     programmer = fields.ForeignKey(SelectProgrammerResource, 'programmer')
     approval = fields.ForeignKey(SelectApprovalResource, 'approval', null=True)
@@ -184,10 +171,10 @@ class MeetingResource(ModelResource):
 
 
 # class MinutesResource(ModelResource):
-#     meeting = fields.ForeignKey(MeetingResource, 'meeting')
+# meeting = fields.ForeignKey(MeetingResource, 'meeting')
 #
-#     class Meta:
-#         queryset = Minutes.objects.all()
+# class Meta:
+# queryset = Minutes.objects.all()
 #         authentication = SessionAuthentication()
 #         authorization = Authorization()
 

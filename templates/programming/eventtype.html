@@ -85,10 +85,10 @@
                     name="programmer"
                     type="text"
                     class="form-control input-sm"
-                    data-fieldapiurl="{{ event.programmer.api_list_url }}"
+                    data-fieldapiurl="{{ event.programmer.api_list_model_url }}"
                     data-fieldname="programmer"
-                    data-fieldvalue="{{ event.programmer.id }}"
-                    data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'id', value: selectedprogrammer"
+                    data-fieldvalue="{{ event.programmer.api_list_object_url }}"
+                    data-bind="options: selectprogrammer, optionsText: 'name', optionsValue: 'resource_uri', value: programmer"
                     >
             </select>
         </div>
@@ -192,7 +192,7 @@
             {% if event.valid_picture %}
                 <img
                         id="edit_picture" name="picture" type="text"
-                        data-fieldpapiurl="{{ event.picture.api_list_url }}"
+                        data-fieldpapiurl="{{ event.picture.api_list_model_url }}"
                         data-fieldname="picture"
                         data-fieldvalue="{{ event.picture.id }}"
                         data-bind="attr: { src: pictureData().thumbnailSrc, width: pictureData().thumbnailWidth, height: pictureData().thumbnailHeight }"
@@ -310,10 +310,10 @@
                         name="certificate"
                         type="text"
                         class="form-control input-sm"
-                        data-fieldapiurl="{{ event.certificate.api_list_url }}"
+                        data-fieldapiurl="{{ event.certificate.api_list_model_url }}"
                         data-fieldname="certificate"
-                        data-fieldvalue="{{ event.certificate.id }}"
-                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'id', value: selectedcertificate"
+                        data-fieldvalue="{{ event.certificate.api_list_object_url }}"
+                        data-bind="options: selectcertificate, optionsText: 'name', optionsValue: 'resource_uri', value: certificate"
                         >
                 </select>
             </div>
@@ -330,10 +330,10 @@
                         name="filmFormat"
                         type="text"
                         class="form-control input-sm"
-                        data-fieldapiurl="/api/1/selectfilmformat/"
+                        data-fieldapiurl="{{ event.filmFormat.api_list_model_url }}"
                         data-fieldname="filmFormat"
-                        data-fieldvalue="{{ event.filmFormat }}"
-                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'id', value: selectedfilmFormat"
+                        data-fieldvalue="{{ event.filmFormat.api_list_object_url }}"
+                        data-bind="options: selectfilmFormat, optionsText: 'name', optionsValue: 'resource_uri', value: filmFormat"
                         >
                 </select>
             </div>
@@ -342,11 +342,14 @@
 
             <div class="col-lg-4">
                 <select
-                        id="edit_season" name="season" type="text" class="form-control input-sm"
-                        data-fieldapiurl="{{ event.season.api_list_url }}"
+                        id="edit_season"
+                        name="season"
+                        type="text"
+                        class="form-control input-sm"
+                        data-fieldapiurl="{{ event.season.api_list_model_url }}"
                         data-fieldname="season"
-                        data-fieldvalue="{{ event.season.id }}"
-                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'id', value: selectedseason"
+                        data-fieldvalue="{{ event.season.api_list_object_url }}"
+                        data-bind="options: selectseason, optionsText: 'title', optionsValue: 'resource_uri', value: season"
                         >
                 </select>
             </div>
