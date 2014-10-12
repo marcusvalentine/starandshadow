@@ -288,7 +288,7 @@ def md(event, fieldName=None):
             else:
                 visibility = ''
             return mark_safe(
-                '''<h3%s data-bind="visible: %s()">Part of <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a></h3>'''
+                '''<h3%s data-bind="visible: %s()">Part of the <a href="%s" class="%s"%s data-bind="attr:{href:%s},text:%s">%s</a></h3>'''
                 % (
                     visibility,
                     'selectedVisible' + fieldName,
