@@ -6051,7 +6051,6 @@ body.authenticated {
   -moz-box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
   -webkit-box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
-  -webkit-filter: hue-rotate(360deg);
 }
 #adminarea {
   float: left !important;
@@ -6361,8 +6360,8 @@ ul.qq-upload-list {
 .qq-upload-button div {
   padding: 6px 12px;
 }
-button#imageupload {
-  padding: 0;
+div#imageupload {
+  padding: 0 !important;
 }
 @media screen and (min-width: 768px) {
   #picturepicker .modal-dialog {

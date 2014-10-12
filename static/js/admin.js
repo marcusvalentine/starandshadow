@@ -57,6 +57,7 @@ function createImagePicker(insertAt, selected_callback, jsonUrl) {
     );
 }
 
+
 function appendImages(data, imagelist, modal_div, selected_callback) {
     $.each(data, function (index, item) {
         imagelist.append(
@@ -72,15 +73,15 @@ function appendImages(data, imagelist, modal_div, selected_callback) {
                 .attr('data-itemfieldvalue', item.resource_uri)
                 .attr('data-itemdisplaysrc', item.displaySrc)
                 .append(
-                    $('<a class="thumbnail" />').append(
-                        $('<img/>', {
-                            src: item.thumbnailSrc,
-                            height: item.thumbnailHeight,
-                            width: item.thumbnailWidth,
-                            alt: ''
-                        })
-                    )
+                $('<a class="thumbnail" />').append(
+                    $('<img/>', {
+                        src: item.thumbnailSrc,
+                        height: item.thumbnailHeight,
+                        width: item.thumbnailWidth,
+                        alt: ''
+                    })
                 )
+            )
         );
     });
 }
@@ -203,35 +204,51 @@ function EventViewModel(data) {
     });
 
     self.confirmedClass = ko.computed(function () {
-        if (self.confirmed()) { return 'btn btn-success btn-sm'; }
+        if (self.confirmed()) {
+            return 'btn btn-success btn-sm';
+        }
         return 'btn btn-danger btn-sm';
     });
 
-    self.toggleConfirmed = function() { self.confirmed(!self.confirmed()); };
+    self.toggleConfirmed = function () {
+        self.confirmed(!self.confirmed());
+    };
 
     self.featuredText = ko.computed(function () {
-        if (self.featured()) { return 'Featured'; }
+        if (self.featured()) {
+            return 'Featured';
+        }
         return 'Normal';
     });
 
     self.featuredClass = ko.computed(function () {
-        if (self.featured()) { return 'btn btn-info btn-sm'; }
+        if (self.featured()) {
+            return 'btn btn-info btn-sm';
+        }
         return 'btn btn-default btn-sm';
     });
 
-    self.toggleFeatured = function() { self.featured(!self.featured()); };
+    self.toggleFeatured = function () {
+        self.featured(!self.featured());
+    };
 
     self.privateText = ko.computed(function () {
-        if (self.private()) { return 'Private'; }
+        if (self.private()) {
+            return 'Private';
+        }
         return 'Public';
     });
 
     self.privateClass = ko.computed(function () {
-        if (self.private()) { return 'btn btn-warning btn-sm'; }
+        if (self.private()) {
+            return 'btn btn-warning btn-sm';
+        }
         return 'btn btn-default btn-sm';
     });
 
-    self.togglePrivate = function() { self.private(!self.private()); };
+    self.togglePrivate = function () {
+        self.private(!self.private());
+    };
 
     self.showYear = ko.computed(function () {
         if (typeof(self.year) != 'undefined' && self.year() != '') {
