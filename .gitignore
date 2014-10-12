@@ -1,14 +1,5 @@
 *.pyc
 static/cache
-static/doc/minutes
-static/doc/programme
-static/img/content
-static/img/events
-static/img/programme
-static/img/programmer
-static/img/rating
-static/js/libs
-static/css/libs
 settings_local.py
 venv
 .idea
