@@ -29,6 +29,7 @@ class Prog(object):
                                 Meeting.objects]
             else:
                 self.results = [Film.objects, Gig.objects, Event.objects, Festival.objects, Meeting.objects]
+        self.results = [r.filter(deleted=False) for r in self.results]
         self.filter(**kwargs)
         if 'cal' in kwargs:
             self.cal = kwargs['cal']

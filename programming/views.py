@@ -1,5 +1,6 @@
 from django.template import RequestContext
 from django.shortcuts import render_to_response, get_object_or_404
+from django.http import Http404
 from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, Picture
 from organisation.models import ApprovalSet
 from lib.utils import ssDate, Prog
@@ -69,6 +70,9 @@ def season(request, id):
         event.save()
     else:
         event = get_object_or_404(Season, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
     prog = Prog(type=[Film.objects, ], season=event, public=True, approved=True)
     return render_to_response('programming/season.html',
                               {
@@ -102,6 +106,9 @@ def film(request, id):
         event.save()
     else:
         event = get_object_or_404(Film, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
     if event.season is None:
         event.season = Season.objects.get(id=2)
         prog = None
@@ -138,6 +145,9 @@ def gig(request, id):
         event.save()
     else:
         event = get_object_or_404(Gig, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
     return render_to_response('programming/gig.html',
                               {
                                   'maintitle': event.title,
@@ -167,6 +177,9 @@ def event(request, id):
         event.save()
     else:
         event = get_object_or_404(Event, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
     return render_to_response('programming/event.html',
                               {
                                   'maintitle': event.title,
@@ -188,6 +201,9 @@ def festival(request, id):
         event.endTime = time(19, 30)
     else:
         event = get_object_or_404(Festival, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
     prog = Prog(festival=event, public=True, approved=True)
     return render_to_response('programming/festival.html',
                               {
@@ -220,6 +236,9 @@ def meeting(request, id):
         event.save()
     else:
         event = get_object_or_404(Meeting, id=id)
+        if not request.user.is_authenticated():
+            if event.deleted or not event.confirmed:
+                raise Http404
         if event.startDateTime > timezone.now():
             meetingInFuture = True
             # Meeting starts in the future, so cannot have approvalSet.  We're ignoring the fact that one nevertheless may exist.

@@ -452,7 +452,7 @@ function EventViewModel(data) {
                 dataType: 'json',
                 data: ko.mapping.toJSON(self),
                 success: function () {
-                    $('#save_message').modal();
+                    $('#save_message').modal().on('hidden.bs.modal', function (e) { window.location.replace('?editing'); });
                 },
                 error: function () {
                     $('#save_error').modal();
@@ -465,8 +465,13 @@ function EventViewModel(data) {
     };
 
     self.deleteEvent = function () {
-        alert('To do');
-        // TODO: deleting
+        self.deleted = true;
+        self.save();
+    };
+
+    self.restoreEvent = function () {
+        self.deleted = false;
+        self.save();
     };
 
 }
@@ -516,3 +521,7 @@ var cancelEdit = function () {
 }
 
 $('#start_edit').on('click.edit_event', startEdit);
+
+if (location.search.indexOf('?editing') >= 0) {
+    $('#start_edit').trigger('click.edit_event');
+}

@@ -9,6 +9,20 @@
     </button>
 {% endblock %}
 
+{% block extraContentBefore %}
+    {% if event.deleted %}
+        <br/>
+        <div class="alert alert-danger" role="alert">This item has been deleted.</div>
+    {% endif %}
+{% endblock %}
+
+{% block extraContentAfter %}
+    {% if event.deleted %}
+        <br/>
+        <div class="alert alert-danger" role="alert">This item has been deleted.</div>
+    {% endif %}
+{% endblock %}
+
 {% block adminarea %}
     <div id="adminarea" hidden>
 
@@ -45,7 +59,7 @@
                             <h4 class="modal-title">Save Error!</h4>
                         </div>
                         <div class="modal-body">
-                            <p>An error occurred.  Your changes have not been saved, please try again.</p>
+                            <p>An error occurred. Your changes have not been saved, please try again.</p>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
@@ -53,9 +67,9 @@
                     </div>
                 </div>
             </div>
-{#            <button type="button" id="cancel_edit" class="btn btn-warning top-button">#}
-{#                <span class="glyphicon glyphicon-remove"></span> Cancel#}
-{#            </button>#}
+            {#            <button type="button" id="cancel_edit" class="btn btn-warning top-button">#}
+            {#                <span class="glyphicon glyphicon-remove"></span> Cancel#}
+            {#            </button>#}
         </div>
     </div>
 
@@ -221,7 +235,9 @@
                             <ul id="picturelist"></ul>
                         </div>
                         <div class="modal-footer">
-                            <div id="imageupload" class="btn btn-primary"><button type="button">Add New</button></div>
+                            <div id="imageupload" class="btn btn-primary">
+                                <button type="button">Add New</button>
+                            </div>
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -366,7 +382,8 @@
                     type="button"
                     data-bind="css: confirmedClass, text: confirmedText, click: toggleConfirmed"
                     class="btn btn-default btn-sm"
-            >Confirmed?</button>
+                    >Confirmed?
+            </button>
         </div>
 
         <div class="col-lg-3">
@@ -374,7 +391,8 @@
                     type="button"
                     data-bind="css: featuredClass, text: featuredText, click: toggleFeatured"
                     class="btn btn-default btn-sm"
-            >Featured?</button>
+                    >Featured?
+            </button>
         </div>
 
         <div class="col-lg-4">
@@ -382,7 +400,8 @@
                     type="button"
                     data-bind="css: privateClass, text: privateText, click: togglePrivate"
                     class="btn btn-default btn-sm"
-            >Private?</button>
+                    >Private?
+            </button>
         </div>
 
     </div>
@@ -417,6 +436,20 @@
                     data-bind="value: notes, valueUpdate: 'afterkeydown'"
                     rows="5">
             </textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-lg-10 col-lg-offset-2">
+            {% if event.deleted %}
+                <button type="button" data-bind="click: restoreEvent" id="restore_edit" class="btn btn-warning top-button">
+                    <span class="glyphicon glyphicon-refresh"></span> Restore
+                </button>
+            {% else %}
+                <button type="button" data-bind="click: deleteEvent" id="delete_edit" class="btn btn-danger top-button">
+                    <span class="glyphicon glyphicon-remove"></span> Delete
+                </button>
+            {% endif %}
         </div>
     </div>
 

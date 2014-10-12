@@ -55,7 +55,7 @@ class ProgrammeType(object):
 
     @property
     def approved(self):
-        return self.confirmed is not None
+        return self.confirmed is True
         #return self.approval is not None
 
     @property
@@ -280,6 +280,7 @@ class Season(models.Model, ProgrammeType, EventType):
     confirmed = models.BooleanField(default=False)
     private = models.BooleanField(default=False)
     featured = models.BooleanField(default=False)
+    deleted = models.BooleanField(default=False)
 
     @models.permalink
     def get_absolute_url(self):
@@ -334,6 +335,7 @@ class Film(models.Model, ProgrammeType, EventType):
     confirmed = models.BooleanField(default=False)
     private = models.BooleanField(default=False)
     featured = models.BooleanField(default=False)
+    deleted = models.BooleanField(default=False)
 
     @models.permalink
     def get_absolute_url(self):
@@ -423,6 +425,7 @@ class Gig(models.Model, ProgrammeType, EventType):
     confirmed = models.BooleanField(default=False)
     private = models.BooleanField(default=False)
     featured = models.BooleanField(default=False)
+    deleted = models.BooleanField(default=False)
 
     @models.permalink
     def get_absolute_url(self):
@@ -449,6 +452,7 @@ class Event(models.Model, ProgrammeType, EventType):
     confirmed = models.BooleanField(default=False)
     private = models.BooleanField(default=False)
     featured = models.BooleanField(default=False)
+    deleted = models.BooleanField(default=False)
 
     @models.permalink
     def get_absolute_url(self):
@@ -482,6 +486,7 @@ class Festival(models.Model, ProgrammeType, EventType):
     confirmed = models.BooleanField(default=False)
     private = models.BooleanField(default=False)
     featured = models.BooleanField(default=False)
+    deleted = models.BooleanField(default=False)
 
     @models.permalink
     def get_absolute_url(self):
@@ -499,6 +504,7 @@ class Meeting(models.Model, ProgrammeType, EventType):
     programmer = models.ForeignKey(Programmer, limit_choices_to={'id': 183})
     approval = models.ForeignKey('organisation.Approval', blank=True, null=True, on_delete=models.SET_NULL)
     private = False
+    deleted = models.BooleanField(default=False)
 
     @property
     def listHeading(self):
