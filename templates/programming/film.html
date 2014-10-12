@@ -69,7 +69,7 @@
 
         <div class="smallsublist">
             <header>
-                <h3>Other <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a> films:</h3>
+                <h3>Other films in the <a href="{{ event.season.get_absolute_url }}">{{ event.season }}</a>:</h3>
             </header>
             {% for day,events in prog %}{% for eventt in events %}{% if eventt != event %}
                 <section class="row dmod clickable {% cycle 'boxb' 'boxa' as boxy %} mo{{ day|date:"my" }}"
