@@ -1,8 +1,16 @@
 *.jpg
+*.JPG
 *.jpeg
+*.JPEG
 *.bmp
+*.BMP
 *.png
+*.PNG
 *.gif
+*.GIF
 *.xcf
+*.XCF
 *.tif
+*.TIF
 *.tiff
+*.TIFF

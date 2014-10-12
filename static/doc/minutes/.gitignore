@@ -1,5 +1,10 @@
 *.doc
+*.DOC
 *.docx
+*.DOCX
 *.txt
+*.TXT
 *.pdf
+*.PDF
 *.tex
+*.TEX
