@@ -14,7 +14,7 @@ class Picture(models.Model):
     def __unicode__(self):
         try:
             return self.file.name
-        except IOError:
+        except (IOError, IndexError):
             return 100
 
 
@@ -49,14 +49,14 @@ class Picture(models.Model):
     def width(self):
         try:
             return self.file.width
-        except IOError:
+        except (IOError, IndexError):
             return 100
 
     @property
     def height(self):
         try:
             return self.file.height
-        except IOError:
+        except (IOError, IndexError):
             return 100
 
     @property
@@ -65,7 +65,7 @@ class Picture(models.Model):
             if self._thumbnail is None:
                 self._thumbnail = get_thumbnail(self, '100x100', crop='top')
             return self._thumbnail.url
-        except IOError:
+        except (IOError, IndexError):
             return ''
 
     @property
@@ -74,7 +74,7 @@ class Picture(models.Model):
             if self._thumbnail is None:
                     self._thumbnail = get_thumbnail(self, '100x100', crop='top')
             return self._thumbnail.height
-        except IOError:
+        except (IOError, IndexError):
             return 100
 
     @property
@@ -83,7 +83,7 @@ class Picture(models.Model):
             if self._thumbnail is None:
                 self._thumbnail = get_thumbnail(self, '100x100', crop='top')
             return self._thumbnail.width
-        except IOError:
+        except (IOError, IndexError):
             return 100
 
     @property
@@ -92,7 +92,7 @@ class Picture(models.Model):
             if self._display is None:
                 self._display = get_thumbnail(self, "400")
             return self._display.url
-        except IOError:
+        except (IOError, IndexError):
             return 400
 
     @property
@@ -101,7 +101,7 @@ class Picture(models.Model):
             if self._display is None:
                 self._display = get_thumbnail(self, "400")
             return self._display.height
-        except IOError:
+        except (IOError, IndexError):
             return 400
 
     @property
@@ -110,7 +110,7 @@ class Picture(models.Model):
             if self._display is None:
                 self._display = get_thumbnail(self, "400")
             return self._display.width
-        except IOError:
+        except (IOError, IndexError):
             return 400
 
     def save(self, *args, **kwargs):
