@@ -1,7 +1,7 @@
 from django.template import RequestContext
 from django.shortcuts import render_to_response, get_object_or_404
 from django.http import Http404
-from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, Picture
+from programming.models import Programmer, Rating, Season, Film, Gig, Event, Festival, Meeting, Picture, FilmFormat
 from organisation.models import ApprovalSet
 from lib.utils import ssDate, Prog
 from django.utils import timezone
@@ -93,6 +93,7 @@ def film(request, id):
         event.director = 'Unknown'
         event.certificate = Rating.objects.get(pk=1)
         event.season = None
+        event.filmFormat = FilmFormat.objects.get(pk=1)
         event.startTime = time(19, 30)
         try:
             year = int(request.GET['year'])
