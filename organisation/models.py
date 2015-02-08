@@ -59,7 +59,7 @@ class ApprovalSet(models.Model):
 
     @property
     def approvals(self):
-        apps = [x for x in self.approval_set.all()]
+        apps = [x for x in self.approval_set.all() if x.event is not None]
         apps.sort(key=lambda x: x.event.startDateTime)
         return apps
 
