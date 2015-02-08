@@ -7,6 +7,7 @@ from django.dispatch import receiver
 from programming.models import Programmer
 import os
 from django.conf import settings
+from django.db import IntegrityError
 
 from django.contrib import admin
 
@@ -16,7 +17,10 @@ admin.autodiscover()
 @receiver(user_activated)
 def create_programmer(sender, user, request, **kwargs):
     p = Programmer(name=user.username, email=user.email, user=user)
-    p.save()
+    try:
+        p.save()
+    except IntegrityError:
+        pass
 
 
 api_v1 = Api(api_name='1')
