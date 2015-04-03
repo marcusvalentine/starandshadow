@@ -1,0 +1,88 @@
+{% extends "content/documenttype.html" %}
+{% load programme_filters %}
+
+{% block centralContent %}
+
+    {{ event|md }}
+    <meta itemprop="url" content="{{ event.get_absolute_url }}"/>
+
+    <header>
+        <h1>{{ event|md:"title" }}</h1>
+    </header>
+
+    <div class="bodysection">
+        <h2>Brochure</h2>
+
+        <p>If you would like to receive a copy of our programme through the post then please let us know your address by emailing <a href="mailto:info@starandshadow.org.uk?subject=Brochure">info@starandshadow.org.uk</a>.</p>
+
+        <h2>Email Lists</h2>
+
+        <p>If you would like to receive information by email you can sign up to some of our mailing lists.  The main lists are:</p>
+
+        <!--
+        <h4>Announce</h4>
+
+        <p>For announcements to cinema members and other interested people about screenings, gigs and other events at the cinema.</p>
+        -->
+
+        <h4>Volunteers</h4>
+
+        <p>To send messages to cinema volunteers about work going on at the cinema, and for organising work shifts.</p>
+
+        <form class="form-inline" method="post" action="http://www.simplelists.com/subscribe.php">
+            <div class="form-group">
+                <label class="sr-only" for="input_name_">Name</label>
+                <input type="text" name="name" class="form-control" id="input_name_volunteers" placeholder="Full Name">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="input_email_">Email</label>
+                <input type="email" name="email" class="form-control" id="input_email_volunteers" placeholder="Email Address">
+                <input type="hidden" name="digest" value="digest">
+                <input type="hidden" name="action" value="subscribe">
+                <input type="hidden" name="list" value="volunteers@lists.starandshadow.org.uk">
+            </div>
+            <button type="submit" class="btn btn-default">Subscribe</button>
+        </form>
+
+        <h4>Chat</h4>
+
+        <p>For chat between volunteers.</p>
+
+        <form class="form-inline" method="post" action="http://www.simplelists.com/subscribe.php">
+            <div class="form-group">
+                <label class="sr-only" for="input_name_">Name</label>
+                <input type="text" name="name" class="form-control" id="input_name_chat" placeholder="Full Name">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="input_email_">Email</label>
+                <input type="email" name="email" class="form-control" id="input_email_chat" placeholder="Email Address">
+                <input type="hidden" name="digest" value="digest">
+                <input type="hidden" name="action" value="subscribe">
+                <input type="hidden" name="list" value="chat@lists.starandshadow.org.uk">
+            </div>
+            <button type="submit" class="btn btn-default">Subscribe</button>
+        </form>
+
+        <h2>Social Media</h2>
+
+        <ul>
+            <li><a href="https://www.facebook.com/groups/2254137979/">Facebook</a></li>
+            <li><a href="https://twitter.com/StarAndShadow">Twitter</a></li>
+            <li><a href="http://instagram.com/starandshadowcinema/">Instagram</a></li>
+        </ul>
+    </div>
+
+    </div>
+
+{% endblock %}
+
+{% block extraContentAfter %}
+
+    {% if prog %}
+        <header>
+            <h3>Coming Soon:</h3>
+        </header>
+        {% include 'programming/sublist.html' %}
+    {% endif %}
+
+{% endblock %}

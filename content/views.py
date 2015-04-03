@@ -33,6 +33,18 @@ def page(request, linkText=''):
     )
 
 
+def pageSignup(request):
+    page = get_object_or_404(content.forms.Page, linkText='signup')
+    return render_to_response('signup.html',
+                              {
+                                  'maintitle': page.title,
+                                  'event': page,
+                                  'fillerImage': Picture.objects.get(id=789),
+                                  'prog': None,
+                              },
+                              context_instance=RequestContext(request)
+    )
+
 @login_required
 def documentEdit(request, id=None):
     if id is None:

@@ -113,6 +113,7 @@ urlpatterns += patterns(
     url(r'^work/review/?$', 'documentList', name='list-document'),
     url(r'^work/review/add/?$', 'documentAdd', name='add-document'),
     url(r'^work/review/(?P<documentId>\d+)/?$', 'documentView', name='view-document'),
+    (r'^signup/?$', 'pageSignup'),
     (r'^(?P<linkText>[\w\/-]+)/?$', 'page'),
     (r'^/?$', 'page'),
 )
