@@ -356,6 +356,7 @@ def changeLog(request):
                               {
                                   'maintitle': 'Change Log',
                                   'loglines': loglines,
+                                  'hiddenpage': True,
                               },
                               context_instance=RequestContext(request)
     )

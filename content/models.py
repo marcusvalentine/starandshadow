@@ -144,6 +144,9 @@ class Document(models.Model):
     def typeName(self):
         return 'document'
 
+    def prettyLink(self):
+        return '<a href="%s">%s</a>' % (self.get_absolute_url(), self.title)
+
     @property
     def api_url(self):
         return '/api/document/'

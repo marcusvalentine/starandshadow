@@ -3,7 +3,7 @@ from django.utils import timezone
 from django.core.mail import send_mail
 from django.db.models.signals import post_save, pre_delete
 from django.dispatch import receiver
-from reversion.models import Version
+import reversion
 from content.models import Page, Document
 from programming.models import Season, Film, Gig, Event, Festival, Meeting
 from organisation.models import LogItem, Approval
@@ -222,7 +222,7 @@ def contentChanged(sender, **kwargs):
     editing_user = CurrentUser().programmer
     if editing_user is None:
         editing_user = 'unknown'
-    l = LogItem(logtext='%s %s by %s.' % (item._meta.object_name, changetype, editing_user))
+    l = LogItem(logtext='%s "%s" %s by %s.' % (item._meta.object_name, item.prettyLink(), changetype, editing_user))
     l.save()
     message = '''%s "%s" has been %s on the website by %s.
 ''' % (
