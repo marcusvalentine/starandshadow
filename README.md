@@ -58,3 +58,22 @@ Make people aware of:
 Distinction between Approved and Confirmed.
 
 -----------------------
+
+Export docs:
+
+from content.models import Document
+from django.template import loader, Context
+import string
+
+t = loader.get_template('content/document-export.html')
+#ds = Document.objects.filter(id=412)
+ds = Document.objects.all()
+valid_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
+
+for d in ds:
+    fn = '%03d-%s-%s.html' % (d.id, d.author, d.title)
+    fn = ''.join(c for c in fn if c in valid_chars)
+    fn = fn.replace(' ','_')
+    print fn
+    with open('db_dumps/docs/%s' % fn, 'w') as o:
+        o.write(t.render(Context({'o': d})).encode('utf-8'))
