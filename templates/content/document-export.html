@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>{{ o.title }}</title>
+</head>
+<body>
+
+<ul>
+    <li>ID: {{ o.pk }}</li>
+    <li>Title: {{ o.title }}</li>
+    <li>Source: {{ o.source }}</li>
+    <li>Summary: {{ o.summary }}</li>
+    <li>Author: {{ o.author }}</li>
+    <li>Created: {{ o.created }}</li>
+    <li>Type: {{ o.type }}</li>
+</ul>
+
+<div>{{ o.body|safe }}</div>
+
+</body>
+</html>
