@@ -42,6 +42,7 @@
         {% endif %}
 
         <div class="bodysection"><div class="body">
+            {{ event|md:'body' }}
             {% if event.id %}{% if authenticated %}
                 <hr>
 {#                <h3>Event Approvals:</h3>#}

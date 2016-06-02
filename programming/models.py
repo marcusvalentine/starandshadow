@@ -502,9 +502,9 @@ class Meeting(models.Model, ProgrammeType, EventType):
     startDate = models.DateField()
     startTime = models.TimeField()
     programmer = models.ForeignKey(Programmer, limit_choices_to={'id': 183})
-    approval = models.ForeignKey('organisation.Approval', blank=True, null=True, on_delete=models.SET_NULL)
     private = False
     deleted = models.BooleanField(default=False)
+    body = models.TextField(blank=True, default='<p>DEFAULT PLACEHOLDER TEXT</p>')
 
     @property
     def listHeading(self):
