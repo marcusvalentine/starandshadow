@@ -243,27 +243,27 @@ def meeting(request, id):
         if event.startDateTime > timezone.now():
             meetingInFuture = True
             # Meeting starts in the future, so cannot have approvalSet.  We're ignoring the fact that one nevertheless may exist.
-            approvalSet = None
+            #approvalSet = None
         else:
             meetingInFuture = False
             # Meeting has begun and/or finished, so can have an approvalSet.
-            approvalSet = ApprovalSet.objects.filter(meeting=event)
-            if len(approvalSet) == 0:
-                approvalSet = ApprovalSet(meeting=event)
-                approvalSet.save()
-            elif len(approvalSet) == 1:
-                approvalSet = approvalSet[0]
-            else:
-                # TODO: better choice of exception here would be sensible.
-                raise Exception
-            approvalSet.approvals
+            #approvalSet = ApprovalSet.objects.filter(meeting=event)
+            #if len(approvalSet) == 0:
+            #    approvalSet = ApprovalSet(meeting=event)
+            #    approvalSet.save()
+            #elif len(approvalSet) == 1:
+            #    approvalSet = approvalSet[0]
+            #else:
+            #    # TODO: better choice of exception here would be sensible.
+            #    raise Exception
+            #approvalSet.approvals
     return render_to_response('programming/meeting.html',
                               {
                                   'maintitle': event.title,
                                   'event': event,
                                   'extramessage': event.extramessage(request),
                                   'meetingInFuture': meetingInFuture,
-                                  'approvalSet': approvalSet,
+                                  #'approvalSet': approvalSet,
                               },
                               context_instance=RequestContext(request)
     )

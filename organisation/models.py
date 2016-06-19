@@ -70,7 +70,7 @@ class Approval(models.Model):
 
     @property
     def event(self):
-        for itemset in ['season_set', 'film_set', 'gig_set', 'event_set', 'festival_set', 'meeting_set']:
+        for itemset in ['season_set', 'film_set', 'gig_set', 'event_set', 'festival_set']:
             related = self.__getattribute__(itemset).all()
             if len(related) == 1:
                 return related[0]
