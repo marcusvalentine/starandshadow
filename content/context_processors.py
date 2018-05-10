@@ -1,5 +1,6 @@
 from content.models import Menu
 from django.contrib import messages
+from django.utils.safestring import mark_safe
 
 
 def menus(request):
@@ -27,7 +28,7 @@ def menus(request):
 def authenticated(request):
     if request.user.is_authenticated():
         messages.info(request,
-                      'Logged in as %s <a class="button" href="/accounts/logout/">Logout</a>' % request.user.username)
+                      mark_safe('Logged in as %s <a class="button" href="/accounts/logout/">Logout</a>' % request.user.username))
         return {
             'authenticated': True,
             'user': request.user
