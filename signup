@@ -123,24 +123,73 @@
             
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
+    <div id="page-29" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="29" data-apiobjecturl="/api/1/page/29/">
     <meta itemprop="url" content=""/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Sign Up</span></h1>
     </header>
 
     <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
+        <h2>Brochure</h2>
+
+        <p>If you would like to receive a copy of our programme through the post then please let us know your address by emailing <a href="mailto:info@starandshadow.org.uk?subject=Brochure">info@starandshadow.org.uk</a>.</p>
+
+        <h2>Email Lists</h2>
+
+        <p>If you would like to receive information by email you can sign up to some of our mailing lists.  The main lists are:</p>
+
+        <!--
+        <h4>Announce</h4>
+
+        <p>For announcements to cinema members and other interested people about screenings, gigs and other events at the cinema.</p>
+        -->
+
+        <h4>Volunteers</h4>
+
+        <p>To send messages to cinema volunteers about work going on at the cinema, and for organising work shifts.</p>
+
+        <form class="form-inline" method="post" action="http://www.simplelists.com/subscribe.php">
+            <div class="form-group">
+                <label class="sr-only" for="input_name_">Name</label>
+                <input type="text" name="name" class="form-control" id="input_name_volunteers" placeholder="Full Name">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="input_email_">Email</label>
+                <input type="email" name="email" class="form-control" id="input_email_volunteers" placeholder="Email Address">
+                <input type="hidden" name="digest" value="digest">
+                <input type="hidden" name="action" value="subscribe">
+                <input type="hidden" name="list" value="volunteers@lists.starandshadow.org.uk">
+            </div>
+            <button type="submit" class="btn btn-default">Subscribe</button>
+        </form>
+
+        <h4>Chat</h4>
+
+        <p>For chat between volunteers.</p>
+
+        <form class="form-inline" method="post" action="http://www.simplelists.com/subscribe.php">
+            <div class="form-group">
+                <label class="sr-only" for="input_name_">Name</label>
+                <input type="text" name="name" class="form-control" id="input_name_chat" placeholder="Full Name">
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="input_email_">Email</label>
+                <input type="email" name="email" class="form-control" id="input_email_chat" placeholder="Email Address">
+                <input type="hidden" name="digest" value="digest">
+                <input type="hidden" name="action" value="subscribe">
+                <input type="hidden" name="list" value="chat@lists.starandshadow.org.uk">
+            </div>
+            <button type="submit" class="btn btn-default">Subscribe</button>
+        </form>
+
+        <h2>Social Media</h2>
+
+        <ul>
+            <li><a href="https://www.facebook.com/groups/2254137979/">Facebook</a></li>
+            <li><a href="https://twitter.com/StarAndShadow">Twitter</a></li>
+            <li><a href="http://instagram.com/starandshadowcinema/">Instagram</a></li>
+        </ul>
     </div>
 
     </div>

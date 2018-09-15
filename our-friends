@@ -123,24 +123,89 @@
             
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
+    <div id="page-23" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="23" data-apiobjecturl="/api/1/page/23/">
     <meta itemprop="url" content=""/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Our Friends</span></h1>
     </header>
 
     <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+ 
+ 
+  We have worked with all these groups.<p><b>A Bit Craic</b></p>
+<p><b>Alternative Pride</b></p>
+<p><b>AV Festival</b></p>
+<p><b>Baltic Centre for
+Arts</b></p>
+<p><b>Berwick Film Media
+and Arts Festival</b></p>
+<p><b>BFI (British Film
+Institute)</b></p>
+<p><b>Burnlaw Centre</b></p>
+<p><b>City Youth Orchestra</b></p>
+<p><b>Community Foundation</b></p>
+<p><b>CVAN (Contemporary
+Visual Arts Newtork)</b></p>
+<p><b>CVS Newcastle
+(Council for Voluntary Service)</b></p>
+<p><b>Divine Trash</b></p>
+<p><b>Durham University</b></p>
+<p><b>Festival of Thrift</b></p>
+<p><b>Film Bee </b></p>
+<p><b>Film Hub North</b></p>
+<p><b>Food Nation
+(Newcastle) / Harissa</b></p>
+<p><b>Friends of The Earth</b></p>
+<p><b>Furrow Records</b></p>
+<p><b>Green Festival</b></p>
+<p><b>Greenpeace Local
+Group</b></p>
+<p><b>Hands on Film Lab</b></p>
+<p><b>Heaton Manor School</b></p>
+<p><b>Hotspur School, </b></p>
+<p><b>Institute of Hazard
+Risk and Resiliance (Environmental Monitoring Group based in Geography dept Uni
+of Durham)</b></p>
+<p><b>Isis Arts</b></p>
+<p><b>Kino Climate Cinemas</b></p>
+<p><b>Lawnmower Independent
+Theatre Company</b></p>
+<p><b>Magic Hat Cafe</b></p>
+<p><b>NAGAS</b></p>
+<p><b>NARC Festival</b></p>
+<p><b>New Bridge Project</b></p>
+<p><b>Newcastle City
+Council</b></p>
+<p><b>Newcastle Community
+College</b></p>
+<p><b>Newcastle Philosophy
+Group</b></p>
+<p><b>Newcastle University</b></p>
+<p><b>Noize Choir</b></p>
+<p><b>Northumbria
+University</b></p>
+<p><b>Ouseburn Community
+Centre</b></p>
+<p><b>Ouseburn Trust</b></p>
+<p><b>Oxjam</b></p>
+<p><b>Pride North East</b></p>
+<p><b>Right to Remain</b></p>
+<p><b>Sandyford Residents
+Comittee</b></p>
+<p><b>Schumaker Society</b></p>
+<p><b>St Dominics
+Church </b></p>
+<p><b>Sunderland University</b></p>
+<p><b>The English Language
+Conversation Group</b></p>
+<p><b>TUSK</b></p>
+<p><b>Tyneside Cinema</b></p>
+<p><b>Under the Fields of
+Heaton Festival</b></p>
+<p><b>Wunderbar</b></p>
+</div>
     </div>
 
     </div>

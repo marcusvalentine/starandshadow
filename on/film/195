@@ -18,7 +18,7 @@
 
     <body>
 
-<div id="container" class="container documenttype">
+<div id="container" class="container eventtype">
     <div class="row">
         <div
                 itemscope
@@ -121,35 +121,78 @@
         <div id="main" role="main" class="col-md-10">
             
             
+    
+
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
-    <meta itemprop="url" content=""/>
+    <div id="film-195" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="195" data-apiobjecturl="/api/1/film/195/">
+    <meta itemprop="description" content="Wiseman doesn't frighten the audience with apocalyptic scenes of nuclear holocaust. Missile simply documents the step by step training of 4315 airborne squadron, the young men and women whose fingers are on the button. Litterally. " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/195"/>
+    <meta itemprop="duration" content="PT115M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Fred Wiseman Season: Missile</span><span class="year" itemprop="copyrightyear" content="1987" data-bind="attr:{content:year}, text: showYear()"> (1987)</span></h1>
     </header>
 
-    <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
-    </div>
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg" width="400" height="400" data-src="/static/img/events/filler.png" data-width="400" data-height="400" data-toggle="modal" data-target="#img-picture-789" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-789">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/filler.png" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
 
-    </div>
-
-
-            
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
 
     
 
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2008-11-30 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 30 November 2008</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Fred Wiseman Season: Missile" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1987" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Fred Wiseman</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT115M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">115 </time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang"></span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body">Wiseman doesn't frighten the audience with apocalyptic scenes of nuclear holocaust. Missile simply documents the step by step training of 4315 airborne squadron, the young men and women whose fingers are on the button. Litterally. <h3><img alt="Wiseman - missile" class="image-right" src="/static/image/import/2sipznfmyj4l930t6xoq.jpg" />Missile</h3><p>Wiseman doesn't frighten the audience with apocalyptic scenes of nuclear holocaust. Missile simply documents the step by step training of 4315 airborne squadron, the young men and women whose fingers are on the button. Litterally. </p><h3>About the Fred Wiseman Season (16 Nov - 7 Dec 2008)</h3><p>In
+more than 30 films Fred Wiseman has produced an epic documentary
+panorama of American life.  </p><p>We will be showing 4 of his films and will be holding a free seminar on the state of documentary making on 7 Dec.</p><p><i>This season is supported by <a href="http://www.northernmedia.org/">Northern Film and Media</a>.</i></p><i>For the whole programme of the Fred Wiseman festival click <a href="http://www.starandshadow.org.uk/news/36?os=1">here</a></i>.</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
 
         </div>
     </div>

@@ -123,24 +123,60 @@
             
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
+    <div id="page-40" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="40" data-apiobjecturl="/api/1/page/40/">
     <meta itemprop="url" content=""/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Showcase</span></h1>
     </header>
 
     <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><h1><b><span>Page in progress.</span></b><span> <b>Thank you for your patience</b></span></h1><h1></h1><h1></h1><h1>PAST FILM PROGRAMME</h1><div>We're quite proud of our past film programme, so here is some information about some of it:</div><h3><a href="/on/season/">Italian Neo-Realism Season (January 2007)</a></h3>
+<p>Ossessione + Stromboli + I Vitelloni</p><p><img height="440" src="/static/cache/c1/cf/c1cf0495a2e6e84f0e9898961c97823d.jpg" width="400" /></p>
+<h3><a href="/on/film/92">One film: Les Amants Reguliers (February 2007)</a></h3>
+<p>Great film from Philippe Garrel</p>
+<h3><a href="/on/season/6">Poetic Realism Season (March 2007)</a></h3>
+<p>La Grande Illusion + Le Jour se Leve + Une Partie de Campagne + Le Quai des Brumes + Pepe le Moko</p>
+<h3><a href="/on/film/195">Fred Wiseman Season (November 2008)</a></h3>
+<p>Hospital + Racetrack + Missile + State Legislature</p>
+<h3><a href="/on/season/30">Decades of Musicals (along 2009)</a></h3>
+<p>A year with one musical per decade every month: Show Boat + 42nd Street + Ziegfield Follies + An American in Paris + Jailhouse Rock + Kiss Me Kate + The Proud Valley + Les Demoiselles de Rochefort + The Sound of Music + New York New York + Fame + Top hat</p>
+<h3><a href="/on/season/15">Werner Herzog Film Season (January 2009)</a></h3>
+<p>Even Dwarves Started Small + Heart of Glass + Stroszek + Aguirre, Wrath of God + 2 Documentaries</p>
+<h3><a href="/on/season/22">Madness on Film (January 2009)</a></h3>
+<p>A Woman under the Influence + Repulsion + Naked + Open Film Night</p>
+<p>Film accompanied by discussions with a psychoanalist</p>
+<p><a href="/on/season/25">Rainer Werner Fassbinder (April 2009)</a></p>
+<div class="pull-right"><img alt="" height="289" src="/static/img/content/fassbinder.jpg" width="400" /></div>
+<p>Fear Eats the Soul + Fox and His Friends + Chinese Roulette + The Marriage of Maria Braun</p>
+<p>The first film was introduced by Dr Tobias Hochscherf, lecturer in film and specialist of German cinema.</p>
+<h3><a href="/on/season/39">The Underdog of the French New Wave: Eric Rohmer Film Season (June 2009)</a></h3>
+<p>The Romance of Astrea and Celadon + Shorts + Claire's Knee + My Night at Maud's + Pauline at the Beach</p>
+<p>One of the nights was introduced by Dr Sarah Leahy, Film lecturer in French cinema, and most screenings were followed by a discussion with the Philosophy Society.</p>
+<h3><a href="/on/season/41">David Cronenberg Season (July 2009)</a></h3>
+<p>The Brood + Existenz + Scanners + Dead Ringers + Crimes of the Future + Stereo</p>
+<h3><a href="/on/season/34">Classic British Horror (October 2009)</a></h3>
+<p>Hammer Horror's Dracula + Peeping Tom + Tales from the Crypt + An American Werewolf in London + The Haunting</p>
+<p>The films were introduced by Professor Peter Hutchings, lecturer in film and specialist of horror, and Gail Nina-Andersson, a film journalist and critic.</p>
+<h3><a href="/on/season/49">Agnes Varda Film Season (November 2009)</a></h3>
+<p>Cleo from 5 to 7 + One sings, the Other Doesn't + Vagabond + The Gleaners and I</p>
+<h3><a href="/on/season/69">Aki Kaurismaki: The Finnish Auteur (July 2010)</a></h3>
+<p>Calamari Union + Crime and Punishment + Ariel + Leningrad Cowboys + I Hired a Contract Killer + La Vie de Boheme</p>
+<h3><a href="/on/season/84">New Latin American Cinema (Nov 2010)</a></h3>
+<div class="pull-right"><img alt="" height="329" src="/static/img/content/Hirosh01_web.jpg" width="669" /></div>
+<p>The Headless Woman + Hiroshima + Alamar + The Dog Pound (La Perrera) + Whisky</p>
+<p>We selected some of these films because we saw them and met the directors at the Rotterdam Film Festival. We even had a great interview with Pedro Gonzalez Rubio (director of Alamar), who is an amazing person - you can read the interview <a href="/work/review/278">here</a>. We also totally loved Hiroshima, a fabulous Uruguayan film which never got distribution - very nice director too (Pablo Stoll).</p>
+<h3><a href="/on/season/83">Jane Arden Season (December 2010)</a></h3>
+<p>Separation + The Other Side of Underneath + Vibration &amp; Anti-Clock</p>
+<h3><a href="/on/season/90">Chantal Akerman Season (March 2011)</a></h3>
+<p>Je tu il elle, Jean Dielman 23 rue quai du commerce, Les rendez-vous d'Anna, News from Home</p>
+<h3><a href="/on/season/92">Japanese Film Festival (April 2011)</a></h3>
+<p>Experimental Animation Night + Horror Animation Night + 2 recent Films</p>
+<p>Mostly films with no distribution in the UK - season programmed in partnership with <a href="http://zipangufest.com/home">Zipangu Fest</a>. The festival included 2 fabulous animation nights - a horror animation night + experimental animation.</p>
+<h3><a href="/on/season/102">VAMOS - Latin American Film Season (June 2010)</a></h3>
+<p>Birdwatchers + Gigante + Revolucion + Abel</p>
+<h3><a href="/on/season/105">Alien Nation: A Season of Cult British TV (July 2011)</a></h3>
+<p>Programmed by Dr James Leggott and supported by Northumbria University: The Stone Tape + Ghostwatch + Penda's Fen + The Exorcism + Shalcken the Painter - all nights introduced by specialists</p><h1>weekender : free film festival ; classic-ephemeral-obscure (every bank holiday since august 2011)</h1><p>FREE FILMS! as if that wasn't enough…filmmaking workshops, exclusive showcase gigs, pop-up theatrical interventions &amp; midnight movies&hellip;curated by addicts</p></div>
     </div>
 
     </div>

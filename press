@@ -1,0 +1,283 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="page-41" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="41" data-apiobjecturl="/api/1/page/41/">
+    <meta itemprop="url" content=""/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Press</span></h1>
+    </header>
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><h2></h2><h2></h2><div><p><b><span>BBC RADIO 4 Film Programme. February 2016.   </span></b><span>http://www.bbc.co.uk/programmes/b08dr93v
+ <b></b></span></p><p><span>"First there was crowd funding and now there's crowd building.
+Antonia visits Newcastle's The Star And Shadow, which is being built by
+volunteers from the local community, who make up for in enthusiasm what they
+lack in experience."</span></p><p><b><span>The Guardian December 2016</span></b><span>. The Alternative Guide to Newcastle. https://www.theguardian.com/travel/2016/dec/21/alternative-city-guide-newcastle-food-drink-bars-clubs-culture</span></p><p><b><span>Newcastle Journal and
+Chronicle September 2016  </span></b><span>http://www.chroniclelive.co.uk/whats-on/arts-culture-news/volunteers-aim-raise-50000-help-11918702. </span><span>Volunteers aim to raise £50,000 to help bring the Star &amp; Shadow back
+to life</span></p><p><b><span>The Guardian - February 2015.</span></b><span>  <b>BBC 6
+Music Festival.</b>   Helen Pidd was not
+ripped off when she bought drinks at the Star and Shadow. https://www.theguardian.com/uk-news/the-northerner/2015/feb/22/6-music-festival-tyneside-saturday-review-helen-pidd?CMP=share_btn_tw</span></p>
+<p><b></b></p>
+<p><b><span>The Guardian -
+February 2013 </span></b><span>We were in <b>The Guardian Guide</b> on Sat 9 February 2013
+for our artist film season The Invisible and The Real, which will be running
+between 15 February and 24 March 2013.</span></p>
+<p><span>We were highlighted as one of the 4 film events happening in the UK that
+week! We were over the moon.</span></p>
+<p><span>Here is the link for the full article:</span></p>
+<p><span><a href="http://www.guardian.co.uk/film/2013/feb/09/this-weeks-new-film-events">http://www.guardian.co.uk/film/2013/feb/09/this-weeks-new-film-events</a></span></p>
+<p><span>And here is what they wrote about our event on their website:</span></p>
+<p><b><i><span>Artist Films: The Invisible And The Real, Newcastle upon Tyne</span></i></b></p>
+<p><i><span>This intriguing season examines that special subsection of artists
+who've decided to explore the possibilities and paradoxes of documentary,
+through first-hand stories or archive footage. In the former instance, a
+selection of Andy Warhol's celebrated Screen Tests kicks off the weekly series,
+and Fishtank, Richard Billingham's extremely intimate study of his council-flat
+family, is well worth another visit. Archive-focused fare comes in the form of
+the movie manipulations of Nicolas Provost, Jonny Greenwood-backed
+found-footage doc Bodysong, and Clio Barnard's unclassifiable The Arbor.</span></i></p>
+<p><i><span>Star And Shadow Cinema, Fri to 24 Mar</span></i></p>
+<div><span>
+<hr />
+</span></div>
+<p><b><span>RESONANCE FM - SEPT 2012</span></b></p>
+<p><span>On 14 Sept 2012, an 18-minute podcast presenting the Star &amp; Shadow
+Cinema was aired on Resonance FM, a great London-based radio. The podcast was
+played on Scala Radio, a radio show talking about Scala Beyond (<a href="http://scalabeyond.com/">http://scalabeyond.com/</a>)</span></p>
+<p><span>You can hear the 18 minute podcast here:</span></p>
+<p><span><a href="http://soundcloud.com/film-and-beyond/star-shadow-for-scala-beyond">http://soundcloud.com/film-and-beyond/star-shadow-for-scala-beyond</a></span></p>
+<div><span>
+<hr />
+</span></div>
+<p><b><span>THE JOURNAL - JULY 2012</span></b></p>
+<p><span>Nice article in the Journal about a film that we had in July 2012, and
+during which we showed films by by filmmakers who are volunteers at the Star
+&amp; Shadow Cinema</span></p>
+<p><span><a href="http://www.journallive.co.uk/culture-newcastle/arts-news/2012/07/14/festival-set-to-showcase-star-and-shadow-cinema-s-in-house-talent-61634-31392045/">http://www.journallive.co.uk/culture-newcastle/arts-news/2012/07/14/festival-set-to-showcase-star-and-shadow-cinema-s-in-house-talent-61634-31392045/</a></span></p>
+<div><span>
+<hr />
+</span></div>
+<p><b><span>ABACUS POST - SEPT 2012</span></b></p>
+<p><span>Great review of our <b>ALLO DARLIN' gig on 5 Sept 2012</b>, from
+the great music blog <b>Abacus Post</b>, extracts:</span></p>
+<p><span>"On route to their gig in Newcastle on Wednesday, indie-pop outfit
+Allo Darlin’ tweeted “Tonight we play the wonderful Star &amp; Shadow
+cinema…Can’t wait to play there again!” When they arrived they even took a
+picture and posted it on Facebook. In the cute little world of indie pop, you
+probably couldn’t imagine a better venue in which to plug your latest album to
+your adoring fans. The quaint little cinema at the top of Stepney Bank with its
+purple, star covered exterior and intimate and somewhat ramshackle bar area was
+indeed brimming with enthusiastic pop-clubbers at 8:00pm, eagerly anticipating
+the arrival, on-stage, of one of the leading lights of the post C86
+movement. "</span></p>
+<p><span>You can read the rest here:</span></p>
+<p><span><a href="http://abacuspost.com/2012/09/09/live-review-allo-darlin-pale-man-made-the-agency-star-and-shadow-cinema-newcastle-05-09-12/">http://abacuspost.com/2012/09/09/live-review-allo-darlin-pale-man-made-the-agency-star-and-shadow-cinema-newcastle-05-09-12/</a> </span></p>
+<div><span>
+<hr />
+</span></div>
+<p><span>GUARDIAN GUIDE -
+SEPT 2012</span></p>
+<p><span>Our Girl Gang Film Season (2 to 13 Sept 2012) featured in the <b>Guardian
+Guide</b> on Sat 1 Sept 2012!</span></p>
+<p><span>You can see the article here:</span></p>
+<p><span><a href="http://www.facebook.com/photo.php?fbid=521400447886241&amp;set=a.340074376018850.102370.337250469634574&amp;type=1&amp;theater">http://www.facebook.com/photo.php?fbid=521400447886241&amp;set=a.340074376018850.102370.337250469634574&amp;type=1&amp;theater</a></span></p>
+<div><span>
+<hr />
+</span></div>
+<p><span>GUARDIAN - AUG 2011</span></p>
+<p><span>The Star and Shadow was chosen as one of the <b>10 best arthouse
+cinema experiences in the UK by The Guardian</b> (August 2011):</span></p>
+<p><span><a href="http://www.guardian.co.uk/travel/2011/aug/05/ten-best-cinema-experiences-britain">http://www.guardian.co.uk/travel/2011/aug/05/ten-best-cinema-experiences-britain</a></span></p>
+<p><span>EXTRACT</span></p>
+<p><span>"The Star &amp; Shadow Cinema, <a href="http://www.guardian.co.uk/travel/newcastle" title="More from guardian.co.uk on Newcastle">Newcastle</a></span></p>
+<p><span>In a galaxy far, far away from the mainstream multiplex experience, the
+Star twinkles, a one-screen, 66-seater beacon of hope. Volunteer-run, it is
+both principled (tickets £5/£3.50; UK asylum-seekers free) and determined to
+offer a quirky, intelligent diet. Recent attractions have included a night of
+archive film exploring industry in the north-east, a season of vintage UK TV
+sci-fi/horror and, on 4 September, you can watch King Kong. The original, of
+course."</span></p>
+<div><span>
+<hr />
+</span></div>
+<p><span>NORTH EAST HUB -
+APRIL 2012</span></p>
+<p><span>Nice article about  us in <b>The North East Hub Blog</b>,
+here: <a href="http://thenortheasthub.com/blog/cinema-week-and-the-weather-underground/">http://thenortheasthub.com/blog/cinema-week-and-the-weather-underground/</a></span></p>
+<p><span>9/04/2012 - <b>Cinema Week and The Weather Underground</b> by <a href="http://thenortheasthub.com/blog/author/andyo68/">Andrew Openshaw</a></span></p>
+<p><span>EXTRACTS</span></p>
+<p><span>"The real cinematic highlight of the week, which had been pencilled
+in the diary (well Google Calendar) for a few weeks took place on Wednesday at
+Newcastle’s very own ‘dissident’ cinema, The Star and Shadow.  The Cinema,
+which opened its doors in 2006, is a not-for-profit organisation entirely run
+by volunteers. Situated on Stepney Bank at the top of the Ouseburn valley, the
+Star and Shadow is committed to showing radical and independent film, from around
+the world. It also has its own library, bar and social area. (…)</span></p>
+<p><span>You are guaranteed to see thought provoking films at The Star &amp;
+Shadow and we are very lucky to have a resource like it here in the North
+East."</span></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p></div></div>
+    </div>
+
+    </div>
+
+
+            
+
+    
+
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

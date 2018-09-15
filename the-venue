@@ -123,24 +123,34 @@
             
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
+    <div id="page-11" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="11" data-apiobjecturl="/api/1/page/11/">
     <meta itemprop="url" content=""/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Location and Contact us</span></h1>
     </header>
 
     <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><h3>Location</h3>
+<p>The Star and Shadow Cinema is located in Warwick Street, Newcastle Upon Tyne, NE2 1BB, directly opposite the green of City Stadium. We neighbour Sandyford, The Ouseburn, Heaton, South Jesmond, Shieldfield and the City Centre.</p>
+<p class="center-block"><img class="img-responsive" src="/static/img/events/location.png" /></p>
+<h3>Getting to us</h3>
+<p>We like to encourage use of public transport, walking and cycling where possible. We have a safe indoor place to store your bike. There is a carpark for disabled visitors.</p>
+<p><b>Metro:</b> The nearest Metro stations are Manors and Jesmond. We are about a 10 minute walk from both.</p>
+<p><b>Bus:</b> Bus number 1 stops directly outside our building. And numbers 15 &amp; 15a also pass close by.</p>
+<p><b>Bike:</b> If you arrive by bike you can safely park and lock it inside the building.</p>
+<p><b>Walk:</b> Obviously depending where you come from but approximately 12 minute walk from city centre.</p>
+<p><b>Car:</b> There will be a carpark for disabled visitors.</p>
+<p>Please note we are not yet open to the public. We are refurbishing the building and getting it ready to open early 2017. Please see the "Get Involved" section of this website to find out how you can get involved now.</p>
+<p>Other contact information:</p>
+<ul>
+<li>Facebook page: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow/</a></li>
+<li>Facebook group: <a href="http://www.facebook.com/groups/2254137979/?fref=ts">http://www.facebook.com/groups/2254137979/?fref=ts</a></li>
+<li>Twitter: <a href="https://twitter.com/StarAndShadow">https://twitter.com/StarAndShadow</a></li>
+<li>Instagram: <a href="https://www.instagram.com/starandshadowcinema/">https://www.instagram.com/starandshadowcinema/</a></li>
+<li>Email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
+<li>Phone: 07938 257 663</li>
+</ul></div>
     </div>
 
     </div>

@@ -18,7 +18,7 @@
 
     <body>
 
-<div id="container" class="container documenttype">
+<div id="container" class="container eventtype">
     <div class="row">
         <div
                 itemscope
@@ -121,35 +121,69 @@
         <div id="main" role="main" class="col-md-10">
             
             
+    
+
             
 
-    <div id="page-26" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="page" data-modelid="26" data-apiobjecturl="/api/1/page/26/">
-    <meta itemprop="url" content=""/>
+    <div id="gig-805" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="805" data-apiobjecturl="/api/1/gig/805/">
+    <meta itemprop="description" content="2018 is Baka Beyond’s 25th anniversary. In October 1993 their ground breaking album “Spirit of the Forest” hit the scene to great acclaim. They will be celebrating 25 years of recording and touring worldwide.
+
+Originally inspired by the music of the Baka Forest People, Pygmies whose music and dance have been celebrated since the time of the Pharaohs, Baka Beyond use the Baka rhythms to fuse music from the band-members’ Celtic and African roots. The resultant music is highly infectious and crosses boundaries of genre, age and ethnicity.
+
+Paddy Le Mercier, the fantastic Breton fiddle player, will be rejoining Baka Beyond for their 25th anniversary tour.
+
+The Story
+After seeing a documentary on Channel 4, Martin Cradick and his wife Su Hart packed a tent, tape recorder, camera, guitar and mandolin, and headed off into the forests of Cameroon. There they spent six weeks living, hunting, gathering and playing many hours of music together with the Baka Pygmies. From this experience came two delightful recordings, Heart of the Forest and Spirit of The Forest, which led to the birth of the band Baka Beyond.
+
+The rhythms of the hunter-gatherer Baka People from the Cameroon rainforest resonate with musical styles from all around the world. Also carried in these rhythms and in all Baka Beyond performances is the sense of joyous celebration and inclusion that the Baka bring to all their music. The band brings musicians from different cultures and backgrounds together in a seamless celebration of the Global Village.
+
+After 25 years of touring around the world Baka Beyond’s live show has evolved over the years. The current show includes a multi-media element. Videos from the Cameroon rainforest are projected behind the band, cleverly synchronised with the live music so that the Baka become part of the live show.
+
+It is best described in a review by Pete Taberner in the Bristol Post:
+
+“Seeing and listening to their current live performance [Baka Beyond] transports you right into the life of the people whose music they celebrate.
+
+“Projected onto a large oval screen behind the musicians scenes of forest life provide the perfect backdrop to the music.
+
+“Gentle percussion and reedy sounds are used to evoke the dawn and the awakening insect and bird life. Vocalists Su and Ellie recreate the wordless sounds of the forest creatures.
+
+“It was impossible to resist the relentlessly upbeat nature of the music. There were big smiles on screen, on stage, and in the audience as the music progressed to a final grand dance with everyone standing and moving to the intoxicating rhythm.”
+
+Baka Beyond members still regularly visit the Baka in Cameroon, returning royalties earned by their music and helping them use the money for community development projects through the charity they set up, Global Music Exchange. They have been working with the same extended family group for over 25 years now, helping with health, education, agricultural and musical projects.
+
+Baka Beyond’s live show includes song, dance, percussion, musical virtuosity, videos and big smiles all round.
+
+www.bakabeyond.net/
+www.youtube.com/bakabeyond
+" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/805"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
 
     <header>
-        <h1><span class="title" itemprop="name" data-bind="text:title">Home</span></h1>
+        <h1><span class="title" itemprop="name" data-bind="text:title">baka beyond 25 year anniversary tour</span></h1>
     </header>
 
-    <div class="bodysection">
-        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><img class="img-responsive" src="/static/img/events/s-s-collage.png" /><div><p><b><span>Opening times for Refurbishment Volunteering:</span></b></p><ul><li><p><b>Monday to Friday 10am to 6pm SKILLED &amp; EXPERIENCED CONSTRUCTION VOLUNTEERS ONLY</b></p></li></ul><ul><li><p><b>Saturday &amp; Sunday 11am to 5</b><b>pm EVERYONE WELCOME</b></p></li></ul><p>We'd love to see you on these volunteer days - no need to bring anything but your energy and enthusiasm!</p><p>To keep up to date with volunteering opportunities make sure you sign up to <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></p><h2>Come get involved </h2><p>We recently had to move out of our old rented premises in Stepney Bank, Ouseburn to Warwick Street. We are currently closed to the programming of events and community groups and instead our focus as a collective is currently on our exciting self-build refurbishment project. </p><h2>Help build your Cinema</h2><p>We are refurbishing the new place by as much volunteer labour as possible. Whatever your skill-level we hope you'll come along and help out. See the "Get Involved" section of this website for more details. https://www.starandshadow.org.uk/involved</p><p>Star &amp; Shadow Cinema is more than a cinema. It is an alternative social, cultural, arts and community hub run by a collective of volunteers.</p><p>It operates a unique system of open programming whereby grass roots community organisations, independent artists and any member of the public can come and promote<span> their own social causes via film, music, discussions and working groups. We provide the space and facilities for this to happen and have done for the last 10 years. See our  "Future" section for what our new building will provide.</span></p>
-<h2></h2><h2></h2><p><img class="img-responsive" src="/static/img/events/illustrated-floorplan.png" /></p>
-<h2></h2>
-<p class="center-block"><img class="img-responsive" height="278" src="/static/img/events/architech-floorplan.png" width="572" /></p>Contact<ul>
-<li>email: <a href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></li>
-<li>Facebook: <a href="https://www.facebook.com/StarAndShadow/">https://www.facebook.com/StarAndShadow</a></li>
-<li>Twitter: <a href="https://twitter.com/StarAndShadow">@StarAndShadow</a></li>
-<li>Get update emails: <a href="http://www.starandshadow.org.uk/signup">http://www.starandshadow.org.uk/signup</a></li>
-<li>Postal address: Star and Shadow Cinema, Warwick Street, Newcastle upon Tyne, NE2 1BB</li>
-</ul></div></div>
-    </div>
-
-    </div>
-
-
-            
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg" width="400" height="400" data-src="/static/img/events/filler.png" data-width="400" data-height="400" data-toggle="modal" data-target="#img-picture-789" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-789">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/filler.png" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
 
     
 
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2018-10-19 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m.</time> to <time class="endDateTime" itemprop="endDate" datetime="2018-10-19 23:30:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">11:30 p.m. Friday 19 October 2018</time></h3>
+
+    <meta itemprop="image" content="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p>DEFAULT PLACEHOLDER TEXT</p></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="baka beyond 25 year anniversary tour">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
 
         </div>
     </div>

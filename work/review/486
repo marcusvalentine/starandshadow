@@ -1,0 +1,298 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-486" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="486" data-apiobjecturl="/api/1/document/486/">
+    <meta itemprop="description" content="like shooting fish in a barrel" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/486"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Apostasy    Daniel Kokotajlo (UK 2017)  </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2018-08-07</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>ApostasyDaniel
+Kokotajlo (UK 2017)Sioban Finneran</p>
+<p>viewed Tyneside Cinema 30 July 2018;ticket: £9.75</p>
+
+<p>like shooting fish in a barrel</p>
+
+<p>It’s not clear whether Daniel Kokotajlo’s film Apostasy
+refers to his own actions in making this movie, to something in the script or
+both.If apostasy refers to his own
+actions in leaving the Jehovah Witnesses and making this film he would have
+been better to have produced a documentary rather than this limp dramatic
+statement.A scenario that betrays its
+BBC provenance, shot to look like a low budget soap opera and a script that is
+content to do nothing more than stitch up subjects as bigoted narrow minded
+obsessives.</p>
+
+<p>As if! As if Jehovah’s witnesses were different from any
+other closed group based upon exclusivity of their own belief systems: not
+possessing metaphysical beliefs but possessed by metaphysical beliefs. Cue as
+exemplars: Scientology , Seventh-Day Adventists, Branch Davidian, Mormons,
+Plymouth Brethren, these latter being the subject of 2013 BBC Documentary which
+portrayed them as a secret reclusive sinister cult.</p>
+
+<p>For some reason the BBC decided it did not want another documentary
+about cults.By way of a change a drama
+would be better.Daniel Kokotajlo as
+film maker would be legitimised by his status
+as an ex ‘Witness’ thereby having license to make his film, which would be shot
+in a sort of documentary style.The BBC
+to have the best of both worlds.</p>
+
+<p>The problem is that Kokotajlo’s approach to his material is embarrassingly
+crude.the only idea in his the script
+is to set up the Witnesses as men of straw and then to proceed with gusto to
+knock ‘em down.Like shooting fish in a
+barrel. </p>
+
+<p>The problem with Kokotajlo’s writing is that he is probably
+too close to his material to see it.We
+don’t know his motive or state of mind in relation to the making of Apostasy.Perhaps Kokotajlo intended his film as a final act of disassociation; perhaps he wants to caste judgement upon the
+‘Witnesses’ as they have judged him;
+perhaps he just wants to exploit elements of their beliefs that will make a
+good soap drama.As is often the case
+those closest to their material often singularly fail to understandcritical elements of their subject.Sam Fuller as a script writer director, was a
+perceptive commentator on America. But as an ex GI who survived three beach
+landings during world war 2, his war movies are his least successful
+films.Likewise the films shot in the
+40’s and 50’s Hollywood that endure both as outstanding movies and germane
+critiques of the USA were mostly made by émigré directors.</p>
+
+<p>In relation to Kokotajlo’s depiction of the Witnesses: their
+inflexibility of belief their hierarchic structure and their rejection of the
+world.These are not in the least
+surprising.These are the characteristic
+defining features of all religious and ideological cults. It would be more surprising if the Jehova’s
+Witnesses were not like this. That is
+the point: their practice of life cuts them off from the mainstream culture and
+social relations; their practice of life means that often the choices and life
+styles of mainstream society are closed off to them.This is the point: that they live in and are
+sustained by opposition to the world.In
+return they are rewarded by a dogmatic epistemological monopoly of ‘truth’ and
+the eschatological certainly of being the ‘elect’. In the time of the New System the Jehovas
+Witnesses will inherit the wind.Commitment is until death: death but a temporary state.</p>
+
+<p>Kokotajlo’s script is built around the situation of two
+young sisters Luisa and Chloe.Each in
+their own way epitomise the dilemmas as seen by outsiders to the Jehovah
+cult.Luisa is excluded not because she
+has become pregnant, but rather because she choses loyalty to her boyfriend
+rather than the Witnesses.But although
+Luisa’s trials continue throughout the length of Apostasy the real issues never
+enter into the script: the nature of her relationship with her boyfriend, how she understands her situation. What we see
+is that her attempts to reconcile herself with her faith are interrogated by a
+patriarchal elite.But in movement as
+directed by the script, her attraction and repulsion from the spiritual centre
+of gravity, she is simply a mechanical puppet, whose strings are pulled any
+which way by the needs of script delivery. </p>
+
+<p>Intertwined with Luisa’s story is that of her sister Chloe. This latter story is the emotive ploy used by
+Kokotajlo to construct his drama about her death, which is caused by her
+refusal to have a blood transfusion.But this ultimate demonstration of faith and
+commitment by Chloe is stragely handled by the scripts mechanics.It is glossed over, never allowed to emerge
+into full light, a death bured in the shadows of the writer/director’s
+uncertainty.</p>
+
+<p>There is an empty centre to this strand of the drama which
+is filled out by an implicit dishonest invitation of the audience to act as
+judges. </p>
+
+<p>The above paragraph points to omissions evasions and lacuna
+in the script.On its own terms
+Kokotajlo’s script evades key areas of concern.A number of things troubled me.Firstly although prohibition of blood transfusion is a core belief of Jehovah’s
+Witnesses, there is never any explanation of the reason for this.Strange that something at the heart of the
+film, at the very centre of Chloe’s(and
+perhaps her mum’s) decision to refuse transfusion, is simply omitted.For some reason Kokotajlo is happy to leave
+this core feature of faith unexplained? Why?Chloe’s death is likewise short changed. </p>
+
+<p>One moment Chloe has collapsed at a party.Cut! Next shot, mum is walking away from the
+hospital having been (we presume) with her daughter when she died.The omittance ofChloe’s death, either as a scene or even as second
+hand account by mum to someone else, seems an act of filmic apostasy. This is a core moment.The supreme moment of justification:Chloe is in hospital where a blood
+transfusion can save her; but Mum and perhaps Chloe validate their beliefs and
+refuse medical intervention.Kokotajlo
+passes over the core event with silence and a cheap cut.An act
+of dereliction in a film that is supposedly about a religious sect who have
+core beliefs about the precise nature of death.So not only is their no accounting of the manner of Chloe’s death, but
+the nature of her funeral and the disposal of her body is also ignored. Simply omitted by Kokotajlo.Core to all religious belief is the manner of
+disposal of the body.Given that the Jehovah
+Witnesses place so much importance on the blood, how was Chloe’s blood actually
+or metaphysically disposed of?As the
+script develops Apostasy seems ever more to be the work of a charlatan: a
+charlatan film maker.</p>
+
+<p>Finally in the script much is made of Luisa’s delicate
+understanding of her mother’s position in relation to helping her. Luisa
+understands that her mother is under interdiction not to directly hand her
+anything.A no touch rule.This pantomime is carefully played out until
+the final sequence where mum asks Luisa for a glass of water; inexplicably Luisa
+drops everything, including her baby to rush off and fetch water.This crassly scripted piece of nonsense then allows Mum to scoop up baby
+and try and make off with her: a crude device to end the film on a moment of
+sub prime melodrama.</p>
+
+<p>Perhaps Kokotajlo thinks he has made a film about the Jehovah
+Witnesses.He has not. He has made a TV
+style close-up dominated film, that is a no more than a soap opera with a
+cardboard Jehovah Witness backdrop.</p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

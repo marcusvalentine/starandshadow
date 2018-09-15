@@ -1,0 +1,206 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-278" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="278" data-apiobjecturl="/api/1/document/278/">
+    <meta itemprop="description" content="Yaron interviewed Pedro Gonzalez-Rubio at the last Rotterdam Film Festival, in February 2010" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/278"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Interview with Pedro Gonzalez-Rubio, director of Alamar</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Yaron Golan for Kino Bambino</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2010-12-03</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p><span><span><span>Kino Bambino met up with Pedro Gonzalez-Rubio at the Rotterdam International Film Festival (January 2010). He was super nice and friendly and very generous with his time. We totally loved him and are now big fans!</span></span></span></p>
+<p><span><span><span>Here are the results:</span></span></span></p>
+<p><span></span></p>
+<p><span><span><span>KB: I’d like to start with the fact that you’re from Mexico, just because I don’t know much about Mexican or Latin American cinema. I want to know whether you think that you as a film maker are part of something that’s happening in Mexico at the moment. Do you consider yourself part of a movement or a current, and if so then what does that mean to you?</span></span></span></p>
+<p><span><span><span>PGR: I wouldn’t consider myself part of any movement, any Mexican movement. Sometimes they say ‘New Mexican Cinema’ but they’ve been saying that for 50 years. So I think the films I like to make are personal films. I don’t follow any trends. I just film what I like to film and do, and what I see around me. Aesthetically my films are not very Mexican, I base my compositions more on Oriental cinema. I really like Korean and Vietnamese films.</span></span></span></p>
+<p><span><span><span>KB: Even though you don’t see yourself as part of a mexican movement do you think that your films are informed by any changes that are taking place in cinema at the moment as a whole? For example, could your films have been made 10-20 years ago?</span></span></span></p>
+<p><span><span><span>PGR: No, I think that the arrival of good, affordable technology, like HDV cameras, has made it possible for the quality to be better and better through time. But we also see a film like Trash Humpers (Harmony Korine’s latest film) that’s like an 80s VHS quality that still has a certain look to it. But I like that the affordable cameras are getting closer and closer to what you can do with film. That way anybody can shoot a film that looks nice. Content and stylewise this film could have been made for many years. We see Robert Flaherty with his films. There’s Godard, for example, who filmed <em>Breathless</em> with very little resources. He was the first one to employ the hand-held camera in very small places, using the fishtank light pointed at the ceiling to illuminate everything. Independent film-making of this kind has existed for a long time.</span></span></span></p>
+<p><span><span><span>KB: And if you had larger resources would you choose to make more expensive films? For this film you had only yourself and a soundguy, and for the underwater scenes you used two different cameramen.</span></span></span></p>
+<p><span><span><span>PRG: I don’t know, I hope not. I hope I can still have the same way of working on my next film because it has allowed me to be really intimate with my characters and to pay attention to the surroundings. Otherwise, had I had a bigger crew I would have been distracted by other elements which would prevent me from being in the moment and being part of the story. In a way the camera is part of the story, and even though you don’t notice the camera it is very close and attached to what’s happening around.</span></span></span></p>
+<p><span><span><span>KB: That’s why it’s nice when Natan draws the camera as one of the things he’s seen it’s a lovely moment that highlights your relationship and that it’s so tight for all of you.</span></span></span></p>
+<p><span><span><span>PGR: Exactly. Also the way that Blanquita isn’t conscious of the camera even though I’m standing very close to her. She’s just conscious of the fact that a body is close to her. But if that body represented a menace she would have flown away. But it wasn’t a menace because she was close to our characters.</span></span></span></p>
+<p><span><span><span>KB: How did you meet Jorge and Natan and what was it about them that made you want to use them?</span></span></span></p>
+<p><span><span><span>PGR: I think I discover different elements at different moments. First I discovered the location, then I met Jorge. It was going to be about a man going back to his roots, he’s dying and has to go back and spend his last few days there. Then I met Natan and found out that his mother’s from Rome, and the story began to change to what you see in the end. Once I had a structure everything was added to that backbone. Blanquita, and everything else you see, is added to that backbone to make it a richer experience.</span></span></span></p>
+<p><span><span><span>KB: How did you go about develpoing your relationship with them? And were they involved in any decision making regarding what the story was going to be about?</span></span></span></p>
+<p><span><span><span>PGR: No, not at all. It was my decision, but also respecting a lot the situation and their personas, what they are in real life. But I would tell them what I wanted to do that day or the following they and they would resolve it themselves. I wouldn’t impose any position or behaviour on them. I’d say ‘let’s construct a window’ and once we’re doing that I’d be trying to find the best way to portray the moment.</span></span></span></p>
+<p><span><span><span>KB: You say you looked for the location before you found Jorge. What did that location mean to you? Why was it so important to the film?</span></span></span></p>
+<p><span><span><span>PGR: My first impression was a very strong attraction to the landscape of Banco Chinchorro and the fact that they still live a very pure lifestyle and an environment that’s almost intact. The wildlife there is unspoilt and for me it was a pure fascination with this very simple, ancient place and ancient activities such as fishing.</span></span></span></p>
+<p><span><span><span>KB: You’ve also said before you almost wish the camera wasn’t there because it almost distorts what’s happening in a way, so there seems to be a big element in your work of trying to keep things natural or real, or keeping things authentic. What do you think of the word authenticity and is it important to you in creativity?</span></span></span></p>
+<p><span><span><span>PGR: But at the same time having a fiction that’s deconstructing something, and a camera that’s recording that instead of a pen. I really admire writers because writing is a much purer form of expression than cinema to me. In cinema you can invent worlds and make the spectator experience and see things that they wouldn’t have imagined and discover things that are really here in our time and space that maybe a novel wouldn’t be able to do, but I still think that writing is more pure.</span></span></span></p>
+<p><span><span><span>But yes, authenticity is totally important. It means having a personal point of view, to be honest with what you’re saying and having something to tell that people can relate to and understand even though they haven’t lived the exact same situation. There’s a point of connection because you’re talking with the truth. That’s why I hate publicity and commercials, because the main purpose is to sell something and to me that’s not authentic, they’re deceptive. It can be original and striking but it’s not authentic. Authentic is the truth. </span></span></span></p>
+<p><span><span><span>KB: In that case how do you feel about distributors trying to promote your film even if it’s in a way that’s true to what you’re trying to make? Every film needs to be advertised to a degree in order to get distribution – are you ok with that? Is it just manipulative advertising that you object to?</span></span></span></p>
+<p><span><span><span>PGR: I don’t know what to think about that. The way they might publicise the film is not in my hands and it’s not what I did. I’m talking about what I do as a creator, as a director or even a carpenter or painter, but it’s not a product. A film is not a product and shouldn’t be seen as one. I think if you’re advertising a film or a painting or a book it’s not a product, as long as in the trailer or poster you can feel what it’s about, but it will never be the work - it’s a tool.</span></span></span></p>
+<p><span><span><span>KB: Just going back to that location. After watching El Calambre the other day the director (Matias Meyer) did a Q&amp;A in which he quoted Agnes Vards as saying that if the location of the film means something personal to the director then this will be conveyed in the movie. In that respect, do you think that this film could have been made at another location? Could this father-son relationship have worked the same way had the film been made elsewhere?</span></span></span></p>
+<p><span><span><span>PGR: No, not at all. Actually, specifically in this film the only way that the father can focus on the last moment with his son is by taking him away somewhere that isn’t urbanised and has no people around. It places them in an almost sacred place, surrounded by water, in order for the love to flourish. If I’d done this at a tourist spot it would have spoilt the story, so the location definitely has a dreamlike, unique quality that allowes the characters to be themselves and the relationship to have a certain aspect.</span></span></span></p>
+<p><span><span><span>KB: How does your lifestyle compare with this? Do you live in big city?</span></span></span></p>
+<p><span><span><span>PGR: Yes. That why we had to be catapulted in there. There’s a scene where the father and son are holding hands just before getting into the boat to take them to Banco Chinchorro and they’re standing on trash, waiting to leave the the Mexican mainland. That’s what I think about where I live. We’re standing on trash because of what we’ve made of this place. We’ve destroyed paradise; we all want a piece of paradise, but by trying to achieve it we destroy it. But I can’t live in Chinchorro. I wouldn’t be able to live there because I have a different destiny. I need to keep searching for other places.</span></span></span></p>
+<p><span><span><span>KB: Your film seems to have elements of disintegration and things coming to an end. For example, maybe this wasn’t intended but as I was watching the film I started thinking a lot about my own personal experiences and what it was like to be a kid, how sometimes you think about how one day you’re not going to be a kid anymore and life isn’t going to be so easy, even though you push that to the back of your mind. There’s always this feeling in the film’s background that the child is going to have to go back to his mother. Even the marriage between the parents, who loved each other very much, could never really have lasted.</span></span></span></p>
+<p><span><span><span>PGR: Yes, there’s a feeling of impermanence from the very beginning of the film. Everything’s changing and transforming. Like the soap bubble in the end. It’s very light and transparent, like the aura of a child or ourselves as children. But when you try to hold on to that state it just breaks and you’re an adult, and you don’t have this same sense of discovery anymore. </span></span></span></p>
+<p><span><span><span>KB: How did you get into film making in the first place? What do you make films? Do you hope to achieve something by making them?</span></span></span></p>
+<p><span><span><span>PGR: I do it because it’s the only way I can communicate and portray what I see around me and what I have to say. If I could do it through music I’d be a musician. I really like music. With music you can be anywhere and be listening to Bob Dylan, whereas with film you can only think about what you saw. The connection between musician and audience is also much more special. But for me film making is the best way I have to communicate.</span></span></span></p>
+<p><span><span><span>KB: You said you think writing is the most pure way of communicating. Did you ever try to be a writer? Are you interested in that at all?</span></span></span></p>
+<p><span><span><span>PGR: No. I would like to, a musician as well, but… Bob Dylan is a great musician and poet, but I think a lot of us would like to be able to express in such a way. But we each have our own medium of expression, and for me it’s filmmaking. Sometimes the process is a bit uncomfortable because of the camera. I feel sometimes that its presence is strange because of the way it affects reality and the relation to the surroundings.</span></span></span></p>
+<p><span><span><span>KB: Have you ever been infront of the camera? Because I also have this thing where I think I do what do because I feel much more comfortable being behind the camera than infront of it, which is a very different sort of relationship, even though what I originally wanted to do was be involved in things that meant talking infront of the camera. Would you ever put yourself infront of a camera?</span></span></span></p>
+<p><span><span><span>PGR: I don’t know. I’m a bit shy as well, so for the moment I don’t think so.</span></span></span></p>
+<p><span><span><span>KB: I was going to ask whether this story had any significance to you personally, but you’ve already said it doesn’t…</span></span></span></p>
+<p><span><span><span>PGR: It’s a more universal story. At the end it talks about sensations and emotions during childhood. In that way I can relate to it, but not only me. Other people can too. So in that way there’s a connection, but it’s not exactly autobiographical. </span></span></span></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>
