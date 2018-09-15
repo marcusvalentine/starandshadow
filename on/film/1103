@@ -1,0 +1,236 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-1103" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="1103" data-apiobjecturl="/api/1/film/1103/">
+    <meta itemprop="description" content="Incredible animation films tonight&nbsp;with two mid-length works that are testaments to the enormous wealth of creativity, imagination and dedication within the world of Japanese independent animation." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/1103"/>
+    <meta itemprop="duration" content="PT30M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Beyond Anime: Midori-Ko + Encounters</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/cd/bf/cdbf528ffcd28c3b42ea3a1652db4124.jpg" width="400" height="220" data-src="/static/img/events/encounters-1.jpg" data-width="700" data-height="385" data-toggle="modal" data-target="#img-picture-1128" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1128">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/encounters-1.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-12-12 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Wednesday 12 December 2012</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Beyond Anime: Midori-Ko + Encounters" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/cd/bf/cdbf528ffcd28c3b42ea3a1652db4124.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Takashi Iitsuka + Keita Kurosaka</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT30M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">30 min + 55 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Other</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Japanese w. English subtitles</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country">Japan</span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong><span>Incredible animation films tonight with two mid-length works that are testaments to the enormous wealth of creativity, imagination and dedication within the world of Japanese independent animation. </span></strong></p>
+<p><b>Expect a mad scientist, fear of robots, love, friendship and lots of puppets.</b></p>
+<h2><strong></strong> </h2>
+<h2><strong><span>2 SHORT FILMS:</span></strong></h2>
+<p><span><strong></strong><strong></strong></span></p>
+<hr />
+<p><strong>1. ENCOUNTERS (Takashi Iitsuka, 30min, animation, 2011) </strong></p>
+<p><img height="225" src="/static/cache/1a/28/1a28c7efcff0a8efefef63c76f940e04.jpg" width="397" /></p><p>John takes his lovesick pal Max to the countryside in order to cure a broken heart. A friendly stray dog looks set to initially cheer his flagging spirits, but what’s that coming over the hill being it? Using a technique labelled by its director as 'Super Organic Battle Action', this exuberant one-man labour-of-love defies all expectations!</p>
+<p><span><strong>SUPER ORGANIC BATTLE ACTION</strong></span></p>
+<p> <span><em>"Encounters</em> uses neither stop motion animation nor any CG effects.  It is purely old school live action puppet action – a technique which Iizuka has christened “Super Organic Battle Action.”  Using handmade action figures and monster puppets, Iizuka carefully manipulates the characters either by hand or fishing wire.  The result is a loving send up of the great monster movies of Ishirō Honda (<i>Godzilla, King Kong vs. Godzilla, Mothra vs. Godzilla</i>).  The campiness of the film and the use of marionette effects recalls the “supermarionation” techniques employed in the UK cult classic <i><strong>Thunderbirds</strong></i> (Gerry and Sylvia Anderson, 1965-6)."</span></p>
+<p><span>According to this great blog on Japanese animation: <a href="http://nishikataeiga.blogspot.co.uk/2012/05/takashi-iitsukas-super-organic-battle.html">http://nishikataeiga.blogspot.co.uk/2012/05/takashi-iitsukas-super-organic-battle.html</a></span></p>
+<div class="field field-type-text field-field-format">
+<div class="field-items">
+<div class="field-item odd"><strong></strong>
+<hr />
+</div>
+<div class="field-item odd"><strong>2. MIDORI-KO (Dir. Keita Kurosaka, 55min, animation, 2010)</strong></div>
+<div class="field-item odd"><p><img height="220" src="/static/cache/8d/bc/8dbc48fd1fbcb3ace822e090d0511d6a.jpg" width="400" /></p><p>In a world facing chronic food shortages, a group of scientists strive to create the perfect super-food, a hybrid of meat and vegetable. By accident, an edible creature named Midori-ko is created in the process. It escapes from the laboratory, only to be rescued by a young university research named Midori. This remarkable dark fantasy, part-<em>Pinocchio</em>, part-<em>Soylent Green</em>, is notable for its striking hand-drawn artwork, and took its director Keita Kurosaka over ten years to complete.</p>
+<p><strong>Night programmed in partnership with Zipangufest (</strong><a href="http://zipangufest.com"><strong>http://zipangufest.com</strong></a><strong>)</strong></p></div></div></div></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,277 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-752" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="752" data-apiobjecturl="/api/1/film/752/">
+    <meta itemprop="description" content="Very rarely seen experimental sex films, from famous experimental filmmakers. Curated by Martha from Cherry Kino, a great programmer from the Leeds film festival, and who will be there for the nigth!" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/752"/>
+    <meta itemprop="duration" content="PTM" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Experimental Film Night - Experimental Sex Films</span><span class="year" itemprop="copyrightyear" content="various" data-bind="attr:{content:year}, text: showYear()"> (various)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/b6/58/b6581a47b8eacf18c07083e274089cce.jpg" width="400" height="311" data-src="/static/img/events/fuses.jpg" data-width="400" data-height="311" data-toggle="modal" data-target="#img-picture-457" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-457">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/fuses.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-02-16 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Wednesday 16 February 2011</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Experimental Film Night - Experimental Sex Films" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="various" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/b6/58/b6581a47b8eacf18c07083e274089cce.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">various</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PTM" data-bind="attr:{datetime:isolength()},text:lengthLabel()"></time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">various</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Very rarely seen experimental sex films, from famous experimental filmmakers. Curated by Martha from Cherry Kino, a great programmer from the Leeds film festival, and who will be there for the night to introduce the films!</strong></p>
+<p><strong><em>"Erotica is good and we need it. We truly believe that it is possible to create an alternative to the mainstream porn industry by making sexy films we like."  - Number 10 of the Dirty Diaries Manifesto</em></strong></p>
+<p>As an antidote to the commercially induced fever of Valentine's Day and its accompanying money sweat on plastic consumables and conventional toss, we invite you to a screening of experimental sex films made by artists including <strong>Valie Export, Dietmar Brehm, Carolee Schneeman, Albert Sackl,</strong> and films by the Swedish feminist porn filmmakers responsible for "Dirty Diaries".</p>
+<p><span><strong>PLEASE BE AWARE: THIS PROGRAMME CONTAINS SCENES OF AN EXPLICIT SEXUALNATURE AND IS STRICTLY ADULTS ONLY</strong></span></p>
+<p><strong></strong></p>
+<h2><strong>THE PROGRAMME</strong></h2>
+<p>The full programme will last about 100min, and will comprise of:</p>
+<p><span><strong><em>Mann &amp; Frau &amp; Animal</em> from Valie Export (1973, Austria, </strong></span><span><strong>format: </strong></span><span><strong>16mm)</strong></span></p>
+<p>This is part of the earlier films of Valie Export (born in 1940), which were motivated by the  author's desire and need to investigate her own subjectivity, with the  audience as a necessary part of the transference and the polemic. <em>Man  &amp; Woman &amp; Animal</em> shows a woman finding pleasure in herself, the  whole film is a kind of assertion and affirmation of female sexuality  and its independence from male values and pleasures&hellip;</p>
+<p><span><strong><em>Halcion </em>from Dietmar Brehm (2007, Austria, format: 16mm)</strong></span></p>
+<p>Halcion is the title of the most recent work from Austria's most productive film studio - that of Dietmar BREHM.</p>
+<p>The film is named after a sleeping pill which Brehm explained in  a letter 'induces pastel colored dreams and watery images'. Its  appearance leaves little doubt that a key to the film lies in its title:  we are given to see the vision of a dream that has coagulated to film.</p>
+<p><span><strong><em>Fuses </em>from Carolee Schneemann (1967, US, format: 16mm)</strong></span></p>
+<p>This film won a Special Jury Selection Prize at the Cannes Film Festival.</p>
+<p><em>Fuses </em>portrayed Schneemann and her then-boyfriend James Tenney having sex as recorded by a 16 mm Bolex camera. Schneemann then altered the film by staining, burning, and directly drawing on the celluloid itself, mixing the concepts of painting and collage. The segments were edited together at varying speeds and superimposed with photographs of nature, which she juxtaposed against her and Tenney's bodies and sexual actions.</p>
+<p><em>Fuses </em>was motivated by Schneemann's desire to know if a woman's depiction of her own sexual acts was different from pornography and classical art. She showed the film to her contemporaries as she worked on it in 1965 and 1966, receiving mostly positive feedback from her peers. Many critics though described it as "narcissistic exhibitionism" and described it as self-indulgent. She received an especially strong reaction regarding the cunnilingus scene of the film. While <em>Fuses </em>is viewed as a "proto-feminist" film, Schneemann feels that it was largely neglected by feminist film historians.</p>
+<p><span><strong><em>Stiffness I + II</em> from Albert Schackl (Austria, 2007, 6min, format: 16mm)</strong></span></p>
+<p>The director masturbates in front of the camera, with 10 years between Stiffness I and Stiffness II.<span><strong></strong></span></p>
+<p><strong>+ 4 FILMS FROM THE "DIRTY DIARIES" (2009, Sweden):</strong></p>
+<p><span><strong><em>Red Like Cherry </em>from Tora Martens (DVD)</strong></span></p>
+<p>This is a series of quick, blurred clips of unidentifiable people swimming in the surf of a beach and then having sex in a room. This film was made with the intention of showing sex without the usual central focus generally made on male ejaculation.</p>
+<p><span><strong><em>Night Time</em> from Nelli Roselli (DVD)</strong></span></p>
+<p>The film shows a woman kissing a man passionately while filming herself. They  both proceed to perform oral sex on each other while the woman later  uses a vibrator to reach orgasm.</p>
+<p><span><strong><em>For The Liberation of Men</em> from Jennifer Rainsford (DVD)</strong></span></p>
+<p>This is an abstract mix of clips of a man clad in women's clothing masturbating. This film was born out of discussions that the director had with an old woman about her sexual fantasies.</p>
+<p><span><strong><em>Skin </em>from Elin Magnusson (DVD)</strong></span></p>
+<p>Two figures, one male and one female, clad in full-body nylon stockings caressing and kissing each other intimately. After a while, the two figures begin to cut open the nylon with a pair of scissors to reveal the naked skin underneath, and engage in oral and penetrative sex. There is no dialogue and only soft background music.</p>
+<p>You can see a preview of it here: <a href="http://www.elinmagnusson.com/skin.html">http://www.elinmagnusson.com/skin.html</a></p>
+<h2><strong>ABOUT THE DIRTY DIARIES</strong></h2>
+<p><img height="380" src="/static/img/import/Dirty_Diaries.jpg?origsrc=http://upload.wikimedia.org/wikipedia/en/f/f1/Dirty_Diaries.jpg" width="278" />Dirty Diaries is a 2009 collection of thirteen pornographic short films made by Swedish feminists and produced by Mia Engberg.</p>
+<p>The individual films are highly diverse in content, although many of them feature humour and different forms of queer sex. The creative decisions were based on a manifesto with the aim to create pornography that is non-commercial and follows feminist ideals.</p>
+<p>The films received mixed critical reception, some critics finding the films good and amusing, and others finding them dull.</p>
+<p><strong>The films followed a 10 point manifesto:</strong></p>
+<p><strong>1. Beautiful the way we are</strong></p>
+<p>To hell with the sick beauty ideals! Deep self-hatred keeps a lot of  women's energy and creativity sapped. The energy that could be focused  into exploring our own sexuality and power is being drained off into  diets and cosmetics. Don't let the commercial powers control your needs  and desires.</p>
+<p><strong>2. Fight for your right to be horny</strong></p>
+<p>Male sexuality is seen as a force of nature that has to be satisfied  at all costs while women's sexuality is accepted only if it adapts to  men's needs. Be horny on your own terms.</p>
+<p><strong>3. A good girl is a bad girl</strong></p>
+<p>We are fed up with the cultural cliché that sexually active and  independent women are either crazy or lesbian and therefore crazy. We  want to see and make movies where Betty Blue, Ophelia and Thelma &amp;  Louise don't have to die in the end.</p>
+<p><strong>4. Smash capitalism and patriarchy</strong></p>
+<p>The porn industry is sexist because we live in a patriarchal  capitalist society. It makes profit out of people’s needs for sex and  erotica and women get exploited in the process. To fight sexist porn you  have to smash capitalism and patriarchy.</p>
+<p><strong>5. As nasty as we wanna be</strong></p>
+<p>Enjoy, take charge or let go. Say NO when you want, to be able to say YES when YOU want.</p>
+<p><strong>6. Legal and free abortion is a human right!</strong></p>
+<p>Everyone has the right to control their own body. Millions of women  suffer from unwanted pregnancies and die from illegal abortions every  year. Fuck the moral right for preaching against birth control and sex  information.</p>
+<p><strong>7. Fight the real enemy!</strong></p>
+<p>Censorship cannot liberate sexuality. It is impossible to change the  image of women's sexuality if sexual images in themselves are taboo.  Don't attack women for displaying sex. Attack sexism for trying to  control our sexuality.</p>
+<p><strong>8. Stay Queer</strong></p>
+<p>A lot of opposition to erotica is homophobic and even more  transphobic. We don't believe in the fight between the sexes but in the  fight against sexes. Identify as any gender you want and make love to  whoever you want. Sexuality is diverse.</p>
+<p><strong>9. Use Protection</strong></p>
+<p>"I'm not saying go out an' do it, but if you do, strap it up before you smack it up." (Missy Elliot)</p>
+<p><strong>10. Do it yourself</strong></p>
+<p>Erotica is good and we need it. We truly believe that it is possible  to create an alternative to the mainstream porn industry by making sexy  films we like.</p>
+<p><strong></p>
+<p><strong></strong></p>
+<p>If you want to know more, you can have a look here:</p>
+<p><a href="http://www.dirtydiaries.se/">http://www.dirtydiaries.se/</a></p>
+<p></strong></p>
+<p><em>More info on the curator Cheery Kino here:</em><a href="http://cherrykino.blogspot.com/"><em>http://cherrykino.blogspot.com/</em></a></p>
+<p>Entry: £5/£3.50<em></em></p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

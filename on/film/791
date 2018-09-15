@@ -1,0 +1,364 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-791" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="791" data-apiobjecturl="/api/1/film/791/">
+    <meta itemprop="description" content="Telling the story of an inept and easily-distracted French mailman, who interrupts his duties to converse with the local inhabitants, this film contains wine drinking and a lot of cycling! " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/791"/>
+    <meta itemprop="duration" content="PT76M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Jacques Tati I: Jour de Fete + French wine and Conversation!</span><span class="year" itemprop="copyrightyear" content="1949" data-bind="attr:{content:year}, text: showYear()"> (1949)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/45/34/45347a358c45ffe6c05a431c220a745e.jpg" width="400" height="581" data-src="/static/img/events/jour-de-fete.jpg" data-width="310" data-height="450" data-toggle="modal" data-target="#img-picture-502" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-502">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/jour-de-fete.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/103" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">French Poetic Comedies: Jacques Tati</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-07-10 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 10 July 2011</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Jacques Tati I: Jour de Fete + French wine and Conversation!" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1949" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/45/34/45347a358c45ffe6c05a431c220a745e.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Jacques Tati</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Guideline U</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT76M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">76 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">French with Eng subtitles</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Telling the story of an inept and easily-distracted French mailman, who interrupts his duties to converse with the local inhabitants, this film contains wine drinking and a lot of cycling!</strong></p>
+<p><strong>Masterpiece of visual comedy, huge success, this established Tati’s reputation in France and internationally.</strong></p>
+<p><strong>+ FRENCH WINE AND CONVERSATION!</strong></p>
+<p><strong>The film will be followed by an opportunity for you to practice your French, as we'll be organising a French conversation! Plus, we'll have a special selection of French wines from the bar!</strong></p>
+<p><strong></strong></p>
+<p><strong>
+</strong></p><h2><strong></strong><strong>THE PLOT</strong></h2><strong>
+</strong>
+<p>A tiny French village prepares its annual celebration. The children look with envy at the funfair that is in contruction. The postman, Francois, after seeing a film about how postmen behave in the US, starts to carry out his job differently. He learns to ride a bicycle&hellip;</p>
+
+<p><strong></strong></p>
+<h2><strong>PRIZES</strong></h2>
+<p>The film won the prize for best screenplay at the Venice Film Festival (1949)</p>
+<p>The film won the "Grand Prix du Cinema Francais" - Best French film of the Year (award given in France and that doesn't exist anymore)</p>
+
+<h2><strong>A FEW FACTS</strong></h2>
+<p><img height="333" src="/static/img/import/jour-de-fete2.jpg?w=600&amp;h=400?origsrc=http://venezuelatina.files.wordpress.com/2010/07/jour-de-fete2.jpg?w=600&amp;h=400" width="500" /></p>
+
+<p>- The film is in black &amp; white, but Tati had wanted the film to be in colour. He shot the film in colour, on a new kind of film (this was the start of colour), but it  turned out that thecolour film didn't work.</p>
+<p>Thankfully Tati had also shot everything in black &amp; white as a back-up, and this is the version that survived.</p>
+<p>- The film was shot largely in the tiny village of Sainte-Sévère-sur-Indre, where Tati had taken refuge during the war in 1942. Many of the locals played the roles of extras. </p>
+
+<p><strong></strong><strong>BUY YOUR TICKET HERE!</strong><strong><a href="http://www.wegottickets.com/event/123155">http://www.wegottickets.com/event/123155</a></strong><strong>£4.50 advance ticket </strong><strong>OR £5/£3.50 (conc) on the night</strong></p>
+<p><strong></strong></p>
+
+<p><strong></strong></p>
+
+<p><strong></strong></p>
+<p><a href="/on/season/103"><img height="300" src="/static/img/import/32090.jpg?1257356943?origsrc=http://www.moma.org/images/dynamic_content/exhibition_page/32090.jpg?1257356943" width="400" /></a> </p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>
+</strong></p><h2><strong></strong><strong><a href="/on/season/103"><span>Part of our season: FRENCH POETIC COMEDIES: JACQUES TATI FILM SEASON (10 TO 31 JULY 2011)</span></a></strong></h2><strong>
+</strong>
+<p>One of cinema’s greatest comedians, French director Jacques Tati has produced some of the most beautiful, inspired, light, funny and poetic comedies ever.</p>
+<p>Very little dialogue and a lot of visual creativity, reminiscent of Charlie Chaplin or Buster Keaton, these are perfect light little gems for the summer months!</p>
+
+<p><a href="/on/film/791"><strong><img height="134" src="/static/img/import/AP1070-jour-de-fete-jaques-tati-french-comedy-movie-poster.jpg?origsrc=http://www.vinmag.com/online/media/gbu0/prodlg/AP1070-jour-de-fete-jaques-tati-french-comedy-movie-poster.jpg" width="100" /></strong></a></p>
+<p><strong> </strong></p>
+<p><a href="/on/film/791"><strong>Sun 10 July, 7.30pm: Jour de Fete (1949) + </strong><strong>French wine and Conversation!</strong></a></p>
+<p>Masterpiece of visual comedy, huge success, this established Tati’s reputation in France and internationally.</p>
+<p><strong> </strong></p>
+<p><a href="/on/film/790"><strong><img height="145" src="/static/img/import/les-vacances-de-m-hulot.jpg?origsrc=http://www.ablazingly.com/posters/les-vacances-de-m-hulot-1110860/les-vacances-de-m-hulot.jpg" width="100" /></strong></a></p>
+<p><strong> </strong></p>
+<p><strong> </strong><a href="/on/film/790"><strong>Thu 14 July, 7.30pm: Les Vacances de Monsieur Hulot (1953) + </strong><strong>French wine and Conversation for Bastille Day!!</strong></a></p>
+<p>“Might contain the greatest collection of sight gags ever committed to celluloid” - The Independent</p>
+
+<p><strong> </strong></p>
+<p><strong>    <img height="138" src="/static/img/import/FVMO2.jpg?origsrc=http://www.vinmag.com/online/media/gbu0/prodlg/FVMO2.jpg" width="100" /></strong></p>
+<p><strong> </strong><a href="/on/film/789"><strong>Thu 28 July, 7.30pm: Mon Oncle (1958)</strong></a></p>
+<p> Winner of the Oscar and the New York Film Critics Award for Best Foreign Film, and of a Special Prize at the prestigious Cannes Film Festival.</p>
+
+
+<p><a href="/on/film/792"><strong><img height="132" src="/static/img/import/playtimeposter6ny_63916.jpg?origsrc=http://www.411mania.com/siteimages/playtimeposter6ny_63916.jpg" width="100" /></strong></a></p>
+<p><strong> </strong><a href="/on/film/792"><strong>Sun 31 July, 7.30pm: Play Time (1967)</strong></a></p>
+<p>According to French director F. Truffaut, it is “a film that comes from another planet”. A UFO, but a very friendly one!</p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong>
+</p>
+
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/103">French Poetic Comedies: Jacques Tati</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0711"
+                         data-href="/on/film/790">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f8/8b/f88b8c40e8d520ee663293a296e29ffa.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2e/0b/2e0be75d0d0904632570ef78f1685fd6.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">14</h1>
+
+                    <h1>Film: <a href="/on/film/790">Jacques Tati Ii: Les Vacances De Monsieur Hulot + French Wine And Conversation! (1953)</a></h1>
+
+                    <h2>14 Jul 2011, 7:30 p.m.</h2>
+
+                    <p>Introducing the shy, complex, and elegantly maladroit Monsieur Hulot, this film “might contain the greatest collection of sight gags ever committed to celluloid” (The Independent). </p>
+
+                    <p class="viewlink"><a href="/on/film/790">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0711"
+                         data-href="/on/film/789">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/d3/da/d3da587a5b6908d940e85c176aaff389.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/06/7f/067fcdb132df501cc745d9e9291c1b8e.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">28</h1>
+
+                    <h1>Film: <a href="/on/film/789">Jacques Tati Iii: Mon Oncle (1958)</a></h1>
+
+                    <h2>28 Jul 2011, 7:30 p.m.</h2>
+
+                    <p>Winner of the Oscar and the New York Film Critics Award for Best Foreign Film, and of a Special Prize at the prestigious Cannes Film Festival, this incredible film is centred around Monsieur Hulot, adored uncle of young Gerard, who struggles to fit into ultra-mechanised and geometric new demands of Modernity.</p>
+
+                    <p class="viewlink"><a href="/on/film/789">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0711"
+                         data-href="/on/film/792">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/a7/35/a735dc1dc88f98991f1121c058db8991.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/ca/14/ca143b45f7d63f92d3b6947ce3377552.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">31</h1>
+
+                    <h1>Film: <a href="/on/film/792">Jacques Tati Iv: Play Time (1967)</a></h1>
+
+                    <h2>31 Jul 2011, 7:30 p.m.</h2>
+
+                    <p>Seen as Tati’s most daring film, an enormous set was built for the film, known as “Tativille”, for which Tati participated financially, and which stretched the production of the film to 3 years. </p>
+
+                    <p class="viewlink"><a href="/on/film/792">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

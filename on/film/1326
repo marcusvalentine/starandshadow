@@ -1,0 +1,363 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-1326" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="1326" data-apiobjecturl="/api/1/film/1326/">
+    <meta itemprop="description" content="Leonard Zelig, the "human chameleon", is profiled in this mock-documentary. Technically advanced and beautifully shot by Gordon Willis. Director Woody Allen appears as Zelig in scenes that purport to be vintage newsreel clips of the 1920s and 1930s, but are actually clever recreations, "aged" and scratched-up Citizen Kane-style by special-effects maestros Joel Hynick, Stuart Robinson and R. Greenberg Associates. &nbsp;Worth remembering this appeared a year before Hollywood was wowed by mockumentary This is Spinal Tap. &nbsp;A gem of a film." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/1326"/>
+    <meta itemprop="duration" content="PT84M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Zelig</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/98/62/9862529b65098b5f5b178aa9c3cd64ee.jpg" width="400" height="212" data-src="/static/img/events/ti103598_large_Zelig.jpg" data-width="495" data-height="262" data-toggle="modal" data-target="#img-picture-1629" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1629">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/ti103598_large_Zelig.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/164" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Early Woody Allen </a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2014-03-27 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 27 March 2014</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Zelig" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/98/62/9862529b65098b5f5b178aa9c3cd64ee.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Woody Allen</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">BBFC PG</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT84M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">84 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Other</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">English</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country">USA</span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><div class="narrow">
+<dl><dt>Year:</dt><dd>1983</dd><dt>Running time:</dt><dd>84 minutes</dd><dt>Studio:</dt><dd>MGM</dd><dt>Territory:</dt><dd>Worldwide</dd><dt>Directed by:</dt><dd>Woody Allen</dd><dt>Starring:</dt><dd>Woody Allen, Mia Farrow, John Buckwalter, Martin 
+Chatinover, Stanley Swerdlow, Paul Nevens, Howard Erskine, Ralph Bell, 
+Richard Whiting, Will Hussong, Stephanie Farrow, Susan Sontag, Saul 
+Bellow, Ed Herlihy (voice), Patrick Horgan (narrator).</dd></dl><p>Leonard Zelig, the "human chameleon", is profiled in this 
+mock-documentary. Technically advanced and beautifully shot by Gordon 
+Willis. Director Woody Allen appears as Zelig in scenes that purport to 
+be vintage newsreel clips of the 1920s and 1930s, but are actually 
+clever recreations, "aged" and scratched-up Citizen Kane-style by 
+special-effects maestros Joel Hynick, Stuart Robinson and R. Greenberg 
+Associates.  Worth remembering this appeared a year before Hollywood was
+ wowed by mockumentary This is Spinal Tap.  A gem of a film.</p>
+</div></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/164">Early Woody Allen </a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0314"
+                         data-href="/on/film/1322">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/85/cf/85cf16c803da58ff7cf2426947d8180c.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e1/52/e152b9c442a48a3c581415ee20b121e5.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">13</h1>
+
+                    <h1>Film: <a href="/on/film/1322">Manhattan</a></h1>
+
+                    <h2>13 Mar 2014, 7:30 p.m.</h2>
+
+                    <p>A divorced New Yorker currently dating a high-schooler brings himself to
+ look for love in the mistress of his best friend instead.Starring:Woody Allen, Diane Keaton, Meryl Streep, Mariel Hemingway</p>
+
+                    <p class="viewlink"><a href="/on/film/1322">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0314"
+                         data-href="/on/film/1321">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/97/28/9728e96cd835b8717c5854ea11dd44d7.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/a4/07/a407085134e285ea1e0c6b79b8918712.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">16</h1>
+
+                    <h1>Film: <a href="/on/film/1321">Sleeper</a></h1>
+
+                    <h2>16 Mar 2014, 7:30 p.m.</h2>
+
+                    <p>Woody Allen pulls out all the comic stops here, utilizing 
+everything from Orwellian social satire, sci-fi movie parody, Harold 
+Lloyd-style pratfalls,and a scene involving giant fruits and vegetables 
+that has to be the funniest sight gag ever committed to celluoid. And join us before the film at about 7:15pm to hear Yoshie Kawamura play for us on the piano and set the mood for Woody.</p>
+
+                    <p class="viewlink"><a href="/on/film/1321">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0314"
+                         data-href="/on/film/1324">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/41/50/415081cd660ffed7bd4034cbfd2cf738.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/7f/49/7f4982f90807a0a97973d9652d5cd0cc.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/1324">Play It Again, Sam</a></h1>
+
+                    <h2>20 Mar 2014, 7:30 p.m.</h2>
+
+                    <p>Based on his own stage play about a film critic with seduction problems who takes Bogart as a role model - this shows Allen at his best, exploring the gap between movie escapism and reality. It's not really as pretentious as that with plenty of good sight gags and one-liners. The working out of the parallels with Casablanca are masterly.  Unusual in that Allen is here directed by Herbert Ross . </p>
+
+                    <p class="viewlink"><a href="/on/film/1324">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0314"
+                         data-href="/on/film/1325">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/76/ad/76adf9bea60d98c4ee206249bc5260f0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3d/e8/3de8e6d52690af13efb5ca8e64d6150f.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">23</h1>
+
+                    <h1>Film: <a href="/on/film/1325">Love And Death</a></h1>
+
+                    <h2>23 Mar 2014, 7:30 p.m.</h2>
+
+                    <p><span>In part a homage to all things Russian especially the literature of Tolstoy and Dostoyevsky, in part a reprise of the gags of earlier successful Allen movies. Allen siezes the opportunity for sumptuous epic cinematography especially in the battle scenes where </span><em>Love and Death</em><span> makes effective use of its technical qualifications. The fact that it looks like an awards-baiting historical epic make Allen’s usual antics look sillier and funnier. </span></p>
+
+                    <p class="viewlink"><a href="/on/film/1325">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0314"
+                         data-href="/on/film/1323">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/ef/47/ef4717e9715284697b70265f06048a42.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/b8/5b/b85b3257e8fde906894246ae10eb8cf8.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">30</h1>
+
+                    <h1>Film: <a href="/on/film/1323">Annie Hall</a></h1>
+
+                    <h2>30 Mar 2014, 7:30 p.m.</h2>
+
+                    <p>'Filled with poignant performances and devastating humor, Annie Hall represents a quantum leap for Woody Allen and remains an American classic.' Rotten Tomatoes. Woody Allen's romantic comedy of the Me Decade follows the up and down relationship of two mismatched New York neurotics. Jewish comedy writer Alvy Singer (Allen) reflects on his past romance with tightly-wound WASP singer Annie Hall (Diane Keaton, née Hall). Funny, wry, tender and fashion-setting Annie Hall beat Star Wars to the Oscar for Best Picture.   And stay by after the film for a short piano recital by Yoshie Kawamura: after Woody a little musical indulgence with some Chopin&hellip;</p>
+
+                    <p class="viewlink"><a href="/on/film/1323">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-990" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="990" data-apiobjecturl="/api/1/film/990/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/990"/>
+    <meta itemprop="duration" content="PTM" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Future Shorts Festival + Q&A</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/3f/7c/3f7cecb50d65765ef0efadfe4b93eeb6.jpg" width="400" height="273" data-src="/static/img/events/homme_sans_tete.jpg" data-width="400" data-height="273" data-toggle="modal" data-target="#img-picture-855" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-855">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/homme_sans_tete.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-04-12 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 12 April 2012</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Future Shorts Festival + Q&A" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/3f/7c/3f7cecb50d65765ef0efadfe4b93eeb6.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">various</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PTM" data-bind="attr:{datetime:isolength()},text:lengthLabel()">Unknown</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">DVD</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">various</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><h3><hr></h3>
+<h3>Excellent programme of award-winning shorts brought to us by Future Shorts</h3>
+<p><hr></p>
+<p><strong>FULL LIST OF SHORT FILMS SHOWN:</strong></p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8021&amp;start=0&amp;program=641">BEAR</a> (<span class="director">Dir: Nash Edgerton </span><span class="country">Australia - 2011)</span></h3>
+<p>Edgerton, who wrote, directed and starred in “Bear”, the sequel to “Spider” (2007), centers around the main character Jack to unfold his tangled relationship and examines whether he’s learned his lesson or not. Described as a black comedy without social commentary, “Bear” is a follow up but also stands alone as it’s own piece. “Because I tend to play things fairly straight and never set things up like it's a drama or a comedy, the audience doesn't know what it's going to be, and something about that really works,” said Edgerton.  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8022&amp;start=0&amp;program=641">QUADRANGLE</a> (<span class="director">Dir: Amy Grappell </span><span class="country">United States - 2010)</span></h3>
+<p>An examination of a four-way affair, this documentary explores the story of two “conventional” couples who swap partners and live in a group marriage in the early 1970s. Set in Long Island, New York, this domestic living experiment unravels and challenges and boundaries of social convention, marriage, monogamy and desire. “Inspired by the discovery of my father’s photographs, taken at the height of the poly-amorous affair, and in an effort to come to terms with my own past, I decided to interview my parents. The film does not propose answers and strives to remain objective. It explores two people in a certain time. It tells a story,” said Grappell.  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8023&amp;start=0&amp;program=641">VENUS</a> (<span class="director">Dir: Tor Fruergaard </span><span class="country">Denmark - 2012) + Q&amp;A with the director who will be there for the night!</span></h3>
+<p>Venus, a 7-minute claymation, is an erotic comedy about rediscovering one another and finding the spark where you least expect it An official selection at the Los Angeles and Annecy Animation Festival, among others; Venus tells the story of Caroline and Rasmus, a confused couple who've not had sex in for four months. To solve this, they decide to visit a swingers club and see if it will salvage their relationship, or not.  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8024&amp;start=0&amp;program=641">L'HOMME SANS TETE (THE MAN WITHOUT A HEAD)</a> (<span class="director">Dir: Juan Solanas </span><span class="country">France - 2003)</span></h3>
+<p>Created over 4 years, Solanas’ short debut is the story of a man who lives alone, head-less, in a room overlooking a vast industrial space. Visually astounding and technically accomplished, this animated short reveals love and happiness and one man’s pursuit for romance amidst life without a head. "We're living in a period where cinema is a product; movies are becoming more and more commercialized. Short films are one of the last real places for artistic freedom - they're important to celebrate just for that," said Solanas.  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8025&amp;start=0&amp;program=641">THE ARM</a> (<span class="director">Dir: Brie Larson, Sarah Ramos, Jessie Ennis </span><span class="country">United States - 2012)</span></h3>
+<p>Directed and written by a female trio, "The Arm" tells an up-to-the minute social commentary on teen love in a time of technology. Written over the course of 3 hours on a Greyhound bus from Dallas to Austin, this short centers upon two main characters, Chance and Genevieve, who start a texting relationship only to realise they were never in a relationship at all. At Sundance this year, “The Arm” was acknowledged with a Special Jury Award for Comedic Storytelling.  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8030&amp;start=0&amp;program=641">MOURIR AUPRÈS DE TOI (TO DIE BY YOUR SIDE)</a> (<span class="director">Dir: Spike Jonze &amp; Simon Cahn </span><span class="country">France - 2011)</span></h3>
+<p>Created from 3,000 hand-cut pieces of felt, Jonze’s tragicomic stop-motion animation takes place in an old, Parisian bookshop where at night the covers come to life. It’s the story of a felt skeleton who falls in love with a beautiful and sassy vixen. Co-directed by filmmaker Simon Cahn with designs by Olympia Le-Tan, this short is sweet, sad, spooky and a bit whimsical. Jonze said, “A short is like a sketch. You can have an idea or a feeling and just go and do it.”  </p>
+<h3><a href="http://futureshorts.com/short-show.php?id=8039&amp;start=0&amp;program=641">LOVE YOU MORE</a> (<span class="director">Dir: Sam Taylor Wood </span><span class="country">United Kingdom - 2007)</span></h3>
+<p>Inspired by the hit song ‘Love You More’ by the Buzzcocks, this short is the tale of two punk lovers, Georgia and Peter, in London, 1978. Tender and explorative, this short film directorial debut by Taylor-Wood was written by Oscar nominee Patrick Marber and produced by Oscar winner Anthony Minghella.</p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

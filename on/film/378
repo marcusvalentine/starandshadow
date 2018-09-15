@@ -1,0 +1,252 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-378" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="378" data-apiobjecturl="/api/1/film/378/">
+    <meta itemprop="description" content="R.L. Stevenson’s celebrated tale of terror, first published in 1886, has inspired countless screen adaptations, but none has ever matched the achievement of the very first sound version: R. Mamoulian's sensual and stylish masterpiece of 1931. Academy Award winner for F. March for his virtuoso performance. Rare, terrifying, stunning." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/378"/>
+    <meta itemprop="duration" content="PT97M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Dr Jekyll and Mr Hyde</span><span class="year" itemprop="copyrightyear" content="1931" data-bind="attr:{content:year}, text: showYear()"> (1931)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/32/ff/32ffa36968bd008795caa8febc74b1f7.jpg" width="400" height="300" data-src="/static/img/events/jekyll_hyde_3.jpg" data-width="400" data-height="300" data-toggle="modal" data-target="#img-picture-256" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-256">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/jekyll_hyde_3.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-04-23 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 23 April 2009</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Dr Jekyll and Mr Hyde" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1931" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/32/ff/32ffa36968bd008795caa8febc74b1f7.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Rouben Mamoulian</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT97M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">97 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang"></span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p>R.L. Stevenson’s celebrated tale of terror, first published in 1886, has inspired countless screen adaptations, but none has ever matched the achievement of the very first sound version: R. Mamoulian's sensual and stylish masterpiece of 1931.</p>
+<p>Academy Award winner for F. March for his virtuoso performance.</p>
+<h2>THE FILM</h2>
+<p>'I've played with dangerous knowledge. I've walked a strange and terrible road&hellip;'</p>
+<p>Made shortly before the enforcement of the Hays Code which ushered in stricter censorship, Mamoulian's adaptation is startlingly frank in its portrayal of Jekyll as a man tormented by sexual frustration.</p>
+<p>A brilliant young doctor, he shocks the scientific community by claiming that man's good self can be separated from his evil self, while his impatience to marry his fiancée - clearly motivated by sexual need - is condemned as 'positively indecent'.</p>
+<p>Fredric March won an Academy Award for his virtuoso performance as the elegant, civilised doctor who transforms himself to terrifying effect.</p>
+<h2>FILM FACTS</h2>
+<p>The film is remembered today for its strong sexual content, embodied mostly in the character of the prostitute. When the film was rereleased in 1936, a censorship code required 8 minutes to be removed because of their sexual content.</p>
+<p>The technical secret of the transformation scenes from Dr Jekyll to Mr Hyde was not revealed until after the director's death.</p>
+<h2>THE REVIEWS</h2>
+<p>" A Classic. Not to be missed" - THE GUARDIAN</p>
+<p>"There have been dozens of adaptations of Robert Louis Stevenson's story since the author created the character during a six day cocaine binge in 1886 (&hellip;) but this 1931 version of the story is hard to beat." - CHANNEL FOUR REVIEW</p>
+<p>"Rouben Mamoulian's <em>Dr. Jekyll and Mr. Hyde</em> is perhaps the most stylish and technically innovative of any of the several versions of Robert Louis Stevenson's classic novel, for Mamoulian integrated both the new and established film technologies into his individual filmmaking style. Dissolves, superimpositions, camera movements, and expressionistic lighting are synthesized into his vision of the struggle within man, which is the heart of Stevenson's tale." - FILM REFERENCE</p>
+<p>ABOUT THE RELEASE OF THE NEW COPY OF DR JEKYLL AND MY HYDE:</p>
+<p>"In the British Film Insttitute's very welcome restoration of Rouben Mamoulian's Dr Jekyll and Mr Hyde from 1931, there are many happy discoveries - not least the sheer sexiness of this version of the Stevenson story, something generally put aside until the mid-90s and Stephen Frears' neglected Mary Reilly, but that's another story. Maybe the most arresting thing about the Mamoulian version is in the opening and its classic point-of-view shot." - THE GUARDIAN</p>
+
+<h2>THE AWARDS</h2>
+<p><a class="mw-redirect" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards"></a></p>
+<p><span class="mw-redirect">Academy Awards</span>: Oscar; Best Actor in a Leading Role, Fredric March.</p>
+<p>Venice Film Festival: Audience Referendum; Most Favorite Actor, Fredric March; Most Original Fantasy Story, Rouben Mamoulian.</p>
+<h2>THE DIRECTOR - FACTS</h2>
+<ul>
+<li>Rouben Mamoulian was an Armenian- American director.</li>
+<li>Born in Georgia to an Armenian family in 1897, he died in California in 1987.</li>
+<li>In 1940 he directed The Mask of Zorro.</li>
+<li>He was fired from 3 film shootings: Laura (1944, finally directed by O. Preminger), Porgy and Bess (1959) and Cleopatra (1963, finally directed by Joseph L. Mankiewicz)</li>
+</ul>
+<h2>THE SCREENING</h2>
+<p>This film will be shown on a beautiful new 35 mm print coming from the British Film Institute.</p>
+<p>It is very rare to see this gorgeous film on a big screen, and even more to see it on a new 35 mm print!</p>
+<p>The British Film Institute asked us to handle the print with great care as it is a very special object!</p>
+<p>The print is finally coming to Newcastle after having toured the UK, including London, Edinburgh and Manchester.</p>
+
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

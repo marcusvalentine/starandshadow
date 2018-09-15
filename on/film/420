@@ -1,0 +1,352 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-420" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="420" data-apiobjecturl="/api/1/film/420/">
+    <meta itemprop="description" content="Set in war–torn Algeria in the 1990s, Barakat! (Enough!) follows two women on the dangerous search for the younger woman's husband, a journalist whose writings resulted in his disappearance." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/420"/>
+    <meta itemprop="duration" content="PT95M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Barakat! (ALGERIA)</span><span class="year" itemprop="copyrightyear" content="2006" data-bind="attr:{content:year}, text: showYear()"> (2006)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/37/ab/37ab74f71e7198aad39ac4a791367bed.jpg" width="400" height="478" data-src="/static/img/events/barakat.jpg" data-width="268" data-height="320" data-toggle="modal" data-target="#img-picture-298" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-298">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/barakat.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/35" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">CINEMA AFRICA</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-09-20 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 20 September 2009</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Barakat! (ALGERIA)" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="2006" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/37/ab/37ab74f71e7198aad39ac4a791367bed.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Djamila Sahraoui</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Guideline PG</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT95M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">95mins</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Arabic, and French, with English subtitles</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body">
+<div>
+<h2>THE PLOT</h2>
+</div>
+<p>Set in war–torn Algeria in the 1990s, <em>Barakat!</em> follows two women on the dangerous search for the younger woman's husband, a journalist whose writings resulted in his disappearance.</p>
+<p>Both women represent anachronisms in Islamist Algeria: the younger woman is a doctor, the older a nurse with vivid memories of Algeria's fight for independence. Ignoring curfews and the constant threat of ambush by armed militias, the two women challenge the men they encounter to accept them and help them with their search.</p>
+<p>Their journey leads them across the picturesque landscapes of Algeria, to a deeper understanding of how their lives were shaped by their country's history.  Djamila Sahraoui is acclaimed for her documentaries on the Algerian civil war, and this is her first feature film.</p>
+<div>
+<h2>REVIEWS</h2>
+</div>
+<p>Propelled by magnetic central performances, this bold film's cry of protest is in its title translation:enough!" - <a href="http://www.richmix.org.uk/downloads/press/spring08/RM_PR_Independance%20Days%20-%20Africa%20at%20the%20Pictures.pdf">RICHMIX</a> (African Film Festival in London)</p>
+<div>
+<h2>FESTIVALS, AWARDS</h2>
+</div>
+<p>Barakat! premiered at the Berlin International Film Festival in 2006, and was selected in many festivals, among which the Rotterdam Film Festival and the London Film Festival.</p>
+<p>The film won the wawrds for best first film, best music and best screenplay at the Panafrican Film Festival of Ouagadougou (very prestigious African Film Festival, also known as FESPACO).</p>
+<p>The film also won the prize for Best Arab Film at the Dubai International Film Festival.</p>
+<div>
+<h2>WHAT THE DIRECTOR SAYS</h2>
+</div>
+<p>In an interview that you can read <a href="http://209.85.229.132/search?q=cache:n7wXWPVsGDQJ:www.sffs.org/assets/Enough_Study_Guide.pdf+barakat+Sahraoui&amp;cd=29&amp;hl=fr&amp;ct=clnk&amp;gl=fr&amp;lr=lang_en">here</a>, the director Djamila Sahraoui explains:</p>
+<p><img height="137" src="/static/img/import/djamila_421_s2.jpg?origsrc=http://chaussin.pierre.free.fr/pages/images/djamila_421_s2.jpg" width="150" />“In my film, from the beginning, I did not want to show imprisoned, subservient women, as one sees so often in Algerian films, nor unrealistic heroines who deny themselves in the name of history. I wanted to portray women who are in motion – and of course this motion influenced the film’s form.</p>
+<p>These women make their way in life without ever pitying themselves or arousing the audience’s pity. They move forward despite all obstacles. They move forward, whatever happens. And they never return to the place they set out from.”</p>
+<div>
+<h2>ABOUT DJAMILA SAHRAOUI</h2>
+</div>
+<p>Djamila Sahraoui was born in Algeria in 1950, and has lived in France since 1975. After studying literature in Algeria, she studied filmmaking at l’IDHEC in Paris. She made several short films, and was awarded the Villa Médicis Hors les Murs prize in 1997. Barakat! (Enough!) is her first feature film.</p>
+
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/35">CINEMA AFRICA</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0909"
+                         data-href="/on/film/418">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/12/49/1249680ae44b1e406d99e661d1437b83.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/62/5d/625da2b518bd03b464dc165b1f90055a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">10</h1>
+
+                    <h1>Film: <a href="/on/film/418">Les Silences Du Palais (Tunisia) (1994)</a></h1>
+
+                    <h2>10 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Stunningly acted, beautifully shot. A deliciously scored masterpiece.  </p>
+
+                    <p class="viewlink"><a href="/on/film/418">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0909"
+                         data-href="/on/film/419">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/47/cf/47cf8be969434030a9b4cfd61e5d234c.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/97/39/9739396d422bc1db3f114afec74c174c.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">13</h1>
+
+                    <h1>Film: <a href="/on/film/419">Hyenas (Senegal) (1992)</a></h1>
+
+                    <h2>13 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Masterful parable of greed, power and insanity.</p>
+
+                    <p class="viewlink"><a href="/on/film/419">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0909"
+                         data-href="/on/film/470">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/93/f2/93f2d131d5266547b4b3b829d78a02d0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/00/b1/00b10161ac8e5f6e9ad56885e5b00134.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/470">Finzan (Mali) (1989)</a></h1>
+
+                    <h2>17 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Two women rebel against the traditions of their village in Mali in a film by one of the key auteurs of African cinema.
+</p>
+
+                    <p class="viewlink"><a href="/on/film/470">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0909"
+                         data-href="/on/film/471">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/6d/a9/6da94cf45d3ace7e0e623c98a585bf5a.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5f/b7/5fb7caa4e32554111d64a3aee6fc6ae3.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">24</h1>
+
+                    <h1>Film: <a href="/on/film/471">Zulu Love Letter (South Africa) (2004)</a></h1>
+
+                    <h2>24 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>“There have been terrible abuses towards humanity exacted under apartheid that the film is in a position to visualise, on behalf of those who survive them. Zulu Love Letter has bravely created a new cinematic space for representing historical truths.” </p>
+
+                    <p class="viewlink"><a href="/on/film/471">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

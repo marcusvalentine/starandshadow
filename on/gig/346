@@ -1,0 +1,208 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-346" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="346" data-apiobjecturl="/api/1/gig/346/">
+    <meta itemprop="description" content="The most cinematic d'Anglais post punk bands, The Monochrome Set, walk to the big screen to cast a long shadow over the Star and Shadow Cinema tonight; from 1979, with an exclusive DVD screening of their complete M80 US Festival appearance followed by a very special live performance from the current 2011 line up.  
+" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/346"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Cast A Long Shadow - An Evening With The Monochrome Set</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/ee/f4/eef4dc75287471b1cce4fa8005c79e44.jpg" width="400" height="283" data-src="/static/img/events/MONOCHROMESETSAS02-09-11a.jpg" data-width="711" data-height="503" data-toggle="modal" data-target="#img-picture-719" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-719">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/MONOCHROMESETSAS02-09-11a.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-09-10 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Saturday 10</time> to <time class="endDateTime" itemprop="endDate" datetime="2011-09-11 00:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">12:00 a.m. Sunday 11 September 2011</time></h3>
+
+    <meta itemprop="image" content="/media/cache/ee/f4/eef4dc75287471b1cce4fa8005c79e44.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><em>"How can anyone go through life without the dear, cuddly Monochrome Set?"</em> - Morrissey</p>
+<p>The most cinematic d'Anglais post punk bands, The Monochrome Set, walk to the big screen to cast a long shadow over the Star and Shadow Cinema tonight; from 1979, with an exclusive DVD screening of:</p>
+<h3>The Monochrome Set - M80 Festival Concert, Walker Arts Centre, Minneapolis, USA 22/09/79 (approx 45 mins)</h3>
+<p><a href="http://www.youtube.com/watch?v=A5RNn8jAV68">http://www.youtube.com/watch?v=A5RNn8jAV68</a></p>
+<p><a href="http://3.bp.blogspot.com/_2TVMxnrSCKY/TUMJvPflNnI/AAAAAAAASM4/0pXXtY7-WXM/s1600/walkerposter.jpg">http://3.bp.blogspot.com/_2TVMxnrSCKY/TUMJvPflNnI/AAAAAAAASM4/0pXXtY7-WXM/s1600/walkerposter.jpg</a></p>
+<p>Compelling footage of The Monochrome Set's complete performance at the late 70s M80 US Festival. Filmed in back to mono-chrome, this atmospheric film captures 1979's best band in town out of town at the very beginning performing early numbers "He's Frank" (recently covered by Brighton Port Authority featuring Iggy Pop), "Eine Symphonie Des Grauens" and "Goodbye Joe" (also covered by Tracey Thorn) alongside unreleased "Fly Me To The Moon". An official DVD of the concert, poised for commercial release, will be available to purchase on the evening.</p>
+<p>In complete contrast, the black and white Monochrome Set of 1979 will be followed by a very special live performance from a recently reunited and colourful 2011 line up:</p>
+<h4>The Monochrome Set</h4>
+<p><a href="http://www.themonochromeset.co.uk/">http://www.themonochromeset.co.uk/</a></p>
+<p><a href="http://www.facebook.com/home.php?sk=group_12010405876">http://www.facebook.com/home.php?sk=group_12010405876</a></p>
+<p>Original members Bid, Lester Square and Andy Warren are joined by drummer Steve Brummell and keyboard player John Paul Moran. Still defying definition after thirty years, the band have returned to reap some reward from both critical and artistic applause along the way performing selected highlights from their stand-alone Rough Trade, Dindisc, Cherry Red and Blanco Y Negro back catalogues.</p>
+<h3>Support on the evening comes from:</h3>
+<h4>Post</h4>
+<p><a href="http://www.facebook.com/postpage?sk=wall">http://www.facebook.com/postpage?sk=wall</a></p>
+<p><a href="http://www.youtube.com/watch?v=tFZ_Fyp-Zjs">http://www.youtube.com/watch?v=tFZ_Fyp-Zjs</a></p>
+<p>Glorious Glasgow cut ups and put outs from Graham Wann's POST-Bricolage and Sexual Objects collective. Debut 45, "Knocking Down The Same Door", available on We Can Still Picnic.</p>
+<h4>Sniffs</h4>
+<p><a href="http://www.facebook.com/sniffspage">http://www.facebook.com/sniffspage</a></p>
+<p>Sniffs play death songs, biker rock and synthesised sound; sensational sonic synthesis from Leeds.</p>
+<h4>Another Music In A Different Kitchen NE1FM DJ Trevor Johnson</h4>
+<p><a href="http://www.facebook.com/pages/another-music-in-a-different-kitchen/361511346358">http://www.facebook.com/pages/another-music-in-a-different-kitchen/361511346358</a></p>
+<p>Another Music In A Different Kitchen, Trevor Johnson's pioneering Saturday morning radio show on NE1FM, is 2 hours of what can be termed punk/post punk sounds from the late 1970s and early 1980s. An eclectic mix of bands/artists in their embryonic stage, some of whom would later be heralded for their influence on modern music, it also includes those many one off singles from bands who existed just to do exactly that, producing classic examples of do it yourself rough cuts with real attitude. Demand to hear spiral scratches from an era generally misinterpreted by the mainstream.</p>
+<h3>Advance Tickets:</h3>
+<p><a href="http://www.wegottickets.com/event/124690">http://www.wegottickets.com/event/124690</a></p>
+<h3>Facebook:</h3>
+<p><a href="http://www.facebook.com/?ref=home#!/event.php?eid=120267848062310">http://www.facebook.com/?ref=home#!/event.php?eid=120267848062310</a></p></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="Cast A Long Shadow - An Evening With The Monochrome Set">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

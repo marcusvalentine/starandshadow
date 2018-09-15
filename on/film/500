@@ -1,0 +1,263 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-500" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="500" data-apiobjecturl="/api/1/film/500/">
+    <meta itemprop="description" content="Cinematic landmark in the history of film, this film is unmissable. Showing tonight on a special new 35mm print  sent by the British Film Institute - a very rare occasion to see this gorgeous film with such image quality. Accompanied by the restored original soundtrack from 1927." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/500"/>
+    <meta itemprop="duration" content="PT95M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Sunrise: A Song of Two Humans</span><span class="year" itemprop="copyrightyear" content="1927" data-bind="attr:{content:year}, text: showYear()"> (1927)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/8d/75/8d75d0ccb3b3c52261fbeefce30e2320.jpg" width="400" height="499" data-src="/static/img/events/sunrise1.jpg" data-width="300" data-height="374" data-toggle="modal" data-target="#img-picture-311" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-311">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/sunrise1.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 style="display: none;" data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/2" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason"> NO SEASON</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-10-22 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 22 October 2009</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Sunrise: A Song of Two Humans" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1927" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/8d/75/8d75d0ccb3b3c52261fbeefce30e2320.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">MURNAU</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Guideline U</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT95M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">95min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Silent</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Cinematic landmark in the history of film, this is one of the most beautiful films ever.</strong></p>
+<p><strong>Showing tonight on a special new 35mm print sent by the British Film Institute - a rare occasion to see this gorgeous film with such image quality. Accompanied by the restored original soundtrack from 1927.</strong></p>
+<p><strong>"A Song of Two Humans is one of the most historically pivotal of all films." - THE BRITISH FILM INSTITUTE</strong><a href="http://www.guardian.co.uk/film/2001/jan/26/culture.features2"><strong></strong></a></p>
+<h2><strong>THE PLOT</strong></h2>
+<p>We don't want to spoil the film for you, so here is a brief outline of the plot: a married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.</p>
+<p>An adulterous relationship set and filmed in a rural area, in 1927 - not seen that often.</p>
+<p>This is one of the last films of the silent era - it was released only a few days before the first film with sound,The Jazz Singer (1927), and failed at the box office, in great part because of that.</p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<h2><strong>ONE OF THE MOST SIGNIFICANT FILMS IN THE HISTORY OF CINEMA</strong></h2>
+<p>Sunrise is an incredibly beautiful film, and it is internationally recognised as one of the landmarks in the history of cinema.</p>
+<p>In 1989, this film was deemed "culturally, historically, or aesthetically significant" by the United States Library of Congress and selected for preservation in their National Film Registry.</p>
+<p>Sunrise was part of the top 10 of the Sight and Sound critic's poll for best film ever made in 2002.</p>
+<p>"A Song of Two Humans is one of the most historically pivotal of all films." - THE BRITISH FILM INSTITUTE</p>
+<p>"<span>Simple, and intense images of unequalled beauty." - TIME OUT</span></p>
+<p><span>"</span>A gorgeous, groundbreaking masterpiece of visual, thematic and moral contrasts." - THE BRITISH FILM INSTITUTE</p>
+<p>"The fable-like, poignant story, subtitled A Song of Two Humans, is a silent-era melodramatic masterpiece - a beautiful, atmospheric, lyrical and poetic work of art" - FIMSITE.ORG</p>
+<p>"Reckless, romantic, and extravagant." - VILLAGE VOICE</p>
+<p>The film won 3 Oscars in 1929: Best Unique and Artistic Picture (an award never repeated), Best Actress for Janet Gaynor, Best Cinematography.</p>
+<h2><strong>GROUNDBREAKING CAMERA WORK</strong></h2>
+<p>The film is internationally recognised as a very innovative visual experiement for 1927 :"Human characters, in <em>Sunrise</em>, are secondary to the true protagonist—the camera." - FILMREFERENCE.COM</p>
+<p>As Roger Ebert (famous American film critic) puts it, Sunrise "conquered time and gravity with a freedom that was startling to its first audiences. To see it today is to be astonished by the boldness of its visual experimentation."</p>
+<p>"Sunrise showcased every visual flourish Murnau could imagine, and it is a breath-taking achievement" - <a href="http://www.guardian.co.uk/film/2001/jan/26/culture.features2">THE GUARDIAN</a></p>
+<p>"There is hardly a shot or camera movement in “Sunrise” that does not seem precisely considered, wholly original and achingly expressive." - <a href="http://www.nytimes.com/2008/12/09/movies/homevideo/09dvds.html">THE NEW YORK TIMES</a></p>
+<h2><strong>MURNAU</strong></h2>
+<p><img height="161" src="/static/img/import/FW%20Murnau.jpg?origsrc=http://www.ateneojovellanos.com/fotos/Cineforum/FW%20Murnau.jpg" width="200" /></p>
+<p>SUNRISE is generally considered as Muranu's materpiece. Here is a bit more about his interesting life and work&hellip;</p>
+<p>- Friedrich Wilhelm Murnau is a German director, born in 1888 and died in 1931</p>
+<p>- He was one of the most influential German directors of the silent era, and a figure of the expressionist movement.</p>
+<p>- He is best known for being the director of Nosferatu, a 1922 adaptation of Bram Stoker's Dracula</p>
+<p>- Murnau was perhaps the most critically respected filmmaker in the world when Fox offered him a contract to come to America in 1925</p>
+<p>- Fox then gave him "carte blanche" to make Sunrise</p>
+<p>- The failure of Sunrise at the box office seriously restricted Murnau's subsequent studio projects in Hollywood, and he eventually left for Tahiti to make a documentary. He died before the premiere of that documentary.</p>
+<p>- Murnau was gay</p>
+<p>- On the verge of signing a great deal with Paramount pictures in Hollywood, Murnau died in a car crash, in Santa Barbara, California. The car was driven by his 14-year-old valet, who died then too. Rumour has it that they had been performing oral sex prior to the crash.</p>
+<p><strong></strong></p>
+<h2><strong>SPECIAL NIGHT</strong></h2>
+<p>Tonight, we are very proud to be showing the film on a new 35 mm print, recently made by the British Film Institute in London. The print has been touring around the UK, and it is finally coming to Newcastle.</p>
+<p>It is very rare to be able to see such old films on new 35 mm prints - and seeing this absolute masterpiece on that format makes the night very special!</p>
+<h2><strong>IN CASE YOU STILL HAVE SOME DOUBTS</strong></h2>
+<p>Ok, let me explain:</p>
+<p>- if you think silent films are a bit boring- if you think old films are a bit boring- if you actually don't really like film- if you don't actually really like art- if you actually don't really like going out- if your favourite film is Strictly Come Dancing</p>
+<p>In any of these cases or any combination of the above: YOU WILL LOVE THIS FILMSUNRISE is good, it's beautiful, it's special, it's scary, it's touching, it's moving, it's gorgeous, it feels new and current although it was made in 1927, it's surprising, it reaches your guts from the very first second of the soundtrack - IT'S A BLOODY MASTERPIECE</p>
+<p>Don't you miss it.</p>
+
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

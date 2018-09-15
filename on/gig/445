@@ -1,0 +1,182 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-445" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="445" data-apiobjecturl="/api/1/gig/445/">
+    <meta itemprop="description" content="TUSK Festival returns to Newcastle upon Tyne this October with&nbsp;another infernal line-up of unclassiﬁable international music." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/445"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Tusk Festival</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/a4/b8/a4b8c6dbd6f7f59232af9a23dd4a48cb.jpg" width="400" height="200" data-src="/static/img/events/TUSK.jpg" data-width="600" data-height="300" data-toggle="modal" data-target="#img-picture-1048" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1048">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/TUSK.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-10-07 12:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">12:00 p.m. Sunday 7</time> to <time class="endDateTime" itemprop="endDate" datetime="2012-10-08 00:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">12:00 a.m. Monday 8 October 2012</time></h3>
+
+    <meta itemprop="image" content="/media/cache/a4/b8/a4b8c6dbd6f7f59232af9a23dd4a48cb.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><h4>TUSK Festival returns to Newcastle upon Tyne this October with  another infernal line-up of unclassiﬁable international music. </h4><div>Across 3  days in the city’s best-loved underground music venue, TUSK Festival  again delivers a lethal musical cocktail, featuring countless coups and  ﬁrsts and including the return of Keiji Haino’s legendary Fushitsusha,  classic Virginian drone voyagers Pelt, the Dead C’s Michael Morley in  his solo Gate guise, the delirious alt-techno of Hieroglyphic Being,  Graham Lambkin &amp; Jason Lescalleet divining magic in the mundane,  the organic scree of Hild Soﬁe Taord and crunched dub and sweat  from NHK'Koyxe.</div><div><hr></div><h2></h2><h3>SUNDAY LINE-UP</h3><p>11am  doors open</p><p>12pm  <em><strong>introduction by Richard Dawson</strong></em></p><p>12.10pm  <em><strong>PELT &amp; PART WILD HORSES MANE ON BOTH SIDES</strong></em></p><p>Gamelan collaboration by two bands divided by an ocean but united by Indonesian instruments.</p><p>1pm  <em><strong>The Wire talks with: Graham Lambkin</strong></em></p><p>Graham Lambkin is an artist, field recordist, musician, and chronicler of the English suburban pastoral. In the early 1990s Lambkin was a founder member of Kent group The Shadow Ring, whose stark and defiantly amateurish records found a home from home on US label Siltbreeze. Since then his own recordings and those of his Kye record label have traced bold connections between DIY praxis and avant garde aesthetics. Now based in the US, he joins Derek Walmsley for a rare discussion on his work. Derek Walmsley is Deputy Editor of The Wire.</p><p>2.30pm  <em><strong>Film programme</strong></em></p><p>Day 2 of the film programme, with an amazing Dead C live film, Tom Waits gone fishing and more.</p><p>Screening in the cinema room – seats are limted so please squeeze in where you can. Full details on page 6.</p><p>2.30pm <em><strong> Sacred Harp singing session with Cath &amp; Phil Tyler and Vicky Langan</strong></em></p><p>Free group singing session open to all, taking place at The Cumberland Arms – a 10min walk from the Star&amp;Shadow – please find it in the map in the info section. Volunteers will also be on hand to point you in the right direction.</p><p>6pm  <em><strong>Welcome to the Sunday night music programme with Rock N Roll Jackie Stewart</strong></em></p><p>6.10pm  <em><strong>LOBSTER PRIEST</strong></em></p><p>Psychedelic marching drums and deranged saz, baked just right.</p><p>7pm  <em><strong>CIAN  NUGENT</strong></em></p><p>Lyrical acoustic guitar, “a mix of Stravinsky, hard bop and unrepentant pop”.</p><p>7.45pm  <em><strong>HILD SOFIE TAFJORD</strong></em></p><p>A beautifully torrid electrical storm.</p><p>8.35pm  <em><strong>MICHAEL MORLEY/STEVE NOBLE/GARY SMITH</strong></em></p><p>Between them they’ve played with Lee Ranaldo, Shoji Hano, Peter Brötzmann, Bill Fay, the Dead C and countless others – but never together. Until now.</p><p>9.30pm  <em><strong>GRAHAM LAMBKIN &amp; JASON LESCALLEET</strong></em></p><p>Summoning forces of detachment, disembodied otherness and the irresistible charm of the mundane.</p><p>10.30pm  <em><strong>FUSHITSUSHA</strong></em></p><p>The most bloody-mindedly sparse and time-shifting rhythm section counterpointing Keiji Haino’s controlled mania and the stratospheric agony of his guitar playing.</p><p><hr></p><h4>FRIDAY LINE-UP</h4><p><a href="http://www.starandshadow.org.uk/on/event/685?mess=Successfully%20saved%20%22Tusk%20Festival%22.">http://www.starandshadow.org.uk/on/event/685</a></p><h4>SATURDAY LINE UP</h4><p><a href="http://www.starandshadow.org.uk/on/gig/444">http://www.starandshadow.org.uk/on/gig/444</a> </p><h4>SUNDAY LINE UP</h4><p><a href="http://www.starandshadow.org.uk/on/gig/445">http://www.starandshadow.org.uk/on/gig/445</a> </p><div><p><hr></p></div><div>Weekend tickets on sale now for £35 from <a href="http://wegottickets.com/">wegottickets.com</a> and  <a href="http://tuskmusic.co.uk/events">tuskmusic.co.uk/events</a></div><div>Full info on line-up, travel, local transport and budget accommodation at <a href="http://tuskfestival.com/">tuskfestival.com</a></div></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="Tusk Festival">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

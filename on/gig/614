@@ -1,0 +1,212 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-614" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="614" data-apiobjecturl="/api/1/gig/614/">
+    <meta itemprop="description" content="The Legendary Pink Dots 
+formed in August 1980 and, although distinctly underground, they have 
+been musically influential over the years. Their sound has been described as an amalgamation of psychedelic rock, 
+industrial, synth-pop and avant-garde. They have released over 60 
+records, have a large cult following." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/614"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The Legendary Pink Dots</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/ca/20/ca2066fff5fb417522dfd0fef26df89e.jpg" width="400" height="264" data-src="/static/img/events/pink_dots.jpg" data-width="900" data-height="593" data-toggle="modal" data-target="#img-picture-1695" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1695">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/pink_dots.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2014-04-11 20:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">8:00 p.m. Friday 11</time> to <time class="endDateTime" itemprop="endDate" datetime="2014-04-12 00:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">12:00 a.m. Saturday 12 April 2014</time></h3>
+
+    <meta itemprop="image" content="/media/cache/ca/20/ca2066fff5fb417522dfd0fef26df89e.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><i><b><span>Disjunctions Proudly Present…</span></b></i></p><h1><b><span><span>The Legendary Pink Dots</span></span></b></h1><p><span><span>The Legendary Pink Dots formed in August 1980 and, although distinctly 
+underground, they have been musically influential over the years. The 
+band name was derived from pink dots of nail varnish on the piano in 
+their squat, where founding members Edward and April lived. The band has
+ as its focal point vocalist Edward Ka-Spel, who is, along with Phil 
+“The Silverman” Knight, one of the original remaining members of the 
+band. In the mid eighties the band<span> 
+resettled in the Netherlands, though they have recently located back to 
+London. </span></span></span></p><p><span><span><span>Their music is totally unique and it is difficult to categorise,
+ but comparisons may be drawn with bands like Can and early Pink Floyd. 
+ Their sound has been described as an amalgamation of psychedelic rock, 
+industrial, synth-pop and avant-garde. They have released over 60 
+records, have a large cult following and continuously tour the world. </span></span></span></p><p><span><span><span>Members of the band have also collaborated with Nurse With Wound, The 
+Dresden Dolls, Jarboe, HNAS, Jim O’Rourke, Skinny Puppy’s cEvin Key, 
+forming The Tear Garden. Key also appears on the 1994 album 9 Lives to 
+Wonder. </span></span></span></p><p><span><span><span>Official Site: <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.legendarypinkdots.org%2F&amp;h=iAQFT4DMH&amp;enc=AZNchmkO5s4qYokeoxgXEfnbW-M2E-YY5U-0ZbuIeZtHAUr7jnXY0kTl4gaQFT3kkro&amp;s=1"><span>http://</span>www.legendarypinkdots.org/</a> </span></span></span></p><p><span><span><span>
+  +++ </span></span></span></p><p><span><span><span>ORBIT SERVICE </span></span></span></p><p><span><span><span>Orbit Service is the musical project of Colorado-based 
+producer/engineer Randall Frazier (helmet room, Bela Karoli, Kal 
+Cahoone) produced in collaboration with Kim G. Hansen (Antenne), Dennis 
+Swanson (Day Dissolved Dream) and Kirill Nikolai (Still Light). Orbit 
+Service’s mystical leanings steer them close to the likes of Sol 
+Invictus, but OS zigs where neo folk zags, giving them a sonic momentum 
+that leads to a much outer part of outer space. This beautifully crafted
+ set smells like moist earth covered in leaves. Orbit Service’s mining 
+of ever deeper moods has yielded a subtle treasure that glows like 
+distant sun.</span></span></span></p><p><span><span><span><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Forbitservice.bandcamp.com%2F&amp;h=7AQGt4dOQ&amp;enc=AZNz1qo0Lv1ETf9_0tVEsjD2S5trtb4rCewy0K4rWOhf9K7p7r5I5lkslgydHBCGBHY&amp;s=1"><span>http://</span>orbitservice.bandcamp.com/</a> </span></span></span></p><p><span><span><span><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.helmetroom.com%2F&amp;h=eAQG9xsIs&amp;enc=AZMj2NJ2RzFJubAysdC6G3V9G-H4eZwbY7mZC3ZKADkI35Zkh79E7qsHN2Z0e_hqjj0&amp;s=1">http://www.helmetroom.com/</a> </span></span></span></p><p><span><span><span>+++ </span></span></span></p><p><span><span><span>PENTECOSTAL PARTY </span></span></span></p><p><span><span><span>The sublime solo project of Dawn Bothwell, one half of The Cankles, who
+ crafts layers of sedate, euphoric tape mixes with entrancing harmonies.  <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fpentecostalparty&amp;h=RAQGLjPfG&amp;enc=AZMkUjof2eFvImf6f9OQz0Gj2xLyqNLTyYruQgwcceav4q9RSZuawi42toVxncvvUDI&amp;s=1"></a></span></span></span></p><p><span><span><span><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fpentecostalparty&amp;h=RAQGLjPfG&amp;enc=AZMkUjof2eFvImf6f9OQz0Gj2xLyqNLTyYruQgwcceav4q9RSZuawi42toVxncvvUDI&amp;s=1"><span>https://soundcloud.com/</span>pentecostalparty</a> </span></span></span></p><p><span><span><span>+++</span></span></span></p><p><b><span><span><span>PLUS DISJUNCTIONS DJs </span></span></span></b></p><p><span><span><span><b>WHERE:</b> The Star and Shadow Cinema, Stepney Bank, Newcastle upon Tyne, Tyne and Wear NE1 2NP. </span></span></span></p><p><span><span><span><b>WHEN:</b> Friday 11th April, 8pm-late</span></span></span></p><p><span><span><span> <b>ADVANCE TICKETS: £8 @ </b></span></span></span><b><span><span><span><a href="http://www.wegottickets.com/event/256875"><span>www.wegottickets.com</span></a></span></span></span></b></p><p><i><span><span><span>£10 on the door</span></span></span></i></p><p><span><span><span><b>FACEBOOK:</b> <a href="https://www.facebook.com/events/594352023966049/">http://www.facebook.com/events/594352023966049</a></span></span></span></p></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="The Legendary Pink Dots">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

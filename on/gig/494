@@ -1,0 +1,199 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-494" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="494" data-apiobjecturl="/api/1/gig/494/">
+    <meta itemprop="description" content="A Glimpse Of Paradise proudly presents  Euros Childs (National Elf / Wales) Following on from his much loved, sell-out solo piano show at The Lit 
+&amp; Phil last Christmas, the former Gorky's Zygotic Mynci &amp; Jonny singer will be backed by a brand spanking new group &amp; w/ a brand new album 'Summer Special' to boot!&nbsp;" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/494"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Euros Childs W/ The Wellgreen, Adam Sterne + D Js</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/8e/81/8e81cd8d10b764f90469bf76ed2eb4ec.jpg" width="400" height="566" data-src="/static/img/events/Euros_Poster_A3_V2.jpg" data-width="3508" data-height="4961" data-toggle="modal" data-target="#img-picture-1005" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1005">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/Euros_Poster_A3_V2.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-09-08 20:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">8:00 p.m. Saturday 8</time> to <time class="endDateTime" itemprop="endDate" datetime="2012-09-09 00:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">12:00 a.m. Sunday 9 September 2012</time></h3>
+
+    <meta itemprop="image" content="/media/cache/8e/81/8e81cd8d10b764f90469bf76ed2eb4ec.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><span><div class="text_exposed_root text_exposed"><span><div class="text_exposed_root text_exposed"><p>A Glimpse Of Paradise proudly presents  <span>EUROS CHILDS (National Elf Records / Wales)</span></p><p></p></div></span><p></p><div class="text_exposed_root text_exposed">Following on from his much loved, sell-out solo piano show at The Lit 
+&amp; Phil last Christmas, we're delighted to announce the return of 
+Euros Childs. The former Gorky's Zygotic Mynci &amp; Jonny singer will 
+be backed by a brand new group &amp; with a brand spanking new album 
+'Summer Special' to boot. Woop!</div><span><div class="text_exposed_root text_exposed"><div class="text_exposed_show"><p> 
+ 'Euros Childs is an antidote. His music injects souls with a cultural 
+vaccine, a heavy duty silver lining round a small black cloud, somehow 
+bringing a sense of novelty and quirkiness to folk, rock &amp; roll and 
+pop music. Singing in a mixture of Welsh and English, his delivery is 
+much like a farmer leaning on a gate, talking about the whether, the 
+sheep's health and the multi-faceted dynamics  of love and relationships.'   (A Glimpse Of Paradise write up, originally published in 2008)</p></div><div class="text_exposed_show"><p> <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.euroschilds.com%2F&amp;h=2AQHZjx7N&amp;s=1"><span>http://</span>www.euroschilds.com/</a></p> </div><div class="text_exposed_show"><p><span> The Wellgreen (Glasgow)</span> </p></div><div class="text_exposed_show"><p>Having played as a backing band for the likes of Jonny, Bmx Bandits 
+&amp; more recently for Belle And Sebastian's Stevie Jackson, Scottish 
+duo The Wellgreen serve up a distinctive, casiotone-laden blend of their
+ own psyche infused  power-pop, packing an impressive punch in their own
+ right, as well as providing a backing band to the stars. Giddy up!  <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fthewellgreen.bandcamp.com%2F&amp;h=GAQEzgZ7J&amp;s=1"><span>http://</span>thewellgreen.bandcamp.com/</a></p> </div><div class="text_exposed_show">Adam Stearns (Glasgow) </div><div class="text_exposed_show"> Baroque pop &amp; kitchen sink frazzled folk from Glasgow whipper 
+snapper Adam Stearns, who can usually be found backed by his band The 
+Glass Animals </div><div class="text_exposed_show"> <a href="https://www.facebook.com/adamstearnsandtheglassanimals/info"><span>https://www.facebook.com/</span><span>adamstearnsandtheglassanima</span>ls/info</a> </div><div class="text_exposed_show">All this and more on Saturday 8th September at the Star &amp; Shadow.  Tickets available while stocks last online and from Hot Rats, RPM, Beatdown Records &amp; Reflex. A small stash of tickets will also be available to be on the night<span><div class="text_exposed_show">https://www.facebook.com/events/437460146267260/</div></span></div><div class="text_exposed_show"> <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.wegottickets.com%2Fevent%2F170561&amp;h=CAQHplU1a&amp;s=1"><span>http://</span><span>www.wegottickets.com/event/</span>170561</a> </div></div></span><span class="text_exposed_show"><a href="http://www.wegottickets.com/event/170561"></a> </span></div></span></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="Euros Childs W/ The Wellgreen, Adam Sterne + D Js">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

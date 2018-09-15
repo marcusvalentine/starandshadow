@@ -1,0 +1,288 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="season-43" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Season" data-modelid="43" data-apiobjecturl="/api/1/season/43/">
+    <meta itemprop="description" content="Stanley Kubrick universally hailed as a God-like Genius so it isn't really necessary to repeat that stuff. What, hopefully, is interesting about these early films is just how good he was without the lenses from NASA, obsessive preparation, unlimited budget." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/season/43"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Stanley Kubrick </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/33/85/3385cd28c1f39b8706a10b80384bac76.jpg" width="400" height="565" data-src="/static/img/events/kubrick_2.jpg" data-width="2339" data-height="3306" data-toggle="modal" data-target="#img-picture-626" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-626">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/kubrick_2.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3><time class="startDate" datetime="2009-05-17" data-bind="attr:{datetime:startDateTime()},text:displayStart()">Sunday 17</time> to <time class="endDate" datetime="2009-05-31" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">Sunday 31 May 2009</time></h3>
+
+    <meta itemprop="image" content="/media/cache/33/85/3385cd28c1f39b8706a10b80384bac76.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p>So you thought you knew all there was to know about Kubrick?  We take a look at his early features (bar one!) to get a better look at the infamous director&hellip;</p>
+<p>Stanley Kubrick universally hailed as a God-like Genius so it isn't really necessary to repeat that stuff.</p>
+<p>What, hopefully, is interesting about these early films is just how good he was without the lenses from NASA, obsessive preparation, unlimited budget etc. These are brilliant, entertaining stories, beautifully  directed.</p></div>
+    </div>
+
+    </div>
+
+    <header class="row">
+        <h3></h3>
+    </header>
+
+    <div class="smallsublist">
+        <header>
+            <h3>Films in the Stanley Kubrick :</h3>
+        </header>
+        
+            <section class="row dmod clickable boxb mo0509"
+                     data-href="/on/film/458">
+                <div class="pull-left">
+                    
+                        
+                            <img class="img-responsive hidden-xs" alt="" src="/media/cache/a1/96/a1969e9675d91d6d418cafc30e610457.jpg"/>
+                        
+                        
+                            <img class="img-responsive visible-xs" alt="" src="/media/cache/30/ed/30ed168211db31a76e0974653dd04b2d.jpg"/>
+                        
+                    
+                </div>
+
+                <h1 class="domdom">17</h1>
+
+                <h1>Film: <a href="/on/film/458">Killers Kiss (1955)</a></h1>
+
+                <h2>17 May 2009, 7:30 p.m.</h2>
+
+                <p>Kubrick's first feature (except it's not but never mind) is really great. </p>
+
+                <p class="viewlink"><a href="/on/film/458">Read More &raquo;</a></p>
+
+            </section>
+            <section class="row dmod clickable boxa mo0509"
+                     data-href="/on/film/459">
+                <div class="pull-left">
+                    
+                        
+                            <img class="img-responsive hidden-xs" alt="" src="/media/cache/fc/d3/fcd3717411b4d65a3f6bc89ce7b7abf6.jpg"/>
+                        
+                        
+                            <img class="img-responsive visible-xs" alt="" src="/media/cache/40/46/40469059e36196584b2080dd0e84bbe2.jpg"/>
+                        
+                    
+                </div>
+
+                <h1 class="domdom">26</h1>
+
+                <h1>Film: <a href="/on/film/459">The Killing (1956)</a></h1>
+
+                <h2>26 May 2009, 7:30 p.m.</h2>
+
+                <p>We're still in noir-ish lowlife territory here but this time it's a heist film&hellip;</p>
+
+                <p class="viewlink"><a href="/on/film/459">Read More &raquo;</a></p>
+
+            </section>
+            <section class="row dmod clickable boxb mo0509"
+                     data-href="/on/film/457">
+                <div class="pull-left">
+                    
+                        
+                            <img class="img-responsive hidden-xs" alt="" src="/media/cache/e4/3c/e43c61dab84e433b5c7c72d2f6ed6ac2.jpg"/>
+                        
+                        
+                            <img class="img-responsive visible-xs" alt="" src="/media/cache/0b/1d/0b1d633608ba39f28ec70ac70b1f50e5.jpg"/>
+                        
+                    
+                </div>
+
+                <h1 class="domdom">28</h1>
+
+                <h1>Film: <a href="/on/film/457">Paths Of Glory (1957)</a></h1>
+
+                <h2>28 May 2009, 7:30 p.m.</h2>
+
+                <p>Conventional wisdom says this film is a masterpiece. </p>
+
+                <p class="viewlink"><a href="/on/film/457">Read More &raquo;</a></p>
+
+            </section>
+            <section class="row dmod clickable boxa mo0509"
+                     data-href="/on/film/460">
+                <div class="pull-left">
+                    
+                        
+                            <img class="img-responsive hidden-xs" alt="" src="/media/cache/3e/43/3e43930f6b613085eecd4e962c0cd759.jpg"/>
+                        
+                        
+                            <img class="img-responsive visible-xs" alt="" src="/media/cache/55/0c/550ccd8da6840b59f6fe7f2edee73859.jpg"/>
+                        
+                    
+                </div>
+
+                <h1 class="domdom">31</h1>
+
+                <h1>Film: <a href="/on/film/460">Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb (1964)</a></h1>
+
+                <h2>31 May 2009, 7:30 p.m.</h2>
+
+                <p>Simply one of the greatest films EVER made. Fact.   
+</p>
+
+                <p class="viewlink"><a href="/on/film/460">Read More &raquo;</a></p>
+
+            </section>
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

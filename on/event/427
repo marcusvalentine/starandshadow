@@ -1,0 +1,188 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="event-427" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Event" data-modelid="427" data-apiobjecturl="/api/1/event/427/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/event/427"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">'Blue Veils And Golden Sands' (BBC Radiophonic Workshop Night ft. films + live music)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg" width="400" height="400" data-src="/static/img/events/filler.png" data-width="400" data-height="400" data-toggle="modal" data-target="#img-picture-789" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-789">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/filler.png" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-04-27 19:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:00 p.m. Wednesday 27</time> to <time class="endDateTime" itemprop="endDate" datetime="2011-04-28 00:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">12:00 a.m. Thursday 28 April 2011</time></h3>
+
+    <meta itemprop="image" content="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><a href="http://www.flickr.com/photos/39754979@N03/5625651072/" title="BLUE VEILS &amp; GOLDEN SANDS by ladders to fire, on Flickr"><img alt="BLUE VEILS &amp; GOLDEN SANDS" height="1024" src="/static/img/import/5625651072_9a79d59174_b.jpg?origsrc=http://farm6.static.flickr.com/5141/5625651072_9a79d59174_b.jpg" width="724" /></a></p>
+<p><strong>A Glimpse Of Paradise</strong> and the <strong>Star And Shadow Cinema</strong> present:</p>
+<p><strong><em>'BLUE VEILS AND GOLDEN SANDS':</em></strong> a celebration of <strong>DELIA DERBYSHIRE</strong> and the <strong>BBC RADIOPHONIC WORKSHOP</strong> featuring rare and previously unseen film w/ live music and DJs 'til late</p>
+<p><img src="/static/img/import/delia_derbyshire.jpg?origsrc=http://www.amoeba.com/dynamic-images/blog/Eric_B/delia_derbyshire.jpg" /></p>
+<p><strong></strong></p>
+<p><strong>FILM: 'THE DELIAN MODE' ( KARA BLAKE / 2010 )</strong>THE DELIAN MODE is a short experimental documentary revolving around the life and work of the unsung BBC RADIOPHONIC heroine and electronic music pioneer D<span>ELIA DERBYSHIRE, best known for her groundbreaking sound treatment and realisation of the famous DOCTOR WHO theme music. A collage of sound and  image created in the spirit of Derbyshire’s unique approach to audio  creation and manipulation, this film illuminates such soundscapes onscreen while paying tribute to a woman whose work has influenced electronic musicians for decades.The film features interviews with Brian Hodgson and Dick Mills of the now defunct BBC Radiophonic Workshop, the founder of Electronic Music Studios Peter Zinovieff, musicians Peter Kember (Sonic Boom), Adrian Utley (Portishead) and Ann Shenton (Add N to X) as well as other friends and colleagues of Delia.<a href="http://vimeo.com/9010594">http://vimeo.com/9010594</a> <a href="http://thedelianmode.com/home"><span>http://thedelianmode.com/h</span>ome</a> <a href="http://en.wikipedia.org/wiki/Delia_Derbyshire"><span>http://en.wikipedia.org/wi</span>ki/Delia_Derbyshire</a> <strong>FILM: 'CIRCLE OF LIGHT' - THE PHOTOGRAPHY OF PAMELA BONE (1974)</strong>This extraordinarily beautiful film without words is composed from using PAMELA BONE'S unique photographic transparencies and it's soundtrack provided by DELIA DERBYSHIRE and ELSA STANSFIELD. Her talent has been said to 'push photography beyond its own limits, liberating it to the status of an entirely creative art form.' Inspired by nature, and being more responsive to feeling than to thought, Miss Bone has sought to express the mystery and beauty of the inner vision through photographic means alone: landscape has the quality of a dream; children on the sea-shore have a sense of their own enchantment, trees are forboding and strange when night moves in their arms. It took Miss Bone twenty years to find the right technique and to overcome the limitations that photography would impose.<a href="http://www.rolandcollection.com/films/?prm=a18-b307-c2464-d0-e0"><span>http://www.rolandcollectio</span><span>n.com/films/?prm=a18-b307-</span>c2464-d0-e0</a> <strong>LIVE MUSIC: JAMIE ALLEN (CULTURE LAB NEWCASTLE)</strong>JAMIE ALLEN is a Canadian artist based in Newcastle. With circuitMusic, he uses raw op amp components with minimal effects to experiment and revel in the sound of pure, electric signals. Allen's compositions are streamlined, yet remarkably varied with harsh walls of static, dense drones, and playful rhythms all vying for the listener's headspace.<a href="http://www.heavyside.net/">http://www.heavyside.net/</a> <strong>LIVE MUSIC: ADAM PARKINSON (CULTURE LAB NEWCASTLE)</strong>Adam Parkinson is a PhD candidate based in Culture Lab and ICMUS.He likes to program in Max / MSP and Pure Data, and has been developing musical iPhone apps for live performance and improvisation. He uses iPhones in the duo 'Atau and Adam', with Atau Tanaka.His music ranges from glitchy, textural improvisations to bass heavy dancefloor assaults and avant garde disco pop.He has done remixes for Maximo Park, Dextro, Si Begg and Cakeboy (and Chris De Burgh too, but he doesn't know about it), and had music released on Entr'acte, Noodles, Mutate Records and others.<a href="http://manwithfeathers.com/"><span>http://manwithfeathers.com</span>/</a> <a href="http://soundcloud.com/adamparkinson"><span>http://soundcloud.com/adam</span>parkinson</a> <strong>LIVE MUSIC: AROMATIC SPICES</strong>Multi coloured slime bubbles and experimental/semi improvised fun from Les Cox (sportifs) multi intrumentalist Micheal J Patterson, who uses Gameboys, Turntables, Keyboards and Tape Machines to make for interesting and gluey results<strong>PLUS! </strong>Skewed, sped up and slowed down DJs sets through out the night from <strong>DJ KUBA RYNIEWICZ</strong>Wednesday 27th April at the Star And Shadow Cinema, Newcastle from 7pm - late. Advance tickets are just £5 from <a href="http://www.wegottickets.com/event/116105"><span>http://www.wegottickets.co</span>m/event/116105</a> or £6 on the night Hop on to the A GLIMPSE OF PARADISE faceache and blogspot pages for more info on up and coming events <a href="http://www.facebook.com/pages/A-Glimpse-Of-Paradise/191636804186106"><span>http://www.facebook.com/pa</span><span>ges/A-Glimpse-Of-Paradise/</span>191636804186106</a> <a href="http://aglimpseofparadise.blogspot.com/"><span>http://aglimpseofparadise.</span>blogspot.com/</a> <a href="/"><span>http://www.starandshadow.o</span>rg.uk/</a></span></p>
+</div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="'Blue Veils And Golden Sands' (BBC Radiophonic Workshop Night ft. films + live music)">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

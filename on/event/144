@@ -1,0 +1,220 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="event-144" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Event" data-modelid="144" data-apiobjecturl="/api/1/event/144/">
+    <meta itemprop="description" content="Arthur Russell was one of the most extraordinary musicians ever produced by New York..." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/event/144"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">WILD COMBINATION - Arthur Russell club night!</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/f0/42/f0421af87ca7954984a8bda29292dfb1.jpg" width="400" height="564" data-src="/static/img/events/Arthur_Russell.jpg" data-width="386" data-height="544" data-toggle="modal" data-target="#img-picture-24" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-24">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/Arthur_Russell.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-09-26 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Saturday 26</time> to <time class="endDateTime" itemprop="endDate" datetime="2009-09-27 04:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">4:00 a.m. Sunday 27 September 2009</time></h3>
+
+    <meta itemprop="image" content="/media/cache/f0/42/f0421af87ca7954984a8bda29292dfb1.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Arthur Russell was one of the most extraordinary musicians ever produced by New York dabbling in a broader gamut of musical genres than almost anyone else, from experimental minimalism to Power Pop, Country to New York Disco.</strong></p>
+<p><strong>Tonight we present a night in honour of his unique music: an award winning documentary, 4 of the best Newcastle bands with music inspired by Arthur Russell, and some of our favourite DJs to make everyone dance until 4am&hellip;</strong></p>
+<div>
+<p><strong>ARTHUR RUSSELL</strong> </p>
+</div>
+<p>"Arthur Russell(1951-1992) was an avant-garde cellist active in the New York art scene of the late twentieth century. But next to his 'art music' activities, Russell was equally active in the New York club scene, writing dance music. As such he bridges the gap between art music and popular music.has become a very cult musician." From a great page on him <a href="http://www.jahsonic.com/ArthurRussell.html">here</a>"Arthur Russelldied in obscurity of AIDS in 1992. Yet this New York composer was a true visionary, traversing dub, disco and Minimalism, and anticipating the 90s obsession with musical hybrids" - David Toop, an A to Z of DUB</p>
+<p>"If Nick Drake had lived long enough to make records with New Order, they might have sounded something like this" (Rolling Stone , 2004)</p>
+<div>
+<p><strong></strong></p>
+<h2><strong>7.30PM: DOCUMENTARY: WILD COMBINATION (2008, Dir. Matt Wolf, 71 min)</strong></h2>
+<p>Wild combination is an incredible documentary on the life and work of Arthur Russell. The website of the film is really well done, you can have a look at it <a href="http://www.arthurrussellmovie.com/index-about.html"><span><span>here</span></span></a>."Wild Combination, a tender, fascinating documentary will delight the Russell cult and instantly convert new members." - THE NEW YORK TIMES"Will make some New York natives tremble." - THE NEW YORKER"Moving&hellip; something unusually marvelous" - THE GUARDIAN </p>
+</div>
+<div>
+<p><strong></strong></p>
+<h2><strong>10PM: LIVE MUSIC: 4 BANDS</strong></h2>
+</div>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p> With performances from some of Newcastle's best musicians playing their own interpretations of Arthur Russell's music.</p>
+<p>No less than Cath Tyler, Jazzfinger, The Turing Test  and ~~~ (yes this is the name of the band!) will be playing on the night!</p>
+<p><strong><a href="http://www.myspace.com/cptyl">Cath Tyler</a></strong>“There's an earthiness and grittiness and a reality about this that I find personally incredibly appealing, the simplicity of the music is absolutely stunning.”- Bob Harris, BBC Radio 2</p>
+<p><a href="http://www.myspace.com/theturingtestmusic"><strong>The Turing Test</strong>Electro / Visual / Pop</a></p>
+<p><a href="http://www.myspace.com/jzzfngr "><strong>Jazzfinger</strong></a>Alternative / Improv with a cult following</p>
+<p><strong><a href="http://www.myspace.com/triplesones ">~~~</a></strong>"These sounds are the product of my continued fascination with the natural tones and base qualitys of various instruments." - From ~~~ himself</p>
+<div>
+<h2><strong>12 AM TO 4AM: CLUB NIGHT - NEW YORK DISCO!</strong></h2>
+<p><img height="200" src="/static/img/import/arthurcello.jpg?origsrc=http://r1blog.funtip.de/roller/jazzanova/resource/arthurcello.jpg" width="200" />And to end it all, from midnight onwards we'll be bringing you 4 hours of dancing to the sounds of the finest Post-Punk and New York Disco on the side of the river, with the "A Little Lost" DJs, who knocked everybody out at a packed out night in July!</p>
+<p>Also, one member of the now legendary Road to Rimini DJ, with a very special sound man and sound system that we have booked especially for tonight, to make the night extra good and extra special.They'll be playing from midnight to 4am - what better way to celebrate someone's life?</p>
+
+<p>NOT TO BE MISSED!!</p>
+
+
+
+<p>£6 before midnight, £4 afterwards<strong></strong>'A Little Lost' facebook group<a href="http://www.facebook.com/group.php?gid=102640736684"><span>http://www.facebook.com/group.php?gid=102640736684</span></a></p>
+
+
+
+
+</div></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="WILD COMBINATION - Arthur Russell club night!">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

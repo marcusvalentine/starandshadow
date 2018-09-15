@@ -1,0 +1,221 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-581" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="581" data-apiobjecturl="/api/1/gig/581/">
+    <meta itemprop="description" content="A Glimpse Of Paradise proudly presents YONG YONG (Night School Recs / Argentina) w/ Bear Bones Lay Low (VE/BE) Chicaloyoh (FR) + Other Fires &amp; Opal Tapes DJs" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/581"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Yong Yong, Bear Bones Lay Low, Chicaloyoh + Other Fires & Opal Tapes D Js</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/3e/6a/3e6ad49233472d7bd1ec10ac8e331d33.jpg" width="400" height="266" data-src="/static/img/events/9072_10152243831155481_729016114_n.jpg" data-width="720" data-height="478" data-toggle="modal" data-target="#img-picture-1535" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1535">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/9072_10152243831155481_729016114_n.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2013-08-24 20:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">8:00 p.m. Saturday 24</time> to <time class="endDateTime" itemprop="endDate" datetime="2013-08-25 01:00:00+01:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">1:00 a.m. Sunday 25 August 2013</time></h3>
+
+    <meta itemprop="image" content="/media/cache/3e/6a/3e6ad49233472d7bd1ec10ac8e331d33.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><span><span class="fsl"><div class="text_exposed_root text_exposed"><p>A Glimpse Of Paradise proudly presents  </p><p><b>YONG YONG </b></p><p><b>(Night School / Portugal)</b> </p><p>
+ Yong Yong are a duo from Lisbon, Portugal comprising Rodolfo Brito 
+&amp; Francisco Silva. Originally released on cassette, 'Love' is their 
+debut release and is now available in an altered, re-worked version for 
+the LP release. A warped excursion into outsider electronics, 'Love' 
+drifts in and out of inner ear consciousness using a multi-technique 
+language which Yong Yong can definitively say is their own. Beginning 
+their recorded caree<span class="text_exposed_show">r with abstract 
+drone music, Yong Yong have since widened their scope; communicating a 
+slanted perspective of a whole slew of contemporary musics. Samples and 
+degraded electronics, the aesthetics of crumbling form, and pop music 
+turned in on itself are mixed into a vortex which still manages to be 
+underpinned by a melancholic sense of melody. Both experimental and 
+populist, 'Love' is the result of high and low culture smelted down into
+ a miasmic, evocative mercury. A fluid experience where nothing is at 
+seems and that's how it should be  <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Frodolfo-brito&amp;h=tAQFUK5XR&amp;s=1"></a></span></p><p><span class="text_exposed_show"><a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Frodolfo-brito&amp;h=tAQFUK5XR&amp;s=1"><span>https://soundcloud.com/</span>rodolfo-brito</a> </span></p><p><b><span class="text_exposed_show">BEAR BONES LAY LOW </span></b></p><p><b><span class="text_exposed_show">(Venezuela/Belgium) </span></b></p><p><span class="text_exposed_show">Hailing from Venezuela, now based in Belgium, Ernesto González makes 
+music as Bear Bones, Lay Low. Active since a teenager in the Belgian 
+noise underground, González’s music has evolved from spontaneous bedroom
+ noise/drone explorations to colorfully psychedelic electronic music 
+where analog synthesis meets fuzzed-out guitar freak outs and entrancing
+ rhythms. He has also been part of psychedelic jam band Sylvester Anfang
+ II since 2006 and is part of numerous musical projects including the 
+drone duo González &amp; Steenkiste (with Sylvester Anfang II bandmate 
+Hellvete) and Sayona, a freeform dark electronics collaboration with 
+Shazzula of Black Mass Rising and formerly of psych head bangers Aqua 
+Nebula Oscillator. Bear Bones, Lay Low has released music in various 
+formats and labels such as Gipsy Sphix, Young Girls Records, Sloow 
+Tapes, Cabin Floor Esoterica, Full Of Nothing and KRAAK, who released 
+his latest LP « El Telonero » in 2012</span></p><p><span class="text_exposed_show"> <a href="http://bearboneslaylow.wordpress.com/"><span>http://</span><span>bearboneslaylow.wordpress.c</span>om/</a> </span></p><p><b><span class="text_exposed_show">CHICALOYOH (France)</span></b></p><p><span class="text_exposed_show">Chicaloyoh is Alice Dourlen’s solo project. Creating music between 
+soundscape exploration and intimate contemplation, Chicaloyoh is a mix 
+of guitar, keyboards and percussions from distant and various horizons. 
+Chicaloyoh is a one woman band that will attract those who like the 
+priestess singings of Inca Ore or Nico. Together with High Wolf she 
+plays as Woodoo Mount Sister, who toured Italy and the USA last year. 
+Chicaloyoh has already released tapes on Bumtapes, Dial square tapes, 
+Clay Ruby’s (from Burial Hex and Second Family Band) label Brave 
+Mysteries, and more recently, a full-length LP on the french label 
+Faunasabbatha </span></p><p><span class="text_exposed_show"><a href="http://alicedourlen.tumblr.com/"><span>http://</span>alicedourlen.tumblr.com/</a> </span></p><p><b><span class="text_exposed_show">OTHER FIRES (NCL) </span></b></p><p><span class="text_exposed_show">Debut live performance from Other Fires aka Tim Smith, who is part of 
+the This Day And Age collective, who have recently been bringing some 
+excellent weirdo rave sounds to The Lit &amp; Phil  <a href="https://soundcloud.com/otherfires"></a></span></p><p><span class="text_exposed_show"><a href="https://soundcloud.com/otherfires"><span>https://soundcloud.com/</span>otherfires</a></span></p><p><span class="text_exposed_show"><b>+ OPAL TAPES DJs 'til late  </b></span></p><p><span class="text_exposed_show"><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fopaltapes.bandcamp.com%2F&amp;h=6AQFBopbg&amp;s=1"><span>http://</span>opaltapes.bandcamp.com/</a> </span></p><p><span class="text_exposed_show"><b>Saturday 24th August at the Star &amp; Shadow, NCL!  </b></span></p><p><span class="text_exposed_show"><a href="http://aglimpseofparadise.wordpress.com/"><span>http://</span><span>aglimpseofparadise.wordpres</span>s.com/</a> </span></p><p><span class="text_exposed_show">Advance tickets are just £5/4 concessions  <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.wegottickets.com%2Fevent%2F229607&amp;h=AAQEOTqgr&amp;s=1"></a></span></p><p><span class="text_exposed_show"><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.wegottickets.com%2Fevent%2F229607&amp;h=AAQEOTqgr&amp;s=1"><span>http://</span><span>www.wegottickets.com/event/</span>229607</a> </span></p></div></span></span></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="Yong Yong, Bear Bones Lay Low, Chicaloyoh + Other Fires & Opal Tapes D Js">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

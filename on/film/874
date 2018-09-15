@@ -1,0 +1,334 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-874" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="874" data-apiobjecturl="/api/1/film/874/">
+    <meta itemprop="description" content="A selection of 17 animation short films from 2002 to 2011." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/874"/>
+    <meta itemprop="duration" content="PT90M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Japanese Film Festival 2012: Beyond Anime: The Outer Limits</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/a6/97/a697a7a59a470a7a1645bc6a9a12e26b.jpg" width="399" height="219" data-src="/static/img/events/BA-syasou.jpg" data-width="700" data-height="384" data-toggle="modal" data-target="#img-picture-564" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-564">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/BA-syasou.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/116" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Japanese Film Festival 2012</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-01-27 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Friday 27 January 2012</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Japanese Film Festival 2012: Beyond Anime: The Outer Limits" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/a6/97/a697a7a59a470a7a1645bc6a9a12e26b.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Various</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT90M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">90 minutes</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang"></span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><h1>JAPANESE INDIE ANIMATION</h1><p>This programme is a sample of some of the most interesting Japanese Indie Animations from recent years, revealing the outer limits of this powerful and expressive medium in which anything is possible.</p><h1>MORE ABOUT THE PROGRAMME</h1><p class="Textbody"><span>The world of Japanese
+animation is vast and fascinating, but beyond the images of doe-eyed
+schoolgirls with magic powers or giant mecha humanoids battling it out amongst
+the stars familiar to us all from the output of the commercial mainstream anime
+industry lies an even more alien and exotic realm. </span></p><p><span>From the very introduction
+of the medium to Japan back in 1917, legions of visionaries and artists have
+laboured away independently to create works that challenge our very notions of
+the word ‘animation’. </span></p><p><span>The <i>Beyond
+Anime: The Outer Limits</i> programme presents just a sample of some of
+the most interesting Japanese Indie Animations from recent years, revealing the
+outer limits of this powerful and expressive form of filmmaking.</span></p><h1><span>THE LIST OF ANIMATION SHORTS</span></h1><p><em>Syasou (Shasô)</em>, Ryû Furusawa, 2008, 2 min</p><p><em>Ichigwankoku,</em> Ryô Hirano, 2009, 6 min</p><p><em>Fantasy Girl</em> (Kûsô shôjo), Hanamushi (a.k.a. Akira Noyama), 2009, 6 min</p><p><em>Death of Phonebook,</em> Cinema Iloobia (a.k.a. Tim Grabham), 2011, 2 min</p><p><em>Stinky Winky</em>, Ktooonz (a.k.a. Keiko Nakamura), 2002, 2 min</p><p><em>Requiem For Pioneer (Rekuiemu fo paionia)</em>, Yoshihiro Haku and Sachiko Hiraoka, 2008, 3 min</p><p><em>Future Man (Ari-ningen monogatari),</em> Ryô Hirano, 2008, 7 min</p><p><em>Doroningen</em>, Masahiro Ôsuka, 2007, 4 min</p><p><em>Mizutamamoyo,</em> Ryû Furusawa, 2006, 5 min </p><p><em>Enchanted Forest (Mayoi no mori), </em>Ktooonz (a.k.a. Keiko Nakamura), 1994, 9 min</p><p><em>A Labyrinth of Residence</em> (Kyojû meikyû) Naska Saitô, 2008, 5 min</p><p><em>Ta-Ta Tosy Tit</em>, Yoshihiro Haku and Sachiko Hiraoka, 2009, 5 min</p><p><em>The Straw Girl and the Strange House (Mugiwara shôjo to henna ie), </em>Hanamushi (a.k.a. Akira Noyama), 2009, 1 min</p><p><em>Holiday (Horidei)</em>, Ryô Hirano, 2011, 14 min</p><p><em>Melting Medama</em>, Sayaka Oku, 2011, 5 min</p><p><em>The Last Train (Saishuu ressha no yoru)</em>, Mana Fujii, 2008, 3 min </p><div class="imgright"><a href="http://zipangufest.com/"><img alt="Zippangu Fest" height="150" src="/static/cache/60/ae/60ae4fbeb48879693b5e6ffad2c9f794.jpg" width="113" /></a></div><p> <hr></p><p>With the support of <a href="http://zipangufest.com/">Zipangu Fest</a></p><p>Tickets: £5 / £3.50 (conc)</p><p>Or £4.50 tickets online http://www.wegottickets.com/event/150573						</p>
+<hr><h1>Part of our Japanese Film Festival 2012 (14 to 29 January 2012), more info <a href="/on/season/116">here</a></h1></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/116">Japanese Film Festival 2012</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0112"
+                         data-href="/on/film/876">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/06/2d/062d297a74807c56de9a5cd474105fbc.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5d/0d/5d0dd1f160a8eaf3d42ffd8abfcbe411.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">14</h1>
+
+                    <h1>Film: <a href="/on/film/876">Japanese Film Festival 2012: The Ghost Cat And The Mysterious Shamisen (1938)</a></h1>
+
+                    <h2>14 Jan 2012, 7:30 p.m.</h2>
+
+                    <p>Incredible horror film from 1938, never shown in the UK before 2011.</p>
+
+                    <p class="viewlink"><a href="/on/film/876">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0112"
+                         data-href="/on/film/875">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/90/0a/900aeccb66521656a2776b38a5441792.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e7/fa/e7fa402327dc3ca288225e3474d2959b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/875">Japanese Film Festival 2012: Enter The Cosmos: Takashi Makino + Introduction!</a></h1>
+
+                    <h2>17 Jan 2012, 7:30 p.m.</h2>
+
+                    <p>Three experimental films from 2004 to 2011 and an introduction from a specialist.</p>
+
+                    <p class="viewlink"><a href="/on/film/875">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0112"
+                         data-href="/on/film/898">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/58/0c/580c9534e303ca7dfa1ad19c2e1f4f8b.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/bf/1c/bf1c70f3d9de494a6eecdfe24a358e0b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">19</h1>
+
+                    <h1>Film: <a href="/on/film/898">Japanese Film Festival 2012: Shirome (2010)</a></h1>
+
+                    <h2>19 Jan 2012, 7:30 p.m.</h2>
+
+                    <p>Funny / horror teenage mockumentary, especially translated for Zipangufest - Blair Witch Project meets The X-Factor.</p>
+
+                    <p class="viewlink"><a href="/on/film/898">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0112"
+                         data-href="/on/film/877">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/ce/04/ce043dfe88d04f5955ab1224315e1ca6.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/60/cc/60ccbcd4be56c79ad8f95e1a77493ae8.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/877">Japanese Film Festival 2012: Kanzeon + Discussion With The Directors! (2011)</a></h1>
+
+                    <h2>29 Jan 2012, 7:30 p.m.</h2>
+
+                    <p>Gorgeous documentary about Japanese Buddhism, or more precisely some of its sounds.</p>
+
+                    <p class="viewlink"><a href="/on/film/877">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

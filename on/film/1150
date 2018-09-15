@@ -1,0 +1,361 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-1150" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="1150" data-apiobjecturl="/api/1/film/1150/">
+    <meta itemprop="description" content="This screening will feature 2 programmes of short films: one programme with
+some of the best German short films in competition at the Oberhausen Film
+Festival 2012, and one programme of shorts that take look at the role that artists,
+sportsmen and intellectuals played in what was the German Democratic Republic (East
+Germany)." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/1150"/>
+    <meta itemprop="duration" content="PT160M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Oberhausen On Tour: German Competition + Gdr Revisited</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/f4/34/f434a3bd6e2056a86e403d16a811c7a6.jpg" width="399" height="264" data-src="/static/img/events/OoT_2013_GDR_revisited_Radfahrer1_HIGH_RES.jpg" data-width="3031" data-height="2004" data-toggle="modal" data-target="#img-picture-1373" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1373">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/OoT_2013_GDR_revisited_Radfahrer1_HIGH_RES.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/151" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Oberhausen On Tour</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2013-05-01 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Wednesday 1 May 2013</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Oberhausen On Tour: German Competition + Gdr Revisited" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/f4/34/f434a3bd6e2056a86e403d16a811c7a6.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">various</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT160M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">160 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Other</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">various see below</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country">various</span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><b></b></p><hr /><p><b>This screening will feature 2 programmes of short films: one programme with
+some of the best German short films in competition at the Oberhausen Film
+Festival 2012, and one programme of shorts that take a look at the role that artists,
+sportsmen and intellectuals played in what was the German Democratic Republic (East
+Germany).</b></p><blockquote><b><i><hr /> TOTAL RUNNING TIME FOR BOTH PROGRAMMES: 160 minutes <hr /></i></b></blockquote><h2>PROGRAMME 1: GDR REVISITED</h2><p>Some 20 years after reunification, the GDR is once again <span>a subject of interest – in short films by filmmakers and </span><span>artists living in Germany. They examine the role played </span><span>by East German artists, athletes and intellectuals. For </span><span>the most part letting the documents and eyewitnesses </span><span>speak for themselves, they are sometimes even wresting a bit of humour from the situation. </span></p><h4>RADFAHRER (<span>Cyclist, </span><span>Germany 2008, </span><span>28', b/w, </span><span>German with English subtitles, </span><span>by Marc Thümmler)</span></h4><p>GDR <span>based photographer Harald Hauswald had been observed </span><span>by the Stasi (Ministry of State Security) . Hauswald's photos are juxtaposed with the texts from his Stasi files.</span></p><h4>DETEKTiVE (<span>Detectives, </span><span>Germany 2006, </span><span>21', b/w, </span><span>German with English subtitles, </span><span>by Andreas Goldstein)</span></h4><p>When a small country allows itself <span>a very large state security service it runs the risk that </span><span>sooner or later everybody has to work for it. A comedy.</span></p><h4>BEiDE ARME NACH OBEN (GyM-NASTix) (<span>Both Arms Up, </span><span>Germany 2001, </span><span>3', colour, no dialogue, </span><span>by Marc Lutz)</span></h4><p>A celebration of sport. Music video for <span>”Gym-Nastix”.</span></p><p><img height="228" src="/static/cache/9b/88/9b88d03523f30f6e9c0d35cef5d2a762.jpg" width="399" /></p><h4>MARxiSM TODAy (PROLOGuE) (<span>Germany 2010, </span><span>35', </span><span>German/English with English subtitles, </span><span>by Phil Collins)</span></h4><p>The film follows the <span>fortunes of former teachers of Marxism and Leninism in </span><span>the GDR. Their own recollections are juxtaposed with </span><span>interviews and original documents.</span></p><h2><span>PROGRAMME 2: GERMAN COMPETITION</span></h2><p>Dance, performance and show are at the heart of this <span>line-up of selected works from the German Competition </span><span>2012. From a rollicking bullcart race in the Indian countryside, to a spontaneous dance in front of the washing </span><span>machine, and onward to the motley and mysterious </span><span>group of items left behind by a fleeing contemporary: </span><span>here, players on the stage of life come into sharp focus.</span></p><p><img height="268" src="/static/cache/2e/a6/2ea6e22d2c953c29a4695d600b29621d.jpg" width="399" /></p><h4>A FiSTFuL OF RuPiES (<span>Germany 2011, </span><span>10‘, b/w, </span><span>no dialogue, </span><span>by Hannes Gieseler)</span></h4><p>The thrill of competition, the thrill of speed, <span>the thrill of danger, a quarter mile drag strip, two riders, four bulls, four wheels, 60 kilometers per hour, </span><span>and lots of dust. It‘s chariot racing in its purest sense </span><span>and maybe the origin of racing itself.</span></p><h4>iTEM NuMBER (<span>Germany/Canada 2012, </span><span>16‘, colour, </span><span>English, </span><span>by Oliver Husain)</span></h4><p>Two <span>minutes before the beginning of a performance. An </span><span>actress is waiting for her scene.</span></p><h4>PLAN B (<span>Germany 2011, </span><span>4‘, </span><span>colour, </span><span>no dialogue, </span><span>by Jasmine Ellis)</span></h4><p>A short dance film about waiting. A <span>brief glimpse at three young men as they are waiting </span><span>for their laundry.</span></p><h4>ACHiLL (<span>Germany 2012, </span><span>9‘, colour, </span><span>English, </span><span>by Gudrun Krebitz)</span></h4><p>Real excitement is always kind of out of focus. Unfortunately. <span>All joy lies in hasty perceptions and a blind rush. </span><span>That’s why I never got my eyes lasered.</span></p><h4>DOSKA FRANK (<span>Germany 2011, </span><span>20‘, colour, </span><span>Swedish with English subtitles, </span><span>by Hanna Bergfors)</span></h4><p>Several  <span>days in the life of a young couple in Stockholm. Beside </span><span>the young couple there is a real estate agent who provides guided tours. Frida goes for Black Metal. Oskar </span><span>needs Frida, but Frida needs music as a symbol of </span><span>something more.</span></p><p><img height="144" src="/static/cache/1c/4d/1c4d69a0a7897c21a1153a95941b3d0b.jpg" width="396" /></p><h4>POESiEDES ZuFALLS (<span>Poetry of Chance, </span><span>Germany 2012, </span><span>14‘, colour, </span><span>German with English subtitles, </span><span>by Daniel Lang)</span></h4><p>What <span>happened? Why did he disappear? And where? And </span><span>who is Carl anyway? A reconstruction of a life told </span><span>from 13 points of view. A confrontation with a personal tragedy.</span></p><hr /><p><b>TICKETS:</b></p><p><b>£5 / £3.50 (CONCESSIONS)</b></p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/151">Oberhausen On Tour</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0413"
+                         data-href="/on/film/1184">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/5b/41/5b41141b06d9989635dcaffb2cb831bd.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/6b/13/6b132dc53af975d564cddff9895df89e.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">03</h1>
+
+                    <h1>Film: <a href="/on/film/1184">Oberhausen On Tour: Children Programme</a></h1>
+
+                    <h2>3 Apr 2013, 4 p.m.</h2>
+
+                    <p>This afternoon we’ll have a special screening for the wee-ones, with fabulous live action and animation short films from Taiwan, continental Europe and the UK.</p>
+
+                    <p class="viewlink"><a href="/on/film/1184">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0413"
+                         data-href="/on/film/1147">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/0d/a6/0da6d0dc2a4e9b4b423c6701400ab416.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/0e/ea/0eea08a0607db6e49bdd9051bcad17e7.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">03</h1>
+
+                    <h1>Film: <a href="/on/film/1147">Oberhausen On Tour: Music Videos Programme + German Music Dj In The Bar!</a></h1>
+
+                    <h2>3 Apr 2013, 7:30 p.m.</h2>
+
+                    <p>A very special night showcasing some of the best German music videos
+from the Oberhausen Film Festival 2012! Not exactly the typical MTV-videos –
+expect interesting animation and lots of creativity for great undiscovered independent
+bands.</p>
+
+                    <p class="viewlink"><a href="/on/film/1147">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0413"
+                         data-href="/on/film/1148">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/44/a9/44a9d8291b5afdf42e40c2849e2662ae.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/90/ea/90ea276409a8443736aa097209bbe62a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">10</h1>
+
+                    <h1>Film: <a href="/on/film/1148">Oberhausen On Tour: Resistance Programme</a></h1>
+
+                    <h2>10 Apr 2013, 7:30 p.m.</h2>
+
+                    <p>This film programme includes some of the most important political works shown in the Oberhausen Film Festival (one the oldest short film festivals in the world) and have won awards there. In these films, dating from 1961 to 2010, filmmakers intervene, take a stand and protest on behalf of human rights, freedom and life. </p>
+
+                    <p class="viewlink"><a href="/on/film/1148">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0413"
+                         data-href="/on/film/1149">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/eb/0f/eb0f26fd1cdf60fe4df93b9fbe7a7cde.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/b5/2d/b52d6af06c0a180d588e9965cc000ec8.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/1149">Oberhausen On Tour: International Competition</a></h1>
+
+                    <h2>17 Apr 2013, 7:30 p.m.</h2>
+
+                    <p>That night will feature some of the best international short films from
+the Oberhausen Film Festival – which are probably some of the best in the
+world! A very special hour-long programme.</p>
+
+                    <p class="viewlink"><a href="/on/film/1149">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0513"
+                         data-href="/on/film/1151">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/af/89/af89c9f286f46421fa5b54333107340c.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/15/99/15999d0ee404eaa4b4ef49a6ff5ff298.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">08</h1>
+
+                    <h1>Film: <a href="/on/film/1151">Oberhausen On Tour: Artist Film And Video</a></h1>
+
+                    <h2>8 May 2013, 7:30 p.m.</h2>
+
+                    <p>This screening will feature a programme of some of the best short artist
+films and video works from the Oberhausen Film Festival 2012.</p>
+
+                    <p class="viewlink"><a href="/on/film/1151">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

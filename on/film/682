@@ -1,0 +1,313 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-682" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="682" data-apiobjecturl="/api/1/film/682/">
+    <meta itemprop="description" content="A film noir Western in which Robert Mitchum delivers his usual immaculate stoned performance as a reluctant  hired gun, and Bel Geddes engages him in erotic gun play. " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/682"/>
+    <meta itemprop="duration" content="PTM" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Blood on the Moon</span><span class="year" itemprop="copyrightyear" content="1948" data-bind="attr:{content:year}, text: showYear()"> (1948)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/25/25/252548edd22b4e16eb3616c3b0fe052b.jpg" width="399" height="217" data-src="/static/img/events/bloodmoon.jpg" data-width="425" data-height="231" data-toggle="modal" data-target="#img-picture-446" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-446">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/bloodmoon.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/81" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">The Star and Shadow Goes West</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-01-13 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 13 January 2011</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Blood on the Moon" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1948" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/25/25/252548edd22b4e16eb3616c3b0fe052b.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Robert Wise</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">BBFC 18</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PTM" data-bind="attr:{datetime:isolength()},text:lengthLabel()"></time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">88min</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body">
+<p><strong>A classic good versus evil western tale, between Robert Mitchum and Robert Preston, by the director of West Side Story. </strong></p>
+<p><strong>A real noir Western. When a film features a line like “I always wanted to shoot one of you.  He was the handiest&hellip;”  you know you’re looking at a movie whose influence reached as far and wide as the plains that fill the screen so majestically.</strong></p>
+<p><strong></strong></p>
+<h2><strong>THE PLOT</strong></h2>
+<p>Unemployed ranch-hand Jim Garry (Robert Mitchum) rides into a small New Mexico town, answering a call for help from his old compadre Tate Rilling (Robert Preston).  Rilling needs a talented gun at his side when a money-making scheme begins to turn nasty, and the taciturn Garry is just the man to help. Of course, things are never that simple in the Old West, and it soon becomes clear that Rilling’s life is in danger for a darn good reason.</p>
+<p><strong></strong></p>
+<h2><strong>DIRECTOR: ROBERT WISE</strong></h2>
+<p>The late director Robert Wise had a knack for creating classics in all the genres of cinema he explored.  The Haunting is still one of the scariest horror movies around, and West Side Story is still considered one of the finest pieces of musical cinema ever.  It’s no surprise then, that Wise’s Blood and the Moon still stands tall as a tense, thought-provoking example of the Western genre.</p>
+<p><strong></strong></p>
+<h2><strong>WHAT THE CRITICS SAY</strong></h2>
+<p><img height="297" src="/static/img/import/blood_photo5.jpg?origsrc=http://www.afi.com/wise/films/blood_on_the_moon/photo/images/blood_photo5.jpg" width="400" />“Lillie Hayward's screen play, taken from a novel by Luke Short, is solidly constructed and by not over-emphasizing Jim Garry's inherent honesty, she has permitted Mr. Mitchum to illuminate a character that is reasonable and most always interesting. &hellip;</p>
+<p>And a word should be said, too, for the direction by Robert Wise. A comparative newcomer to the directorial ranks, he has managed to keep the atmosphere of this leisurely paced film charged with impending violence.” - <strong>New York Times</strong></p>
+<p>“Blood on the Moon is a terse, tightly-drawn western drama. There's none of the formula approach to its story telling.” - <strong>Variety</strong></p>
+<p><strong></strong></p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/81">The Star and Shadow Goes West</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0111"
+                         data-href="/on/film/683">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/0e/4f/0e4fa90ea2132948b49ad6cdb7ec10ef.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/20/af/20af65a2a6a3fbeec07d7fb8ba2a1ba2.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">16</h1>
+
+                    <h1>Film: <a href="/on/film/683">Rancho Notorious (1952)</a></h1>
+
+                    <h2>16 Jan 2011, 7:30 p.m.</h2>
+
+                    <p>Fritz Langs last Western, a moral tale of revenge with Marlene Dietrich presiding over an empire of crime.</p>
+
+                    <p class="viewlink"><a href="/on/film/683">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0111"
+                         data-href="/on/film/684">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/3a/19/3a19649741cba9aacff3d4619d0ca1a0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/65/39/6539484be0c637351ff9ef362d7eef2a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/684">Red River (1948)</a></h1>
+
+                    <h2>20 Jan 2011, 7:30 p.m.</h2>
+
+                    <p>One of the all time classic Westerns: Montgomery Cliff plays against John Wayne in a classic oedipal father son relationship as the cattlemen battle to open up the 'wilderness'.</p>
+
+                    <p class="viewlink"><a href="/on/film/684">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0111"
+                         data-href="/on/film/685">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/04/7e/047e1cb6ba45eb85f3d5b06a674ec8ca.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e4/b1/e4b1a0d1310086f6ccf77addf9b84a58.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">23</h1>
+
+                    <h1>Film: <a href="/on/film/685">The Missouri Breaks  (1976)</a></h1>
+
+                    <h2>23 Jan 2011, 7:30 p.m.</h2>
+
+                    <p>One of the truly great Westerns of the 70's.  Jack Nicholson and Marlon Brando strip all the cute whimsy out of their acts to deliver a dark commentary on death.  Arthur Penn directs with a clean vision of the historical role played by fear and violence in the development of the West.  </p>
+
+                    <p class="viewlink"><a href="/on/film/685">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

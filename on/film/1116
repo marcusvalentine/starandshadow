@@ -1,0 +1,333 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-1116" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="1116" data-apiobjecturl="/api/1/film/1116/">
+    <meta itemprop="description" content="A story of an ambitious young woman trying to gain an education in Afghanistan after the defeat of the Taliban. The title comes from a Federico García Lorca poem and is a tale of flourishing against the odds." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/1116"/>
+    <meta itemprop="duration" content="PT103M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">At Five In The Afternoon (2003) Panj É Asr </span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/b8/15/b815caa98da3812ff3b6300430f7a8bb.jpg" width="400" height="267" data-src="/static/img/events/2003_atfiveintheaft_001.jpg" data-width="1400" data-height="934" data-toggle="modal" data-target="#img-picture-1183" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-1183">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/2003_atfiveintheaft_001.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/141" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Nowrūz And Persian Films</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2013-03-31 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 31 March 2013</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="At Five In The Afternoon (2003) Panj É Asr " data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/b8/15/b815caa98da3812ff3b6300430f7a8bb.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Samira Makhmalbaf</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">BBFC U</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT103M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">103</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Dari</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country">Iran</span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body">A story of an ambitious young <a href="http://en.wikipedia.org/wiki/Woman" title="Woman">woman</a> trying to gain an <a href="http://en.wikipedia.org/wiki/Education" title="Education">education</a> in <a href="http://en.wikipedia.org/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> after the defeat of the <a href="http://en.wikipedia.org/wiki/Taliban" title="Taliban">Taliban</a>. The title comes from a <a href="http://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca" title="Federico García Lorca">Federico García Lorca</a> poem and is a tale of flourishing against the odds.<p><i>At Five in the Afternoon</i> was the first film to be shot in <a href="http://en.wikipedia.org/wiki/Kabul" title="Kabul">Kabul</a> after the <a href="http://en.wikipedia.org/wiki/War_in_Afghanistan_%282001%E2%80%93present%29" title="War in Afghanistan (2001–present)">NATO invasion</a>. It was an <a href="http://en.wikipedia.org/wiki/International_co-production" title="International co-production">international co-production</a> between the <a href="http://en.wikipedia.org/wiki/Iran" title="Iran">Iranian</a> company <a class="new" href="http://en.wikipedia.org/w/index.php?title=Makhmalbaf_Productions&amp;action=edit&amp;redlink=1" title="Makhmalbaf Productions (page does not exist)">Makhmalbaf Productions</a> and the <a href="http://en.wikipedia.org/wiki/France" title="France">French</a> companies <a class="new" href="http://en.wikipedia.org/w/index.php?title=Bac_Films&amp;action=edit&amp;redlink=1" title="Bac Films (page does not exist)">Bac Films</a> and <a class="new" href="http://en.wikipedia.org/w/index.php?title=Wild_Bunch_%28production_company%29&amp;action=edit&amp;redlink=1" title="Wild Bunch (production company) (page does not exist)">Wild Bunch</a>.</p>
+The film premiered at <a href="http://en.wikipedia.org/wiki/2003_Cannes_Film_Festival" title="2003 Cannes Film Festival">2003 Cannes Film Festival</a> and was awarded the <a class="mw-redirect" href="http://en.wikipedia.org/wiki/Jury_Prize_%28Cannes_Festival%29" title="Jury Prize (Cannes Festival)">Jury Prize</a> and the <a href="http://en.wikipedia.org/wiki/Prize_of_the_Ecumenical_Jury" title="Prize of the Ecumenical Jury">Prize of the Ecumenical Jury</a>.<div>Trailer: <a href="http://www.dailymotion.com/video/xvxayt_trailer-at-five-in-the-afternoon-by-samira-makhmalbaf-vostfr_shortfilms">http://www.dailymotion.com/video/xvxayt_trailer-at-five-in-the-afternoon-by-samira-makhmalbaf-vostfr_shortfilms</a><p>Tickets: <a href="http://www.wegottickets.com/event/208637">http://www.wegottickets.com/event/208637</a></p></div></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/141">Nowrūz And Persian Films</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0313"
+                         data-href="/on/film/1089">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/50/61/5061a3cc0da180e139cf89ba6a9ac89a.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/8f/89/8f89357a4f86c8f26be277ee4463023e.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">13</h1>
+
+                    <h1>Film: <a href="/on/film/1089">A Separation (2011) + Introduction By Tina Gharavi</a></h1>
+
+                    <h2>13 Mar 2013, 7:30 p.m.</h2>
+
+                    <p>A married couple are faced with a difficult decision - to improve the 
+life of their child by moving to another country or to stay in Iran and 
+look after a deteriorating parent who has Alzheimer's disease.</p>
+
+                    <p class="viewlink"><a href="/on/film/1089">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0313"
+                         data-href="/on/film/1085">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/da/db/dadbb5d92b4a19d81d08126e0a677162.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/00/c1/00c1a689dbdfa21415a51e8f2bbafc15.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/1085">Frontier Blues (2009)</a></h1>
+
+                    <h2>20 Mar 2013, 7:30 p.m.</h2>
+
+                    <p>On Iran's northern frontier with Turkmenistan, the land of "heartbreak 
+and tractors", first time director Babak Jalali mines absurdist humour 
+and quiet pathos from the immutable routines of a stranded group of men.
+ </p>
+
+                    <p class="viewlink"><a href="/on/film/1085">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0313"
+                         data-href="/on/film/1086">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/b0/63/b063887d50f80ae8692881e5c9fffe5e.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/d7/d5/d7d5e77f4db7a46c11fe66e0d1426f91.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">27</h1>
+
+                    <h1>Film: <a href="/on/film/1086">Offside (2006)</a></h1>
+
+                    <h2>27 Mar 2013, 7:30 p.m.</h2>
+
+                    <p>Girls try to watch a World Cup
+ qualifying match in Stadium but are forbidden by law because of their sex. The film was inspired by the director's daughter, who decided to attend
+ a game anyway. The film was shot in Iran but its screening was banned there</p>
+
+                    <p class="viewlink"><a href="/on/film/1086">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0413"
+                         data-href="/on/film/1088">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/47/e5/47e55317274e26699313003830ef9ec9.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/47/d7/47d7fed2128521e9e11de796bd3139e0.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">04</h1>
+
+                    <h1>Film: <a href="/on/film/1088">Taste Of Cherry (1997)  Ta&#39;m E Guilass</a></h1>
+
+                    <h2>4 Apr 2013, 7:30 p.m.</h2>
+
+                    <p>Mr.Badii is planning to commit suicide and desperately seeks anyone to 
+assist him - he has already dug out the grave in the mountains, but the 
+assistant will have to bury him when he will do the deed.</p>
+
+                    <p class="viewlink"><a href="/on/film/1088">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

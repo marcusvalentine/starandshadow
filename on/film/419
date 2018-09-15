@@ -1,0 +1,353 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-419" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="419" data-apiobjecturl="/api/1/film/419/">
+    <meta itemprop="description" content="Masterful parable of greed, power and insanity." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/419"/>
+    <meta itemprop="duration" content="PT113M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Hyenas (SENEGAL)</span><span class="year" itemprop="copyrightyear" content="1992" data-bind="attr:{content:year}, text: showYear()"> (1992)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/eb/d6/ebd69e1d730db6b281c1bcfd1effc40f.jpg" width="400" height="400" data-src="/static/img/events/hyenas.jpg" data-width="240" data-height="240" data-toggle="modal" data-target="#img-picture-296" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-296">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/hyenas.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/35" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">CINEMA AFRICA</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-09-13 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 13 September 2009</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Hyenas (SENEGAL)" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1992" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/eb/d6/ebd69e1d730db6b281c1bcfd1effc40f.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Djibril Diop Mambety </span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">BBFC PG</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT113M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">113mins</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Wolof, with English subtitles</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>"Djibril Diop Mambety's work is among the most enigmatic and imaginative in African cinema." - <a href="http://www.filmreference.com/Directors-Lu-Mi/Mambety-Djibril-Diop.html">Filmreference.com</a></strong></p>
+<p>A beautiful parable of greed, power and insanity from one of the great masters of Africancinema.</p>
+<h2>THE PLOT</h2>
+<p>An African adaptation of Friedrich Durrenmatt's famous Swiss play, <em>The Visit</em>, <em>Hyènes</em> tells the story of an aging, wealthy woman who revisits her home village<hr>and Mambéty's<hr>of Colobane. She offers a disturbing proposition to the people of Colobane and lavishes luxuries upon them to persuade them.</p>
+<p>This embittered woman, "as rich as the World Bank" will bestow upon the village a fortune in exchange for the murder of a local shopkeeper who abandoned her after a love affair, and her illegitimate pregnancy, when she was 16.</p>
+<h2>REVIEWS, AWARDS</h2>
+<p>"Diop Mambety shows an able hand in managing his talented cast and cuts quite a commanding figure himself when he appears in a pivotal small role." - <a href="http://www.chicagoreader.com/chicago/hyenas/Film?oid=1058676">The Chicago Reader</a></p>
+<p>"Hyenas is awash in the hypnotic colours and intoxicating sounds of West Africa - a wicked comedy depicting the devastating effects of greed on a small, poverty-stricken village." - <a href="http://www.africa-in-motion.org.uk/2007/films.html">Africa in Motion, the Edinburgh African Film Festival </a></p>
+<p>The film part of the official selection at the Cannes Film Festival.</p>
+<h2>THEMES</h2>
+<p>The intimate story of love and revenge between the main two characters parallels a critique of neocolonialism and African consumerism. Mambéty once said, "We have sold our souls too cheaply. We are done for if we have traded our souls for money" Although its characters are distinct, Mambéty considered <em>Hyènes</em> to be a further exploration of the themes of power and insanity.</p>
+<h2>WHAT THE DIRECTOR SAYS </h2>
+<p>From a great interview that you can read <a href="http://newsreel.org/articles/mambety.htm">here</a></p>
+<p><strong><img height="178" src="/static/img/import/djibril-diop-mambety.jpg?origsrc=http://auteurs_production.s3.amazonaws.com/cast_member_images/711/djibril-diop-mambety.jpg" width="150" />HUMANKIND</strong></p>
+<p>"Everyone in Colobane [the village in which <em>Hyenas</em> is set] <hr>everyone everywhere<hr>lives within a system of power that embraces the West, Africa, and the land of the rising sun. There is a scene where this woman comes in and reads: she reads of the vanity of life, the vanity of vengeance; that is totally universal. My goal was to make a continental film, one that crosses boundaries.</p>
+<p>The film depicts a human drama. My task was to identify the enemy of humankind: money, the International Monetary Fund, and the World Bank. I think my target is clear."</p>
+<p><strong>THE WORLDBANK</strong></p>
+<p><span>"<em>Hyenas</em> takes place in a poor city, amongst poor people and what I'm saying is : if you want money one of you will have to be killed. The World Bank and it's International Monetary Fund did the same with the poor South of the world. They tell the African people "we know that you're poor but you have too many peoples working and you don't have enough money to pay them so you have to kill some of them. Then we can give you money. You have to clean up your economy. kill enough people and we will give you money." [this is form another article <a href="http://itutu.com/djibril/Interview.html">here</a>]</span></p>
+<p><strong>THE MARGINALISED</strong></p>
+<p>"I am interested in marginalized people, because I believe that they do more for the evolution of a community than the conformists. Marginalized people bring a community into contact with a wider world.</p>
+<p>If we think of the old shopkeeper in Hyenas, we find that he, too, is marginalized, although he is a well-known character in the city of the village. But this aspect of his character allows me to investigate every aspect of his society. Perhaps a marginal person can give you an accurate vision of a society because he varies from its norms."</p>
+<p><strong>ON BEAUTY AND CINEMA</strong></p>
+<p>"While <em>Hyenas </em>tells a human story to the whole world, I also wanted to pay homage to the beauty of Africa when I made the film. For me, part of that beauty is the fact that it is not very difficult to make a film in Africa. The abandoned bags of rice that the people of Colobane wear at the end of the film did not cost much; it was only the equipment for the production that was a little expensive.</p>
+<p>I have a great desire to demystify cinema<hr>especially the financial aspect of cinema. Africa is rich in cinema, in images. Hollywood could not have made this film, no matter how much money they spent. The future belongs to images. Students, like the children I referred to earlier, are waiting to discover that making a film is a matter of love, not money."</p>
+<h2>THE DIRECTOR</h2>
+<p><strong><img height="208" src="/static/img/import/mambety.jpg?origsrc=http://www.africansuccess.org/docs/image/mambety.jpg" width="150" />Djibril Diop Mambéty</strong> (January 1945 - July 23, 1998) was a Senegalese film director, actor, orator, composer and poet. Though he made only a small number of films, they received international acclaim for their original and experimental cinematic technique and non-linear, unconventional narrative style. (<a href="http://en.wikipedia.org/wiki/Djibril_Diop_Mamb%C3%A9ty">wikipedia</a>)</p>
+<p><strong>"<span>Djibril Diop Mambety, Senegal's major visionary film-maker, died in 1998. Undoubtedly Africa's most fanciful film-maker, he was the only man who treated African stories with the cinematic vision they crave." - <a href="http://www.filmfestivals.com/cannes99/html/quinzaine21.htm">filmfestivals.com</a></span></strong></p>
+<p><strong>Filmography:</strong></p>
+<p>Contras City (1968, short film)Babou Boy (1970, short film)Touki Bouki (1974, first feature, won the Special Jury Award at the Moscow film Festival and the International Critics Award at Cannes)Hyenes (1992)Le Franc (1994)La Petite Vendeuse de Soleil (1994)</p>
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/35">CINEMA AFRICA</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0909"
+                         data-href="/on/film/418">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/12/49/1249680ae44b1e406d99e661d1437b83.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/62/5d/625da2b518bd03b464dc165b1f90055a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">10</h1>
+
+                    <h1>Film: <a href="/on/film/418">Les Silences Du Palais (Tunisia) (1994)</a></h1>
+
+                    <h2>10 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Stunningly acted, beautifully shot. A deliciously scored masterpiece.  </p>
+
+                    <p class="viewlink"><a href="/on/film/418">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0909"
+                         data-href="/on/film/470">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/93/f2/93f2d131d5266547b4b3b829d78a02d0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/00/b1/00b10161ac8e5f6e9ad56885e5b00134.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/470">Finzan (Mali) (1989)</a></h1>
+
+                    <h2>17 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Two women rebel against the traditions of their village in Mali in a film by one of the key auteurs of African cinema.
+</p>
+
+                    <p class="viewlink"><a href="/on/film/470">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0909"
+                         data-href="/on/film/420">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/75/d2/75d27799835c1655a2c125b958f38fd1.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3f/49/3f49fce9b4d73a458102cfeccb42c39f.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/420">Barakat! (Algeria) (2006)</a></h1>
+
+                    <h2>20 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>Set in war–torn Algeria in the 1990s, Barakat! (Enough!) follows two women on the dangerous search for the younger woman's husband, a journalist whose writings resulted in his disappearance.</p>
+
+                    <p class="viewlink"><a href="/on/film/420">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0909"
+                         data-href="/on/film/471">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/6d/a9/6da94cf45d3ace7e0e623c98a585bf5a.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5f/b7/5fb7caa4e32554111d64a3aee6fc6ae3.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">24</h1>
+
+                    <h1>Film: <a href="/on/film/471">Zulu Love Letter (South Africa) (2004)</a></h1>
+
+                    <h2>24 Sep 2009, 7:30 p.m.</h2>
+
+                    <p>“There have been terrible abuses towards humanity exacted under apartheid that the film is in a position to visualise, on behalf of those who survive them. Zulu Love Letter has bravely created a new cinematic space for representing historical truths.” </p>
+
+                    <p class="viewlink"><a href="/on/film/471">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

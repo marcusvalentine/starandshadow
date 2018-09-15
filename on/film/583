@@ -1,0 +1,352 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-583" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="583" data-apiobjecturl="/api/1/film/583/">
+    <meta itemprop="description" content="From a French director but set in Brazil, this is an incredible adaptation of the Greek myth of Orpheus, in the Carnival of Rio de Janeiro. Winner of the Palme D’Or (highest prize) at the Cannes Film Festival, and of the Oscar for Best Foreign Film, it features a magic soundtrack of samba and bossa nova." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/583"/>
+    <meta itemprop="duration" content="PT100M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Black Orpheus </span><span class="year" itemprop="copyrightyear" content="1959" data-bind="attr:{content:year}, text: showYear()"> (1959)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/86/29/8629a2d9080521b96b664bd3b7c679d9.jpg" width="399" height="323" data-src="/static/img/events/BlackGOOD.jpg" data-width="648" data-height="524" data-toggle="modal" data-target="#img-picture-395" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-395">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/BlackGOOD.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/71" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">French Myths and Fairytales</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2010-06-03 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 3 June 2010</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Black Orpheus " data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1959" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/86/29/8629a2d9080521b96b664bd3b7c679d9.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Marcel Camus</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT100M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">100 min</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">Portuguese with English subtitles</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>From a French director but set in Brazil, this is an incredible adaptation of the Greek myth of Orpheus, in the Carnival of Rio de Janeiro. Winner of the Palme D’Or (highest prize) at the Cannes Film Festival, and of the Oscar for Best Foreign Film, it features a magic soundtrack of samba and bossa nova.</strong></p>
+<h2><strong>THE PLOT</strong></h2>
+<p>Rio de Janeiro, festival time. Eurydice arrives in Rio to go and visit her cousin. She is fleeing from home where a man is trying to kill her. Orfeu is a friend of her cousin: he is about to get married to the very jealous Mira, but he is not very enthusiastic about the wedding. Orfeu and Eurydice meet, and they rapidly fall in love&hellip;</p>
+<h2><strong>ABOUT</strong></h2>
+<p><strong>Adaptation of the Greek Myth</strong></p>
+<p>The film is an adaptation of the play <em>Orfeu da Conceição </em>by Vinicius de  Moraes, which is an adaptation of the Greek Myth of Orpheus and  Eurydice. However, the film is adapting the play freely, just like the play itself was not entirely faithful to the myth.</p>
+<p>If the Greek myth is a tragedy, the film's main tone is a happy one, where hope, excitement, music and a party-atmospehere dominate.</p>
+<p><strong>The Music </strong></p>
+<p>The music, a mix of samba and bossa-nova, is omnipresent in the film, and gives it a great rythm. The gorgeous bossa nova songs, that have become very famous, have been composed by the legendary Brazilian musician Antonio Carlos Jobim, and by Luiz Bonfa.  As the film is set during the festival, a lot of scenes feature crowds dancing to samba, and it sometimes resembles a documentary on the Rio Carnival.</p>
+<p><strong>The Colours</strong></p>
+<p>The film has very strong colours, adding to the atmosphere of party and excitement.   The dominating colours are yellow, red and blue. The yellow is attached to Orfeu, the blue to Eurydice, and the red to death.</p>
+<p><strong>Orfeu: The Sun God </strong></p>
+<p>In this film, Orfeu can be seen as the Sun God, who makes the sun rise by singing with his guitar. This is also reminded by his costume of the carnival, of golden colour.   In this film, Orfeu is a singer, just like in the Greek Myths, in which Orpheus sings with a lyre.</p>
+<h2><strong><img height="188" src="/static/img/import/BlackOrpheus7.jpg?origsrc=http://i21.photobucket.com/albums/b300/spacemonkey_fg/BlackOrpheus7.jpg" width="250" />PRIZES</strong></h2>
+<p>The film was a huge popular success worldwide, and won some of the most prestigious film awards:</p>
+<p>- Winner of the Palme D’Or (Highest prize) at the Cannes Film Festival</p>
+<p>- Winner of the Oscar for Best Foreign Language Film</p>
+<p>- Winner of the Golden Globe for Best Foreign Film</p>
+<h2><strong>THE DIRECTOR: FACTS ABOUT ALBERT CAMUS (1912-1982)</strong></h2>
+<p>- During the war, Marcel Camus was held prisoner in a German military camp. It is there that he started writing and producing theatre plays, with other prisoners.</p>
+<p>- After the War, he became a director assistant, to Bunuel or Jacques Becker (<em>Casque D’Or</em>)</p>
+<p>- He made his first film in 1957 (<em>Mort en Fraude</em>, set in Indochina)</p>
+<p>- <em>Black Orpheus</em> is his second film</p>
+<p>- Marcel Camus made 7 films, and <em>Black Orpheus</em> is by far his most famous film</p>
+<h2><strong>THE REAL STORY: THE GREEK MYTH OF ORPHEUS AND EURYDICE</strong></h2>
+<p>The most well-known version of the myth is the one from Virgil. In that version, Eurydice and Orpheus are husband and wife. At her wedding, Eurydice walks in tall grass and gets bitten by a snake, which kills her.</p>
+<p>Distraught, Orpheus plays gorgeous and sad songs, which soften the gods’ hearts. They agree for Orpheus to go to the underworld to get his wife back. The condition, however, is that, on their way back to the upperworld, she walks behind him and that he doesn’t look at her until both of them have reached the upper world.</p>
+<p>They walk without looking at each other, but as soon as Orpheus has reached the upper world, anxious to see his wife, he turns round, and does not pay attention to the fact that at this time, she had not stepped out of the underworld. She then disappears, for ever.</p>
+<h2><strong><img height="188" src="/static/img/import/BlackOrpheus5.jpg?origsrc=http://i21.photobucket.com/albums/b300/spacemonkey_fg/BlackOrpheus5.jpg" width="250" />STRANGE FACT</strong></h2>
+<p>Black Orpheus is one of the favourite films of Barak Obama’s mother.</p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/71">French Myths and Fairytales</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0610"
+                         data-href="/on/film/591">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/40/b9/40b9a28f268f09452aab75a90df146a4.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/7c/3a/7c3a940e0eb9657224bed3baad58feb7.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">06</h1>
+
+                    <h1>Film: <a href="/on/film/591">Donkey Skin (Peau D&#39;Ane) (1970)</a></h1>
+
+                    <h2>6 Jun 2010, 7:30 p.m.</h2>
+
+                    <p>Not very well known outside of France, this is an absolute gem: magical musical from Jacques Demy (The Umbrellas of Cherbourg), with international star Catherine Deneuve in gorgeous princess dresses, and with golden donkeys, blue horses and a benevolent fairy. Adaptation of a 17th century tale about a princess fleeing from her father King. </p>
+
+                    <p class="viewlink"><a href="/on/film/591">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0610"
+                         data-href="/on/film/613">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/00/0e/000e4cd46327e0e3039ae0c78b8e7f16.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5b/dc/5bdc3d0c98f907c463c36aaaa5fada32.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">10</h1>
+
+                    <h1>Film: <a href="/on/film/613">Orphee (1950)</a></h1>
+
+                    <h2>10 Jun 2010, 7:30 p.m.</h2>
+
+                    <p>Poet, playwright, artist and filmmaker, Jean Cocteau was one of the most significant artists of the 20th century, and Orphee is one of his finest films. This magical retelling of the Orpheus myth turns the singer of Greek legend, into a famous left-bank poet in post-war Paris. With famous mirror dissolving and flying tricks, this is hauntingly beautiful.</p>
+
+                    <p class="viewlink"><a href="/on/film/613">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0610"
+                         data-href="/on/film/614">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/2c/b5/2cb59f034228bfe898c16f6875cc5183.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/88/07/8807820bb2af1c19daa22cb3309afbe0.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">13</h1>
+
+                    <h1>Film: <a href="/on/film/614">The Beauty And The Beast (La Belle Et La Bete) (1946)</a></h1>
+
+                    <h2>13 Jun 2010, 7:30 p.m.</h2>
+
+                    <p>“One of the most spellbinding fairy tales in all cinema” (The Times), this is a landmark feat of cinematic fantasy, in which master filmmaker Jean Cocteau conjures spectacular visions of enchantment, desire and death that have never been equalled. Incredible designs, fascinating Beast, beautiful B&amp;W photography - captivating and unforgettable.</p>
+
+                    <p class="viewlink"><a href="/on/film/614">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0610"
+                         data-href="/on/film/648">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/90/d0/90d0fe1e8536ae70ad5a97643ef29073.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/01/f2/01f2a37039250ec0e1f233ab04a41a0a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/648">The Devil&#39;s Envoys (Les Visiteurs Du Soir) (1942)</a></h1>
+
+                    <h2>17 Jun 2010, 7:30 p.m.</h2>
+
+                    <p>Directed by M. Carné and written by the incredible French poet J. Prévert – the same duo who made the legendary film Les Enfants du Paradis. Written during the war, they chose to set the film in the 15th century so that they are not affected by censorship. 2 envoys of the devil are sent to earth. </p>
+
+                    <p class="viewlink"><a href="/on/film/648">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

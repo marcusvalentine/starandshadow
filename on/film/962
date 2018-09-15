@@ -1,0 +1,1318 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-962" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="962" data-apiobjecturl="/api/1/film/962/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/962"/>
+    <meta itemprop="duration" content="PT90M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">i'm a fool/the bells of cockaigne</span><span class="year" itemprop="copyrightyear" content="" data-bind="attr:{content:year}, text: showYear()"> </span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/cc/38/cc38e3b1903ac4808ab7086d7582d0f3.jpg" width="400" height="313" data-src="/static/img/events/09pg-vertical.jpg" data-width="434" data-height="340" data-toggle="modal" data-target="#img-picture-814" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-814">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/09pg-vertical.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/112" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Weekender/Public Domain</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2012-04-09 16:00:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">4:00 p.m. Monday 9 April 2012</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="i'm a fool/the bells of cockaigne" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/cc/38/cc38e3b1903ac4808ab7086d7582d0f3.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Unknown</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT90M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">90 mins</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">Other</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">english/usa</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p>James Dean as seen on tv's General Electric Theatre (54) and Armsrong Circle Theatre (53) productions&hellip;double feature!</p><p>Very little of James Dean's talent survived him on film&hellip;take a rare opportunity to see a couple of his earlier roles, falling for Natalie Wood in one and getting shirtless in the other!</p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/112">Weekender/Public Domain</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0811"
+                         data-href="/on/film/858">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/b1/c3/b1c31d18058407b90c2521ce04985f27.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2f/69/2f6939f1d3f2affdf855cd3ece07a2f1.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">27</h1>
+
+                    <h1>Film: <a href="/on/film/858">Weekender/The Terror (Boris Karloff/Jack Nicholson) Free (1963)</a></h1>
+
+                    <h2>27 Aug 2011, 4:30 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/858">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0811"
+                         data-href="/on/film/868">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/2b/32/2b32a47099b38314d1ff16b0d0ef479c.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/83/77/837798d10e67dd93b536194f59fd29de.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">28</h1>
+
+                    <h1>Film: <a href="/on/film/868">Weekender/The Terror Of Tiny Town (Billy Curtis/Little Billy Rhodes) Free  (1938)</a></h1>
+
+                    <h2>28 Aug 2011, 2 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/868">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0811"
+                         data-href="/on/film/859">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/2c/58/2c58c4ef9ca9563bb344cd3c04fef3e4.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/f9/8d/f98de21d7c3812cfdfd9e8ce1ad6689f.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">28</h1>
+
+                    <h1>Film: <a href="/on/film/859">Weekender/The Hitch Hiker (William Talman) Free (1953)</a></h1>
+
+                    <h2>28 Aug 2011, 6 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/859">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0811"
+                         data-href="/on/film/860">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f5/7d/f57d12e0c3723b76e18a7d11c18c18dc.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/8a/5a/8a5a4fa4712ee22dc4222b102eccd820.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/860">Weekender/Rock N Roll Revue (Duke Ellington/Nat King Cole) Free (1956)</a></h1>
+
+                    <h2>29 Aug 2011, noon</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/860">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0811"
+                         data-href="/on/film/861">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/74/cd/74cd4095f28d716c5a82ef23606cd07a.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/84/64/8464c4c48d3efbd1c22061543191fd3f.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/861">Weekender/Rhythm And Blues Revue (Count Basie/Bill Bailey) Free (1955)</a></h1>
+
+                    <h2>29 Aug 2011, 12:40 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/861">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0811"
+                         data-href="/on/film/862">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/2d/8f/2d8fa39ba2b1cc1de15aa866abba6a20.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/8f/43/8f43d1724372ac3cc684e485350bf167.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/862">Weekender/Rock Rock Rock (Tuesday Weld/Chuck Berry) Free (1956)</a></h1>
+
+                    <h2>29 Aug 2011, 2 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/862">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0811"
+                         data-href="/on/film/863">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/50/8c/508c9f30c6d2884fa61aa799102bdf80.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/83/4f/834f7c59074294ca2bd11bab637261e3.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/863">Weekender/Meet John Doe (Gary Cooper/Barbara Stanwyck) Free (1941)</a></h1>
+
+                    <h2>29 Aug 2011, 4 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/863">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0811"
+                         data-href="/on/film/864">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/51/9a/519a17486e91c396541541f1b332a5af.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/4f/e2/4fe2d30a43d5db20c47fe18c81e09a87.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/864">Weekender/The Last Man On Earth (Vincent Price) Free (1964)</a></h1>
+
+                    <h2>29 Aug 2011, 6 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/864">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0811"
+                         data-href="/on/film/866">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f8/2e/f82e49cfd887f97260a46e7dc983e0dc.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e9/df/e9dfd34fe17bb995fa3968b5180b9784.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/866">Weekender/Night Of The Living Dead (Duane Jones) Free (1968)</a></h1>
+
+                    <h2>29 Aug 2011, 9 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/866">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0811"
+                         data-href="/on/film/867">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/dd/14/dd1404e683dad3dde8638cdf441fe6d9.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e2/df/e2dfb762f1f5398a166a8edad5295718.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/867">Weekender/Exploitation Films (Mash-Up) Free (Various)</a></h1>
+
+                    <h2>29 Aug 2011, 11:20 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/867">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0412"
+                         data-href="/on/film/961">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/eb/99/eb99fefc953bbb7ee348cd73d0e23046.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5b/cb/5bcb0d1c00b5ab820de1633728973470.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">08</h1>
+
+                    <h1>Film: <a href="/on/film/961">Princess Iron Fan (1941) Plus Live Accompaniment</a></h1>
+
+                    <h2>8 Apr 2012, 4 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/961">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0412"
+                         data-href="/on/film/963">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/0d/e4/0de43c61e6645d0c40d6d56ab20f141e.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3e/43/3e434a0d9c340e7db141fda2e54a6c72.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">09</h1>
+
+                    <h1>Film: <a href="/on/film/963">Street Scene (1931)</a></h1>
+
+                    <h2>9 Apr 2012, 6 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/963">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0412"
+                         data-href="/on/film/964">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/87/57/87574716595a2d682c00b23ebc8c0e4d.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/1c/1c/1c1c3b3e4910bc980e91a2ac01579eef.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">09</h1>
+
+                    <h1>Film: <a href="/on/film/964">The Romantic (2011)</a></h1>
+
+                    <h2>9 Apr 2012, 8 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/964">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0512"
+                         data-href="/on/film/1013">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/56/c3/56c3104e520fe82302e8b5fc897f1ce3.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/25/91/2591e6974d9ea90f08814ae9385b88e3.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">06</h1>
+
+                    <h1>Film: <a href="/on/film/1013">Big Fella (1937)</a></h1>
+
+                    <h2>6 May 2012, 2 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/1013">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0512"
+                         data-href="/on/film/1015">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/50/39/50390a6bf36a1c122a4335cb6b9f20f2.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/29/7f/297f64b685642e0c3bbc0055fd806124.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">06</h1>
+
+                    <h1>Film: <a href="/on/film/1015">Basin Street Revue (1956)</a></h1>
+
+                    <h2>6 May 2012, 3:10 p.m.</h2>
+
+                    <p></p>
+
+                    <p class="viewlink"><a href="/on/film/1015">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0612"
+                         data-href="/on/film/1023">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/6e/3d/6e3d1d7d9ff2cf8a857a0fe34a660648.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/92/9d/929dd76dd01f93459810ddf71c3d8d5a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">02</h1>
+
+                    <h1>Film: <a href="/on/film/1023">Dr Jekyll And Mr Hyde (1920) + Live Accompaniment</a></h1>
+
+                    <h2>2 Jun 2012, 6 p.m.</h2>
+
+                    <p>"The worlds greatest actor in a tremendous story of man at his best and worst!"
+John Barrymore stars in what some call "the first American horror 
+movie", giving a typically bravura performance as Hollywoods original 
+and definitive Hyde.
+
+Featuring an original, live soundtrack by Lidan Deng </p>
+
+                    <p class="viewlink"><a href="/on/film/1023">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0612"
+                         data-href="/on/film/1019">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/d0/84/d084edf2ddd360971ac707b84dc0e2d2.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/bb/71/bb71d4059dfee6fb4910238cf8902e5b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">03</h1>
+
+                    <h1>Film: <a href="/on/film/1019">Bill &amp; Coo (1948)</a></h1>
+
+                    <h2>3 Jun 2012, 4 p.m.</h2>
+
+                    <p><p>When "The Black Menace" strolls onto the streets of Chirpendale, the 
+terrified residents turn to Bill, the brave young taxi puller.</p><p>The worlds one and only all avian motion picture. No, you read correctly…this movie is entirely acted by real live birds!</p><p>Kicking off a trio of flight related, public domain obscurities, all screened for you, for free.</p></p>
+
+                    <p class="viewlink"><a href="/on/film/1019">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0612"
+                         data-href="/on/film/1020">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/d6/04/d60466140da6fba38886664bf37cb879.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/1e/eb/1eeb9e7f32929672924323281d97ec6b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">03</h1>
+
+                    <h1>Film: <a href="/on/film/1020">Conquest Of The Air (1938)</a></h1>
+
+                    <h2>3 Jun 2012, 5 p.m.</h2>
+
+                    <p><p>Genuine archive footage, mixed with Korda's reconstructions and featuring Laurence Olivier.</p><p>An episodic history of manned flight from the middle ages up to the outbreak of WWII.</p></p>
+
+                    <p class="viewlink"><a href="/on/film/1020">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0612"
+                         data-href="/on/film/1021">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/1a/77/1a770580d068d91b13d194be0231e505.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/72/59/72594cfdd0847655d90befaf3f4bce17.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">03</h1>
+
+                    <h1>Film: <a href="/on/film/1021">Q Planes (1939)</a></h1>
+
+                    <h2>3 Jun 2012, 6:10 p.m.</h2>
+
+                    <p><p>Starring Ralph Richardson as a hyperactive spy and Laurence Olivier as a temperamental young pilot.</p><p>Featuring
+ unlikely characters and an improbable plot, with dialogue largely 
+improvised by the cast, this anarchic satire entertains with its tongue 
+planted firmly in its cheek.</p></p>
+
+                    <p class="viewlink"><a href="/on/film/1021">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0812"
+                         data-href="/on/film/1048">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/fd/90/fd90c4b88c2d89329a255c705b0eb40e.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/5c/64/5c646e7c961d46f70892a68257d67d90.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">27</h1>
+
+                    <h1>Film: <a href="/on/film/1048">The Stranger (1946, Orson Welles, Edward G Robinson)</a></h1>
+
+                    <h2>27 Aug 2012, 4 p.m.</h2>
+
+                    <p>after a slow start, nazi-hunter edward g robinson tracks a goon to mild 
+mannered history professor orson welles, from here the pace quickens, 
+all the way to the famously epic climax with trusting wife loretta young</p>
+
+                    <p class="viewlink"><a href="/on/film/1048">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0812"
+                         data-href="/on/film/1049">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/6e/c9/6ec9cdf6efba72291aee5bf16283d1f7.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/b0/8a/b08a68d0bb81470b8b0460c6a9bf8146.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">27</h1>
+
+                    <h1>Film: <a href="/on/film/1049">49th Parallel (1941, Laurence Olivier, Leslie Howard)</a></h1>
+
+                    <h2>27 Aug 2012, 6 p.m.</h2>
+
+                    <p>this wartime production is elevated above mere propaganda by director powell, aided admirably by writer emeric 
+pressburger, editor david lean, miscast but entertaining olivier, 
+self-efacing howard, plain spoken anton walbrook, seedy raymond massey, 
+uber-nazi eric portman and a sensitive star turn from bit part nobody niall macginnis</p>
+
+                    <p class="viewlink"><a href="/on/film/1049">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0812"
+                         data-href="/on/film/1050">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/d6/5d/d65d08a992fe12a320899d41b287fb9a.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/20/f1/20f18443799f3f42662ae31006763d5b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">27</h1>
+
+                    <h1>Film: <a href="/on/film/1050">Icarus Xb1 (1963)</a></h1>
+
+                    <h2>27 Aug 2012, 8 p.m.</h2>
+
+                    <p>from a novel by the acclaimed stanislaw lem (writer of solaris) a mission to detect life in alpha centauri encounters a litany of problems, both domestic and alien, technical difficulties and emotional breakdowns. the stunning production design was years ahead of its time, directly influencing the look and pace of "2001, a space odyssey"</p>
+
+                    <p class="viewlink"><a href="/on/film/1050">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0313"
+                         data-href="/on/film/1191">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/b0/0b/b00ba12cfae79b0d68cbb8fb0ac1c5cd.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/25/29/25290d3376ba4e20ed24992f32e6f10b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">29</h1>
+
+                    <h1>Film: <a href="/on/film/1191">8 Masters/Return Of The 18 Bronzemen/The Blazing Temple</a></h1>
+
+                    <h2>29 Mar 2013, 8 p.m.</h2>
+
+                    <p>hack your way through the night with one of the unsung heroes of Hong-Kong cinema, Carter Wong, in a marathon of shaolin style chop-socky&hellip;ALL FREE</p>
+
+                    <p class="viewlink"><a href="/on/film/1191">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0313"
+                         data-href="/on/film/1172">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/7e/51/7e51f49cfee4e4fab8f384a2d3d2b683.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e2/b2/e2b2c1abd497c25da95d7581257b81a1.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">30</h1>
+
+                    <h1>Film: <a href="/on/film/1172">The Sign Of Four (1932)</a></h1>
+
+                    <h2>30 Mar 2013, noon</h2>
+
+                    <p>while the public argue over Basil and Jeremy many critics site Arthur Wontner as THE Sherlock Holmes, played closest to the literary version (bar a minor change of address) this Holmes is not the showman of later incarnations, but the banter with Watson describes a much more balanced relationship&hellip;free</p>
+
+                    <p class="viewlink"><a href="/on/film/1172">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0313"
+                         data-href="/on/film/1138">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/15/e4/15e462cef054f45232b20434a25993bc.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/15/12/1512a0c3d075b6bac7b5748d00a2586c.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">30</h1>
+
+                    <h1>Film: <a href="/on/film/1138">Five Minutes To Live (1961)</a></h1>
+
+                    <h2>30 Mar 2013, 10 p.m.</h2>
+
+                    <p>featuring johnny cash and ron howard&hellip;a gang of bank robbers terrorize a small town by knocking on doors and then killing whoever answers&hellip;aka "door to door maniac" this is midnight movie mayhem, on your doorstep!
+</p>
+
+                    <p class="viewlink"><a href="/on/film/1138">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0313"
+                         data-href="/on/film/1137">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/7d/76/7d768cd6f0f0947faa05659269be1793.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2c/22/2c2257bb346f0c5a2ea4db2aaabe39e5.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">31</h1>
+
+                    <h1>Film: <a href="/on/film/1137">Five (1951)</a></h1>
+
+                    <h2>31 Mar 2013, noon</h2>
+
+                    <p>after the bomb dropped only five were left&hellip;there are many  post-nuclear apocalypse movies, but this was the first&hellip;a relentlessly dark, oddly philosophical, psycho-social drama peppered with beautifully haunting scenes and plot holes you could fly a b52 through&hellip;free</p>
+
+                    <p class="viewlink"><a href="/on/film/1137">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0513"
+                         data-href="/on/film/1185">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f2/3b/f23b995806a4046cca766819d40b70a9.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e5/c3/e5c3eed530666bbeca81a210aa65a8fa.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">06</h1>
+
+                    <h1>Film: <a href="/on/film/1185">The Un_Named (2013)</a></h1>
+
+                    <h2>6 May 2013, 8 p.m.</h2>
+
+                    <p>"the UN_NAMED" a brand new feature from the people that brought you a cup of coffee at the bar, made this weekend (2013) live soundtrack performed by "Phallictite" (like Helictite but harder, younger, moister)"unplanned"
+ an unauthorised fly on the wall docu-soap about the goings on at a film
+ company that have one weekend to make a monster movie, with 
+consequences (2013)</p>
+
+                    <p class="viewlink"><a href="/on/film/1185">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0414"
+                         data-href="/on/film/1355">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/cb/1e/cb1e668014eea2182f480daf330a5309.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/11/7d/117df16ef2c6f8ea75f4dc92d9d66c32.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">17</h1>
+
+                    <h1>Film: <a href="/on/film/1355">In The Dust Of The Stars (1976) [Plus Short Film Sign Up]</a></h1>
+
+                    <h2>17 Apr 2014, 7:30 p.m.</h2>
+
+                    <p>Great costumes, huge sets, massive cast, exotic dance sequences to 
+fantastic abstract audio and surprises round every corner help this 
+feature overcome its standard premise beautifully. Practically unknown 
+in the west this film deserves a cult renaissance&hellip;plus sign up for the "film in a weekend" shoot.</p>
+
+                    <p class="viewlink"><a href="/on/film/1355">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0414"
+                         data-href="/on/film/1356">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/b5/13/b5134d369e1b1151dbf2399cb63e0866.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/c0/b9/c0b9f9f6fa52c57952a1a3e34286e94b.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">19</h1>
+
+                    <h1>Film: <a href="/on/film/1356">Eolomea (1972)</a></h1>
+
+                    <h2>19 Apr 2014, 7:30 p.m.</h2>
+
+                    <p>Demanding you pay attention is a small price to pay for this carefully constructed, cerebral story, with production values that match anything the west produced at the time bar "2001" and a great international cast&hellip;FREE to members</p>
+
+                    <p class="viewlink"><a href="/on/film/1356">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0414"
+                         data-href="/on/film/1357">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/85/42/8542689a3b2e8961c7ca37fd38fd5153.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/96/95/9695868d0703cf7b17f4fa6f52543de5.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/1357">The Silent Star (1960)</a></h1>
+
+                    <h2>20 Apr 2014, 4 p.m.</h2>
+
+                    <p>A
+mysterious magnetic spool found during a construction project is
+discovered to have originated from Venus. A rocket expedition to
+Venus is launched to discover the origin of the spool and the race
+that created it&hellip;FREE to members</p>
+
+                    <p class="viewlink"><a href="/on/film/1357">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0414"
+                         data-href="/on/film/1358">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f8/6e/f86e191ae31119f8d4613dc1902f7ad4.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2b/46/2b4680aeae171784243bb34161f9670c.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">20</h1>
+
+                    <h1>Film: <a href="/on/film/1358">Planet Of Storms (1962)</a></h1>
+
+                    <h2>20 Apr 2014, 6 p.m.</h2>
+
+                    <p>Cosmonauts
+land on the planet Venus. However, they find themselves in danger
+from the voracious monsters they find on it&hellip;this is a great slice of unlikely hokum, dubious science mixed with improbable fiction and one of cinemas most brilliant rubbish robots&hellip;FREE to members</p>
+
+                    <p class="viewlink"><a href="/on/film/1358">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0414"
+                         data-href="/on/film/1354">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/90/2c/902c8d27d46db8abf62010f7943d4267.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2f/49/2f492c42a521f3ae61e6e5b00fae3dd4.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">21</h1>
+
+                    <h1>Film: <a href="/on/film/1354">Ikarie Xb1 (1963) + Psi-Fu (2014)</a></h1>
+
+                    <h2>21 Apr 2014, 7:30 p.m.</h2>
+
+                    <p> 
+
+
+	
+	
+	
+	Truly excellent
+production value is achieved here to match the psychologically
+complex Stanislav Lem source material, it is easy to believe the
+legend that Stanley Kubrick was inspired by this production to pursue
+his quest for the mythical "good sci-fi movie"&hellip;plus "Psi-Fu" exclusive short film premiere and after-party
+
+</p>
+
+                    <p class="viewlink"><a href="/on/film/1354">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0514"
+                         data-href="/on/film/1359">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/44/20/4420ce62dc1f5d0a3803a0516bb943ff.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/61/85/618552f34e0b2063f1fc1f808dd82321.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">01</h1>
+
+                    <h1>Film: <a href="/on/film/1359">A Bucket Of Blood (1959)</a></h1>
+
+                    <h2>1 May 2014, 10 p.m.</h2>
+
+                    <p> Down-trodden busboy Walter Paisley
+(Dick Miller) is desperate to be accepted by the cool beatnik cafe
+crowd, he achieves his goal via the accidental stabbing of his
+landladies cat but maintaining his position within the pretentious
+art community leads to murder in probably the
+worlds first black-comedy-horror.</p>
+
+                    <p class="viewlink"><a href="/on/film/1359">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0514"
+                         data-href="/on/film/1360">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/df/82/df821437fc17ae9c14b257bc4aba6155.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/e3/61/e361bae1217dab6f4c36796398681983.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">02</h1>
+
+                    <h1>Film: <a href="/on/film/1360">Little Shop Of Horrors (1960)</a></h1>
+
+                    <h2>2 May 2014, 10 p.m.</h2>
+
+                    <p>Featuring a catalogue of Corman regulars delivering their best work, particularly Jonathon Haze as anti-hero
+florist Seymour Krelboin, Mel Welles as the owner and Dick Miller as a customer who eats the plants, though the real star turn goes to
+a psychotically edgy Jack Nicholson as the masochistic undertaker
+Wilbur Force. Funny and ridiculous in equal measure, the very
+definition of a cult classic.</p>
+
+                    <p class="viewlink"><a href="/on/film/1360">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0514"
+                         data-href="/on/film/1361">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/62/26/6226d5268dbdc726cde455b7f90f3842.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/cc/0a/cc0a6439d421610dacfb0b11aa16ad05.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">04</h1>
+
+                    <h1>Film: <a href="/on/film/1361">The Intruder (1962)</a></h1>
+
+                    <h2>4 May 2014, 4 p.m.</h2>
+
+                    <p>The
+only film which lost him money is also one of Corman's very best.
+Tackling topical social issues, this drama was years ahead of it's
+time, portraying a white supremacist heading south to stir up racial
+conflict. Featuring a youthful William Shatner in his first ever
+leading role and probably his best ever screen performance. </p>
+
+                    <p class="viewlink"><a href="/on/film/1361">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0514"
+                         data-href="/on/film/1362">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/82/46/8246009fb1c83e661d3691a0808a48d0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/0f/6b/0f6bb79e73db0f38a0196db528384bec.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">04</h1>
+
+                    <h1>Film: <a href="/on/film/1362">Last Woman On Earth/Creature From The Haunted Sea (1960) Double Bill</a></h1>
+
+                    <h2>4 May 2014, 9:30 p.m.</h2>
+
+                    <p>    Still being written on
+location by Robert Towne,
+the ever
+frugal Corman insisted on him also acting, also starring Tony Garbone and Betsy
+Jones-Moreland in this under-rated post apocalyptic tropical drama. Followed by a wise-cracking comedy starring the same lead trio and one of cinema's greatest comedy monsters complete
+with actual ping-pong eye balls.</p>
+
+                    <p class="viewlink"><a href="/on/film/1362">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0514"
+                         data-href="/on/film/1363">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/96/58/9658a0defe271b63ec96685193f5aa93.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/2d/69/2d69749fff949dcb848128e3454cbb3e.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">05</h1>
+
+                    <h1>Film: <a href="/on/film/1363">Psi-Fu Dunt (2014) + Roger Corman Bonus Feature</a></h1>
+
+                    <h2>5 May 2014, 7:30 p.m.</h2>
+
+                    <p>WEEKENDER/EXpac "film in a weekend" premiere.  Plus a
+secret surprise support feature&hellip;a genuinely creepy, well paced, atmospheric sci-fi drama, with a strong
+central performance.</p>
+
+                    <p class="viewlink"><a href="/on/film/1363">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0514"
+                         data-href="/on/film/1370">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/4e/40/4e40c6e323f9af7b701d96e587ae0e29.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3f/88/3f88f1c2838f9ad4a36ef5964b396d48.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">22</h1>
+
+                    <h1>Film: <a href="/on/film/1370">Spider Baby Or, The Maddest Story Ever Told (1968) </a></h1>
+
+                    <h2>22 May 2014, 10 p.m.</h2>
+
+                    <p>Lurking
+in a dilapidated mansion and suffering a regressive mental
+deterioration live the last generation of the inbred Merrye family.
+While the old family retainer struggles to care for the degenerate
+siblings greedy distant relatives descend with lawyers to dispossess
+them.</p>
+
+                    <p class="viewlink"><a href="/on/film/1370">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0514"
+                         data-href="/on/film/1372">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/30/77/30772f376dc930c51ee4d595b09cc0b6.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/a5/55/a55569cb9a811854704b6caf9eddd30f.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">23</h1>
+
+                    <h1>Film: <a href="/on/film/1372">The Brother From Another Planet (1984)</a></h1>
+
+                    <h2>23 May 2014, 7:30 p.m.</h2>
+
+                    <p>When
+an alien crash lands in New York he is able to blend in as he looks
+remarkably like a human of African descent. He finds a niche fixing
+electrical items in Harlem but his peace is disturbed when two bounty
+hunters from his home planet arrive.</p>
+
+                    <p class="viewlink"><a href="/on/film/1372">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0514"
+                         data-href="/on/film/1371">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/3c/cb/3ccb0799a4b618a62975d1cd17f77117.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/61/6d/616d806bb1cb9bd25433b736f5ceafd5.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">23</h1>
+
+                    <h1>Film: <a href="/on/film/1371">Dementia 13 (1963)</a></h1>
+
+                    <h2>23 May 2014, 10 p.m.</h2>
+
+                    <p>    Shot
+in Ireland by
+one time production assistant and
+first-time unknown director Coppola with a crew going spare after
+wrapping a Formula One movie across the European racing circuit.
+This
+odd, Hitchcockian, psychological thriller shows some of the promise
+later fulfilled in a string of classic films that need no
+introduction.</p>
+
+                    <p class="viewlink"><a href="/on/film/1371">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0514"
+                         data-href="/on/film/1373">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/ec/80/ec80fbac41fa3eacc938413202e6e706.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3c/4c/3c4c2c476a107593b68643e2d796f7a2.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">25</h1>
+
+                    <h1>Film: <a href="/on/film/1373">Night Tide (1963)</a></h1>
+
+                    <h2>25 May 2014, 4 p.m.</h2>
+
+                    <p>First
+time lead Dennis Hopper plays the awkward hero in this strange tale
+of falling in love with a beautiful sideshow performer, but is she
+just a fake freakshow mermaid, or is there more to this enigmatic
+legendary mythical creature?</p>
+
+                    <p class="viewlink"><a href="/on/film/1373">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0514"
+                         data-href="/on/film/1374">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/49/22/4922ab84d86bc27ee88707b8152ec95b.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/ab/7c/ab7ceb8915ebe6f05ae43ee3c032db88.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">26</h1>
+
+                    <h1>Film: <a href="/on/film/1374">Psi-Fu Trilemma (2014) + Super Secret Surprise Bonus Feature</a></h1>
+
+                    <h2>26 May 2014, 7:30 p.m.</h2>
+
+                    <p>written and shot entirely this weekend by the people that brought you "Psi-Fu" and "Psi-Fu II" last Bank Holiday&hellip;millions lay dead in the wake of MONAD's destruction, but can the three 
+remaining opposing forces ever hope to bring peace to a brutalised 
+galaxy?</p>
+
+                    <p class="viewlink"><a href="/on/film/1374">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

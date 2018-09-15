@@ -1,0 +1,321 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-524" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="524" data-apiobjecturl="/api/1/film/524/">
+    <meta itemprop="description" content="The Last Picture Show Peter Bogdanovich (1972  USA  118 min 35 min) Tim Buttons, Jeff Bridges
+" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/524"/>
+    <meta itemprop="duration" content="PT118M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The Last Picture Show</span><span class="year" itemprop="copyrightyear" content="1972" data-bind="attr:{content:year}, text: showYear()"> (1972)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/76/2b/762bdc683e9c33063a90b4473154bd3c.jpg" width="400" height="303" data-src="/static/img/events/the-last-picture-show1.jpg" data-width="517" data-height="391" data-toggle="modal" data-target="#img-picture-347" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-347">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/the-last-picture-show1.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/54" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">OFF THE HIGHWAY</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2010-01-28 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 28 January 2010</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="The Last Picture Show" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1972" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/76/2b/762bdc683e9c33063a90b4473154bd3c.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Peter Bogdanovitch</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Guideline 18</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT118M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">118</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">DVD</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang"></span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Enjoy a great script and great performances from a film nominated for a hatful of Academy Awards including Best Director, Best Picture and Best Writing. </strong></p>
+<p><strong>Warning: In 1973, largely because of the skinny-dipping party scene, the film was  banned in Phoenix, Arizona.</strong></p>
+<h2>IN-BETWEEN</h2>
+<p>The Last Picture Show is a movie that is characterised by in-between time.</p>
+<p>The  characters are between adolescence and adulthood, staying and going; the era stands between the end of the Second World war and the start of the Korean war, the town  Anarene stands between living and dieing, and Bogdanovitch himself stands between  a career as writer and that of film director.</p>
+<h2>DIRECTOR BOGDANOVITCH</h2>
+<p>This cusp of change might be what eventually drew Bogdanovitch to the project.  When he first read the book, of the same title by Larry Mc Murty, he turned it down.  But an  actor friend Sal Munro urged the project on him and Bogdanovitch’s wife Polly Platt produced a draft script from the text (she didn’t take a on screen credit).</p>
+<h2>ORSON WELLS</h2>
+<p>Orson  Welles, who was a good friend, was staying with Bogdanovitch and suggested the film  would work in black and white; so the project took shape. Welles seems to have hung  about the Hollywood indies at this time because when he made King of Marvin  Gardens, Bob Rafelson was paying Welles’ bill at the Exchelsior Hotel.</p>
+<p>So Welles  features as a kind of creative wraith passing through the movies of this era.   Just as Welles had done with Citizen Kane, Bogdanovich chose a largely unknown  cast peppered with some experienced character actors.</p>
+<h2>CYBILL (SHEPERD)</h2>
+<p>Cybill Shepherd was a model  who Bogdanovich spotted on the cover of an issue of Glamour magazine (probably  June 1970). Bert Schneider, the producer, found a screen test Shepherd had done  with Roger Vadim about a year before in which she was playing scenes from Cat  on a Hot Tin Roof with no sound, and dancing silently to the Rolling Stones song  Brown Sugar. After filming had finished Bogdanovich admitted to Shepherd that the  only time he ever doubted his decision was when he saw her in that screen test.</p>
+<h2>TIMOTHY BOTTOMS</h2>
+<p>Bogdanovich liked Timothy Bottoms for his sad eyes, and recalls that Bottoms was  being highly touted at the time by his agent who said he had the lead in a Dalton  Trumbo movie Johnny Got His Gun (1971).  Timothy Bottoms did indeed have the  lead in Johnny Got His Gun, a part in which he played a quadriplegic and terribly  mutilated World War I soldier who could not see, hear, move or speak.</p>
+<h2>JEFF BRIDGES</h2>
+<p>Bridges  got the part of Duane Jackson because in the book he is not a particularly likeable  character, and Bogdanovich thought that Bridges' naturally fun personality would  give the character extra depth and warmth, and make him less disagreeable.</p>
+<h2>PLOT? POP</h2>
+<p>If you want to know the plot of this great movie, you should all just come down and  see it.  It’s one the all time great high school movies, and one of the first movies to  have a pop only soundtrack (includes: Blue Velvet, You Belong to Me, and Slow Poke!)</p>
+</div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/54">OFF THE HIGHWAY</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0110"
+                         data-href="/on/film/465">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/74/1b/741b9393213459e35e8193686c769726.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/33/41/33415e4c5fa74cc108c8d95689c36b32.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">21</h1>
+
+                    <h1>Film: <a href="/on/film/465">Wanda + Dicussion! (1970)</a></h1>
+
+                    <h2>21 Jan 2010, 7:30 p.m.</h2>
+
+                    <p>Wanda    Barbara Loden (US 1970 100 mins)  DVD  Barabara Loden Michael Higgins
+</p>
+
+                    <p class="viewlink"><a href="/on/film/465">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0110"
+                         data-href="/on/film/466">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/22/a9/22a9f10f542a894f09c8386923722819.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/fc/f0/fcf00bd2d9927e1e31aaf7ca5ebcdd76.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">24</h1>
+
+                    <h1>Film: <a href="/on/film/466"> The King Of Marvin Gardens (1972)</a></h1>
+
+                    <h2>24 Jan 2010, 7:30 p.m.</h2>
+
+                    <p>Jack Nicholson’s greatest performance.
+</p>
+
+                    <p class="viewlink"><a href="/on/film/466">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0110"
+                         data-href="/on/film/525">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/ca/9a/ca9a8ff69b8662d27efe1968edf118c0.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/c0/2f/c02fe54326b19da92cc836dda99deb5a.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">31</h1>
+
+                    <h1>Film: <a href="/on/film/525">Boys Don&#39;t Cry (1999)</a></h1>
+
+                    <h2>31 Jan 2010, 7:30 p.m.</h2>
+
+                    <p>Transgender, disturbing, great oscar winner.
+</p>
+
+                    <p class="viewlink"><a href="/on/film/525">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

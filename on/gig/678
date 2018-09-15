@@ -1,0 +1,183 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="gig-678" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Gig" data-modelid="678" data-apiobjecturl="/api/1/gig/678/">
+    <meta itemprop="description" content="Waheela and Inverted Grim-Mill Recordings have joined forces to bring you GNAW 4 -  and its last year at the Star and Shadow in its current location, so no expense has been spared to bring you the best GNAW yet. 
+" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/gig/678"/>
+    <meta itemprop="duration" content="" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Gnaw Festival</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg" width="400" height="400" data-src="/static/img/events/filler.png" data-width="400" data-height="400" data-toggle="modal" data-target="#img-picture-789" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-789">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/filler.png" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2014-11-22 18:00:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">6:00 p.m. Saturday 22</time> to <time class="endDateTime" itemprop="endDate" datetime="2014-11-23 01:00:00+00:00" data-bind="attr:{datetime:endDateTime()},text:displayEnd()">1:00 a.m. Sunday 23 November 2014</time></h3>
+
+    <meta itemprop="image" content="/media/cache/55/c3/55c3b98863eb12bb833799dd6613a3c0.jpg">
+
+    <div class="bodysection">
+        <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><span>Waheela and </span><a href="https://www.facebook.com/invertedgrimmillrecordings">Inverted Grim-Mill Recordings</a><span> have joined forces to bring you GNAW 4. The Great Northern Amplifier Worship is in its fourth year and its last year at the Star and Shadow in its current location, so no expense has been spared to bring you the best GNAW yet. Six incredible artists, one phenomenal DJ and the best venue in Newcastle. GNAW 4 is here!</span><a href="https://www.facebook.com/thewoundedkings">The Wounded Kings</a><span>The Wounded Kings is a doom metal band from Dartmoor, England formed in 2005. They uphold Britain’s occult heritage and aim to produce a unique blend of spectral doom and psychedelic horror with a desolate end of the world vibe filled with suffocating heaviness. Hallmarks are eerie choirs, pianos and the use of space within the slow and</span><span>&hellip;</span><span> mind-bending riffs.</span><span><a href="http://candlelightrecordsusa.bandcamp.com/album/consolamentum">http://candlelightrecordsusa.bandcamp.com/album/consolamentum</a></span><span><a href="https://www.facebook.com/sunwolfuk">Sunwølf</a></span><span>Hailing from Leeds, Sunwølf create some of the most atmospheric and slow burning instrumental heaviness that you are likely to hear. Supporting a range of artists from Ufomammut, Chelsea Wolfe to Forest Swords, they have built a formidable reputation as one of the most versatile and engaging bands in the post-rock/metal style. Although taking a break from live shows to focus on new material, Sunwølf are making a very special effort to appear at GNAW 4. Catch them while you can.</span><span><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsunwolfuk.bandcamp.com%2F&amp;h=IAQHlrqCP&amp;enc=AZPzVR1ngJi3MbrYUf8wdIB9EMRbLithV-gkGGg7PlmGyM5uMa4PeSV2HsvEHfKlgyM&amp;s=1">http://sunwolfuk.bandcamp.com/</a></span><span><a href="https://www.facebook.com/AtragonDoom">Atragon</a></span><span>Formed in the cold, harsh winter of 2012 over a common disdain for mankind, Atragon worship at the altar of the riff. They desire only to bring about your doom through the powers of distortion, tube amplification &amp; heathen ritual.</span><span><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fatragon.bandcamp.com%2F&amp;h=VAQGsZQd8&amp;enc=AZNCVQKmKkN2tbIGBOunitnGurV-KKl-yCDTljqdj1UteRIp696YSo5GWKvP_WK-RQo&amp;s=1">http://atragon.bandcamp.com/</a></span><span><a href="https://www.facebook.com/voedoom">Voe</a></span><span>Glasgow-based Voe are a monstrous entity of crushingly heavy sound. Citing the likes of Neurosis, Cult of Luna, Isis and Sunn O))) as some of their influences, Voe combine a number of styles in order to deliver a very unique style of heaviness. This is only their second show in Newcastle but ask anyone who caught them on their first and they will tell you just much they are not to be missed.</span><span><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fvoedoom.bandcamp.com%2F&amp;h=zAQH2dEV5&amp;enc=AZMOHc7u3WeUVeo2PVvdP8p-Q9qHDYu_9KUyEFKyucrRmI0vCobDfBJ0q3iPgR8HboY&amp;s=1">http://voedoom.bandcamp.com/</a></span><span><a href="https://www.facebook.com/nathaliesternmusic">Nathalie Stern</a></span><span>After a two year break from performing live, Nathalie Stern recently returned with a much darker sound. Layering up choral vocals and synth drones to create a ritualistic trance.</span><span><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fnathalie_stern%2Freasoning&amp;h=uAQFpsVke&amp;enc=AZPglUdCWMMxOPoWs6vFGRyqXl7MiFf7njLNn7JS84xm_lVgMII5D8-3nyXcCej5loU&amp;s=1">https://soundcloud.com/nathalie_stern/reasoning</a></span><span><a href="https://www.facebook.com/pages/Waheela-whla/230754810345269">Waheela (whla)</a></span><span>Formed in 2009, Waheela have been pushing the boundaries of heavy experimental music for five years. Entirely improvised, they draw on a range of influences from noise, metal, blues, krautrock and psychedelia, all of which have made them difficult to define. Their music is very loud and very intense…a great way to begin GNAW 4!</span><span><a href="http://cruelnaturerecordings.bandcamp.com/album/hx-pop">http://cruelnaturerecordings.bandcamp.com/album/hx-pop</a></span><span>+ DJ Callan on the decks playing his always impeccable selection of records!</span><span>Saturday 22nd of November 2014</span><span>Star and Shadow Cinema</span><span>Newcastle Upon Tyne</span><span>Doors 6pm</span><span>First band 6.30pm (sharp)</span><span>£8 advance ticket (plus booking fees) // £10 on the door</span><span><a href="http://www.wegottickets.com/event/288650">http://www.wegottickets.com/event/288650</a></span></p></div>
+    </div>
+
+    <div itemprop="subEvents" itemscope itemtype="http://schema.org/Event" data-bind="visible:websiteVisible">    <meta itemprop="name" content="Gnaw Festival">    <p><a itemprop="url" data-bind="attr:{href:website},text:website" href=""></a></p></div>
+
+    </div>
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,318 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-774" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="774" data-apiobjecturl="/api/1/film/774/">
+    <meta itemprop="description" content="Deaf mute "Ryu" loses the job he relied on to pay for his invalid sisters medical bills.  " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/774"/>
+    <meta itemprop="duration" content="PT122M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">SYMPATHY FOR MR VENGEANCE</span><span class="year" itemprop="copyrightyear" content="2002" data-bind="attr:{content:year}, text: showYear()"> (2002)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/b1/14/b11407b3ac3a8e91ca9e8ff7811781c9.jpg" width="400" height="266" data-src="/static/img/events/vengeance.jpg" data-width="430" data-height="286" data-toggle="modal" data-target="#img-picture-489" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-489">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/vengeance.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/96" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">XTREME ASIA</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2011-05-29 19:30:00+01:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Sunday 29 May 2011</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="SYMPATHY FOR MR VENGEANCE" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="2002" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/b1/14/b11407b3ac3a8e91ca9e8ff7811781c9.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Park Chan-Wook</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Guideline 18</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT122M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">122 mins</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">DVD</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">English</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body"><p><strong>Amazingly, if true, Park bashed out the script in a day, adding to its raw, edgy atmosphere. This is pioneering stuff, and a true showcase for modern Korean filmmaking.</strong></p>
+<p><strong></strong></p>
+<p><strong>
+</strong></p><h2><strong></strong><strong>ABOUT</strong></h2><strong>
+</strong>
+<p>Park’s third movie on the theme of retribution moves at a gentle, considered pace, much like the best-served-cold revenge that is dealt out in this stunning thriller.</p>
+<p><strong>PLOT</strong> </p>
+<p>Ryu (Ha Kyun Shin) is a devoted brother to his terminally-ill sister. She needs an operation to survive, but the medical bill is way too high to afford. In a scheme born out of desperation, Ryu kidnaps a young girl – the daughter of his wealthy boss Park - and holds her to ransom. But plans like this rarely work out, and when the innocent young hostage dies, her father sets out to take an unstoppable revenge.</p>
+<p><strong>IMPROVISATION</strong></p>
+<p>Chan-Wook Park was given the unusual honour of a total carte blanche with this movie, and it’s possibly his most personal because of it. His insistence on full-contact blows left the players bruised and often in tears, and several scenes were largely improvised, giving the whole movie a verite feel as yet unmatched in Asian cinema.</p>
+<p><strong>TRILOGY</strong></p>
+<p>This film is the first part of <em>The Vengeance Trilogy </em>and is succeeded by <em>Oldboy </em>(2003) and <em>Sympathy for Lady Vengeance </em>(2005).</p>
+<p><strong>WHAT PARK CHAN-WOOK SAYS ABOUT HIS FILM</strong></p>
+<p>"It would be more accurate to see my films as ones stressing morality, with guilty consciences as the core subject matter.</p>
+<p>The constantly recurring theme is the guilty conscience. Because they are always conscious of and obsessed with their wrongdoings, which are committed because they are inherently unavoidable in life, my characters are fundamentally good people. The fact that people have to resort to another type of violence in order to subjugate their initial guilty consciences is the most basic quality of tragedy characteristic in my movies thus far."</p>
+<p> <img height="226" src="/static/img/import/MrVengeance.jpg?origsrc=http://www.jahsonic.com/MrVengeance.jpg" width="397" /></p>
+<h2><strong>REVIEWS</strong></h2>
+
+<p>"This deeply twisted and bizarre movie from South Korea comes close to the spirit of Jacobean revenge tragedy, with its extravagant violence, its sentimental sibling relationship, brooding malcontentism and flair for piercing images of horror." - THE GUARDIAN</p>
+<p>"Brutally nihilistic, this is one of the best Korean films to have hit these shores in a very long time." - BBC</p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/96">XTREME ASIA</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0511"
+                         data-href="/on/film/771">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/a0/b3/a0b3dc7fe00cc6c233b0d0aea0697fd7.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/f4/9a/f49ab4c3ac7e9bbc8692d606f3cdff52.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">19</h1>
+
+                    <h1>Film: <a href="/on/film/771">Audition (1999)</a></h1>
+
+                    <h2>19 May 2011, 7:30 p.m.</h2>
+
+                    <p>Widowed film producer 'Aoyama' holds mock auditions in search of a new wife.  </p>
+
+                    <p class="viewlink"><a href="/on/film/771">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0511"
+                         data-href="/on/film/772">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/15/7e/157e49f87a53c4f9008a7f26de203cca.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/c3/0c/c30c4ad3dc23dfe3a7d18b19cbcb633c.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">22</h1>
+
+                    <h1>Film: <a href="/on/film/772">Battle Royale (2000)</a></h1>
+
+                    <h2>22 May 2011, 7:30 p.m.</h2>
+
+                    <p>Japan - the near future - economic and social chaos - The government is forced to take Xtreme measures&hellip;</p>
+
+                    <p class="viewlink"><a href="/on/film/772">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0511"
+                         data-href="/on/film/773">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/18/82/1882fb6dac969ba1a9c0403a77ddff5b.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/ce/6f/ce6fe7106d73205270fc2d60a95cea71.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">26</h1>
+
+                    <h1>Film: <a href="/on/film/773">Old Boy (2003)</a></h1>
+
+                    <h2>26 May 2011, 7:30 p.m.</h2>
+
+                    <p>Drunken salaryman "ON Dae-Su is "Disappeared for 15 years in a private jail made up to look like a shabby hotel room.  </p>
+
+                    <p class="viewlink"><a href="/on/film/773">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>
