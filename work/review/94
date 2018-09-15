@@ -1,0 +1,170 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-94" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="94" data-apiobjecturl="/api/1/document/94/">
+    <meta itemprop="description" content="In the Best Interests of the Child. Film review by Tom Jennings, published in Freedom, Vol. 69, No. 12, July 2008." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/94"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Gone, Baby, Gone, dir. Ben Affleck (2007)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Tom Jennings</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2008-08-19</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">In the Best Interests of the Child. Film review by Tom Jennings, published in Freedom, Vol. 69, No. 12, July 2008.<p><b>Tom Jennings is relieved that Ben Affleck’s first film as director, the thought-provoking </b><i><b>Gone, Baby, Gone</b></i><b>, avoids the ham sentimentality of much of his acting</b></p><p>Its UK release delayed in sensitivity to the Madeleine McCann case, <i>Gone, Baby, Gone</i>’s child abduction scenario bears scant resemblance but probably boosted box-office by association. Here, news-team vultures descend on Dorchester, South Boston, Massachussetts, as single-mother Helene McCready (a magnificent Amy Ryan) laments her disappeared four-year-old, Amanda, shepherded by steely-eyed police and neighbours and family rallying supportively. Director Ben Affleck and the story’s creator Dennis Lehane hail from these parts, while protagonist PIs Patrick Kenzie (Casey Affleck) and Angie Gennaro (Michelle Monaghan) have lived there all their lives. Passionate attachment to the ’hood is reflected in the latters’ conduct and the camera’s naturalistic pans around inner-city blight, alighting on variously battered and beleaguered, resigned and/or residually energetic residents – many also cast in minor caricatures complementing consistently fine acting by star-turns.</p><p>Despite high-minded pronouncements by cop supremo Doyle – who lost his own child to kidnappers – and ace detective Bressant (Morgan Freeman and Ed Harris lending grizzled gravitas to proceedings), official inquiries falter. Specialist skip-tracers tracking down debtors and errant spouses, the reluctant Kenzie and Gennaro are hired by Amanda’s aunt. Local confidence in their discretion immediately yields clues – the involvement of notorious gangster Cheese and missing drug-money; Helene’s substance-abuse and corresponding suspicious unreliability; her boyfriend’s sudden violent death clinching the link. No longer patronised by the police for naïve amateurism, the investigators uncover the cash and broker its exchange for the girl at a remote flooded quarry – but she’s believed drowned when the botch-up leaves Cheese shot dead. Doyle is sacked for tragic incompetence and retires to the sticks; everyone sees closure achieved. Only Kenzie’s not so sure, and a subsequent spiralling descent into the violent degradations of paedophilia and addiction eventually reveal depths of duplicity at all levels even he’d never dreamed.</p><p>These last unlikely plot twists serve to undermine our assumptions as cultivated so far – and Kenzie and Gennaro’s, leaving them disagreeing over a final dilemma so fundamental as to terminate their professional and romantic relationship. Nevertheless, ultimate judgements and justifications concerning rights, wrongs and likely consequences remain suspended. Not only are heroic rescue, reassuring redemption, and cautionary tragedy refused, but the conservative grounds upon which viewers might expect such outcomes – from banal Hollywood crime-action pulp to the parallel (but no less fantasy-ridden) morbid tabloid shock-horror over current affairs – are comprehensively undercut. Such disquieting limbo was obviously deliberate, and scriptwriting decisions altering and cutting the source novel wholesale pass the buck to us even more starkly. This is the film’s unusual strength, but discussing its effectiveness necessitates spoiling the suspense – so anyone not wishing to know the score should look away now &hellip;</p><p><b>In The Best Interests of the Child</b></p><p>Unbelievably enough, the entire saga constituted a conspiracy choreographed by Doyle in connivance with his lieutenants down to Helene’s disapproving relatives, with varying material, malicious and purportedly altruistic interests and moral righteousnesses interweaving, spiriting the lass to ‘safety’ while her mam drank in the bar. The ensuing host of casualties, whether dead or bereft – unmourned criminals, Bessant and his partner, written-off lower-class dupes – were blithely sacrificed, pawns for the patriarch’s peace of mind retiring from burdensome power. Out the window also went all pretensions of institutional credibility as, crucially (and, predictably, eluding the critics), the scheme’s success hinged on accepting at face value the normal scripts, cliches and homilies of governance, public welfare and basic decency among higher- and lower-order model citizens obeying the law. Nonetheless – although the film sadly loses Lehane’s meticulous characterisations (particularly of Kenzie and Gennaro) and dialogue conveying the full convincing texture of attitudes in action – viewers were given several hints among the red herrings that things weren’t as they seemed.</p><p>Two especially stand out. Encouraged to perceive Helene harshly through circumstantial implication and the harsh glare of unforgiving attention, we never once glimpse her actual everyday relationship with her daughter. Comversely, Doyle’s parental fitness is unchallenged, despite his known trauma and willingness to wreck lives to heal it. Who is the child, to him, beyond a substitute salving private pain? Do his influence and affluence – displaced from urban hell to rustic idyll – guarantee saintly credentials in arrogating to himself godlike choice? Then shouldn’t all the suffering children be saved from the vicious agony of the ghetto and the evils impoverishment produces? Even if the manner of its accomplishment adds to the oppression and injustice nourishing desperation in the first place, simultaneously precluding youthful renewal? While, irrespective of increments of positivity which might (arguably) transpire, serving the selfish desires of those in positions to exploit the system to advantage? &hellip; Anything for a happy ending?</p><p>No. The relentless message from media and politicians is to abandon the irredeemable poor, demonising any deviation from passively respectable defeatism. The innocent purity to be protected here, then, is the lingering quasi-religious illusion that things might turn out right by trusting the benevolence of those in charge and believing their rationalisations. Whereas, surely, if a single soul spared is the best to hope for, this betrays an utmost cynicism – the complete collapse of legitimacy of the status quo to match its guardians’ insincerity. But Kenzie won’t give up on his people (or himself), following simple ethics, fulfilling his promise – returning Amanda to her mother – when others see Greater Good colluding with thoroughgoing corruption in a broken society. Even he suspects he chose wrong, in the final babysitting scene mournfully contemplating prospects, Helene again out on the razzle. Yet with no individual correct answer to a collective quandary, maintaining honesty and integrity and nourishing it around you may represent a pragmatic faith preferable to fairytale wish-fulfilment making token exceptions to busted-flush rules. Credit is due to <i>Gone, Baby, Gone</i> for going against the grain, rendering such thorny issues even conceivable on mainstream screens.</p><p><i>Gone, Baby, Gone</i> is released on DVD in September.</p><p><b>www.variant.org.uk</b></p><p><a href="http://www.freedompress.org.uk/"><b>www.freedompress.org.uk</b></a></p><p><a href="http://www.tomjennings.pwp.blueyonder.co.uk/"><b>www.tomjennings.pwp.blueyonder.co.uk</b></a></p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,187 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-307" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="307" data-apiobjecturl="/api/1/document/307/">
+    <meta itemprop="description" content="Retrocrit: Sliding into this watery domain did you get wet...?" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/307"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Stalker - Adrei Tarkovsky - (Ussr 1979) - Alexander Kaidanovski, Alisa Freindlich</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2012-03-09</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><div>
+<p>The only response to Stalker, as to most of Tarkovsky's (T) work is in a subjectivity.</p>
+<p>What T achieves in Stalker is to create the filmic conditions where it is the viewer who moves, who is on the journey into the zone.  In one sense the viewer is the star of the film.  The defining features of Stalker: the length of its shots and shot composition, the tracking shots either over the shoulder or composed through the detritus of the zone create spacio temporal conditions for the audience to have to  define and understand what is going on for them and in which world of meaning they locate their voyage.</p>
+<p>The film is constructed to work dynamically with the viewer.  The viewer is the affect.  To view is to engage. It is only possible to view Stalker if you are able to attune consciousness to the visual and temporal stimulae expressed in the film.   Stalker is about state of mind:  your state of mind.  Dream - allegory - hallucination.</p>
+<p>Stalker creates possible worlds with which we have to engage and enter.  If we can't we either leave or the movie will leave us.  The world is built up on a few simple precepts, like the rules of a simple game.  There is a forbidden area called the zone; in the zone is a room which if you enter you will be granted what you desire.  You need the stalker to enter and then to traverse the zone which is not unchanging in form, but can change in response to human presence.  Only the Stalker knows how to navigate and get to the room.  These elements are rich enough to sustain and enrich a number of different orders of allegorical readings and priorities.</p>
+<p>In Stalker the eponymous guide (Tarkovsky?) takes a writer and a scientist into the zone.   My reading of the film is that he is actually leading us: the writer and the scientist are simply useful foils.  There are incidents: the entry into the zone, a forgotten rucksack, telephone communication with the outside world, and a plan, abandoned by the scientist to blow up the room which leads to a fight between him and the stalker.  But mostly it is the viewer the introjected actors who has to sensitise themselves to the expressive unravelling of T's world in the zone.</p>
+<p>The zone presents as a blasted space. Though it has colour as opposed to the opening sections outside the zone, the colour has a threatening lurid aspect. The journey mostly takes place within the dilapidated ruins and tunnels of vast industrial spaces abandoned and toxic.  We travel slowly, listening to the Stalker's warning about the shifting nature of the topography, nothing necessarily stays the same.  A fluid environment responsive to moist nature of life.</p>
+<p>The characteristic natural sound is water: water is everywhere we hear it flowing falling and most of all disturbed and perturbed by the men.  A world of wetness where the boundaries are not mediated by definite form but by a liquid soluble  contiguousness.  A world where things merge rather than separate. A world mostly covered in a unifying aqueous layering.    A world where we too get wet, and slip into the primal condition of wetness.  A sort of toxic baptism.  And it feels wet.</p>
+<p>T's camera probes penetrates beneath the presented surface of the world probing desire. We pass through cosmological miracles of light and dark, snow rain and the disturbed surfaces. As the camera glides through the water a gold fish appears from nowhere, and we notice colours transmitted in details of objects as intense as any Russian icon.  A world that is poisoned yet still bears the imprints of an overwhelming aesthetic imperative.  The trace of faith amidst the dead environment.  The journey to the room has no end.  The Stalker does not want to enter the room, his desire is to navigate so presumably he has what he wants, an act of faith in travel through a destroyed world. The writer seeks renewal the scientist destruction.  Neither finds what they desire, neither as far as we know enters the room.</p>
+<p>The Stalker exhausted returns home lies down as if to die.  His wife testifies that he is a good man, a worthwhile man.  His daughter, crippled, invested with the telekinetic powers of the child, causes glasses to slide across a table.</p>
+<p>"&hellip;and he showed me a pure river of  water of life as clear as crystal and proceeding out of the throne of God&hellip;" - The Revelation of John the Devine</p>
+<p>As I progressed into Stalker the notion arose that I was being led into a sort of inverted twisted Book of Revelations.  A negative vision of Jerusalem cruelly stripped of God and the yearning for the kingdom of heaven.  The apocalypse had happened but it was man made not from the demiurge.  And what remains are our desires and they will not save us from ourselves.  The film invokes a subjectivity (for which it was forcefully attacked by Soviet critics) but for me points to the fact that subjectivities are of little use on the journey to understand ourselves.</p>
+
+<p>There is one metaphysical joke in Stalker. We are never certain that the group of seekers have ever lef the bar.</p>
+
+<p>Stalker was the last movie T made in the Soviet Union.  It is a fateful marker.  Time for T to leave the last days of the Soviet Empire and explore the psychic detritus of the West. There is also a school of thought that the filming of Stalker on location in Estonia in the polluted poisoned water of a Chemical plant caused the bronchial cancers that cost him and his wife, Larissa, their lives in 1986.   Another school of thought imagines him killed by the KGB.  On Tarkovsky's journey we are left with a multiplicity of allegorical worlds.</p>
+<p>adrin neatrour</p>
+<p><a href="mailto:adrinuk@yahoo.co.uk">adrinuk@yahoo.co.uk</a></p></div></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,313 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-336" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="336" data-apiobjecturl="/api/1/document/336/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/336"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Stoker Chan-wook Park (USA 2013) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrinneatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2013-03-19</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"> 
+
+
+	
+	
+	
+	
+
+
+<p>Stoker        Chan-wook Park (USA 2013)
+ Mia Wasikowska; Nicole Kidman; Matthew Goode</p>
+<p>Viewed Tyneside Cinema, Newcastle UK 
+1st March 2013;   Ticket: £8</p>
+<p>a kiss is just a kiss</p>
+<p>This piece of Gothic Amerikana is in
+one sense another revisiting of Park's  (P) favourite theme, incest.</p>
+<p>The incest theme was the mainspring of
+Old Boy and it is the psychic mainspring behind Stoker but for this
+film the incest idea has been transposed to the ut - (dys)- topia of
+suburban upper middle class USA.</p>
+<p>The film takes its psychic mainspring
+from the eponymous word in its title 'Stoker' Some one or something
+that builds up a fire,  feeds the flames.  So either India's
+hormonally charged sexual development that stokes the fire, or
+perhaps the obsessive nature of hypocritical family secrecy, the
+keeping of skeletons locked in cupboards, feeds the flames that burn
+through the scenario.</p>
+<p>Interestingly, the Stoker (der
+Heizer)is also the title of the first short story by Kafka and became
+the first chapter of his uncompleted novel 'America'.   At the core
+of the story is a grudge and the turning point of the story is a
+revealed quasi incestuous relationship between nephew and forgotten
+Uncle.  Although Kafka's short story is an imaginative journey, Kafka
+expresses an intimate understanding of his characters; whereas Park
+as director communicates detachment from his material.  As if his
+main point of contact with this cultural strand of American life has
+been watching the movies of Terrence Malick. 
+</p>
+<p>Like Hollywood in general and Malick in
+particular a careful avoidance of context (social occupational
+historical) is critical to the way that Stoker's coding deciphers the
+human relations in the scenarios.  There are no dates, no real
+occupations (there are offices locations of employment but these too
+are dislocated decontextualised. [nb the deceased Mr Stoker is
+supposed to have been an architect but the house does not look like
+an architects home]), no media.  Only hermetically sealed worlds in
+which the angels and demons of a shared post Spielberg moral
+consensus can be set in play.   We are looking at a deterritorialised
+characters.  They exist as oppositions in relation to each other:
+husband /wife, brother/sister, mother/son, but not as possibilities
+in relation to the world.  And it is in this world voided of the
+actual, that Park has chosen to direct Stoker.  The world as a bell
+jar.</p>
+<p>P's style of filming is very like the
+cinematography of Malick's movies.  The tracks have a similar slow
+floating enunciate style which functions as a cue, that something of
+significance is in train, whether or not this is the case.  The look
+of the S has that same hyper real HD luminance that is intended in
+Malicks's cinematography to imbue the shot with a symbolic shimmering
+resonance; the more banal the shot the more both Malick and Park work
+to give the images a liminal meaning to add lustre and link to
+narrative structures shaped more by cod psychology than real forces. 
+</p>
+<p>Hence perhaps, this piece of American
+gothic, like other films such as Ramsey's 'We need to talk about
+Kevin', is filled out with Americana weird. Little shots, bolted onto
+the shooting script to show us that the film has moved into 'weird'
+territory, so that we can expect weird  'stuff' to happen.  Stoker
+has it's insects (Bunuel inspired perhaps), the fetish object it
+makes of India's shoes, eggs, the metronome etc all which are
+supposed to imbue the scenario with psychic significance,
+psychological depth.  In effect this style of film,to avoid taking
+risks,  abuses symbolism as an cheap and easy means to express inner
+movement.  The reason I use the word abuse is that the symbolism used
+by Park here and Ramsey is plucked from a compendium of Freudian
+dreams, an c arbitrary or opportunistic plucking from the dictionary.
+The symbols and the symbolic images they generate are not won from
+context, grounded in the material and then understood as possessing a
+wider signification.  Like the shoes in S they are represented from
+the start of the film as being very significant.  They then become a
+little puzzle built into the film; why are these symbols significant?</p>
+<p> Like Malicks's script, P puffs out S
+with inscrutable philosophical phrases, lines spoken by the lead
+characters.  These have a fake Zen quality, perhaps because faux Zen
+is perfect grist to the Hollywood script mill.  Whereas insights that
+are hard won in the Zen tradition, in the Hollywood tradition they
+can be cheaply traduced as realisations,  exploited by Hollywood
+scenarists who need a fix of philosophy to bulk out their characters.
+ Malick tends to bulk out his characters' emptiness with little quips
+about the realisation of 'love', by way of bestowing meaning on the
+proceedings.  P and his script writer Miller, use the same ploy to
+insert proto Nietschian sentiments into the mouths of the characters
+from time to time.  So we have India telling that she is as she is
+because&hellip;' a flower doesn't chose its colour.'   Debatable what
+this means, but it is the basis for presenting the triumph of nature
+over nurture.  
+</p>
+<p>A kiss is just a kiss&hellip;?</p>
+<p>Like many film of this type it is
+ultimately rendered uninteresting by its intrinsic mechanicality.  A
+slasher vampire or zombie movie is enjoyable in its mechanistic
+working through of permutations of death.  But these movies generally
+avoid inventing formed characters to whom the viewer can assign
+markers of an assigned individuality.  Evelyn Stoker is such a
+character in Stoker, supposedly the widow of Richard (there is a case
+that Charlie and Richard are split personalities of the same man) and
+mother of India.   P lavishes his movie with an opening relationship
+between Evelyn and Charlie, but then the script reveals this
+relationship is really a cover for the hard on that Charlie in fact
+has for India.  We gaze upon this reciprocated revealed incestuous
+relationship, as does Evelyn who witnesses a deep French kiss between
+the niece and uncle (father?). When Charlie realises he has been seen
+with his tongue down India's throat, he tries to divert Evelyn into
+dropping her guard, by making an immediate play for her (before
+admittedly strangling her with his strap).  Now this play for Evelyn
+is led with his tongue, which he extrudes and is eagerly gobbled 
+down by Evelyn, who sinks to the ground under the passion of
+Charlie's hot kiss.  At this point we enter pantomime land, the never
+never land of the mechanicality of the film maker.  Charlie can drop
+Evelyn's knickers, pant on her, but he cannot kiss her on the mouth
+with his mouth still dripping with India's saliva.  The film dies
+back at this point.</p>
+<p>Park seems well out of his cultural
+depth with Stoker.  It is made with a eye to stringing together a
+series of arresting arbitrary images to make a piece of gothic
+americana that he does not really understand.  He did this sort of
+thing better in Korea where he understood better the transgressions
+and cultural parameters needed pull of this kind of movie. In the USA
+he only succeeds in making another weird deterritorialised movie.  
+</p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

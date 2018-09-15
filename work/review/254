@@ -1,0 +1,185 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-254" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="254" data-apiobjecturl="/api/1/document/254/">
+    <meta itemprop="description" content="Adrin Neatrour writes: retro crit - a psychic place for space to play" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/254"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The King of Marvin Gardens  Bob Rafelson (1972 USA)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin  Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2010-01-28</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p> The King of Marvin GardensBob Rafelson (1972 USA) Jack Nicholson, Bruce Dern, Ellen Burstyn,Julia Robinson</p>
+<p>Viewed Star and Shadow Cinema Newcastle 24 01 10;ticket price £4.00</p>
+
+<p><strong>Adrin Neatrour retro crit: no backgrounds only space</strong></p>
+<p>The King of Marvin Gardens (KMG) opens with a long heightened monologue delivered by David Sadler (Jack Nicholson ).It’s one of the pieces he broadcasts live on radio as a late night talk jock from a small sound booth; stories that borrow heavily from his past and his brother’s personal life.It forms the pre-title sequence that opens the film, and cues up the rest of the movie.It’s a key scene in a film in which Atlantic City provides the setting against which the characters act out the gestural processes of their relationships.</p>
+
+<p>KMG is an exceptional movie in that Bob Rafelson (BR) succeeds in making the setting of the film its prime expressive and active agency. Atlantic City shot and realised as an otherworldly dimension releases in the characters the seeds of their own fate as the forces of disintegration overtake Jason Sadler and his girlfriend Sally.David and Jessica are pulled into this entropic maelstrom, helpless collaborators in the theatrical endgame and incapable of playing any role other than true to type: she the goading competing female, he the mildly joshing critical audience and collector and keeper and spinner of the stories.</p>
+
+<p>In KMG there is no plot as such, or what plot there is simple drifts away on and off camera in a series of staccato and incomprehensible exchanges before finally dissolving into another chimeric phantasm.Instead of the processes of disintegration being stamped into the story line, they are instead scratched onto the topographical map that is Atlantic City.The beach the boardwalk the amusement park rides, the concession stands the exhibition centre the drifting bus tourday visitors the hotels with their private and public parts all become spaces and effects that incite and excite in the players increasing hallucinatory states of mind.The illusion of agency issuing from structure.But why not? Settings and architectures, palaces cathedrals White Houses and Skyscrapers can all create impossible subjectivities, psychic megalomanias and other instabilities in soul and vision.</p>
+
+<p>KMG doesn’t work by continuity in its action; rather it works by a series of set pieces</p>
+<p>that pitch the protagonists from one setting to another each with its own logic of execution that leaves each of the characters further adrift from each other and the anchorage of the real.Perhaps the main cop out from director/writer BR is his choice of an easy ending option with the gun. Perhaps he pandered to the Hollywood Preferred Ending of Climax, so that in the end the gun goes pop and the executives could go home knowing that<em> something</em><span> had happened.This particular climax in relation to the preceding development of the film wasn’t really necessary and imposed a simple reductionist solution on a complex situation. Perhaps this is the American way.</span></p>
+
+<p>KMG is underscored and made possible by very strong supportive acting, in particular from Nicholson as Davidwhoserepressed yet manipulative presence underpins the whole project.He’s only there for the story to be hoarded like gold and like gold easily workable and chased into many forms for many different functions.</p>
+<p>Adrin Neatrouradrinuk@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

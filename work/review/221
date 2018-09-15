@@ -1,0 +1,170 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-221" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="221" data-apiobjecturl="/api/1/document/221/">
+    <meta itemprop="description" content="adrin neatrour writes: With its bold use of close-ups and mounted camera to frame its subject it looks like McQueen has paid close attention to Carl Dreyer’s 1928 movie the Passion of Joan of Arc.  Hunger might well be titled The Passion of Bobby Sands, as flesh transmutes into spirit. " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/221"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Hunger – Steve McQueen (UK 2008)  Michael Fassbender</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2008-11-18</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Hunger – Steve McQueen (UK 2008)  Michael Fassbender; Stuart Graham, Rory MullenViewed Tyneside Cinema 4 Nov 08;  Ticket price £6.85Film morphs into installationSteve Mc Queen’s Hunger takes as its subject Bobby Sands (BS) IRA commander and prisoner, who elects to die on hunger strike rather than to bow his head to the will of the British political establishment. With its bold use of close-ups and mounted camera to frame its subject it looks like McQueen has paid close attention to Carl Dreyer’s 1928 movie the Passion of Joan of Arc.  Hunger might well be titled The Passion of Bobby Sands, as flesh transmutes into spirit.  This Passion is divided into three distinct parts each of which emphasises both an attribute: body mind spirit; and an outer form based on: opposition, dialogue, unity.  It is the first section of the film that takes on the structure of installation.  By this I mean that it resembles an assemblage of  elements which are  ingenuously offered to the gaze of the viewer to connect understand and interpret.  Also Hunger as installation creates for the viewer temporal space to absorb and understand what has been shown. Hunger uses time images such as the long shot of the screw in passing down the length of the block using a squeegee to clear up the pools of piss thrown out of the cells. The camera is still as the screw works his way down the length of the corridor into the eye of the camera.  We need real time, our own time to understand this shot. The installation section of Hunger is defined by a series of oppositions that define the visual and audio fields: clothed and naked, the flesh and the will, inside and outside, cleanliness and filth.  Hunger as an installation located in an infamous setting at a time now passed.  A film    set up in an H block of  a present now past  where the fittings fixtures and authentic props are  frozen forever and the corridors landing and cells are haunted by holograms and  soundtracks of the prisoners and screws locked into the eternal recurrence of their enmity.  Walk through Auschwitz.  Walk through Abughraib.  See. Listen. Walk thru. Walls imprinted with collective memory.The installation section is charged with the key idea that the Maze prison ( like so many prisons, what a strange yet appropriate name)  contains both the prisoners and the guards.  There is no escape from the confines of this gaol. When the screw exits the gates of the prison to go home he never escapes its shadow;  he is held ever closer in its thrall.  The Maze confines and contains always and everywhere.  It is defining in the same way as the Court Room in Rouen contained and defined Joan and her enemies and tormenters. In Hunger the prisoners and guards in this situation are bound together by ties of blood piss and shit, in unwanted inescapable intimacy.  The Maze isn’t metaphor. It’s  microcosm. It is the political situation in Northern Ireland  compressed to its unbearable essence.  Casual cruelty and cold murder. The body politic of intimidation denial and forceful suppression is faithfully replicated within the confined space of the prison onto the form of the human body.The body is at the centre of the opening section. The body as an instrument of the collective will of political power.  The body as an extension of the singular will of the individual, a protoNietschean statement of an overcoming. Hunger opens in the home of a screw with a series of big close ups as in the morning he washes his hands in the wash basin.  His grazed knuckles rinsed in the pellucid water.  The sequence proceeds through his breakfast and the shadow that falls over him as we see the security procedure he follows before getting into his car.  This opening sequence, with its series of close-ups comprising: tap wash basin plughole fried egg underside of car, set up a set of heightened oppositions against which we are able to understand the forces that are in play.  In the Maze the IRA prisoners are ‘on the blanket’ - naked.  They refuse to wear issued prison clothing and  demand the right to wear their own clothes.  Denied access to the toilets ( in order to slop out) by the screws (government) they exist in the putrid conditions of their own piss shit and bodily filth.   Their bodies are caught up in a system of constraints privations obligations and prohibitions which their will refuses to acknowledge.  In their nakedness, with their shit daubed on the cell walls, and their piss spilt  out into the corridor, they oppose the political will of Margaret Thatcher. As Bobby Sands notes in the diary he kept at the beginning of his hunger strike, “ All the power of the British Empire never broke the will of a single man.” In performance the body lies at the epicentre of volatile concerns, a signifying system that is a battle ground for competing ideologies.  Hunger works on the bodies of both parties in the Maze capturing them in their oppositional systems: the clean and the dirty, the shaved and the unshaven, the naked and the clothed, the beaters and the beaten, the alive and the dead, the inside and the outside.   The screws  break the bodies of the IRA; the IRA can kill in revenge culpable screws.  In Hunger Mc Queen testifies to the separation;  he also gives witness to the greater terrible unity of which both sides are also a part. The prison of Northern Ireland contains them all forever.The second section of the movie is a 17 minute long dialogue between Bobby Sands and a Catholic priest.  It seems to represent mind as BS and the priest verbally joust over the morality of BS’s intention to go on hunger strike.  Again there are echoes in this section of the verbal jousting between Joan and her interrogators in the interplay of subtlety and mental strength that characterises the exchanges.  The only section in the dialogue which I felt was suspect (others might not find it so) was the long story BS tells about an incident in his childhood which is intended to justify and explain his nature.  It falls into a long line of such stories told on screen ( and to lesser extent on stage) such as Brando’s Kurtz telling the  story in Apocalypse Now. BS story in this situation seemed formulaic, hence uninteresting. A sign the film was flagging.The last section – spirit – the culmination of the Hunger Passion, with its medical ritualisation and all white spiritual ‘production look’ is the culmination of the film. I think that this attempt to transpose the medical into the spiritual doesn’t work.  We have a series of images, all immaculately posed and framed with that ‘white look’ taking us through the stages of  BS’ death. The section never transcends or becomes anything more than a series of medical shots.   McQueen has not  found a language or an image that expresses the final stage of Sands’ Passion.  In the final part of  this section Hunger  abandons its premise of staying with the BS in the now, and filmically elects to take us on a fake trip, supposedly his final vision complete with natural sounds, back to an arcadian reconstruction of  Sands’ childhood (are we in the final section of 2001).  This finale fails to do justice to what has preceded it; it  feels like a cliché.   The final section of the Passion needed a huge coup of bold imagination to complete.  It probably might need to be short in duration and comprise of  very few shots, as was Dreyer’s manner in finishing his Passion of Joan of Arc.For all its perceived weaknesses, McQueen’s Hunger remains a film bold in concept that remains true to a governing filmic idea that is mostly executed with stunning confidence and filmic awareness.adrin neatrouradrinuk@yahoo.co.uk</p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

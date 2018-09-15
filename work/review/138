@@ -1,0 +1,172 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-138" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="138" data-apiobjecturl="/api/1/document/138/">
+    <meta itemprop="description" content="Closed Circuit Tunnel Vision, by Tom Jennings.
+Essay / film review of Red Road, dir. Andrea Arnold and the surveillance society, published in Variant magazine, No. 29, June 2007." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/138"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Red Road, dir. Andrea Arnold, and the surveillance society</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Tom Jennings</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-06-13</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Closed Circuit Tunnel Vision, by Tom Jennings.
+Essay / film review of Red Road, dir. Andrea Arnold and the surveillance society, published in Variant magazine, No. 29, June 2007.<h1><strong>Closed Circuit Tunnel Vision </strong> by Tom Jennings</h1><p class="MsoBodyText">[essay / film review of <i>Red Road</i>, dir. Andrea Arnold, and surveillance society, published in <i>Variant</i>, No. 29, June 2007]</p><p class="MsoPlainText"><b> </b></p><p>Concern over the use and abuse of information about their citizens gathered by governments has a long history, and the increasing sophistication of twentieth-century paraphernalia of surveillance matching the complexity of state and private institutions has proved fertile ground for a variety of artistic, philosophical and political purposes. The most prominent theme is the state’s proclivity for interfering in everyday life, purportedly in the public interest of social cohesion and stability but in practice for the benefit of those with power or money seeking more of the same. A distinctive cinema of paranoia crudely personalises and grossly oversimplifies such scenarios, including Fritz Lang’s <i>Dr Mabuse</i> films from the 1920s, Hitchcock’s <i>Rear Window</i> (1954), <i>1984</i> (dir. Michael Anderson, 1956), <i>Winter Kills</i> (William Richert, 1979), a <i>1984</i> remake (Michael Radford, 1984), <i>Enemy of the State</i> (Tony Scott, 1998), and now the tired bourgeois triumphalism of <i>The Lives of Others</i> (Florian Henckel von Donnersmarck, 2006). Recent experimental films such as <i>Unrequited Love</i> (Chris Petit, 2005) and <i>Hidden</i> (Michael Haneke, 2005) complicate the phenomenology of persecution to some extent, but naïve belief in the virtual omnipotence achieved by cumulative observation is still the rule – so that individual resistance to oppression can only seek out loopholes, weak points and blind spots in the blanket coverage of objective data.</p><p>                Given that independent and art cinema practitioners claim to deconstruct the voyeuristic fantasies masquerading as reality in the mainstream, it may seem surprising that the effectiveness of surveillance technology itself in delivering truth is rarely interrogated. Coppola’s <i>The Conversation</i> (1974) notably achieved this, albeit restricted to the conspiratorial recording of voices and professional, expert and elite agendas. However, fictional treatments have signally failed to imagine the wider social and cultural significance of either past or present developments. For example, the current proliferation of high-resolution cameras looming over urban areas across the UK may become progressively integrated with ID card systems and comprehensive national databases (probably also hawked around for corporate scrutiny and input), with comparably baleful large-scale projects having been planned, instituted or shelved in many developed countries. Worse, despite the saturation coverage already offered by one-fifth of the world’s CCTV units trained on us in this country, some local councils already fit ex-military employees with headset versions to roam dodgy areas – yet the loyal opposition to this creeping modern authoritarianism goes little further than queasily rehearsing outdated Orwellian pieties or lofty liberal abstrations concerning privacy.1</p><p>In this context, perhaps Andrea Arnold’s Glasgow-set suspense thriller <i>Red Road</i> won the Jury Prize at the Cannes Film Festival last year partly out of recognition of its nerve in attempting to transcend such clichés. It can’t have hurt that it is also an immensely impressive, ambitious, intelligent and idiosyncratic film, with a complex structure, taut pace, powerful script, convincing characterisations, evocative design, vivid photography, astute direction, and compelling performances. Originating in Lars von Trier’s post-Dogme Advance Party project – where Lone Scherfig and Anders Thomas Jensen (undeterred by the failure of a similar concept in Lucas Belvaux’s <i>Trilogy</i>) minimally outlined a set of characters to be played by the same actors in three low-budget DV features in different genres by novice writer-directors – <i>Red Road</i> depicts Jackie (Kate Dickie), a widow in her thirties working as a low-paid CCTV operative alerting emergency services to events requiring their presence on the north side of the city. Shunning family and friends since her bereavement, her drab, hermit’s life seems to provide no pleasure beyond an occasional flickering smile when the quirks of ordinary folk on-screen interrupt scanning for stabbings and muggings. </p><p>                The robotic routine is disrupted when she spots the man responsible for the deaths of her husband and young child. Clyde (Tony Curran) has been paroled early for good behaviour, and Jackie’s subsequent grim, single-minded, remote pursuit soon turns to physical stalking. He shares a high-rise flat in the run-down Red Road estate with disturbed youngsters Stevie (Martin Compston) and April (Natalie Press), with whom Jackie cultivates relationships after blagging her way into a party there. After several meetings she has intensely passionate sex with Clyde, whereupon her plan is revealed as she leaves, rips her face and clothes and accuses him of rape. However, Stevie tracks her home and confronts her (having earlier stolen her purse), but then accepts her explanation. Also now aware of Clyde’s efforts to connect with his own teenage daughter, Jackie’s demonising hatred dissolves along with her own character armour, and she drops the charges. Together they visit the accident site where his crack-fuelled driving had initially suspended her animation. His regret combined with determined positivity – despite in most respects considerably worse prospects than hers – leads her to reconcile with the in-laws, scatter the loved-ones’ ashes and contemplate a future.</p><h1><strong>In Full View</strong></h1><p>Arnold has consistently emphasised her intention to question the ramifications of surveillance in Britain (having wanted to make a documentary on the subject before being offered <i>Red Road</i>). She mischievously explains the apparently passive acceptance of state intrusiveness in terms of “our national psyche” – and it’s true that, beyond hysterical hyperbole, such debate has been all but absent in current affairs programming.2 Likewise, the critical reception of the film prioritises Jackie’s personal psychological and social trajectory and her individual pathology – with the cinematic provenance of paranoid snooping seen only as convenient metaphor and instrument for its acting-out. But tales of fruitcakes and nutcases armed with the power of a million eyes precisely miss the salience of this story’s stress on the unglamorous, supposedly relatively benign perspective of those trying to pre-empt street violence. Juggling conventions from several film genres, yet confounding all their logics as well as the expectations of both the main character and viewers, the overarching problematic here is the inherent unreliability of suspicious monitoring as a primary mode of determining understanding, action, and hence power.</p><p>The Advance Party character sketch limited itself to describing Jackie as “cool and aloof because of a terrible loss she has suffered … The world has been insanely unfair to her”. However, although the camera shadows her claustrophobically closely when not taking her point-of-view, information about her subjectivity, motives and backstory is scrupulously withheld (reminiscent of the contemporary cinematic naturalism, for example, of Jean-Pierre and Luc Dardenne). Forcing viewers to guess who she is and what she’s up to then mimics the process of interpreting the CCTV images themselves, using only sequences of trivial, isolated and/or arbitrary visual clues. Prior experience in similar contexts (exposure to and investment in media genres, for example, as well as on the job for CCTV operatives) naturally inflects and colours any conclusions drawn, and expectations and predictions will further depend on personal preconceptions, prejudices and predilections which are more likely to be activated when resonance occurs with longer-term emotional patterns. Deep-seated anxiety or biographical trauma predispose us to associate potential victims with our own pain and the usual suspects with fear or anger – but when mutual feedback from direct interaction is not available, reality cannot be tested against the attributes unconsciously projected onto others that in fact derive from one’s own preoccupations.</p><p>So, this damaged protagonist is far from proactively powerful at the hub of the panopticon. She is frigid on her own behalf and functionally all but impotent for others – consoled only by occasional remote compassion (for the bloke with a sick bulldog or a dancing office-cleaner), prompting isolated expressions of human warmth which establish our marginal empathy with her numbly repetitive existence. A similarly mundane event triggers the unfolding drama. Noticing the possibly sinister pursuit of a girl onto waste ground, Jackie’s pessimistic anticipation turns to incipient arousal once consensual sex ensues, quickly followed by shock at recognising Clyde. Then, galvanised by imagining that her privileged gaze promises mastery over him, exposing herself to danger in his real world eventually proves her victory hollow. Revenge is redundant once its quarry is humanised by the yearning for intimacy they share and now that her anguish need no longer be suppressed. By implication, the detached overview of the soap opera of everyday life has actually prevented change, protecting only by sustaining a safe, habitual alienation – but thereby perpetuating the Hobbesian petty vindictiveness of embattled, embittered, minimal selves adrift in a mediated jungle of commodified human relations.</p><p>However, while the surface content of the narrative surely echoes processes of working-through loss – from grief, fixation, anger, and melancholy to re-engagement with the world – there is no straightforward submission to simplistic counselling formulae, with effortlessly unthreatening emotional adaptation. This mourner is certainly not ‘managed’. Instead she compulsively dismantles her own depressive defenses, gambling vulnerability with overconfident recklessness in moving from self-hatred to the brink of self-destruction. In the process, hitherto dormant energies of aggression and libido are mobilised which, as is their wont, couple capriciously in propelling her towards a variety of climaxes. The denouement, nevertheless, may seem a little anti-climactic, and too comfortingly tidy (perhaps relating to the need to leave the characters intact for the two other Advance Party efforts). Even then, that Jackie’s manic brazen culminates in an uplifting, redemptive ending is as counterintuitive for her as it is for us. The narrative seams mined on the way, after all, seduce us into expecting the worst (as in the CCTV orientation), so that evidence of caring, empathy, or collective goodwill is easily discounted or uneasily misinterpreted in the inexorable gravity of violent or tragic destiny. </p><p>Precedence here is furnished by relatively marginal cinema subgenres, such as rape revenge thrillers and recent, more sophisticated explorations of women’s autonomy and sexual agency like Carinne Adler’s <i>Under The Skin</i> (1997), Jane Campion’s <i>In The Cut</i> (2003) and Catherine Breillat’s post-feminist brutalism from <i>Romance</i> (1999) to <i>The Anatomy of Hell</i> (2003). But while <i>Red Road</i>’s tantalising plot flirts with exploitation, and stylistic flourishes both encourage and thwart cod-psychoanalysis, a thoroughgoing ambiguity built into imagery and character undermines temptations towards universalising mythology in favour of social-realist specificity. So Jackie’s reluctant contacts with family establish her traditional working-class background – not slumming it, and neither excited, disgusted nor daunted by a bit of rough (linguistically or otherwise). The peremptory affair conducted fortnightly in his vehicle with a married van-driver reinforces the lack of prudery or prurience, and counterpoints her repulsion from and attraction to Clyde. His feral, expressive, uninhibited vulgarity embodies an honest, generous curiosity belying the disrepute of his situation, intimate engagement with which changes her orientation to her own misery as those in his milieu strive to kickstart stalled and spoiled lives in collaborative, open-hearted, raw sociability.</p><h1><strong>Behind the Scenes</strong></h1><p>Risking excessive extrapolation from Jackie’s journey moreover implicates far wider visual regimes of truth than local authority crime prevention charades, yielding a convenient scapegoat aligned with government policy and dominant popular media rhetorics vastly exaggerating lower-class dysfunction as cause rather than symptom of society’s ills. But in this case his name is Clyde, living at Red Road, Glasgow – the proud libertarian-socialist heritage of a militant Red Clydeside being stark shorthand for historic political and social divisions whose descendant faultlines CCTV systems help paper over and mystify. When the politics of narcissism, envy and resentment poison the traditions of mutual aid already starved by deindustrialisation, the human fallout sediments into discrete strata of hopelessness frozen in antagonism and disciplined in hierarchies of precariousness, abjection, and, most of all, aspiration. Then, refracted by the ruthless gaze of neoliberal information management into the classifiable visibility of lifestyle, those able to maintain a veneer of distasteful respectability institutionalise their marginal distinction in low-grade drudge, servicing and policing the rest.</p><p>But Jackie’s solitary emotional confinement leaves no space for affectation, and Clyde is going straight as a 24-hour locksmith – his wounded, caring, rogue spirit proving the key to her prisoner’s dilemma, softening a tough exterior of narrow goal-oriented irrationality. Their fluid negotiation of the normally gendered ascriptions of initiative, desire and sensibility then facilitates a reciprocal altruism which supersedes hypocritical truisms of moral dictate and conformity. The site of this revelation gains added poignancy from the fact that the eight actual Red Road tower-blocks now house asylum-seekers and refugees as well as ex-cons – <i>Red Road</i> accordingly hinting that the renewed cycles of solidarity required for struggle in the global carceral village can only take shape outside of official discourse. The latter’s closed circuits are in any case too busy dispassionately parading a matrix of superficial details across soulless screens. Their statistical correlations of trivial pursuits then afford an aura of authenticity to the tunnel vision of our rulers, whose self-aggrandising vanity is flattered by the pseudoscientific architecture of meaningless choice and the implacable economics of worthless value – a delusional hall of mirrors simulating the final taming and regimenting of human entropy … However, the map is still not the territory, and there are yet ghosts in the machine.</p><h1><strong>Notes</strong></h1><p>1. the shortcomings of which are spelled out in the excellent <i>Defending Anonymity</i>, published by the Anarchist Federation (available at www.afed.org.uk). Meanwhile two national groups are gearing up for a concerted campaign against ID cards: the ‘No 2 ID’ coalition focusses on the usual respectably pointless lobbying – but is gathering very useful information, including from countries where similar schemes have been roundly defeated (see www.no2id.net); whereas the more truculent and pragmatic ‘Defy ID’ network (www.defy-id.org.uk) anticipates the need for action on an anti-Poll Tax scale.</p><p>2. An exception being <i>Observer</i> columnist Henry Porter, whose <i>Suspect Nation</i> (Channel 4, November 2006) comprehensively rubbishes the supposed necessity, desirability, workability, trustability and affordability of the government’s present plans as regularly peddled in predictably transparent and fallacious spin. For valuable observations on the broader cultural context, see also James Horrox, ‘When the Clocks Strike 13’, and ‘Surveillance as a Way of Life’, in <i>Freedom</i> magazine, 16th December 2006 and 16th January 2007 respectively.</p><p><b>www.variant.org.uk</b></p><p><b> </b></p><p><b><a href="http://www.freedompress.org.uk/">www.freedompress.org.uk</a></b></p><p><b> </b></p><p class="MsoPlainText"><b>www.tomjennings.pwp.blueyonder.co.uk</b></p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,281 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-412" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="412" data-apiobjecturl="/api/1/document/412/">
+    <meta itemprop="description" content="truth and interpretation " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/412"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Now   Chantal Ackerman – video installations AmbikaP3 </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2015-12-09</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>NowChantal Ackerman
+– video installations AmbikaP3 (University of Westminster)</p>
+
+<p>truth and interpretation </p>
+
+<p>The setting for Chantal Akerman’s installations is the
+uncompromising space of a subterranean concrete bunker, basement zone of the
+60’s brutalist architecture of the Marylebone campus site.This building is testament to the force of
+gravity, an anchored intention expressed in poured concrete.The underground gallery might once have been a
+car park or a service and testing area.It is cavernous, swallowing up the visitor as they descend into the dark.</p>
+
+<p>At the top of the stairs, before the dark, on steel decking
+is the first of Akerman’s pieces: ‘In the Mirror’.A young woman naked except her panties,
+examines her body in the door mirror of a heavy old fashioned wardrobe.She turns, twists, cranes her neck, extends
+her backbone.It is a loop of
+investigation without beginning or end in any meaningful sense, an eternity of
+looking at self image.Made in 1971 on
+16mm it is a recycled section ofan early
+film and in itself presages not only the interest in content and form that were
+to characterise Akerman’s films, but also her psychological approach: obsession
+and observation.</p>
+
+<p>After ‘In the Mirror’ my descent into the dark discovers 6
+more installations.My feeling is that
+the pieces of work in the basement didn’t match up to either her films or the
+first 16mm entrance work, which like two other pieces downstairs, comprise of
+material excavated from film material.But ‘In the Mirror’ works without historical or textual reference.You don’t have to be told what to think(despite the explanation given in the didactic
+hand out).This work is approached on
+its own terms; and yours.You read what
+you see.‘In the Mirror’ is simple. It is powerful and the more so for its undramatic
+understated everyday quality.</p>
+
+<p>The psychic element of unabashed obsession permeates
+Akerman’s films.Initially her obsession
+was expressed as an internality, a driving inwards a hollowing into being. Jeanne Dielman and the earlier films have this
+quality.Akerman’s ability as director
+allowed her to use the energy flowing through internalities to express outward
+facing thematic concerns of identity: sexuality, gender, social relations.Later in career (and as yet I haven’t seen No
+Home Movie) her attention turns outwards
+to the world but retains something of the same formal obsessive quality. In D’est
+and Sudthe composition of her shots,
+the moving images, retain the dynamic
+qualities of obsession and observation that are part her perception.Her quality of attentive seeing is reinforced
+in these films by shot iteration and reiteration.An idea that understanding and seeing are
+focused and expanded by looking not just once but multiple times; that the
+patterns of repetition engrained in observation of life which defined Jeanne
+Dielman, could also be employed in the shot formations of D'est and Sud.Shot formations which would constitute a
+prime element in the defining of the content of the films.A fusion of means and content. </p>
+<p></p>
+<p>Akerman’s films engage with truth.Akerman’s installations engage with
+interpretation.</p>
+
+<p>The difference
+between a poem and an academic thesis.</p>
+
+<p>Film is a medium that opens up Akerman’s creativity.The sculptural element of Installation seems
+to close her down, to enfold her into the lacklustre of academicism.The dead hand of interpretive meaning lies
+over these streaming screens.My
+feelings on looking at these works mostly comprising multiple screens (except
+Nightfall and Voice in the Desert) showing multiple images was that Akerman’s
+obsession turns inward into the shell of the self.As if mesmerised by multiplicities, she
+searches out a world of private meaning, an inner world of self affirmation,
+another kind of mirror. </p>
+
+<p>Walking through the works I had the feeling that they were
+not created in the heat ofthe critical
+decisions that are made in the course of a making film. The installation works
+were the product of multiple choices made in the dark chasm of the editing
+suite, either by herself or by Claire Atherton.The obsession with multiple choice, days spent in front of the computer
+screen, the transposition of perception into manipulation. In D’est (and to a
+lesser extent A Voice in the Desert), this obsessive manipulation served the
+recycling of her film material, material that exploited in this manner has lost
+its vibrancy, but gained very little in the capacity of the material to engender
+reflection on the forces set in play.</p>
+
+<p>Maniac Summer and
+Maniac Shadows are both personal statements that seem to have left behind the
+beauty of directness and traded truth for things seen obscurely through the dark
+glass offormalism.The printed guide helpfully suggests that
+they reflect Akerman’s practice of structuring space and time.Whatever that means.Perhaps it is no more than a justification for
+the multiple screen set ups which admix her personal space ( shots of her in
+her apartment, the views from the apartment, images form the tv) from a variety
+of perspectives. These pieces are dry
+configurations, which obscure Akerman rather than open up her vistas of
+awareness.</p>
+
+<p>NOW (2015), is  the last piece chronologically in this set of
+work.It is the weakest.Seven screens show moving images of a ‘racing
+through the desert’ accompanied by a sound track denoting the sounds of
+war:explosions, deep thuds etc.A gesture perhaps to the Israeli –Palistinian
+conflict.The hand out notes state, on
+what authority I don’t know, that she was‘ …aiming to present the current condition of
+violence and conflict as a lived experience.’Perhaps in contrast to what we see on YouTube and tv?This artistic attempt to transcribe war into
+images and sound track in an installation setting does not work. In fact it is a banality, seemingly happy
+stay at the level ofbroad truism
+andgeneralisation, rather than grasp
+the actuality of specificity. It lacks the very feeling of immediate experience;
+the experience of the screens and soundtrack are not rich enough in associative
+connections to allow for reflection.NOW
+seems misplaced as a project:we don’t
+have to go to galleries today to experience war, it’s living at home with us,
+available 24/7.Alternatively when
+thinking about the Israel Palastine war we have our imaginations fed by
+countless images over endless years of blood, mostly Palestinian blood.</p>
+
+<p>Chantal Akerman’s films are full of her life.Her installations seem to be friezes, immobility’s,
+where formal concerns suggest an orientation to career. </p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

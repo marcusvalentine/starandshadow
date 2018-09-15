@@ -1,0 +1,170 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-24" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="24" data-apiobjecturl="/api/1/document/24/">
+    <meta itemprop="description" content="adrin neatrour writes:Machine gun dreams:  a moral tale" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/24"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Billy Liar   John Schlessinger   UK  1963</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2008-09-23</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">adrin neatrour writes:Machine gun dreams:  a moral tale<p>Billy Liar   John Schlessinger   UK  1963; Tom Courtenay ; Julie ChristieViewed Star and Shadow Cinema 18-09-08  Ticket price: £4-00  adrin neatrour writes: a body without organs - a moral taleretrocritBilly Liar (BL) is usually described as a movie about a habitual dreamer fantasist called Billy Fisher.  Billy the young man with ambitions to be a writer trapped in a small Northern industrial town.  The usual explanation of the film is that Billy gets away from his actual reality by escaping into a world of his own imaginative longings. But Billy doesn’t escape reality through his fantasial life; his fantasies in fact bind him more tightly to the reality he wants to put behind him.  Each indulgence in his imaginings commits him the more deeply to what he opposes.  And each indulgence increases the need to feed the habit of escape that is no escape.  The device of fantasy Billy uses as a means of escape is actually the path to deeper entrapment. Billy is a dreamer: a body without an organ: a pure psychic effect.Billy is usually described as a ‘dreamer’ without however the nature of his dreams being examined.  The core of BL is Schlessinger’s (JS) filmic realisation of  Billy’s  dreams and JS’s understanding of the context of the fantasy. Billy’s fantasies don’t centre on pleasure but on power.   There are two main motif’s in Billy’s fantasy sequences: the obliteration of his enemies; and Billy as dictator: the leader of a  military machine.  As in the case of Hitler, who is certainly parodied here by JS, the powerless often have their psyches colonised by the very forces that they perceive as constructing their personal humiliation. The warped internalisation of the very forces that are seen as destroying the self, has ironic and often unpleasant consequences. Set in the encompassing thrall of a small Lancashire industrial town, Billy’s fantasies of death and militaristic power point not so much to Billy as dreamer but to Billy as a frozen entity.  A Billy who is frozen into the  economic and social matrix of a  culture defined by mechanical hierarchical relationships.  A culture where the machine form defines all the  areas of social interactions: life and death, family and work.  It is a culture in terminal decline captured at the point in time where the machine will start to breakdown to be replaced by cultural form based less on constrained cohesive relations and more on organic/desire relationships.   Where failure will be a personal rather than a collective responsibility. Billy appears not as a young man escaping through fantasy but as a young man whose fantasies reveal that he is actually a psychic projection of  the encompassing mechanistic regulatory system.  His fantasy world doesn’t oppose the machine; rather it seeks to control the machine and thereby is of course controlled by it.  Lacking the resources to build an opposing fantasial apparatus Billy simply appropriates the machine’s hierarchic and mechanical form for his own ends and  satisfactions.  People are reduced to puppets under his control and those who oppose are exterminated.  The concentration camp and the execution squad, the logical extension of Billy’s imaginings, are the frozen products of a society built on mechanised life and death.   BL  is not structured on plot but rather on state of mind:  the frozen fantasy.   The film comprises a series of strips of action, triggers that fire Billy’s subjectivities.  The action strips are located in different parts of the social/economic machine but the fantasial responses from Billy indicate an internal time mechanism in which the hands on the clock are immobile.  In a sense it is replication of the state of mind of Adolf Hitler whose pent up frustrations during eight years in Vienna taught him ( according to Mein Kampf) everything he knew.  The years in Vienna, a hierarchical mechanical apparatus taught Hitler to hate and project the sclerotic forms of the Austro-Hungarian empire onto a solution of  the Jewish question.  Hitler frozen into his fantasies carried forewards his fantastic hatred into an eventual programme of mass murder.  JS’s Billy has similar artistic ambitions to Hitler ( Billy wants to write) but like Hitler suffers from an internalisation of the very institutions that humiliate him.  An internalisation that sabotages both development of ability and vision.    Billy fails to see that he is living in a form of social organisation that is in its death throws.  The sequence which comprises the opening of the first supermarket is a filmic tour de force, but it works to indicate the development of a new form of social contract based on desire rather than mechanical obedience.  Billy sees nothing of this.  Death riddles his psyche boring through outer carapace of the film like the worm with a message.  Billy himself works in the the death industry, his gran is dying and some of the most effectively shot sequences in BL take place in the municipal grave yard as death itself watches over life.  Eventually Billy offered the chance of life by the charged vital ( but irrelevant ) presence of Julie Christie, chooses death. There was never any other alternative and JS remains true to moral intent and purpose rather than giving way to a faked ignoble open or ‘happy’ ending.  adrin neatrrouradrinuk@yahoo.co.uk</p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

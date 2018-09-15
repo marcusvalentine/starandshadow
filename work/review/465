@@ -1,0 +1,281 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-465" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="465" data-apiobjecturl="/api/1/document/465/">
+    <meta itemprop="description" content="check your watch it’s myth time." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/465"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The Killing of a Sacred Deer   Yorgos Lanthimos (Uk/Eire/Usa 2017)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2017-11-19</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>The Killing of a Sacred DeerYorgos
+Lanthimos (Uk/Eire/Usa 2017)Colin
+Farrell; Nicole Kidman, Barry Keoghan</p>
+<p>viewed Tyneside Cinema 8th Nov 2017; ticket:
+£9:75</p>
+
+<p>check your watch, it’s myth time.</p>
+
+<p>Lanthimos’ movie‘the
+Killing of a Sacred Deer’ (KSD) is a black comedy which Lanthimos guides with
+uncompromising intent conforming his film to the strictures of myth.The protagonist, heart surgeon Steven Murphy,can no more avoid evade or circumvent destiny
+than could Oedipus or Iphigenia.The
+forms adopted by myth are relentless engines of design that comprise those
+devices that lead to the preordained outcome: those that are marked to die, do
+so die, not by law but by force of logic.</p>
+<p>Lanthimos holds his sacred deer to logic.</p>
+
+<p>Lanthimos’ script and scenario locate his film in the
+psychic heart (sic)of America: the
+hospital; the suburbs, generic settings that characterise the experience of
+being in America.</p>
+
+<p>The filmopens with a
+long durational shot, the huge close up
+of a heart undergoing open surgery.Initially this shot of Lanthimos seemed to be gratuitous, focusing our
+attention of the establishment of Steven, the heart surgeon.But as KSD progressesthe shot works through the material as a
+significant allegorical pointer.That he
+who would save the heart of another has lost his own heart, that issues of the
+heart both actual and emotional are the core of the film
+which takes as its subjects those who have lost their heart, who have traded
+their feelings for a series out outer gestures.The main settings, the hospital
+and the suburbs, are understood as emptied spaces, vessels evacuated of meaning
+where the living perform the motions of being alive, but are absent from life itself. They water the plants, walk the dog, eat dinner,
+they live not as desire, but as mechanical rites.</p>
+
+<p>Lanthimos’ camera films the main settings the medical
+andsuburban zones as dis-connected from
+the humancharacteristics that should
+define them. The institutional shots of the hospital record
+the flat nature of the interfaces and surfaces: the long corridors, the
+consulting rooms, the patient rooms. One overhead shot onto the huge hospital
+escalators works as a condensation the hospital image: the industrialisation of
+the sick body.In the domestic location
+of the Murphy’s upper middle class family home the furnishings, the house
+design all seem selected not so much for use but rather as statements how the
+Murphy’s want to see themselves. And as
+Steven Murphy whirls about the suburban living room of his nice house, shooting
+randomly with a shotgun at his blindfolded and bound wife and two children,
+although no attention is specifically drawn to the expensive buttoned Chesterfield
+on which Ana is bagged and trussed, its quiet expression of money provide an ironic
+counterplay to the frantic comic scene being played out.</p>
+
+<p>The core of the film is the eruption of myth into life. Myth
+as the dynamic that makes the heart pulse with life.Jung’s
+idea of myth as a form, a pre-existent mode that takes complete possession of a man or
+woman, defining appropriating situations so as to guide and mould their outcome.Once a mythic form castes its shadow across
+man, the ending is predestined there is no avoidance of a particular fate. Myth
+as an archetypal force that shapes destiny has its counterpart in scientific
+theories such as Darwin’s natural selection, where outcomes, the plumage of a
+peacock, determine the stages of its development. </p>
+
+<p>That myth is a psychic reality, that nothing can happen
+without a pre-existing form (Jung) lies the heart of Lanthimos’ perception.It is the truth engine that drivesKSD.And the compelling effect of his film is that he overlays the implacable
+logic of the playing out a sacrificial myth over the inconsequentiality of the
+life lived by his central characters.The Murphy’s live in the bubble of the American consumerist society,a land in which everything can be fixed, where
+there are no consequences.The
+outplaying of KSD is that this suburban dream life transposes and without anyone
+noticing is subsumed into a mythical form, in which everything has consequences
+and nothing can be fixed or averted.Steven will not be taking Bobby for piano lessons.Stephen
+will have to shoot Bobby.Lanthimos
+films and structures KSD in a neo-Brechtian vein of realisation.The shots are naturalistic but also have a
+didactic quality.Visually the shots of
+Bobby and Kim dragging their bodies across the floor like huge slugs are
+logical extensions of their situation.But as mythical images they have a didactic purpose, and also confirm
+that KSD, like many of von Trier’s
+movies, is a black social comedy, not a horror film.</p>
+
+<p>The acting, as with Lanthimos’ other films is finely
+threaded into the skein of the movie.Colin Farrell takes on the patina of an ancient tribal king, all beard
+and deliberation, underplaying to deeper effect.The close up’s of all the players of which there
+are many, all have a distinctive quality of affect images which deepen the
+connection of the viewer to the unfolding events.Two in particular, a shot of Ana shadowed by
+a tree, which seems to suggest a gallows shot, and the big close-up of Kim
+riding pillion on Martin’s bike.Her
+face is set in a classic comic book True Romance expression of the girl who has
+found her first wonderful boyfriend.The
+girl who in this moment has had all her teenage fantasies fullfilled.Yet we know that this boy is the Angel of
+Death.And the Angel of Death himself,
+Barry Keoghan plays out as if he comes from the deep subterranean world of the
+Pythian oracle.</p>
+
+<p>The West with its intransigent individualistic ethos, with
+its belief in self determination, is highly antagonistic to the proposition
+that people might be assimilated by mythic form.But perhaps in a social culture where collectivities
+and communities are disintegrating we become more vulnerable to being subsumed
+by mythic forms. Community and collectivity imply shared aspects of
+destiny.The lone individual is unhinged
+from the psychic anchor of the shared life, and as needs must have to forge their own fate.But without cultural resources it is perhaps radically
+isolated individuals who are most vulnerable to being assimilated into the a
+pre-existing form of myth.In particular
+those myths that speak of frustration fear and anger at not being able to
+control destiny.Myth such as the Herod
+myth with its massacre of the Innocents.Perhaps gun men, such as Steven
+Paddock the Las Vegas mass murderer, kill precisely because they are vulnerable
+to myth that give psychic reality to violence.Thus vulnerable they assimilate and act out forms such as Herod as a means of giving direction to a bereft
+life.Submission to the force of myth
+gives meaning and purpose to life when it becomes unbearably inconsequential. </p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

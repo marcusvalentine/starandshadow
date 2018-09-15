@@ -1,0 +1,295 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-368" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="368" data-apiobjecturl="/api/1/document/368/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/368"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Lift to the Scaffold (L'Ascenseur pour l'Echafaux) Louis Malle (1958 Fr)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2014-02-20</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>Lift to the Scaffold (L'Ascenseur pour
+l'Echafaux)  Louis Malle (1958 Fr)  Jeanne Moreau; Maurice Ronet</p>
+<p>Viewed: NFT London;  7 Feb 2014;
+ticket: £7.50</p>
+<p>Change in the Rules of the Game. 
+</p>Nineteen years on from Renoir's The
+Rules of the Game, after a world war the German Occupation  and the
+infiltration of Coca-Cola culture,  Louis Malle makes The Lift to the
+Scaffold.  At it's simplest his film states simply and objectively
+that the rules of the game have changed:  it's a new game, with
+shifting ambiguous rules.   
+
+
+<p>Lift to the Scaffold is a shock wave
+that jolts us out of the cosy world of traditional social hierarchies
+and the striated conventions that define them. It shakes us out of
+class bound notions of ownership and personal relations into the post
+war world  of the 1950's which is already being shaped by
+contemporary modernism.  A world always on edge where money defines
+identity; a world with fluid boundaries defined by personal desire
+accelerations separations and object fetishism.   A world that at
+that time of the film's production was in embryo but projected by
+Malle into its maturity.   
+</p>
+<p>And like Renoir's movie, Lift to the
+Scaffold is also a satire on social relations.</p>
+<p>Renoir's satire in keeping with the
+times is a gentle probing.  He puts into relief the strange,
+sometimes hypocritical amusing contradictions that result from the
+different behaviour codes followed by two classes of people living in
+close proximity as masters and servants.  Malle's satire is more
+savage and pitiless. Renoir's protagonists, in particular the ruling
+class, are able to control events by containing them within their
+world.  Malle's protagonists have no such power and the satire
+derives from the manner in which actions by the protagonists veer
+completely out of their control resulting in exaggerated unintended
+effects that overwhelm them.  Effects enlarged and given greater
+visibility by the cool detached acting style that gesturally
+characterises the playing out of the scenario.</p>
+<p>This difference between the two films
+is highlighted by the killings that are important but not necessarily
+defining events in the two scripts. In Rules of the Game the murder
+is a crime passionel, motivated by jealousy: an old fashioned sort of
+provocation.  It is viewed in the film as an embarrassment rather
+than a crime, a mistake that can be justified contained and explained
+away.   The killing in 'Rules' is done from a distance without the
+killer and victim being in close contact:  Andre will have had no
+idea who shot him.  Contrast with Malle's script.  Here the two
+murders are close up and personal, with eye contact between the two
+parties.  As if Malle understands that within the new social matrix
+sexual and murderous relations will be two unpredictable sides of the
+same coin: power.  Malle's killings are in complete opposition to the
+bungled events of 'Rules': political assassination (perhaps mediated
+by passion) and kicks.  In Lift to the Scaffold the killings are acts
+of individuated will.  And both murders satirically spin out of
+control of the perpetrators exposing them to the capricious forces of
+fate and satiric irony.</p>
+<p>Renoir's script is devised using the
+classical unities of time and place: events unfold at a leisurely
+pace building up to the climax.  In Malle's script the lack of
+unities gives brilliant defining form to the movie.  The protagonists
+although fatefully entangled are physically separated in time and
+space. Two of the main characters Florence and Julien, never meet
+face to face.  Their unseen actions effect each other from a
+distance.  Just as today the wild interplay of separated individuals
+on social networking sites can set into motion accelerated forces
+moulding possibility into certainty, so the actions of Malle's
+protagonists just as certainly accelerate them into the precipitation
+of the events that eventually consume them.</p>
+<p>Of course Malle works with new social
+types: arms dealers, disaffected rebellious kids, veterans with a
+grudge and sets them against a new emerging milieu of incessant
+motion and transience: highways, motels, modernist office blocks, the
+city streets (Moreau's endless mythic walk through night time
+Paris)or  any place whatever.  Malle locates his characters in a
+world not only in relation to their social strata, but more in
+relation to objects (or absence of objects as in the interrogation
+scene).  Objects burrow into the course of the action, not just the
+cars, which are caressed and admired like a lover, but pencil
+sharpeners, cameras, card filing systems, revolvers. Louis Malle
+directs out attention to object fetishism and the world of Vuitton,
+BMW, Apple etc waits in the wings.</p>
+<p>In filming Lift the the Scaffold Malle
+used his camera in a way that builds on the expressive ideas of
+Rossellini de Sica Visconti and other Europeans. The Camera as
+directed by these film makers doesn't only work to create affect
+perception or movement; it is not a slave to story or the manipulated
+affects of emotion.  It might do some of these things but its
+principle function to enable the audience to see, to be invested as a
+seer.  The audience is not asked to invest in fake emotional
+symbolism.   The cars the guns the bars the highways the clothes the
+office blocks can all be read as signs, not so much part of the
+narrative but signifiers connecting the film to the world we live in.
+   
+</p>
+<p> Before 'Lift' Malle had worked with
+Bresson on 'A man escaped' ( Un condamne a mort  s' est echappe;
+1956) . And one of Bresson's formal concerns carries over into this
+film, his determination of a specific type of acting style needed to
+make films that were about seeing.  The role of the actor is to
+reveal something to the audience. This cannot be achieved by the
+actor flooding out the audience's  emotional channels, overwhelming
+them by manipulations. It is achieved by the actor building a certain
+type of relation to their role which is not a becoming.  The actor's
+task is to show, in one way or another, how their character is a
+construct in a particular situation.  The scenario the script and the
+structure of a film are an apparatus which allows the actor to take
+up varying positions in relation to the material allowing the viewer
+the spac to be a key interpretor of the material. 
+</p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

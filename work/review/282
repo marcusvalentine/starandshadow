@@ -1,0 +1,191 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-282" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="282" data-apiobjecturl="/api/1/document/282/">
+    <meta itemprop="description" content="adrin neatrour retrocrit: Never got why this movie is titled Blood on the Moon?  Either a silly title or perhaps some obscure menstrual metaphor is implied" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/282"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Blood on the Moon  Robert Wise (USA 1948)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin  Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2011-01-21</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Blood on the MoonRobert Wise (USA 1948) Robert Mitcham; Barbara Bel Geddes</p>
+<p>Viewed Star and Shadow Cinema Newcastle13 01 2011; Ticket price £4</p>
+<p>  Never got why this movie is titled Blood on the Moon?Either a silly title or perhaps some obscure menstrual metaphor is implied.</p>
+<p> Blood on the Moon (BM) opens with a series of shots of Robert Mitcham (RM) making his way across a ridge in a downpour of rain, an atmospherically pre-emptiveopening that anticipates the dark opening sequences which set the scene for a series of complex plot developments.</p>
+
+<p>It’s a long time since I’ve watched a Western, and Blood on the Moon delivered with varying degrees of success, some typical attributes associated with the genre: the lone gunman, the encompassing role of nature; and typical oppositions:differentsocialgroupings and gender.Under Robert Wise’s (RW) direction BM handled some of these elements better than others.</p>
+
+<p>The structural core of BM is the performance of RM as ‘gun for hire’.Unlike the toilers of the land,the hired status gives him the freedom to move on and to make his own judgments and RM’s laconic presence and babyface ultimately hold the uneven scenario together.RM’s performance as Jim Garry is detached and amused, cool, like gumshoes in Chandler and Cheyney stories.No matter what is going on, or who is employing him,the Man for Hire imposes his style on situations; he sees what is happening and in action plays out his moral code.In movies characterised by fast moving action scripts, the affect image of the gun for hire/gumshoe face is unchanging: the constant source of reference. No expression of emotion; only the expression of ‘a knowing’.Whoever supplies him with an excuse or explanation or account,whatever the outcome of action or information,the world view of the man for hire remains the same:tired cynical but knowing, prepared to do what is necessary by the light of the code.For this reason we keep coming back to the face: the referent.In BM, RM’s small baby face is an expressive medium that we can read and against which we can measure our own reactions to what has happened.In Hollywood movies featuring the detached male the face is the constant:Mitcham’s, Wayne’s. Bogart’s.The scenario, the backgrounds, the characters may change at ferocious pace but that look the look of wry detached amusement becomes our talisman the movie incubus that directs our perception:some one knows what is happening and can do something about it.The detachment and coolness expressing the code, assure us that it is power without arrogance; power that will not by its nature be abused.RM’s performance in BM is a low key deterritorialised statement of power in a complex world where we are often powerless to act.it ispart of a cinema of benign vicariousresolutions.</p>
+
+<p>BM is noted for its high key noir cinematography.It’s a filming style that certainly characterises the opening half of the movie and that works to create a mood of prevailing conspiracy.Whilst the ‘noir’ sequences are establishing a psychological atmosphere in the town, they stand in opposition to the exterior establishing shots.It has to be said that in BM these are a little formulaic often comprising stock shots of Monument Valley.Still they establish the idea of another world, of nature, of land as a domain that is a force in its own right.Even if that force is never actualised in the movie.In gumshoe movies, shots of the city are often effectively used to establish a suggestive context for the action. shots of the city by nightdepicting a chaotic multitude of lights automobiles and people.These kinds of city shots provide context for complex narrative and even suggest an evaluative framework thatstory can be seen against the idea that it is part of this slippery shifting ever changing world.The background, the natural shots in Westerns serve a similar function but have a different meaning.The encompassing sky, the great stacks of Monument valley dwarf the affairs of men setting man and his machinations against the passing of aeons.They also remind that whereas man can take on man it is quite another matter to take on nature, as in the end she always endures whilst we pass away.</p>
+
+<p>The point at which BM starts to lose tension is where the romantic interest starts to irrupt into the structure of the film, changing the opposition on which the movie pivots about from the good evil axis to a male female axis.The good evil axis continues but is severely handicapped by the romantic angle.In BM, RW never integrates these two defining psychic forces.It is as if there are from a given point in BM two different scenarios at work.</p>
+
+<p>The best gumshoe movies integrate the good evil and male female axes by merging the oppositions so that the male female axis was also opposed on the good evil axis, thereby sustaining tensions.The best Westerns probably don’t introduce a male female axis, preferring to rely on the tensions of good and evil in the context of nature.</p>
+
+<p>Many Westerns though do introduce male female romantic notion; it usually leads to a downbeat reduction in dramatic tension. The reason for this is the usual (there are exceptions) casting of the female ‘role’ as a suburban housewife.In Westerns the female role often has to epitomise the mission of civilise the male.The men and the women come from different worlds: the male from the world of primal action set against the natural order; the female from the interior world of the Readers Digest.Producers and directors obviously had difficulty with the real women of the West.They were probably often too similar to the men.What was needed for the film industry, at a basic ideological level, was womankind who embodied the idealised values of America that were not found in the men.Individuality had to be opposed by family values, directness by respect for feelings, risk taking by carefulness, action by leisure (church).The core here is family values. Hollywood post Hay was highly committed to establishing the family as the key pillar of American society and values.The tendency was to build the family into nearly all productions, in particular those story lines located in primary male worlds, as an ideological statement of intent.BM is an obvious example of this ideology at work, and the crude way the female role is built into the movie gradually undermines it until at the end all its tensions have collapsed into pottage of romantic sentimentality,about which not even RM’s glassy eyed demeanour can do anything.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

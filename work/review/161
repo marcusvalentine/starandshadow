@@ -1,0 +1,184 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-161" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="161" data-apiobjecturl="/api/1/document/161/">
+    <meta itemprop="description" content="Film Review
+
+Faking Lazarus
+
+The critical decision made by Puiu in making his drama Mister Lazarescu was to give it a documentary frame.  This key formal concept governs the production of his film: its style,  the nature of the camera work (hand held) and the role of the camera which is observational. In most films the role of the camera often changes from shot to shot: sometimes the point is to keep the viewer uncertain about whose eye the lens is representing,.  In Mister Lazarescu, the camera’s only function is to observe.
+
+ 
+
+" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/161"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The Death of Mister Lazarescu - Cristi Puiu-Romania 2005 Ion Fiscuteanu;Mioara Avram</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2006-11-28</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Faking Lazarus
+
+The critical decision made by Puiu in making his drama Mister Lazarescu was to give it a documentary frame.  This key formal concept governs the production of his film: its style,  the nature of the camera work (hand held) and the role of the camera which is observational. In most films the role of the camera often changes from shot to shot: sometimes the point is to keep the viewer uncertain about whose eye the lens is representing,.  In Mister Lazarescu, the camera’s only function is to observe.
+
+ 
+
+<p>The Death of Mister Lazarescu - Cristi Puiu-Romania 2005 Ion Fiscuteanu;Mioara Avram</p><p>Viewed Tyneside Cinema 19 Sept 06; ticket price £6-20</p><p><b>Faking Lazarus</b></p><p>The critical decision made by Puiu in making his drama Mister Lazarescu was to give it a documentary frame.  This key formal concept governs the production of his film: its style,  the nature of the camera work (hand held) and the role of the camera which is observational. In most films the role of the camera often changes from shot to shot: sometimes the point is to keep the viewer uncertain about whose eye the lens is representing,.  In Mister Lazarescu, the camera’s only function is to observe.</p><p>As privileged observer documenting the action, Puiu’s camera always watches from a position in front of and at some distance removed from, the object of its gaze. For instance the camera never shoots from a position where what it shows could be mistaken for the point of view of an actor.  It is a disciplined detached and privileged observer qua documentary form.   The film is shot in long hand held takes which sometimes comprise whole scenes or sequences.  The sets have a realistic look(indeed they may be ‘real places’) and  the lighting, which is the strongest visual element, has an ‘available’ credibility.   The textures created by the lighting, the insipid painful colours in Mister Lazarescu’s flat, the yellows of the ambulance and the ugliness of the strip hospital lighting, create a dark painful twilight world invested with the pall of ugliness and death.   The action takes place over one unified period and has a temporal and spacial unity in a number of linked medical settings as if a documentary crew were following a particular case through the night.  </p><p>I think the film is caught in contradiction.  It works like a documentary: as the camera observes the bathos of Mister Lazaresu’s decline through the long night, it feels a real process: the acting style, the camera work, the sets and costumes, are all contrived to look and feel as if we are observing actual settings.  But it is not a documentary: its a scripted piece of drama with actors and technicians performing their allocated tasks to produce a recognisable verisimilitude of  industrial medicine.  You watch it as a documentary because Puiu’s chosen style and form invites the audience to invest in Mister Lazaresu as a documentary.   </p><p>But as a drama, Mister Lazarescu is overdetermined by its form.   Puiu offers no creative insight into the industrialised provision of medicine that hasn’t been seen before.  Starting with a long line of films such as Mash - or with innumerable hospital series shot for TV, this is all territory and material churned through many times.  In Mister Lazarescu, all the writing can do(and it is well written) is replay typical scripts generated by various medical stereotypes: the caring low status medical assistant, arrogant doctors, sadistic medics, medics unable to overturn the system and indifferent staff.   The scenario finally offers nothing more than the proposition that old people with no family, whose bodies and minds are breaking up, usually will not get the best out of the health care systems.  This is not a surprise.  To anyone.  Anywhere in Europe or America.</p><p> The film, in its progress from the apartment of Mister Lazarescu to his death (presumed) in hospital,  goes through the contrived but reasonably effective course of its business.  It is a film about doings and non-doings, occupied and busy all the time.   Which in part may be Puiu’s point, to highlight lack of soul/care in the medical settings as opposed to the human element provided by his neighbours in the opening sequence. But in choosing a pure documentary style, Puiu has married himself and his film to the documentary ethos, without the constraining and correcting discipline of this form.  Hence Puiu has set himself the goal of conforming to the outer stylistic appurtenances of the doc. These of course have little to do with the real substantial concern of the form.  So Puiu is constrained in making his picture to adopt certain contrivances such as keeping the picture on the move (hand held wobbles and all) and the verisimilitude of endless medical action. </p><p> In short Puiu has committed himself to a fake form.  The fake form has in effect controlled him and the film he has written and directed.  And not just in the manner and style of the shooting of Mister Lazarescu.  It also seems that in adopting a fake documentary style that the content of the script has to be molded/crafted in a certain manner.  In choosing the documentary form to dress a drama, the tendency is for plot to be informed by an ethos that one might call ‘gritty realism’ and monodirectionalism, two features that are often understood as being characteristics of ‘reality processes’.  In fact ‘reality processes’ have no defining characteristics. They’re too complex.  The plot of Mister Lazarescu which involves a two dimensional straight line observational decline in his condition also feels like an attempt to model the film on an imaginary real scenario, an imagined attempt to illustrate the forces at work in life and death situations.  The choice of the documentary model seems to have exerted an inhibiting pressure on the internal dynamics of the plot. Hence the critical comment that the Death of Mister Lazarescu suffers from overdetermination: it is a film dead from inception that has been preempted by its fake form.  </p><p>Mister Lazarescu comes to a dead  end.  For all the strong inputs of the film: the lighting, the handling by Puiu of his actors especially Ion Fiscuteanu as the eponymous lead, and the opening sequence in Lazarescu’s appartment, the movie starts from a propositioned form, the documentary that leads it to dead end.  I don’t think it’s sufficient excuse for a movie to take one particular convention and use it as the form to deliver another.  Forms and conventions at this point in the development of film are only interesting if they are the result of acts of creation.</p><p>Documentaries have their own dynamic driven by uncertain interplay with fields of  action that are outside the control of the film maker.  A certain filming technique, hand held, (though of course this not the only method used to shoot docs) is a corollary of the uncertainty of movement situations often encountered in filming as well as the need for quick set-ups.  In that The Death of Mister Lazarecu is unable to develop any further response to its chosen form it leads on to no where.    </p><p>adrin neatrour</p><p>adrinuk@yahoo.co.uk   </p><p>The Death of Mister Lazarescu - Cristi Puiu-Romania 2005 Ion Fiscuteanu;Mioara Avram</p><p>Viewed Tyneside Cinema 19 Sept 06; ticket price £6-20</p><p><b>Faking Lazarus</b></p><p>The critical decision made by Puiu in making his drama Mister Lazarescu was to give it a documentary frame.  This key formal concept governs the production of his film: its style,  the nature of the camera work (hand held) and the role of the camera which is observational. In most films the role of the camera often changes from shot to shot: sometimes the point is to keep the viewer uncertain about whose eye the lens is representing,.  In Mister Lazarescu, the camera’s only function is to observe.</p><p>As privileged observer documenting the action, Puiu’s camera always watches from a position in front of and at some distance removed from, the object of its gaze. For instance the camera never shoots from a position where what it shows could be mistaken for the point of view of an actor.  It is a disciplined detached and privileged observer qua documentary form.   The film is shot in long hand held takes which sometimes comprise whole scenes or sequences.  The sets have a realistic look(indeed they may be ‘real places’) and  the lighting, which is the strongest visual element, has an ‘available’ credibility.   The textures created by the lighting, the insipid painful colours in Mister Lazarescu’s flat, the yellows of the ambulance and the ugliness of the strip hospital lighting, create a dark painful twilight world invested with the pall of ugliness and death.   The action takes place over one unified period and has a temporal and spacial unity in a number of linked medical settings as if a documentary crew were following a particular case through the night.  </p><p>I think the film is caught in contradiction.  It works like a documentary: as the camera observes the bathos of Mister Lazaresu’s decline through the long night, it feels a real process: the acting style, the camera work, the sets and costumes, are all contrived to look and feel as if we are observing actual settings.  But it is not a documentary: its a scripted piece of drama with actors and technicians performing their allocated tasks to produce a recognisable verisimilitude of  industrial medicine.  You watch it as a documentary because Puiu’s chosen style and form invites the audience to invest in Mister Lazaresu as a documentary.   </p><p>But as a drama, Mister Lazarescu is overdetermined by its form.   Puiu offers no creative insight into the industrialised provision of medicine that hasn’t been seen before.  Starting with a long line of films such as Mash - or with innumerable hospital series shot for TV, this is all territory and material churned through many times.  In Mister Lazarescu, all the writing can do(and it is well written) is replay typical scripts generated by various medical stereotypes: the caring low status medical assistant, arrogant doctors, sadistic medics, medics unable to overturn the system and indifferent staff.   The scenario finally offers nothing more than the proposition that old people with no family, whose bodies and minds are breaking up, usually will not get the best out of the health care systems.  This is not a surprise.  To anyone.  Anywhere in Europe or America.</p><p> The film, in its progress from the apartment of Mister Lazarescu to his death (presumed) in hospital,  goes through the contrived but reasonably effective course of its business.  It is a film about doings and non-doings, occupied and busy all the time.   Which in part may be Puiu’s point, to highlight lack of soul/care in the medical settings as opposed to the human element provided by his neighbours in the opening sequence. But in choosing a pure documentary style, Puiu has married himself and his film to the documentary ethos, without the constraining and correcting discipline of this form.  Hence Puiu has set himself the goal of conforming to the outer stylistic appurtenances of the doc. These of course have little to do with the real substantial concern of the form.  So Puiu is constrained in making his picture to adopt certain contrivances such as keeping the picture on the move (hand held wobbles and all) and the verisimilitude of endless medical action. </p><p> In short Puiu has committed himself to a fake form.  The fake form has in effect controlled him and the film he has written and directed.  And not just in the manner and style of the shooting of Mister Lazarescu.  It also seems that in adopting a fake documentary style that the content of the script has to be molded/crafted in a certain manner.  In choosing the documentary form to dress a drama, the tendency is for plot to be informed by an ethos that one might call ‘gritty realism’ and monodirectionalism, two features that are often understood as being characteristics of ‘reality processes’.  In fact ‘reality processes’ have no defining characteristics. They’re too complex.  The plot of Mister Lazarescu which involves a two dimensional straight line observational decline in his condition also feels like an attempt to model the film on an imaginary real scenario, an imagined attempt to illustrate the forces at work in life and death situations.  The choice of the documentary model seems to have exerted an inhibiting pressure on the internal dynamics of the plot. Hence the critical comment that the Death of Mister Lazarescu suffers from overdetermination: it is a film dead from inception that has been preempted by its fake form.  </p><p>Mister Lazarescu comes to a dead  end.  For all the strong inputs of the film: the lighting, the handling by Puiu of his actors especially Ion Fiscuteanu as the eponymous lead, and the opening sequence in Lazarescu’s appartment, the movie starts from a propositioned form, the documentary that leads it to dead end.  I don’t think it’s sufficient excuse for a movie to take one particular convention and use it as the form to deliver another.  Forms and conventions at this point in the development of film are only interesting if they are the result of acts of creation.</p><p>Documentaries have their own dynamic driven by uncertain interplay with fields of  action that are outside the control of the film maker.  A certain filming technique, hand held, (though of course this not the only method used to shoot docs) is a corollary of the uncertainty of movement situations often encountered in filming as well as the need for quick set-ups.  In that The Death of Mister Lazarecu is unable to develop any further response to its chosen form it leads on to no where.    </p><p>adrin neatrour</p><p>adrinuk@yahoo.co.uk   </p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

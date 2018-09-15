@@ -1,0 +1,273 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-415" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="415" data-apiobjecturl="/api/1/document/415/">
+    <meta itemprop="description" content=" Smoke and mirrors" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/415"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Assassin                      Hou-Hsiao-Hsien (HK- China  2015)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2016-01-16</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>AssassinHou-Hsiao-Hsien
+(HK- China2015)Shu Qi; Chang Chen </p>
+
+<p>Viewed: 2 Feb 2016 Tyneside Cinema Newcastle; ticket £8.75</p>
+
+<p>Smoke and mirrors</p>
+
+<p>Hou’s movie at first seemed like an unfocused fairy tale,
+but later as I thought about it, it was more like a realisation of an I Ching
+hexagram or series of hexagrams. The
+idea of making a film that aspires to an expression of the chance fall of the
+yarrow stalks seems in tune with Hou’s sensibilities. </p>
+
+<p>And Assassin with its
+use of landscape in a manner imaged and described in the I Ching hexagrams, is visually
+suggestive and receptive to the gaze of the viewer. Landscapes of course are
+flavour of the month inthe movie
+business, nobody is making films these days without showing the depth of their alignment with nature by boring us with
+long pretentious camera shots, gazings at ‘scapes.’</p>
+
+<p>Hou however coming from the left fieldtradition of Chinese landscape symbolism,
+makes these shots work in a way that neither Tarantino nor Inarritu can even
+approach.The shots call up states of
+mind, resonating with the underlying contemplative nature of his film and the
+symbolic relations suggested.</p>
+
+<p>Of course the idea that the I Ching hexagrams shape sections
+of Hou’s movie is probably my own projection, but nevertheless hexagrams aside,
+there is a strong Chinese lore relating landscape to awareness insight and
+inspiration, and Hou draws on this in folding scapes into Assassin.</p>
+
+<p>Just for the hell of it I looked up one hexagram of mountain
+over lake, and was informed as follows: </p>
+
+<p>Mountain over Lake. </p>
+<p>At the foot of the mountain, the lake</p>
+<p>The image of decrease.</p>
+<p>The superior man controls his anger</p>
+<p>and restrains his instincts.</p>
+
+<p>Coincidence or not the above description carries something
+of the motif underlying the narrative
+shaping the film’s form.</p>
+
+<p>I haven’t seen many of Hou’s films: Good Man Good Woman,
+Daughter of the Nile spring to mind. From what I have seen Hou’s films work
+through elliptical relations between people.He is not interested in the soap opera style of crude motivational
+matrixes that comprise most of Hollywood and Europe’s current scripting output.Understatement and ambiguities lie at the
+heart of his scenarios. But I think Assassin as an attempt to transpose this
+sensibility of relations on to fairy tale like or mythic form, doesn’t work.Whether I Ching or fairy/myth story the
+forces put in play are archetypes, and the states of mind that interest Hou and
+seem endemic in his scripting, are not archetypal, and don’t sit comfortably
+with the film’s main characters.His
+characters, theeponymous Assassin and
+her quarry never escape a certain woodenness in the expressions of their roles,
+a mechanicality that contradicts the relational ambiguities that are part of
+the script. </p>
+
+<p>It doesn’t actually matter that, to my understanding, the
+details of the script were ungraspable.It matter’s more that Shu Qi’s
+‘good assassin’ character never expresses any clarity of intention in relation
+to her actions.She utters reasons for
+her behaviour but they remain at the level of utterances, she fails to deliver
+any suggestion of an internality, a
+drive at the heart of her role.This I
+suspect is not her doing but the script and Hou’s doing.As if he wanted to replace projected
+internalisation with externalisations of acting and shooting style.For instance Shu Qi as actress is simply
+asked to reverttothatold film acting stand-by of: ‘staring out’ with severe intent, eyes hard
+and unblinking at crucial moments in the film.This is an old directorial resort: keep the audience on the surface of the eye
+anddupe them in thinking the shot has
+meaning.But the repetition of this look
+incurs decreasing returns, and finally reduces to a meaningless cliché.</p>
+
+<p>Aside from the landscape shots which have power in respect
+of suggesting underlying forces, Hou with his story looks to the shooting style,
+décor make up and shot set up as a means to work in the suggestion of some
+deeper level of sensability at work in the scenario.So we have long beautiful if sometimes tendentious
+tracking shots through diaphanous drapes, gorgeous red shots, wonderful
+cozzies, fabuolous haircuts, reflections, scenes with a bewhiskerd necromancer
+who looks like an escapee from Lord of the Rings. But none of these types of
+shots do anything more than extend the surface of the movie.And the surface of this movie compared to
+other of Hou’s films I have seen is a mechanical tread through his fairy tale
+like material.Lacking Hou’s attention
+to emotionally ambiguous relations,it
+is a film that fails deliver anything more than vacuous spectacle which is of
+course grist to the mill of the movie industry.</p>
+
+<p>The film’s style seems a deliberate effort to compensate for
+the script’s weakness.</p>
+<p>Hou does not understand how to marshal integrate or summon forces
+he sets into play. Like an old magician Hou resorts to smoke and mirrors to
+disguise the contradictions that he cannot reconcile in his material; and smoke
+and mirrors is not a hexagram. </p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk </p>
+
+
+
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Shu_Qi" title="Shu Qi"><span></span></a></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

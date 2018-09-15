@@ -1,0 +1,245 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-390" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="390" data-apiobjecturl="/api/1/document/390/">
+    <meta itemprop="description" content=" Retrocrit:  Rituals of eternity
+
+ " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/390"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">He who gets slapped    Victor Sjostrom  (USA 1924)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2015-01-15</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>He Who Gets SlappedVictor Sjostrom(USA 1924) Lon
+Chaney; Pauline Goddard; John Gilbert</p>
+<p>Viewed Star and Shadow Cinema 10 Jan 2015 Ticket: £6</p>
+
+<p>Retrocrit:Rituals of
+eternity</p>
+
+<p>Victor Sjostrom does not only directs He Who Gets Slapped,
+but also plays the role of psychic ring master presenting his film as an elaborate
+ritual.The core of Sjostrom's vision
+is the ritual, the deliberate playing out of the forces he has assembled in a
+choreography of death.The film reminded
+me of: the ceremonial aspect of the bull fight; of the elaborate costumes of
+the auto da fe with the doomed penitents dressed in white and of large folk
+processions commemorating ancient sacrifice and fertility rites.</p>
+
+<p>The elements put into play in the story of ‘He’ all have a
+primal quality: theft and humiliation, ritual self punishment, revenge and
+death.Sjostrom from first to last image
+sets the story in this symbolic framing opening and closing the movie with
+elided superimposed images of the spinning globe, the ball and the circus ring dissolving into each
+other.An eternal recurrent destiny
+holds us all.Death is the only escape;
+in the films final image the clowns hurl‘He’ ‘s corpseoff the ring
+parapet into the void.</p>
+
+<p>Silent films with their immobile sets, fixed camera and
+gestural playing contain the seeds for scenarios drawing on ideas developed out
+of archaic ceremony.Seldom is this
+potential realised.Most film companies
+and directors played out the scripts for melodrama: complex plots held together
+with regular inter-title cards.Noticeably
+‘He’ needs few inter-titles.The film ‘s
+flow guides the audience’s attention to the inner psychological unravelling of
+the scenario. With the elemental forces
+set in play the characters and scenes speak in the screen images.There are extraordinary visual sequences:
+‘He’ before the academy with its mocking academicians; ‘He’ in the circus ring
+where surrounded by and regaled by the clowns in their penitent white make up
+and costumes, he is subjected to pain and humiliation for the amusement of the
+public and his own personal need to suffer. A perfect alignment of an objectify and a
+subjectivity.The power of these
+sections carries an empathic charge for the viewer who needs little extra
+information as to the motivation of ‘He’.Trapped in ritualistic abasement there is only one way out:revenge and death.Primary elements.</p>
+<p></p>
+<p>Sjostom’s visual design complements his ritual form.The lighting is stage-like.The characters often caught in high light,
+with the settings around them darkly etched in.The visual look is reminiscent of Rembrandt’s
+paintings,calling to mind that
+Rembrandt’s powerful use of light effect to highlight the depiction of his characters
+and settings. Sjostrom’s lighting also heightens the psychological intensity of
+‘He’s’ experience isolating him and allowing the viewer space to see. One shot in particulate stands out:a shot of ‘He’ in clown costume and
+make-up.When we see ‘He’s’ clown make up
+lines drawn through his eyes and the disturbingthree tufts of stiff hair sticking out symmetrically from his bald head
+there is the overwhelming feeling of understanding the lies ahead for this
+doomed abused figure.We see there is
+nowhere left for him to go.In
+Sjostrom’s devising of ‘He’ we can see at once why Bergman claimed to have been
+so much influenced by him and how the same sort of thinking, the unity of
+psychic truth and devised settings is implicit to Bergman’s cinema. </p>
+
+<p>By using archetypal material, Sjostrom understands that the
+power of the setting and the form of the story releases his actors from the
+need to adopt the mannerist gestural playing that characterises many films of
+this era.At times the acting comes
+across as naturalistic, without artifice and Lon Chaney’s performance in
+particular has an unforced quality that doesn’t over playor indulge the nature of his sacrificial role
+but allows it to unfold with dignity as the simple consequence ofthe decisions he has made.Again there is something here of Bergman,
+certainly as seen in the character of the knight in the Seventh Seal.An underplaying of the fate that one has
+freely chosen.</p>
+<p>Adrin Neatrour </p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

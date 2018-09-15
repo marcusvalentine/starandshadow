@@ -1,0 +1,301 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-304" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="304" data-apiobjecturl="/api/1/document/304/">
+    <meta itemprop="description" content="adrin neatrour writes: whose shame: his or ours or...?" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/304"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Shame        Steve McQueen (UK 2011) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2012-01-28</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"> <span>ShameSteve McQueen (UK 2011)Michael Fassbender; Carey Mulligan</span>
+<p><span>Viewed:Tyneside Cinema24/01/2012;Ticket price: £7.95</span></p>
+<p><span>Shame about shame</span></p>
+<p><span>My reading of the opening shot of Shame, is that it
+was faked. We see Brandon (Michael Fassbender) lying on his bed.Brandon’s torso is naked his lower body
+entwined in white sheets (Christ-like ?).Eyes open he lies completely still: still as death.At last the eyes tremble; he
+moves. I think this is a shot faked in the editing, using the freeze frame tool
+to control the immobility of the opening part of the shot. Why does Steve
+McQueen start his movie with an image set up by the editing software? Is it a
+structured statement about the film’s concerns; or a device used to create an
+affect to make theshotappropriately dramatic; an unwitting
+sign that this movie is be about image not substance. </span></p>
+<p><span>Given
+Steve McQueen’s (SM) reputation after his first movie Hunger, it is appropriate
+to probe into the film’s form structure and content, and to conject as to purpose
+and intention behind the project: to appraise the moral content of the
+movie.By moral I am not referring
+to a code of ethics or morality but to a consistency in internal logic, a
+refusal to compromise a line of vision.</span></p>
+<p><span>Hunger’s key
+attribute was that it was locked into specific context: the death of Bobby
+Sands in the Maze Prison.The
+historical biographical context provided the basis for the three chapters,
+which explored the realms of Body Mind and Spirit that SM incorporated into
+Hunger.The situations in the film
+developed out of these categorical loci. They were grounded in the real. They
+were not metaphorical.</span></p>
+<p><span>The first two
+sections in Hunger were based about body and mind (dialogue) presented as
+filmic installations.The images
+proposed a series of oppositions that allowed the audience to see and make
+their own interpretation of what was happening.Two shots, both scenes in themselves: the long
+duration shot of the warder using a janitorial squeegee to sluice the piss down
+the length of the prison corridor; the 17 minute dialogue between BS and the
+priest on the morality of the hunger strike. The audience are put into the
+position where they have to look and listen in order to understand.SM’s film did not manipulate the viewer
+but open up for the viewer a process of understanding.</span></p>
+<p><span>I thought the
+first two chapters of Hunger much better than the third which sloped into
+sentimentality.Nevertheless on
+viewing, Hunger has a consistent moral line:the inexorable logic of oppositions in action.In exposition and discourse it
+does not indulge either in emotive sub prime acting or the politics of
+pre-formed and implied judgments.</span></p>
+<p></p>
+<p><span>There are perhaps
+some specious similarities between Hunger and Shame.Hunger about a man imprisoned by external forces moving
+inwards; Shame a man imprisoned by internal forces trying to move outwards. </span></p>
+<p><span>Unlike Hunger,
+Shame completely lacks context.The film is set in New York but it is not a context, it’s a symbolic
+backdrop for the events that take place in the film.In relation to subject matter the background to these
+events might be anywhere: Clermont Ferrand, Birmingham or Boston.Shame might have benefited from a
+lower profile background.But New
+York it is; chosen for its symbolic resonance, its streets and skyscrapers
+ready made code for contemporary alienation. It’s a city that Shame castes as a
+metaphysical entity with a population of replicants and lost souls.There is even a performance of the
+Sinatra hit‘New York New York’ as
+a set piece in the film: it’s deconstructed but sung for affect.(the piano accompaniment was great but
+I didn’t catch who played it on the credits)SM exploits New York as a city that is already a cliché and
+defaults in the film to shots of the city that simply reinforce this
+image.</span></p>
+<p><span>The key settings
+of Shame are all metaphorical rather than real.They are all decontextualised, with substance extracted
+leaving a sort of filmic shell within which the film’s events take place.The subway system with its sexually
+charged rides is a metaphorical underworld of id; the office whose function we
+never learn, is a little like the superego - a place where Brandon’s represses
+his sexual needs (except in the toilet);and his apartment, painted white like a Swiss sanitarium is where
+Brandon is himself.Metaphorical
+psychic zones rather than real spaces.</span></p>
+<p><span>Shame comprises
+metaphorical zones contained within a metaphysical city. It’s problem is that
+within all these unreal spaces Brandon never seems real. His problems are never
+real and he is never interesting from the point of view of giving the audience
+something to contain. Had Von Treermade such a movie he would have understood that the film needed an
+uncompromising moral line to work. The film might have been about:becoming Cock. Brandon literally
+overwhelmed by, flooded out both internally and externally by sexual desires
+becomes:Cock.A epic line with the possibility of
+deadly mordant humour that would overwhelm devastate and destroy Brandon and
+all those he touches.With a
+script that takes a line, the viewer is presented with a situation which they
+have to confront.</span></p>
+<p><span>Instead Brandon
+wanders about the non-spaces of the movie becoming… a non entity.SM uses a sort of sub plot to try and
+rescue the movie .This involves
+Brandon’s sister, Cissie, who’s a singer (and a cutter) who has an affair with
+his boss. The brother sister stories intertwine. (perhaps they are supposed to
+intertwine as schizoid individuals?) But their relationship fails to energise
+the movie.The extent of
+their synergy in the film is to reveal, unsurprisingly, that they are both
+trapped in infantile sexual circuitry; there again so is the whole
+country.Brandon realizes in the
+course of another coy subplot that he is unable to have a normal loving relationship.His response is an orgy of fucking.
+This scene is particularly crude.It looks likeSM asked
+Fassbender to overact, so that during the orgy with two whores we have to watch
+as he pulls back his mouth in a rictus of pain and grimacing throughout the
+whole fuck.The loaded emotive
+gesturing kept this viewer bored but cued him as to what to think. </span></p>
+<p><span>A significant
+feature of addiction is tolerance. Alcohol drugs sex:for users all have the same equation of need, you always
+need more of what you want to get the same effect.There is a core to sexual activity that is about
+control.The sexualimposition of will can easily lead to
+sadistic violence, and constitutes a line of action a line that is visible for
+example, at Abu Ghraib.This is the
+line, part of the becoming cock line, that Shame never takes that SM seems to
+inhibited to explore.</span></p>
+<p><span>Shame ends on
+shots of the brother sister reunion/reconciliation.The which doesn’t seem to mean anything, but is presumably a
+measure of SM’s desperation as to what to do with his material.Some of the dialogue, especially in the
+public interstitial spaces captures the banality of the social strata of the
+settings.But coming out of
+familiar soap opera provenance‘Oscar acceptance speech exchanges’ are parodies of parodies.</span></p>
+<p><span>I found the use of
+the Bach compositions interesting.They related to nothing that I saw or experienced in Shame.Bach’s selection for the sound track
+seemed an attempt to exploit themusic so that it would lend a sort of spiritual lamination to a film in
+which spirit was otherwise honoured in its absence.I found its use more annoying than relevant</span></p>
+<p><span>The film might have been made out of the cynical
+motivation that sex sells. Any movie preceded by a clinical disclaimer about its
+concern with sex addiction, yet featuring a measure of full on tits bums and
+cock will make its money back.It
+panders to the conceit of the art house crowd who like sex in films to be
+presented with a veneer of mitigating intellectual legitimation.I think SM’s initial ambition may
+have been to make a statement about how sex has become twisted and
+depersonalized in strata of our society.On the evidence SM didn’t have the artistic or intellectual flair to
+make such a film.Instead he
+produces Shame which comprises a jumble of images and sounds put together in
+the hope that they might have the hoped for effect. They don’t.</span></p>
+<p><span>adrin neatrour</span></p>
+<p><span>adrinuk@yahoo.co.uk</span></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

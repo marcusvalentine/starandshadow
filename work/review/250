@@ -1,0 +1,201 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-250" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="250" data-apiobjecturl="/api/1/document/250/">
+    <meta itemprop="description" content="adrin neatrour writes: retrocrit:  laying the cards on the table" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/250"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Cleo de 5 a 7     Agnes Varda (1962 Fr) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin  Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2009-11-17</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Cleo de 5 a 7Agnes Varda (1962 Fr)Corinne Marchand</p>
+<p>Viewed:Star and Shadow Cinema Newcastle  12 Nov 2009   Ticket: £4.00</p>
+
+<p>retrocrit:laying the cards on the table</p>
+
+<p>Cleo de 5 a 7 is a film about a situation, the relationship ofwoman to herself, and Agnes Varda’s realisation that the mythic as well as the social is a valid response.</p>
+
+<p>The opening sequence of Cleo de 5 a 7 (C57) is a breathtaking series of shots, all in colour, all from a camera, positioned directly over the action of a Tarot reading.With alacrity and machine precision the reader snaps down the cards on the table in front of Cleo.According to the cards turned over and their relative placement to each other, the monotonal voice mechanistically assigns them significance and meaning.In this sequence, as surely as the cards are signs pointing to Cleo, so Agnes Varda (AV) is using the oracular cards to anticipate key elements and concerns of the film.</p>
+
+<p>The cards indicate a space between different zones of experience. The cards in themselves are a sort of in-between world, dividing time off into a before and after the moment of oracular signification.The film, also takes place in an in-between time: two hours in a space between life and death, a mythological region like the antechamber to Hades.The cards whilst they have subjective implications, have in themselves no subjectivity, no desires goals or intentions. They are sets of interrelations that have to be read according to rules and demands of individual necessity.C57 chronicles the movement of Cleo as she explores existence according to a new set of conditions.The situation she is in, the fears and doubts that she haslead her into a space outside the subjective personal emotive domain.This space, in the same way as the cards laid out on the table, allows her to experience her life as a totality.For Cleo her two hours are not a descent into subjectivity but into necessity:the condition of seeing her own life and its relations. in and for itself.</p>
+
+<p>It comes as a shock that when the card sequence ends,AV reverts to a black and white world. A structured discontinuity that AV exploits to throw the viewer off balance, and let us know that now we have begun the descent into a different world. A world in which there is a new situation in which the subject will be experienced in a new and different manner and form.</p>
+
+<p>C57 has the feel of being modelled on ideas gleaned from stories of the Classical world of ascents out of Hades and its antechambers by a figure such as Persephone.Corinne Marchand, beautifully costumed glides through the movie as a Goddess, a being from the place of the dead visiting the land of the living.In representation AV realises Paris as an in-between world.It is filmed to capture avision of a city that exists in a gaseous haze between life and death.It is a shimmering realisation of interiors and exteriors characterised by shadows, or their absence, mirrors and faces.</p>
+
+<p>The sequences in the hat shop and in the bars make use of mirrors so that they become channels recreating these spaces as possessed places with otherworldly qualities.The mirror is a constant motif in C57,shot: to suggest multiply realities, to act as conduits to other dimensions and as crystals to imply a challenge to the continuity and organisation of time.</p>
+
+<p>AV shoots the streets and parks of Paris as alternating striated plays of light</p>
+<p>and dark where everything tends to be defined in either too much or too little light. Streets and allies as a sprite from the underworld might experience them.And in the streets and bars random faces loom into the camera caught in the web of the dream.The manner in which these images caught by the camera press into consciousnesssuggests not so much faces rather souls:trapped souls.In C57 there are no extras only presences. Every presence glimpsed by Cleo by the camera, whether in street or in bar, is captured like one of the souls in Hades with their stories and sins stamped on their features.</p>
+
+<p>The camera work is endemic to the C57’s mythic form.AV structures the camera work into the film as a specific force in play (as in Well’s Kane).The dominant shots are slow tracks or pans: some from an exterior film-telling angle: some from the internal point of view of Cleo. There is I think a difference between the two angles and how they contribute to the film.The speed and movement of both types of camera movement are similar, what is distinctive is our reading. In general the camera glides through the film as movement in a dream.The camera work simulates in pace and intentionality a gaze from another dimension: a looking that sees everything as novel and different; a looking that is impersonal and without fear.</p>
+
+<p>However when the camera takes on the point of view of Cleo something else happens. The pace is similar but the expressive feel of the movement is quite different.In particular the pan in her apartment over and around the piano; and the track, from Cleo’s point of view, into the sculpture studio both have the quality of a caress, a yearning to reach out mediated by the simultaneous understanding of the impossibility of touching.The pan or track as a caress is expressive impossibility at the core of the film.The caress as a gesture the dead make towards the living, the sick towards the whole, a caress that has no envy but is rather contains a lament and a wonder for and ofthe other.</p>
+
+<p>In C57 AV undertakes a mythic recasting of the role of the feminine. It is an indication of her sensibility to the psychosocial issuesin the content of her film that the scenario easily survives the passage oftime, the 45 years since it was written.None of Varda's concerns have dated.We still debate and engage in dialogue in respect of the relations between the sexes and a key area of that debate often neglected is the need to define ourselves not just socially but mythically.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+<p></p>
+<p></p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-285" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="285" data-apiobjecturl="/api/1/document/285/">
+    <meta itemprop="description" content="adrin neatrour writes:retro crit: Mirror Mirror on the wall who’s the fairest of them all?  Sylvio Berlusconi" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/285"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">La Dolce Vita    Frederico Fellini (1960 Italy)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2011-03-29</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>La Dolce VitaFrederico Fellini (1960 Italy)Marcello Mastroianni; Anita Ekburg</p>
+<p>Viewed: Side Cinema, Newcastle 22 March 11ticket price: £5.00</p>
+
+<p>retro crit: Mirror Mirror on the wall who’s the fairest of them all?Sylvio Berlusconi</p>
+<p>of course!</p>
+
+<p>Filmed as a series of psychic fragments Fellini’s (FF) film is an oracular vision of the shape of things to come: the transformation of all areas of life into hallucinogenic spectacle with no distinction between the participant and onlooker.Spectacle fed into the amplification circuitry of the media who both feed off and feed into the images they produce.Fellini’s Dolce Vita is an initiation rite into a Western World driven and controlled by ‘image’ whose present dynamic takes the form of Berlusconni as ademonic hybrid apotheosis of the world of politics and media.As I watched Dolce Vita unfold I was awed by FF’svisionary clarity in relation to the convergence in shape and form of the control apparatus.</p>
+
+<p>The opening sequence of the movie is a statement of intent.We see, flying low over Rome,a helicopter with a huge statue of Christ slung by ropes beneath its undercarriage. The apparition causes everyone to look up at this giant airborne caricature.La Dolce Vita (DV) introduces Christ as the clown of the skies, a cosmic Christ for our entertainment and amusement Ladies and Gentlemen…… The flying Christ merges publicity stunt with religion, marrying the two worlds in a spectacle that presages the movies underlying theme.</p>
+
+<p>A thought: where did FF get this statue? It looks like it was made for the movie, for the brave new world of 1960.More interesting where/ how did he get the idea?Perhaps it was something he actually saw or heard about;anyway,‘as idea’ it perfectly and succinctly predicates what follows.</p>
+
+<p>In DV, FF uses the structurally broken filmic fragments of action as a mirror to catch Marcello’s reflection as he is transformed and bent into shape by the images and social forces that come to define his life.An early fragment of the film sees him,an inveterate womaniser, spend a night trying to seduce and bed the American film star Sylvia (Anita Ekburg who’s a shoo-in for Marilyn Monroe).In the mirror fragmentwe see clearly that narcissistic narcosis induced by publicity and media attentionhave totally absorbed this Diva.Marcello discovers (he takes a little time to get it) that Sylvia is not really of the flesh.She has a body, central to her image but an appendage to her life.She may seem present in the flesh but actually she lives inside an endlessly projected movie of herself&hellip;She isn’t really present; sex with her can only be a two dimensional movie.Sylvia is machineforabsorbing fantasy and projecting desire onto the white walls of life.For people like Sylvia life doesn’t flow; rather it takes the form of a sort of eternal recurrence: the same people sets and situations repeated time and time again.This recurrence is only broken by the momentary irruption within Sylvia of fleeting impulses that are for an instant totally insistent, but immediately fade.Time in her lifedoesn’t flow rather it is compressed into a crystallised everlasting and overwhelming present, bolted like the image of the flying Christ,to an unchanging image of herself.</p>
+
+
+<p>Marcello has the chance to avoid being trapped in the recurring movie of his projection as an image in two dimensional photogenic space.He has a chance to chose to live through time as he is pulled by his girl friend to accept her love to share her carnality.But each glimpse in the DV mirror fragments shows him drawn further into the spectacle by the fascination of himselfas an operating image.Through the shattered fragments of time Marcello develops the idea of himself as an increasingly self referential and narcissistic object.An increasingly emptied out self,refined through the rectifying forces of the media,into a being of pure surface.A centre of attraction and repulsion in the endless parade that he joins to replace the tedium oflife.</p>
+
+<p>The music as in all FF’s films complements in form the content of DV.It’s surging rich gorgeousencompassing.Parade music that is intended like the Pied Piper’s flute, to draw in everyone who hears it, to disarm resistance andallows the children to completely abandon themselves to the show.The music is an amalgam of mood feeling and thought swamping and bypassing the human mental faculties as FF fills out DV with sequences of extraordinary fluid shots that capture small and large crowd situations and scenes.</p>
+
+<p>DV opens up worlds as spectacles that absorb, disarm and finally infiltrate the individual.The world of religion filmed as a hysterical fusion of media frenzy and religious hysteria. Catholicism experienced as a testing ground for experiments that would later be internalised and finally replicated by the profane secular order.Marcello cannot see the hilarious farcical religious and media circus caused bytwo young children claiming to have seen the Virgin.He is absorbed by it, and excited by the prospect of living and working outside time.He breaks (or rather the mirror fragments suggest that he does, for there is no convention of continuity in DV)with his girlfriend and joins the parade of partying which is the gateway to a sort of immortality.The movers and shakers the money and the power exist in a never ending spectacular thatengulfs life and pulls everything along with it in a frenzied dance lived out in image and gesture, a saturated narcissism that ends in death.But of course death does not stop the show.</p>
+
+<p>The final sequence on the beach shows the party goers descend onto the beach to gaze at the lifeless form of a huge dead fish.A young innocent girl, introduced earlier in the film as working in the beach café also looks on. Both exist outside the spectacle,</p>
+<p>Adrin Neatrour</p>
+<p><a href="mailto:adrinuk@yahoo.co.uk">adrinuk@yahoo.co.uk</a></p>
+
+
+<p></p>
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

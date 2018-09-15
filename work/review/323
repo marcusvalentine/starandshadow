@@ -1,0 +1,281 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-323" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="323" data-apiobjecturl="/api/1/document/323/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/323"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Charlie Is My Darling  Peter Whitehead (Uk 1965) Doc - The Rolling Stones</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author"> Adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2012-10-17</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">  
+
+
+
+
+
+
+<p>Charlie is my DarlingPeter Whitehead (UK 1965) Doc - The Rolling Stones</p>
+<p>or</p>
+<p>The Rolling Stones Charlie is my Darling Peter Whitehead (UK
+1965;) and Mick Gochanour (USA 2012)</p>
+<p>Viewed: New York Film Festival 29 9 2012Ticket Price: $20</p>
+
+<p>Schizo movie</p>
+
+<p>Complete with an on stage post - movie guest appearance by
+Andrew Loog Oldham (ALO), Charlie is my Darling (CMD), or as they like to call
+it, The Rolling Stones Charlie is my Darling,came across as a film with a split personality; a film that
+had been handed over to a foster carer,and didn’t know who its actual daddy and mummy were. </p>
+
+<p>The explanations given by ALO after the film left me in no
+doubt that CMD is schizo film of the first order.It evidences all the symptoms of a subject experiencing the
+classic double bind situation: a film that simultaneously admits and denies two
+opposing types of propositions: that Peter Whitehead is the director and editor
+of the film, but at the same,he
+is not the editor and director of the film which blazons his name, like a
+symbolic shield at the head of the opening credits. </p>
+
+<p>Schizo as it is, CMD is of course an eloquent statement of
+the convoluted tortured and contradictory claims that the corporate bodies
+ABKCO, have had resort to, in their anxiety to justify their manipulations and
+exploitations of theCMD material
+in question.In their practice of
+contradiction, they are like the Red Queen in Alice; and almost as funny.</p>
+
+<p>Every medical condition has a case history and the history
+of CMD is the key to its schizo development.CMD was made in 1965 by Peter Whitehead (PW) and
+commissioned and produced by ALO.PW directed the film, shot the original footage on an Éclair,then edited it: his film.According to ALO speaking at the
+New York screening, he as producer never really meant the film to be seen.ALO suggested that at this time. the
+mid’60’s when other groups such as the Beetles were experimenting reaching out
+and extending their audience and income through movies, he ALO only wanted to
+see what the Stones would look like on film. ALO said he never wanted PW’s film
+to be released. It was made as a sort of group audition, for appraisal and
+their eyes only.ALO seemed
+to suggest that he never seriously considered releasing CMD. </p>
+
+<p>I found this explanation, though it may be true, less than
+convincing.It occurred to me
+there might have been other reasons for shyness.Perhaps PW’s edit of the material had been problematic: in
+one way or the other.</p>
+
+<p>In fact the original CMD had a screening at Berlin Film
+Festival, and caused a stir.Itthen seems to have had
+some limited form of exhibition.I
+say this because on-line there are people who say they have seen it, but this
+remains a little uncertain to me.</p>
+
+<p>From his original footage, PW cut a film that I think was
+originally about an hour,a little
+less perhaps.This cut and all the
+outtakes were then withdrawn in an act resembling a sort of distributive coitus
+interruptus.Perhaps the film and
+all the rushes were sold on with constraining contractual clauses and
+eventually in the mid nineties, 30 years after the original shoot and
+edit,they re=appear in the
+ownership of Abkco, a large media conglomerate.</p>
+
+<p>Contacted by Richard Pena in 1995 who wanted to screen CMD
+at that years NYFF, Abkco say they have acquired the film and the rights and
+are at work restoring the material.</p>
+
+<p>Cut to 17 years later, 2012,  a film called The Rolling Stones
+Charlie is my Darling turns up on the NY festival programme. A film by Peter
+Whitehead, directed shot and edited by Peter Whitehead; <i>but als</i><span>o crediting a new role call of creative and technical
+personelle:director - Mick
+Gochanour; Editor - Nathan Punwar; Producor - Robert Klein!A schizo films with two sets of
+everything.A film that took 17
+years to sort out before this potentially desirable and profitable piece of
+merchandise could be released.</span></p>
+
+<p>After the screening I asked the director who was present but
+not on stage with ALO what percentage of PW’s original cut was now in the film
+we had just seen and which seemed to be titled: The Rolling Stones Charlie is
+my Darling.His reply was that it
+was about 60% recut.Which is fair
+enough.But is this any longer
+Peter Whitehead’s film?it is not
+his cut.And is the claim on the
+publicity postcard I have in front of me, that the film is directed
+photographed and edited by PW in any sense meaningful?</p>
+
+<p>Abkco are desperate for some reason (one wonders what this
+reason might be - contracts?) for Peter Whitehead's name to stand emblazoned
+over and across the film like an endorsement - not that there are many left
+today except a few old film buffs who even know his name let alone his fame as
+a film maker.</p>
+
+<p>WhatI saw was
+a schizo film from one of the homes of schizo capitalism, the entertainment
+industry.</p>
+
+<p>The film, the one with director Mick Gochanour bears the
+unmistakable intensity and presence of all the camera work by Peter Whitehead,
+and I was glad to have seen it for this reason. It lacks the originality and
+dynamic that PW brought to fashioning and editing his material . The edit on
+view is OK but is pretty standard treatment.So the original footage is extraordinary and apparently if
+you buy the whole dvd package the original cut is included in the deal, though
+at this point I don’t know if you would get all the original cut or whether
+some scenes or lines, might have got the snip.</p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

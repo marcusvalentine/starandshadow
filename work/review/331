@@ -1,0 +1,269 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-331" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="331" data-apiobjecturl="/api/1/document/331/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/331"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Abendland (Land Of Night) - Nikolaus Geyrhalter (Ger 2011)   Doc</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2013-01-09</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">  
+
+
+
+
+
+
+<p>Abendland (Land of Night) - Nikolaus Geyrhalter (Ger
+2011)Doc</p>
+<p>Viewed Star and Shadow Cinema6th Jan 2012 (Twelfth night);Ticket: £5</p>
+
+<p>A sign of the times</p>
+
+<p>Nikolaus Geyhalter’s (AG) Abendland (A) is a documentary
+with pretensions that distinguish it from some of the earlier documentaries
+which make up itsprovenance. Abendland is about state of mind; it is not primarily about: modifying opinions attitudes or giving information about the world</p>
+
+<p>As a film without voice over or interviews, the movie is
+grounded not through the verbal framing of political or social agendas and
+concepts but purely through its indexical shots, the object images captured by the
+camera; and in its editing, the juxtaposed relations suggested between the
+sequences of images. </p>
+
+<p>A comprises a series of night images shot in 2009 -10in European settings and
+situations.As A’sEuropean stylistic precursors I would
+list: Walter Ruttman’s Berlin Symphony of a City, Vertov’s Man with a Movie
+Camera, Bunuel’s Land without Bread (originally conceived without commentary)
+and later Franju’s Sang des Betes and Les Invalides (admittedly Sang des Betes
+has commentary but it is only for the conjunction of images that I remember it)
+and of course Riefenstahl’s Triumph des Willens (Triumph of the Will) which
+exploits the pure architectectonic shock of its images to connect and equate
+the Fuhrer to the destiny of Germany.</p>
+
+<p>The above list is a short one and makes claims to be
+defendable but not to being definitive. These are simply films that I have seen
+in which it is the image that opens consciousness to signification.The images in themselves become a
+signing.</p>
+
+<p>A differs in one critical respect from the films in the
+above list.It feels like a film
+that has taken on something of the form of an installation, images designed to be experienced as a 'walk though' gaze of the kind Bill Viola's work elicits. It is very
+cool.It is not a hot film
+inviting engagement. It is a film to be watched with a post modernist
+detachment.In this respect Apoints primarily and first to a state of mind characteristic of some quality of its audience rather than to some affective quality inthe selected images.</p>
+
+<p>NG’s film in
+this respect then defines its target audience as ‘voyeuristic’.In post-Ford Apple-land, we have become a culture with
+an overwhelming desire and tendancy to bestow our gaze.The gaze it is that defines our being in the world.  Screens both multiply and shrink in size`;  our desire to look out on life becomes part of our nature.  Many sequences in  A are characterised by the omnipresence of the camera and monitor, so that the
+audience is in the position of gazing upon other people who are themselves
+gazing upon some presented object image. Abendland addresses the desire of the voyeur taking them into spaces and realms which are normally
+inaccessible or of difficult access.Abendland is indeed a sign of the times, times in which we promiscuously rabidly and ravenouslyfeed on worlds presented to us as a series of
+images.</p>
+
+<p>Of course it’s not as if the series of images that
+Abendland (A) presents to us do not point to certain significant
+features of contemporary Europe. The images presented point to the nature of the control mechanisms that increasingly define the continent.  These images do say something about contemporary Europe; only that I think such meaning is secondary tostates of mind that are structured into film through the manner in which it is shot.  States of mind which  which are about the preferential engagement of its target audience (commissioning editors?)  and  the collusion and detachment of their gaze.    </p>
+
+<p>The films on my list of A's precursors were all
+made with passion.A passion that
+flows from the film maker and their selected images through to the
+viewer.The images connect with an
+audience’s emotional switchboard.So Ruttman’s film celebrates Berlin as a complex of social and
+mechanical engineering, Vertov equates of the mechanicality of his camera as a
+recording device with the machine of the new socialist society.Riefenstahl’s film, an epic of obscene
+propaganda; Franju’s work a surreal take on scandalising of the
+Bourgeoisie.However
+different,these films all had
+passion, and an emotional circuitry which engages through the images, as signs
+without words. </p>
+
+<p>What is interesting about NG’s movie is that it is dispassionate in its gaze.It is a film
+for the consumer of images, for those strata of society who define themselves by
+being cool and detached.  It is a film for those familiar with the new social relations of  management and control. The strata of
+society who have left passion aside to live in a post modernist state of mind
+where deconstruction and unpacking are key intellectual approaches.Abendland understands this audience. So
+when the film covers asylum seekers the scene presented is the detached
+interview situation, not the enforced repatriation; where the film covers protest, we see the German (austrian?) police politely
+address the people blocking the line of the nuclear train, before politely
+removing them; when A looks at  faith we see the passively accepted empty
+shibboleths of the pope addressing priests outside St Peter’s;  we gaze on gazers watching cctv and
+the back spaces of premature baby units and the new potters field which has become an incinerator conveyor belt. The only exception to the de-intensified
+images presented of Europe by GH are the two sequences dealing with collective
+leisure in the Biergarten and the end sequence, one shot of the Rave. </p>
+
+<p>NG could have
+selected appropriately hot emotive footage to include in A. Europe since 2009
+has been rife with riots, protests of all sorts and at different levels. Sports
+events likewise have been source of partisan emotions and individual reactive
+anger seems almost to be the default emotional state of mind of many Europeans.But perhaps what is interesting about A
+is that NG is suggesting that these types of reactions no longer define
+us.A culture that is socially in
+class and status terms increasingly fractured becomes increasingly inert as a
+collective except in the pursuit of leisure.</p>
+A is a film superbly attuned to the needs attributes
+and prejudices of its post modernist audience.It is a film perfectly calibrated for a generation of You
+Tube watchers and generic consumers who are now the key Western audiences.
+
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,291 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-436" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="436" data-apiobjecturl="/api/1/document/436/">
+    <meta itemprop="description" content="no opposition" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/436"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">American Honey  Andrea Arnold (UK 2016)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2016-11-10</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>American HoneyAndrea
+Arnold (UK 2016)Sasha Lane, Riley
+Keough</p>
+<p>viewed Empire Cinema Newcastle, 25 Oct 2016; ticket: £3.75</p>
+
+<p>no opposition</p>
+
+<p>Easy Rider was the first contemporary road movie I saw and I
+thought it was brilliant.It presented
+an America that was in a process of transformation; an America that was dark;
+an America that was being forged out of new socio economic relations; an
+America that could never return to the static 1950’s; an America investing in
+new restless consumption patterns.Driven by music that espoused a lyrical
+anarchism, Easy Rider took the viewer on a trip into an unfolding land where
+death and life were espoused in an eternal illusionary present of now.</p>
+
+<p>Fuelled by sex and drugs Dennis Hopper’s 1969 movie
+foregrounded a country mired in the homicidal
+obscenity of Vietnam, where Nixon was the newly elected President.Politics of course didn’t play out in the
+movie, but Easy Rider felt like a response to the established order, a burst of
+automatic fire from a generation that was going to change America. Change not
+in any way necessarily for the better;but evenso, of necessity, change.</p>
+
+<p>Easy Rider cruised through the projector gate in an easy 90
+or so minutes.Easy Rider was of course
+a movie dominated by men.It was a man’s
+perspective, a man’s story, told from the back of the hog.The women were for leisure when the guys stepped
+off their bikes. </p>
+
+<p>2016 sees Andrea Arnold’s American Honey.Fifty years later and a road movie shot from
+a woman director’s perspective with a female protagonist (Star). It’s another world: one that takes 163 minutes
+to view.</p>
+
+<p>No where to nowhere.Star leaves a space which looks a little like the kind of nowhere
+depicted by Kimberley Pierce’s Boys Don’t Cry.A land of the forgotten, the subculture of bluecollar leisure.Trumpland almost certainly, a collection of
+clapboard homes close by the highway stop with a bar and motel.Star leaves this behind, in the best American
+tradition, to get on the bus.Whereas
+Kesey’s bus was going somewhere if only on a mashed up journey to travel to the
+limits of hallucinogenic experience, this bus goes nowhere, its destination is
+money making for Crystal, gang mistress who runs the show.</p>
+
+<p>Arnold’s bus seems a little retro.Even with the hard edge soundtrack the bus
+seems caught in a 90’s bubble, with none of the kids on board (everyone is
+college age) being caught up in iPhone babble stream.The which today seems unlikely.Recruited onto the bus to be part of an fake
+student itinerant magazine selling racket, the kids party hard on and off the
+road. Butpartying is little more than
+high school jinx and capers.And American Honey is a lot tamer than many
+other American films featuring teenagers let loose on the world: the kids like alcohol (lots) tattoos drugs (lots)
+hard music hard cocks and plenty of sex.The point about the sex is that it is about status rather than
+sensuality or emotion, though in the American Honey script, Star is a little
+confused about this. </p>
+
+<p>American Honey lacks oppositions.Or the oppositions in Arnold’s script are
+left hanging without development.Nothing
+really happens, except that Star gets a little wiser about life as she
+understands that Jake fucks just to notch up conquests. In this respect there are two mildly graphic
+sex scenes which though quite noisy are planted just to make this point. Star
+takes risks in going off alone with men, but nothing of consequence happens; she sells magazines using her innocent kid sex
+appeal rather than the brutality of deceptive blackmail employed by Jake.The bus is a peculiar world where nothing
+happens that means anything. Perhaps a little like the world of America. </p>
+
+<p>And yet there were elements, oppositional elements that
+Arnold worked into the bus trip scripting that were surprising and powerful but
+never allowed developmental weight.Most
+strongly there is Arnold’s fascination with the power of fire and fireworks –
+explosive devices – that flicker to life in the movie, that are graphically suggestive of
+another agitated reality pushing up under the surface of life on the bus.There are three sequences where the bus kids
+coalesce as a group into playing out primitive deranged fire rituals.These moments impress as a sort a revisioning
+of Lord of the Flies, an archaic priapic energy takes over the group: against
+the fire the young kid powerfully swings his cock opening up the doors of a suppressed
+and denied vitality in life.But the
+potential and power of these sections never links into the thematic body of the
+film.They remain bracketed off from the
+body of the movie, lost off as curiosities. </p>
+
+<p>I felt this raw primitivism should have been the force
+shaping Arnold’s film.Instead of a
+communal energy forging content, it is Star’s individual perception around
+which the material is moulded; and her character struggles to carry the film
+which after two hours is already overlong.Her default close up mode, of which there are many is a sort ofpretty half smile, a mode which quickly
+becomes tiresome.She skirts the embrace
+of the group, gets taken by Jake and does a lot of observing. In particular
+retreating into her own world of insect vision, where Arnold’s camera lingers
+over various insect shots, the presumed point of view of Star.But these shots although announcing themselves
+as having some kind of importance are curiously removed from Star’s being.As is the last shot, in which Star wades thigh deep
+into the waters of a lake.So Arnold
+ends her film with a primeval ur-gesture from her protagonist.Star’s watery embrace of the natural world, a
+gesture of immersion into another reality, but by the end of the film, too late
+to be connected to what has gone before. </p>
+
+<p>American Honey communicates as a anodyne experience.Without oppositions it drifts
+inconsequentially from one event to another, one situation to another, evincing
+a feeling that Arnold either has no control over what she is doing or that she
+is uncomfortable with developing the logic of the forces she sets in play;
+rather she sets out to compromise them.  Arnold's hand held camera,  communicates a consuming agitation a mood of restlessness. But without content to match the shaky image, the camera work simply looks like a device for making the film easy to cut.</p><p><span>It is possible that some contemporary women
+filmmakers feel constrained to work under an implicit ideological subtext of
+feminism.Feminism in this sense is a
+sort of fuzzy ideological nexus of ideas that embraces propositions such as the
+equality of genders, the endorsement of women’s power and a demand for respect
+for women.The problem is that film
+makingthat is ideologically driven is
+usually uninteresting and dull, in that nothing develops fully unless through
+ideologically appropriate means and ends.The danger of implicit ideologies in relation to creative work is that
+they engender (sic) an almost unconscious self censorship, so that certain
+thoughts,certain ideas are either not persued
+or if developed are appropriately constrained to conform in alignment with an ideological
+coherence. Film becomes a dynamic of justifiable logic
+rather than of truth content as the logic of ideologies frees the film maker
+from the messiness of life. </span></p>
+<p><span>For women directors today as for directors in
+the Soviet Union the issue is that their work is vulnerable to being affected
+by their own internally driven censorship mechanisms, so that certain types of
+ideas or propositions that may be an inherent part of their material, are
+denied or glossed over.I don’t know if
+Andrea Arnold’s work is built on a feminist substrate, but the hesitant and
+unconvincing nature of American Honey, felt as if she was working with an
+existential Other informing her perception.</span></p>
+<p>Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk </p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

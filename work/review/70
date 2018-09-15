@@ -1,0 +1,174 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-70" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="70" data-apiobjecturl="/api/1/document/70/">
+    <meta itemprop="description" content="Film Review
+
+Happy Days are Here Again
+It’s hard to see why this film has been so heaped with praise, except that the Brit film reviewers have a proclivity to fete new Brit directors after one ‘successful’  feature.  Much like their colleagues on the sports pages who billboard every new Caucasian pugilist as the next great white hope after their first winning fight.  In contrast to many Brit first timers whose disaster prone cameras have been larded with Lott’s money, Paul Williams, as director/writer (auteur!) of  London to Brighton shows a utilitarian competence in assembling his film.  In truth London to Brighton is just another gangster movie, populated with the usual stereotyped heavies, replete with the usual violent gestes and looking to squeeze extra mileage out of the pursuit / chase plot by giving it a fashionable paedophilic nexus." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/70"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">London to Brighton – Paul Williams – UK 2006  - Lorraine Stanley; Johnny Harris    </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-01-05</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Happy Days are Here Again
+It’s hard to see why this film has been so heaped with praise, except that the Brit film reviewers have a proclivity to fete new Brit directors after one ‘successful’  feature.  Much like their colleagues on the sports pages who billboard every new Caucasian pugilist as the next great white hope after their first winning fight.  In contrast to many Brit first timers whose disaster prone cameras have been larded with Lott’s money, Paul Williams, as director/writer (auteur!) of  London to Brighton shows a utilitarian competence in assembling his film.  In truth London to Brighton is just another gangster movie, populated with the usual stereotyped heavies, replete with the usual violent gestes and looking to squeeze extra mileage out of the pursuit / chase plot by giving it a fashionable paedophilic nexus.<p>London to Brighton – Paul Williams – UK 2006  - Lorraine Stanley; Johnny Harris    Viewed  23 Dec 06 Tyneside Cinema at Gateshead Town Hall Ticket price £6-20Happy Days are Here AgainIt’s hard to see why this film has been so heaped with praise, except that the Brit film reviewers have a proclivity to fete new Brit directors after one ‘successful’  feature.  Much like their colleagues on the sports pages who billboard every new Caucasian pugilist as the next great white hope after their first winning fight.  In contrast to many Brit first timers whose disaster prone cameras have been larded with Lott’s money, Paul Williams, as director/writer (auteur!) of  London to Brighton shows a utilitarian competence in assembling his film.  In truth London to Brighton is just another gangster movie, populated with the usual stereotyped heavies, replete with the usual violent gestes and looking to squeeze extra mileage out of the pursuit / chase plot by giving it a fashionable paedophilic nexus. In the action image movie locations replace worlds.  In London to Brighton the film opens with lots of handheld energy with lots of big close ups.  But this energy only compounds itself quantitatively repeating the same set of camera tricks – edgy camera, angled lenses, more close ups – for ever decreasing returns.  The film never suggests that it might effect a qualitative change in form and open up the possibility of entering rather than exploiting the idea of different worlds.  London to Brighton stays true to the limitations of genre and satisfies itself indulging in the ostentatious flaunting of backdrop.  The scene in which the little nasty heavy(Derek) gets called to account by the big nasty heavy(Stuart) is a case in point.  The meeting is arranged by a railway arch on  the wall of which is a huge amazing mural – a riot of colour movement and interplay of graffiti.   The setting is obviously carefully chosen by Williams, perhaps even commissioned(?) but it doesn’t mean anything. It’s a vacuous thing devoid of function.  If anything it detracts from the action between the two heavies, and its existence in the film seems to be to fill out the emptiness of the plot. The use made of the graffiti in this sequence typifies the use of locations and settings.  The gangsters location, the prostitute locations, the Brighton locations, the interiors don’t exist as worlds they are simply backdrops to action sequences generated by the narrative: a certain act of violence has been committed to which there are certain consequences from which a woman and a girl child flee.  If there are no externalities in the film neither are there internalities.  In London to Brighton there are no subjective or affective worlds, which for a film with a child at its centre begs the question as to why the film was conceived with a child as its central subject.  In London to Brighton the child, Joanne, comes across simply as a cipher, the  mechanical means of the realisation of the plot, an object for the director’s instructions.  As a child she does not exist in the film either as an affect or as a conscious entity. The Dardennes brother’s film Le Fils  has a child at its centre.  The boy in the film is minimally expressive but through the careful camera strategy of the directors, we are aware that he is the focus of a fixated and intense scrutiny by his carpentry instructor: a scrutiny that feeds back through the circuitry of the film’s connections an increasing intensifying affect.  In the same way that a photo of a dead child can come alive through the intensity of emotion lived through it, so the child in Le Fils becomes an increasingly charged affective image understood through the eye of an engaged adult.  There is no affective image in London to Brighton neither is there is the Point of View of the Child.  We never understand any of the events from the child’s angle or from within the world of the child.  In fact the role we see played out in London to Brighton is not that of a child but rather of an adult.  The child is allowed a few gestural actions and reactions that are supposed to sign her as a child.  But in reality the film can’t really cope with a child at its centre – its much too complex a notion for its simplistic approach - so Paul Williams elides the child into the adult for most of the film.  In fact the story didn’t really need a child at its centre.  To have written in a young woman as the victim in the script would have made no difference to the plot except it would have lacked the paedo shock effect.  And that exemplifies why London to Brighton is deficient as a film.  All the elements seem to have been assembled for their wow/shock factor.  The violence the child abuse  the locations, none of them mean anything except as shock ingredients to pad out and justify a trite villain drama.     At the end, in the last couple of reels, the film runs on empty.  With no tricks to pull out of the bag, no real tensions in play, with repetition of effect the characteristic motif,  the energy dries up and Paul Williams is left  with nothing else to do, nowhere else to go other than through the motions of tieing up the loose ends.  At this point the film gets absurd but not in an interesting way, absurd on its own terms.   Trying against its own grain to go internal, Stuart the big heavy is dealt by the writers a self justifying monologue inserted into the film to account for and explain the twisted nature of his psyche.  In this piece of cod retro-rationalisation Stuart tells how after being caught smoking he was forced to eat a box of cigarettes by his father.  The monologue comes across as banal and fatuous as disconnected to the London to Brighton plot as its coda.  The coda sees Joanne  delivered to the bucolic setting of her Aunt’s house in Dorset .  The implication in the way it is filmed is that the happy days of  childhood will be her own.    In both these sequences of justification London to Brighton exposes itself as a film that is lacking the belief of its own convictions as a contemporary exemplar of its genre.adrinuk@yahoo.co.uk</p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

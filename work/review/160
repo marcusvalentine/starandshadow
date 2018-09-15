@@ -1,0 +1,172 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-160" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="160" data-apiobjecturl="/api/1/document/160/">
+    <meta itemprop="description" content="Viewed Rotterdam International Film Festival 3 Feb 2007 
+The background actuality of Teresa Villaverde’s film lies in the criminal racket of people smuggling and in particular the entrapment of young Eastern European girls into prostitution.  Transe is not as a movie about issues or dramatised statement of the obvious levels of exploitation in this activity. Transe is film. " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/160"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Transe – Teresa Villaverde – 2006 126 mins: Ana Morcira</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-02-13</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Viewed Rotterdam International Film Festival 3 Feb 2007 
+The background actuality of Teresa Villaverde’s film lies in the criminal racket of people smuggling and in particular the entrapment of young Eastern European girls into prostitution.  Transe is not as a movie about issues or dramatised statement of the obvious levels of exploitation in this activity. Transe is film. <p>Transe – Teresa Villaverde – 2006 126 mins Ana Morcira Viewed Rotterdam International Film Festival 3 Feb 2007 Once upon a time…Transe opens with the sound of the wind laid over the titles.  A wind that blows within and without through the film. The background actuality of Teresa Villaverde’s film lies in the criminal racket of people smuggling and in particular the entrapment of young Eastern European girls into prostitution.  Transe is not as a movie about issues or dramatised statement of the obvious levels of exploitation in this activity. There’s no shortage of that material.  Transe is film.  Film as a sensualised experience grounded in life but owing nothing to expectations about the form that life might take.  Villaverde renders her material as a film experience using camera light voice and portrayal to create an optic and sound world built on the premise of fairytale.   Towards the end of the brothel sequence in Transe Sonia (Ana Morcira) the protagonist sits on a chair in pick-up room.  She faces the camera looking back at but over and beyond the lens whilst a mirror ball (out of shot) reflects a recurring pattern across her.  The shot lasts perhaps 2 to 3 minutes. The flowing multifaceted pattern repeats itself across her face and on the wall behind her.  Sonia is rooted in an immobility of being.  The thing for me about this shot is that I can’t remember if it is mute or not. The power of the optical effect is both meditative and dynamic.  It suspends it animates  As it holds the viewer in its delicate tracery simultaneously it engenders a connection with Sonia’s wordless movement into retreat and defines the object status of her condition.  The shot (and there are others in the film) creates fusion of the objective and subjective: the objective and subjective points of view become one. We move from action into time.   We see the choice Ana makes: to take an internal line of flight that leads away from the world into which she has been trapped, into another world of ice and stillness where all you can hear is the wind.  Like the old Russian folk tales; except this is a tale of modern Europe.Transe is a fairy tale in the classic mode of Anderson in that in his tellings. Anderson’s descriptive writing is strong but economic, the action moves simply forward, the actors have feelings in relation to their situations but not generally in relation to other people and the forces in play are clearly boldly delineated.  Villaverde’s fairytale is an amalgam of motifs: Sleeping Beauty, Bluebeard, the Little Match Girl.  Villaverde’s story is a recasting of the fairytale in contemporary darkness.  Of course the material of the Fairytale often comes from dark recessive spaces of the collective mind and touches the reader with raw psychic fear before closure with some kind of redemption.  Transe is naked fairytale without the redemption coda.    Sonia in Transe is the little match girl reinvented in a malign godless universe.  When she has exhausted her own resources there is no God to pick her up shield and cradle her in his arms . From her sleep of death, the chamber of her flight, there will be no prince to wake Sonia with a kiss;  she must sleep forever.  From Bluebeard’s seventh room there is no escape – Sonia must join the dead wives.  Transe is not gender politics it is a psychic realisation of a loss of will.  No will to power life.  Transe moves from flow to immobility. Before leaving St Petersburg for Europe (because she wants to be rich), Sonia smears her sleeping young son with her blood.  The movement of the camera as Sonia leaves Russia tracking down ice, rails and  river, has a primal menstrual quality.  The camera takes on a biological rhythm that mimics the slow steady quickening of the womb.   As her sexuality is stripped out of her, Villaverde moulds Sonia’s situation on film using twists of the pan and the immobility of the locked off camera.  The life flow ceases: as Sonia finds herself abandoned her biology shrinks back, she withdraws into an internal psychic space where nobody can find her.  In a catatonic drift all sensation is withdrawn and she drifts between sleep and barely extant consciousness.  A body in name only, a body without organs.With Transe Teresa Villaverde has made a film that retains in its form the integrity of the ideas that energised it.  It‘s a film made as an exploration of a certain type of life unfolding in a particular situation. The events that are filmed are selected because they develop the notion of the central character’s actions and reactions to what is happening.  There is restraint and little overt violence on screen (though the violence and pornography of the situation is not in doubt) and as in the fairy tale it is the simplicity and directness of the telling that implicates the viewer in the film.  Villaverde’s faith in her form – the fairytale – contrasts strongly with Andrea Arnolds film Red Road. Also in the festival Red Road seems beset by compromises.  Again it has a fairytale mode, but the director seems to lose confidence and sells out her film to cinematic tricks and a banal plot line which ends up the dominant shaping force of the material. adrin neatrouradrinuk@yahoo.co.uk           </p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

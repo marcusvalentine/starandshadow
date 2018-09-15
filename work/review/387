@@ -1,0 +1,325 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-387" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="387" data-apiobjecturl="/api/1/document/387/">
+    <meta itemprop="description" content="Retrocrit: Sound of silence" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/387"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">M   Fritz Lang (Ger 1931 script Thea von Harbou)  </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2014-09-30</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">New document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>MFritz Lang (Ger
+1931 script Thea von Harbou)Peter
+Lorre; Otto Wernicke</p>
+<p>Viewed Tyneside Cinema 25 Sept 2014; matinee screening
+ticket: £5.50</p>
+
+<p>Retrocrit: Sound of silence</p>
+
+<p>Although M is described as a film about the serial killer of
+little girls, Lang’s movie comes across as something more than this. German playwrights
+Brecht and Wedekind had already established murder as a type of idea, murder as
+a relevant theme for probing the underbelly of society’s moral structure.The abandoned the mutant the criminals and
+the insane, collectively could be seen as a distorted mirror through which the
+distorted social and moral values of industrial capitalism could the better be
+discerned.</p>
+
+<p>Outcastes were a parody of the institutions that feared and
+despised them, and from which they were banned.The slaughter of the innocent little girls is never represented as
+anything other than horrific but is never exploited for melodramic charge.Lang’s bold stripped filmic statements need
+no emotional intensifiers. Lang creates the
+images:the shadows and shadow play, the
+child’s balloon caught in telephone wires;Hans walking calmly by with his little victim Elsie. Shots that cut to
+the quick of murders that are never seen and which it is not necessary to see
+because Lang and von Harbou have woven the horror on the ordinary loom of
+life:the everyday. </p>
+
+<p>M’s scenario is highly contextualised. Just as the English
+crime thriller often had a generic upper class setting, Lang’s movie is set
+within the world of the little people: working class. The long panning opening
+shot of the tenement courtyard with children playing a song game whose words
+call up the child murderer, introduces a place where children occupy a
+different world from adults, unchaperoned and vulnerable.It’s a culture of hard work where children are
+left to fend for themselves - a recognisable feature of all European countries
+at this time.The victims are working
+class, as is Hans who preys on them.Hans
+understands the weaknesses to which they are exposed and how easily they are
+lured,The formal juxtaposed linkages
+between the shots that express class experience and the actions of the murderer
+suggest a Brechtian ethos working and guiding M which shapes and carries it
+foreword to its next stage of development. </p>
+
+<p>The usurpation of power by the underworld.The victory of the gangsters.</p>
+
+<p>As the police investigation stalls and their activity
+interferes with criminal enterprise, the gangsters take on the task of tracking
+down M.When M was being made in 1930
+Germany experiencedthe huge surge in
+Nazi popularity culminating in their triumph in the 1930 elections.The characteristic features of their irresistible
+rise were violence anti Semitism and pack organisation.They
+understood the fears of the little people. And as a parallel psychic track, M can be read
+as Lang and von Harbou’s scripted analogy of the rise of Hitler.The gangsters and crooks take over.Riding on the back of the innocence and fear
+of the working class, the little people, they organise and justify taking power
+and justice into their own hands.</p>
+
+<p>The key moment in this analogous parallelism is the chalk
+branding of Hans with the M sign on the back of his coat, so that he will be
+recognised as the Murderer.The crude M
+eerily pre-empts the Star of David and Juden badge that a few years later the
+Nazi’s obliged all Jews to wear.So that
+they would bare witness on their bodies the sign of their stigma.This moment of the marking of M is a stunning
+coup de film that precisely points to the dialectic that works through the film.From this moment the film’s logic is turned upside down and it is this
+ant-thetical logic which drives the final sections of the scenario.</p>
+
+<p>In the first section of the film,Hans is perpetrator and hunter.From the moment of his branding, everything
+changes, he becomes victim and hunted.It is a measure of Lang’s insight as a director that he understood so
+clearly how to use the resources of film to create a pivotal moment from which we
+start to see everything differently, to invoke a different order of
+understanding.Lang and von Harbou have
+already shown how society has begun break down paniced by the hunt for the child
+sex killer, who could be anybody.But it
+is in the mock court scene where Hans is tried by the gangsters that the reality
+of mob rule is played out.</p>
+
+<p>Legal institutions have developed over centuries to protect
+everyone and to ensure that all are treated equally.The accused have to be tried by a process
+which evaluates their fitness to plead.The mob sweeps this all away. Whatever you are Jew or Child Killer you
+have only the right to be sentenced to death for what you are.There is a moment of pure Brechtian theatre
+as Lang’s camera pans from the serried rows of gangsters baying for Hans blood
+to Hans himself, alone cowered against a wooden partition.But who will speak for me, Hans asks? The
+camera pans upwards now and reveals behind him, on a raised level, one of the
+gangsters .He leans towards Hans and
+says: that’s my job.In this shot
+immediate physical threat is resolved with high farce, violence with absurdist philosophical
+detachment. Extraordinary!Pure Brecht.</p>
+
+<p>The criminal attorney conducts himself with composure and makes
+an eloquent defence of Hans.He shows the
+mob that terrible though Hans may be, the man is simply not responsible for his
+actions.Hans cannot be guilty of
+murder.Of course this plea will not
+make the slightest difference to the rabble who want blood. The interaction,
+the intercutting between the calm figure for the defence and the ferocity of
+the mob, heightens the viewers understanding of the issues in play; we
+understand at last that Hans is not guilty.However much his acts have disturbed and horrified us, we cannot condemn
+him of murder.And surely the screams by
+mobs of Nazis and proto Nazis calling for the death of Jews a few years later
+will have stuck in the mind of some who saw M in 1931.And more than ever now we need to remember
+this scene from a 1931 movie as we witness anger overwhelming judgement.</p>
+
+<p>In this Brechtian parable we see the dialectic forces at
+work shaping the film and informingour
+understanding of what is happening.We
+arelead first to be overwhelmed by
+antagonism and fear of Hans; but these feelings are overturned by the revealed perspective that Hans is himself a
+victim and needs protection from the judgement of the mob, the vectors of hate
+and revenge, who exploit him for their own purposes. </p>
+
+<p>Lang also sets a filmic dialectic to work in M. The interplayed tension between image and
+sound is a characteristic of M as film experience,But for a number of sequences Lang uses no
+sound, or at least only the most sparing of sound effects.Most of the film is played out with sound
+where the fury of dialogue works to lead and define the images.But a number of sequences Lang plays MOS, mit
+aus sound: mute. It is the most
+astonishing feature of the movie.</p>
+
+<p>When Lang like some nineteenth century magician removes the
+sound (like the rabbit disappeared from the hat you wonder where it has gone)
+it is as if a hole has opened up in reality.The viewer is caste down into this hole as ifexperiencing a dream. As if Lang is saying at one level, all this
+life is a dream….but dream as it may be, we can still make sense of it.Lang sets us adrift in an underworld where
+film and dream coalesce and into these silent images we pour ourselves.I am reminded of the mute newsreels we shall
+see of the second world war.So in
+silence we watch: the panic of the crowd, the anger of the gangsters, the
+animal fear of Hans, the police hunt, the silence as Elsie walks away with
+Hans.Silence frames these sequences.Silence frames us as we without voice cannot
+speak, silence frames life and our powerlessness to act to save what needs to
+be saved.Many things we watch in and
+with silence, especialy evil. </p>
+
+<p>With his use of the silent moments Lang confirms his status
+not just as both a evoker of dreams but also as filmmaker who is a moralist.</p>
+<p>Adrin Nepatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

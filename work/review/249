@@ -1,0 +1,191 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-249" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="249" data-apiobjecturl="/api/1/document/249/">
+    <meta itemprop="description" content="adrin neatrour writes:  The Nature of Revenge" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/249"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Katalin Varga   Peter Strickland (2009 Rom) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2009-11-02</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Katalin VargaPeter Strickland (2009 Rom)Hilda Peter; Tibor Palffy</p>
+<p>Viewed Tyneside Cinema:22 Oct 09Ticket Price: £7-00</p>
+
+<p>The Nature of Revenge</p>
+
+<p>There is a shot in the middle of Katalina Varga that commands attention.Filmed from behind we see the forms of Katalina and her son Urban in the box seat of their cart. They are completely still. In the traces in front of them their horse moves its head in impatient agitation.Before the cart a long straight road leads through the corn across the flatness of a plain.Peter Strickland gives this shot unhurried full temporal weightto allow us to read it, to absorb it.A shot to absorb: presaging a movement towards immobility in space and time and the movement of immobility itself, for immobility does move.Unsurprisingly the shot is reprised as the final shot of the movie over which the end credits roll.</p>
+
+<p>Katalin Varga (KV) is a film about retribution grounded in people, culture, landscape, time and state of mind.Peter Strickland (PS) as writer director has made a film in which these elements cohere in an odyssey that left me with questions and insights about the nature of revenge: its necessity itslogic its stillness.It has the quality not so much of a story as a working out of fate.</p>
+
+<p>Traudi Junge Hitler’s secretary tells how on 1st of September 1939, after dinner, a small group gathered with Hitler on the balcony of the Berchtesgarten and watched the sun set in a blood red slomo explosion of colour.All present she recalls felt it an augury of what was to come.</p>
+
+<p>KV is structured as an intercutting of the human and natural: an interplay of call and response between the social and nature.KV is built on necessity both in its script and in its filmic quality and PS has the singular understanding that necessity engenders its own inexorable logic.It is a logic built on state of mind rather than action. In that the acts of revenge are engendered by specific states of mind, the land and skyscapes of Romania are filmed not as encompassers of action but rather as projections and reflections of the state of mind of the eponymous KV.And the viewer is absorbed by and becomes complicit in the unfolding of fate as nature is cast both as a mirror to and co conspirator of KV in her quest for revenge on the men who raped her.In the final act of the film, as on the eve of war at Berchtesgarten, the sky turns oracle projecting into consciousness the event that is to come.</p>
+
+<p>Filmed on S16 film stock, the landscape shots have an intricate indistinct numinous quality that draws in the eye as it is enchanted by the oscillation and vibrancy of light.The filming renders land and sky as soft impressions which blur and merge detail.The way film is used by PS is in itself a force in the film, as is the controlledperformance of Hilda Peter.Both determine how we are able to understand the elements in play: the social and the natural.Shot on 35mm or on HD the mountains mists and clouds would have looked more like external elements of the film characterised by intricate detail and boundary lines.Shot on 16mm and transferred to digital format they have a shimmering interiority that deflects the light inwards into the structure of the film rather than outwards as a framing device for location.Although we are in Romania, the force of the filming renders the film’s setting as universal.</p>
+<p>The sound concept that interlinks and offsets the visual track is an integral part of KV’s movement of ideas and associations.Sound is distilled from three different sources: the film’s electronic score, human sourced sounds: voices, bells of livestock, churches; and natural sounds: soughing. animal noises.The sounds are all subtly graded and interpenetrate and extricate themselves to create a world of association and resonance that both relate to the visuals and at the same time have independent life.The effect of the sound track is to reinforce the sense that we are experiencing a set of stimuli that are assimilations of mind; yet a dynamic sound cut, with or without picture, pitches us back into the world of the social, and its immanent human associations.</p>
+
+<p>The proposition that KV develops is that the woman who is destroyed socially, sets out to revenge herself and destroy those who have destroyed her.A key element in Greek tragedy is that those who wreak revenge on others for the wrong done unto them,inevitably unleash the furies who pursue their own crazed daemonic careers.Some ten years after being brutally raped KV spurned by her village sets out with her young son, also rejected, to find the perpetrators.Events run out of control and she finds the death that perhaps she had been seeking.Nevertheless in its bleak outcome I think the film points to redemption and hope.In that the film defines KVby her immobility rather than her action, there is understanding and meaning underlying the events that unfold. KV is not defined in her actions; rather in her state of mind.At the point of her pain she is locked into the past.She cannot move and neither can she understand that time has moved and left her behind. The violence is not something that is indulged as spectacle; it issues simply from a frozen situation that has no escape; its necessity arises out of the nobility of despair.Her reactions are moral rather than amoral.Her moment of supreme command as she confronts the rapist in the boat on the river is quickly understood by her as a terrible delusion for which she must accept responsibility. Redemption lies in that she realises this and accepts without compromise, her ultimate fate.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+<p></p>
+<p></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,174 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-135" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="135" data-apiobjecturl="/api/1/document/135/">
+    <meta itemprop="description" content="Art Review
+
+High Street Art-Lite, and Bombing Babylon, by Tom Jennings.
+Art reviews published in Freedom, Vol. 67, No. 24, December 2006; and Freedom, Vol. 68, No. 8, April 2007." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/135"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Spank the Monkey, and The 'G' Word, Baltic Centre</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Tom Jennings</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-01-06</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">High Street Art-Lite, and Bombing Babylon, by Tom Jennings.
+Art reviews published in Freedom, Vol. 67, No. 24, December 2006; and Freedom, Vol. 68, No. 8, April 2007.<h1><strong>High Street Art-Lite, and Bombing Babylon </strong>by Tom Jennings</h1><p class="MsoBodyText">[art reviews published in <i>Freedom</i>, Vol. 67, No. 24, December 2006, and <em>Freedom</em>, Vol. 68, No. 8, April 2007]</p><p class="MsoPlainText"><b></b></p><h2>High Street Art-Lite</h2><p><b>The Baltic’s ‘street art’ exhibition bites off much more than it can chew, according to Tom Jennings</b></p><p><i>Spank the Monkey</i>, at Gateshead’s Baltic Centre, claims to straddle contemporary art and graphics, urban interventions and global youth culture, with work chosen by director Peter Doroshenko and independent curator Pedro Alonso. Three floors of the building and a handful of outdoor venues around Tyneside have since September hosted a bewildering confusion of commissioned graffiti, poster and billboard pieces, massive doodlings and small stylised sketchings, multi-media and found-object sculptures and installations, slick manga-inspired dreamscapes, psychedelic fantasias on canvas and computer-generated cartoons, topped off with a garishly-painted skateboard ramp. To make sense of the apparently random juxtapositions, visitors are helpfully advised that the artists featured, from all around the world, earned their stripes outside the conventional gallery system. ‘So what?’ you might ask. Proximity to official approval may fascinate those who aspire to it, but affords no coherence whatsoever to this ramshackle mish-mash of a show.</p><p><i>Spank the Monkey</i> was inspired by the success of the American travelling exhibition <i>Beautiful Losers: Contemporary Art and Street Culture </i>(2004) in exhaustively detailing the development of forms of visual expression associated with diverse US youth subcultures since the sixties. The often countercultural concerns of their exponents were mapped onto the local contexts in which their activities became differentiated as ‘art’, with varying levels of subsequent incorporation into the mainstream alongside cross-fertilisation with prevailing styles fashionable in conceptualism, installation, film, photography and graphic design. Work by original graffiti art stars Jean-Michel Basquiat and Keith Haring was included (early Haring sketches are also currently showing at the Baltic) alongside hundreds of others (Shepard Fairey, Barry McGee and Ryan McGinness being represented in both shows), but its focus on the social scenes out of which the art emerged lent the project a depth and integrity entirely absent at the Baltic – where ‘art-market versus supermarket’ is the nearest we get to profundity.</p><p>So the tame, desultory efforts permitted at Metro stations betray no sign of the tagger’s lawless compulsion to mark alienated space. Inside the gallery, heart and guts are similarly at a premium. At least Faile’s cut-and-paste posters deploying press headlines about the Israel-Hezbollah clash effectively parallel media bombardment when plastered up and down walls, while seeming innocuous when isolated in frames surrounded by white space. Better still, Brazilian duo Os Gemeos’ shack with ski-masked accoutrements mixes shanty deprivation with outlaw soul, whereas Shepard Fairey’s impressive billboards achieve the opposite with his ‘Obey’ range pastiche of Soviet modernism, spinning empty radical chic with the usual heroic suspects – Ché, Mao, Black Panthers, Castro, Subcommandante Marcos, whoever … Whether he’s drawing attention to or celebrating big business authoritarianism while pocketing paychecks from Nike, the implied inevitability of assimilation from underground into mass commercial media is facile and tendentious, dismissing the imaginative and subversive potential of independence, even when a decent living alongside self-determination is sought from design and thematic innovation.</p><p>And such potential’s not hard to find – for example, designs by James Cauty (ex-KLF, K-Foundation, anti-Turner Prize pop/art outsider based at the Aquarium, London) are also showing in Newcastle. Exploiting the decidedly low-brow tradition of stamp collecting, the CNPD (Cautese National Postal Disservice) first day covers, prints and books – marketed as low-priced limited editions – comment pointedly on the absurdities of national identity, art and iconography. Past provocations include images of the queen in a gas mask, and burning Houses of Parliament with the legend ‘5/11’; now supplemented with the ‘America Shut Up’ series and the Angel of the North upside down with its head in bedrock, ridiculing the “we’ve never had it so good” cultural triumphalism of the Sage, Baltic et al. Unfortunately, irreverent title aside, <i>Spank the Monkey</i> risks barely a glimmer of such reflexive humility or humour – surely showing the insecurity beneath the arrogance of power which, moreover, so many contemporary urban stencilists and adbusters deliberately expose.</p><h1><strong> </strong></h1><p>Banksy presumably saw the writing on the wall (so to speak). His sole contribution is an old master-type portrait of some anonymous grandee just after being custard-pied – succinctly puncturing the pretensions of art institutions and patrons, even as he cashes in on the commodity status they sanction. More abject still is Barry McGee’s giant ‘Smash the State’ daubed in red on the opposite wall as a reminder of the energy and anger that can animate autonomous public art when its makers (or curators, for that matter) neither prostitute themselves for government funding nor speculate on niche market cool. <i>Spank the Monkey</i> may bolster the Baltic’s ‘edgy’, ‘relevant’, ‘youf-friendly’ credentials as the end of Lottery support looms, but promoting Sony Playstation and selling rat stencil merchandise to a few skater kids scarcely scratches the surface of the significance of grassroots street-level creative endeavour. </p><p>So, domesticated urban graffiti, Mexican tattoos, Japanese polaroid porn, etc, are wrenched from their complex origins – which are ignored, along with the vast majority of producers shunning respectable careers for collective work, self-publishing, artist-led networks and other marginal, occasionally politicised and/or illegal activities. Proposing trendy ‘guerilla marketing’ (any cultural economics not corporate-controlled) as common denominator simply projects the gallery’s own recuperative desire onto an infinitely more variegated and engaged field than the organisers can acknowledge in their haste to kowtow to capital. Ironically, rhetoric about global youth hawking their aesthetics to the highest bidder, while undoubtedly accurate for some, renders most of these exhibits more, not less, unintelligible. Naturally, the far more salient sidestepping of elitist and hierarchical disciplining is anathema to the British contemporary arts establishment (and other cultural industries). No prizes, then, for guessing whose Monkey is really being Spanked.</p><p><i>Spank the Monkey</i> and the Keith Haring exhibition are at the Baltic Centre, South Shore Road, Gateshead until 7th January, followed by <i>G-Word</i> showcasing North-East graffiti artists until the 21st. James Cauty is showing at Electrik Sheep, Pink Lane, Newcastle through December.</p><h1><strong>Bombing Babylon  </strong>by Tom Jennings</h1><p class="MsoBodyText">[art review published in <i>Freedom</i>, Vol. 68, No. 8, April 2007]</p><p class="MsoPlainText"><b> </b></p><p class="MsoPlainText"><b> </b></p><p class="MsoPlainText"><b><i>The ‘G’ Word</i></b><b>, Baltic Centre for Contemporary Art, Gateshead, January 2007</b></p><p class="MsoPlainText">Postscripting the disappointing Spank The Monkey international street art and design extravanganza (see <i>Freedom</i>, 16th December 2006), thirteen local graffitists filled one floor of the Baltic for ten days with massive wall pieces, a thumping soundtrack, and a large van in the middle submerged in aerosol bodywork. Encompassing many popular styles, most were based on conventional building blocks – expanding and exploding graphic signatures (tags) to transcend the grey desolation of urban environments and experience with vibrant spraypaint dreamscapes, sexualised cartoon fantasies, and generally inventively troubling renunciations of the domesticated surfaces of institutions and egos. This 360-degree in-your-face sensory riot of colour and shape urged emotional immersion, making no concessions to ‘white cube’ architecture’s clinical bleaching out of passion in rarefied distance from the fragmented packaging of sanitised art.</p><p class="MsoPlainText">These artists typically commit surreptitious ‘mindless vandalism’ rather than having everything laid on – and with several actively sought by the law for their exploits, the arms-length New Line Graffiti conferred anonmyity. This pragmatic necessity allowed several conventional artworld pomposities to be pleasingly traduced. The traditional ‘private view’ opening barred the usual worthy suspects in favour of a piss-up for artists, friends and families – who in turn comprehensively tagged the entrance. Having ascribed authorship to social networks rather than individual creative genius, the collective nature of the work was further emphasised by a speeded-up video projection in a side-room showing its convivial accomplishment. Despite the legendary competitiveness of the scene, the crucial role of successive overlayerings of rival tags as substrate and embellishment also makes explicit the sedimented history of sites and emphasises the ongoing rebellion of daring to claim expressive space.</p><p class="MsoPlainText">                Most of <i>The ‘G’ Word</i> contributors simulated a dirty, flaking, crumbling background for the monstrous beauty of their creations, suggesting that this was an exhibition about graffiti rather than the ‘real’ thing. But then it has no proper context, specifically perverting ‘official’ contours of geography, ownership and activity. Whereas illegal graffiti is only anti-social if the obscenities of modern capitalism represent an otherwise healthy urban garden sullied by such artistic weeds – and its subject matter routinely asserts otherwise, as in Zee TTK rendering the Tyneside skyline as simultaneously alien, exotic and toxic, or Inch adding architectural features to make sense of a dysfunctional gallery surface. So while bureaucrats and politicians inevitably bleat about providing opportunities for safe, legal locations for inoffensive muralism, the passionate determination and painstaking skill demonstrated here originated and developed precisely beyond the pale of polite society.</p><p><b>www.variant.org.uk</b></p><p><b> </b></p><p><b><a href="http://www.freedompress.org.uk/">www.freedompress.org.uk</a></b></p><p><b> </b></p><p><b>www.tomjennings.pwp.blueyonder.co.uk</b></p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

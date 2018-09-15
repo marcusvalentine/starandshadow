@@ -1,0 +1,257 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-454" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="454" data-apiobjecturl="/api/1/document/454/">
+    <meta itemprop="description" content="tweet from Trumpland   " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/454"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title"> Wonder Woman   Patty Jenkins (USA 2017) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2017-06-14</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Wonder WomanPatty
+Jenkins (USA 2017) Gal Gadot, Chris Pine
+
+<p>viewed Empire Cinema Newcastle 6 June 2017; ticket £4.00</p>
+
+<p>tweet from Trumpland</p>
+
+<p>At last a super hero film that is the perfect allegorical
+representation of our times.In
+directing Wonder Woman, Patty Jenkins has produced a mythical scenario that is faithful to President
+Trump’s condition and situation.A
+situation of isolation from any influences other than his family of Gods and
+Goddesses; a condition of paranoia to hold the world at bay.In Wonder Woman the tweets lies and
+blandishments of Mr President underlie the movie’s script endowing it with deep
+superficiality, with a post truth/ post modernist sentiment and tweets,
+disguised as dialogue,with new age
+mantras: believe! love! etc!</p>
+
+<p>Like most recent
+Hollywood movies Jenkins and her script writers are beholden to the polemics of
+fake female empowerment.This is an easy lazy speciously righteous
+position to take as it means that the only thinking that has to be done is, is a flip, turning the women into men; rather
+than having to figure out what other defining characteristics might constitute
+strong female qualities.The Hollywood
+solution is that the empowerment of women’s natures is best expressed by them emulating
+and surpassing men in the outer expression of sexual power. This equates neatly with the Trump position
+as regards women.Looking at the women
+with whom Trump surrounds himself, Ivanka, Melania, Kellyanne they all have
+that touch of Wonder woman in their expressive genes. Like the models found in
+Vogue and Vanity Fair, they comprise a
+legion of woman defined by images of a warrior sexuality, as they threaten to
+break forth out of the pages of fashion glossies into the heat of battle.A new era of female soldiery dressed to kill confident of victory against whatever forces
+they might meet: men, cellulose, other women, unruly hair.</p>
+
+<p>Mythically Trump of course has Zeus like qualities.From his tower eyrie high he presides over
+the earthlings, figuring out their comings and goings.Alone at the top of Olympus, he’s a God increasingly
+isolated and reliant on Wonder Woman, Ivanka to represent him to the world
+beyond, to fight off the forces of evil by which he imagines himself
+surrounded.Go forth Wonder Woman and save
+the world for America, go forth Ivanka and make America great again.And so
+they go forth into the world.</p>
+
+<p>Judging by the plot and to some extent the visual look of
+the film Jenkins has spent some time looking at the work of Tarantino.In particular Inglorious Basterds must have
+caught her attention.Tarantino’s commercially
+successful post modernist trystmarried
+film to an assemblage of fake history coined out of second world war material.</p>
+
+<p>Inglorious Basterds is Tarantino’s affirmation that the world,
+and all it contains, should be subsumed to the movie.Cinema should no longer respond to the needs
+of the world; rather the world must respond to the needs of cinema.The needs of Tarantino’s cinema are not
+moral or ethical, but simply the production of spectacle. In the name of cinema,
+history is reduced to fashionable tropes of style and attitude, and ideas to
+the expressive mode of the comic book. </p>
+
+<p>Inglorious Basters in
+fact demonstrates how quickly spectacle spills over into parody, and, how
+quickly parody is divested of meaning. Voided of meaning, Inglorious Basters
+has no content, it becomes an emptied space located in spectacle. But in an era
+characterised by the creation of the Trump mythology ( the God of the Deal) the
+social and political objective is to strip discourse of notions of validity and
+truth.To use tweets and postings as
+psychopumps evacuating the oxygen of fact and truth from social exchange.The result is to create a situation of
+informational entropy in whichevery
+piece of information is equal to any other. A sort of law of universal equivalence.The
+practice of Trump’s White House is to destroy notions of accuracy validity and
+truth by drowning them in an overload of indifference and hostility.</p>
+
+<p>This process of overwhelming truth with alternative facts of
+course fits with Jenkins’script which
+is based on alt truth in relation to the known facts of the first world war. In
+selecting Ludendorff as one of her main villains, Jenkins had to undertake in
+clear cognizance, a significant
+distortion of history.She had to trash
+the facts.But Jenkins, whether
+consciously or not, has absorbed the tutelage ofDonald Trump, and in sympathy with his ethos
+of alt facts, Jenkins sabotages fact for the sake of spectacle.Jenkins could have chosen to substitute for
+Ludendorff a fictional character who resembled him.But she chose to go with the lie.Perhaps not so much for reasons of Box
+Office, but more perhaps because like Trump, the lie is amongst other things, a
+mechanism for flaunting her power.The
+power of the lie over truth represents the truth content of this movie.</p><p>In that Jenkins takes on the power of the lie as the core to
+her narrative, in a sense she also becomes the architypal shadow of her eponymous
+hero, the dark side of the superwoman.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+<p></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

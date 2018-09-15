@@ -1,0 +1,170 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-80" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="80" data-apiobjecturl="/api/1/document/80/">
+    <meta itemprop="description" content="Viewing Haensel’s film Sounds of the Sands,shot in and about Africa, triggered thoughts about my own experiences of having my picture taken; having my image captured, by my dad.  Appropriation of image......" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/80"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Sounds of the Sands – Marion Haensel (Belgium) – 2006 - Rotterdam 2007</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-02-12</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Viewing Haensel’s film Sounds of the Sands,shot in and about Africa, triggered thoughts about my own experiences of having my picture taken; having my image captured, by my dad.  Appropriation of image&hellip;<p>Sounds of the Sands – Marion Haensel (Belgium) – 2006Viewed Rotterdam Film Festival 1 Feb 07Lie back think of dad…….Viewing Haensel’s film Sounds of the Sands, triggered thoughts about my own experiences of having my picture taken; having my image captured, by my dad&hellip;There’s this thing about having your picture taken.  A lot depends on who’s behind the camera.  When I was a teenager one thing that really bugged me was dad pointing his camera at me.  The resentment I felt at being asked to do something I didn’t want to do -  to pose - was great, seemingly out of proportion to the situation.  Of course the paternal demand existed in a context: the context of an underlying bad relationship between me and my father.   I resisted what I saw as an attempt to make to do something I didn’t want to do.  Later I realised that what I was fighting was an appropriation of myself into his world of the false and the fake. My pic would be seamlessly inserted into his series of photographs and come to represent a line of memory perception. Marion Haensel’s film points up a characteristic of films made by Europeans or Americans in or about Africa –  they are not in or about Africa.  The films are about  what Westerners would like Africa to be.  The motivational concern of Sounds of the Sands seems to be to depict Africa as an image.  An image of Africa is presented as if the actual product that Haensel had in mind was a stunning poster and/or the tasteful coffee table book.  Here is Africa as images snatched out of context deterritorialised and appropriated for the benefit of the gaze of the Western consumer.    Sounds of the Sands(SoS) is no more than a parade of such images that flesh out exotic settings stripped bare of referents to both of time and place, leaving the viewer with a sanitised children’s story, a sort of Swiss Family Robinson fiction in which beautiful Africans die tastefully and without protest in the Sahara desert. Image – African’s are beautiful, and beautiful filmicly connotes noble(CF Leni Riefenstahl pics of the Nuer).  But this notion of nobility also points to potential disaster: the idea of the noble savage is lethally disempowering.  Ever since the eighteenth century Enlightenment European thinkers have described and noted with philosophical approval African (and AmerIndian) superiority of spirit over the West.  This Western projection and has sown seeds of disaster for the Continent, in that the Western interests and agents that have raped the land and its people, have been aided and abetted by a projection of African response of which they have no fear:  a sort of beautiful metaphysical fatalism.   Whatever trials tribulations atrocities are ‘sent’ upon the African they respond with nobility and generosity of spirit.  So it is in SoS. The actors in this film are physically beautiful, they are well behaved, they are noble.  What is more(and it one of the SoS’s features that betray its white provenance) they speak perfect received French not some damn patois) The man the woman the child:  the camera caresses their faces in close-up even as they experience death without protest.  The film in its shot composition which mimics a biblical iconography projects this statement about Africa to the audience.  They will take whatever shit is thrown at them with fateful equanimity.  We can let whatever happens to these people happen.   The serenity of the people will see them through and they won’t blame or be angry with us.  No shit. Of course the film, in its structure is a series of sequences without context.  No context means no focus for feelings, action or discourse.  Time and place are left vague and undefined, its set any place any time. It’s in Nowhere Africa.  If you’re an African farmer stuff happens. A drought drives the farmer teacher to make a decision to cross the Sahara with his wife family and live stock.  Except that he’s in a francophone African state we don’t know where he is or the reasons why there might be drought. It happens. And it happens that he thinks it best to cross the desert, which seems a difficult thing to attempt, though of course he is cheerful about it all. The lack of basic context: when – where – what - makes SoS seems entirely abstracted as an account.  An abstracted film about a part of the continent where we know there is turmoil and dislocation.  But we know there are causes for these things.Not only is the specific situation of the film decontextualised, the family of whom it tells are unlike any African family.  African families are known to be multigenerational and cross generational.  But in SoS the African family represented is nuclear.  A family form that for Africa seems to me to be a complete misrepresentation of how the people live.  No explanation is provided as to why there are no older generation present from either of the two family braches.  The suspicion remains that Haensel has Europeanised nuclearised his family in the script to present a more familiar and easier image of Africa to Western audiences.  To sell the idea that they are just like us: mama papa cute kids.  Meat for Freaudians.  Everything is cut to suit the faked profile of the film – nothing real must be allowed to sully the desired image.  If an older generation had been present in the script it would have necessitated  the filming of some tough difficult sequences.  Sequences that would have been difficult even for noble savages to handle without losing their fateful serenity.  The old folks would either have been left behind to die of thirst; or if they’d gone on the walk through the desert they would have been the first to die of exhaustion and heat.  So much the better for the plot to restrict it to the sanitised nuclear family.Bad things happen as the nuclear family and their stock cross the desert.  Bad men demand ransom, bad men want to fuck the women, want to take the boys away to train up as bad men.  Everything happens in vacuo, as if the only reason for the events was the dramatic, the ‘need’ of the film for incident.  So SoS scripts in a heavy macho dude in shades to make badass threats, point guns and generally play heavy.  The crossing of the desert is also something of a joke.  You might think that a film should pay attention to some of the detailed demands that this environment imposes on those who would travel across the barren dry interior.  But the African couple might as well be Bogart and Bacall for all they are seriously inconvenienced by the desert.  Even on its own terms SoS is profligately forgetful.  The man and his friend spend all their money buying a compass from a soldier.  Later when they split to go their ways we never know who took the compass; yet this tool is necessary for survival.It is difficult after viewing to see SoS as anything other than a neo-colonial vehicle aimed at further undermining the stature of the African psyche for European audiences.  The final sequence in a way says it all.  What remains of the little nuclear family group(after mum and one boy have died and the other boy been taken by bandits) finally sink down in exhaustion, lose consciouness and await death.  But what happens?  They wake up to find themselves safe and sound in a refugee camp run by a French aid agency.  The whites have found them and carried them back to the tents.  The whites have saved the noble savages – as usual –  so that they can ride again.  They couldn’t do for themselves.  Get it.adrin neatrouradrinuk@yahoo.co.uk  </p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

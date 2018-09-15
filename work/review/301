@@ -1,0 +1,334 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-301" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="301" data-apiobjecturl="/api/1/document/301/">
+    <meta itemprop="description" content="adrin neatrour writes: film as thought" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/301"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">International Documentary Festival Amsterdam 2011 </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2011-12-19</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">  
+
+
+
+
+
+
+<p>IINTERNATIONAL DOCUMENTARY FILM FESTIVAL AMSTERDAM</p>
+<p>NOV 17 TO NOV 27 2011</p>
+
+<p>I attended IDFA and was able to view some 23 films in five
+days.</p>
+
+<p>One of the issues highlighted for me at IDFA:</p>
+<p>How to
+transpose active relations into the life of a film?</p>
+<p></p>
+<p>There are various ways in which an idea or notion of reality
+can be shaped and givensubstance
+in a documentary film.</p>
+
+<p>Among the films that I viewed in Amsterdam one form of
+documentary film making in particular caught my attention.Films shot from within a process.This particular way of making a film
+attracted positive responses from audiences perhaps because by their nature
+these films demand a critical engagement and shape an interaction with the
+material that tends to be more passive than active.These films elicit a need to respond to what has been
+seen.</p>
+<p></p>
+<p>This particular group of films that interested me took their
+form and salient characteristic from being shot (or in the case of 5 Broken
+Cameras the significant defining material) by individuals strategically placed
+in a dynamic and changing situation.These were films shot from within an unfolding of relations and made
+possible by lightweight cameras and simple but powerful editing systems that
+enabled a lot of material to be shot using different systems and simply controlled.
+</p>
+<p></p>
+<p>Examples of the films situated within a matrix of relations
+were two from the Middle East, one from Iran (This is not a Film by Jafar
+Panahi which I will consider separately in another piece of writing) , and one
+from Europe, Fredrik Gerrten’sBig
+Boys Gone Bananas, a very strong example of a European film that is total
+process, embedded in a context that is filmed as it develops and plays out. </p>
+<p></p>
+<p>The two Middle Eastern films that interested me were located
+in Palestine.Five Broken Cameras
+(co directedby Palestinian Emad
+Burnat and Israeli Guy Davidi) andMarcus Vetter’s Cinema Jenin both articulated a process that was part of
+a wider fateful working out of both individual and collective destiny.</p>
+
+<p>Cinema Jenin was directed by Marcus Vetter who as well as
+directing played the lead role in the eponymous project of renovating an
+abandoned and dilapidated cinema in Jenin.Although credited with one director and one editor, Cinema
+Jenin has the feel of a collective project in which individuals such as Ishmael
+(a previous subject of Vetter’s work in Jenin) and other political and social
+groupings in Jenin, are core to filmic making and unfolding.Film maker Vetter takes on the lead
+role in the cinema project and locates himself at the heart of the complex
+interplay of the social and political relations in Jenin which shape and mould
+the process of both rebuilding the cinema and making the film.As film maker Vetter is committed to
+the actual project and plays a key part in the process that engages the
+resources and enters into the critical social and political relations that make
+a successful outcome possible.Marcus Vetter is in Jenin.And that ‘being in’ has the effect of engaging with dynamic relations
+that the camera not only captures but affects.There is a sense in which the camera itself becomes a
+player.The camerain the continuous action of filming
+creates a feedback loop. It becomes not just a point of reference, but also
+part of the questioning and decision making processes. Perhaps in itself the camera becomes an
+attitude/behaviour modifier at the individual level as an immediate source of
+image feedback. The knowledge that everyone is ‘in’ the Jenin movie is a
+fateful realisation, which turns the camera into a force that affects
+individuals so that different realities attain a certain visibility
+particularly in the political domain.During the editing of the film, Julliano one of those
+in the process, in the intensely political dialogue which is a defining element
+of relations in Jenin is shot dead, murdered outside the cinema.Was this part of the film or an event
+that we can bracket outside the film?I don’t know but I felt that the core questions that unfolded in the
+process of filming were central to what was happening in both in Cinema Jenin
+and 5 Broken Cameras.</p>
+
+<p>Being in the situation and filming from within a process
+creates films that pull on emotive cognitive and intellectual responses of
+those within this unfolding. Participantsare confronted by themselves presented as image in film.They are accompanied by a constant
+mirror image which crystalises their movement through time.In the recoding of the unfolding of relations
+there is no hiding place either from the virtual audience of the self or from
+the wider projected world of viewers. The unfolding of relations in the movie
+creates situations of a completely different dynamic from the normal artificial
+and controlled interview situation typical of most docs, where the interviewees
+are easily able to present the facets of issues that suit their purposes.Seeing material from within process,
+even allowing for the controlling aspect of editing presents a more
+contradictory but more challenging picture for audiences to understand.Audience response indicates that this
+is a challenge to which audiences respond very positively.</p>
+
+<p>Burnat’s 5 Broken Cameras, each of which is smashed or
+broken during his filming of the Israeli occupation, develop into more than
+just tools that record the terrible and unsettling events that he films.His camera, as an invariable
+presence recording the Israeli incursion, becomes part of the developing
+dialogue within the Palestinian community in Bil’in.The core dialogue in Bil’in and amongst the Palestinians is
+about how they can best resist the Israelis and what relations they should have
+with sympathetic Israelis.Burnat’s camera becomes part of the thinking about the situation. His
+camera is part of the process of understanding what is happening to the village
+and the effects of their response to events.Viewed by the villages Burnat’s footage becomes part of a
+feed back loop, feeding into the villagers understanding and evaluation of
+their actions as they oppose the Israelis, andeffecting modifications and planning about actions they have
+taken and will take in the future.The camera as thought. </p>
+
+<p>Both Jenin and 5 Broken Cameras seem to be part of a
+re-evaluating by Palestinians of the means by which the Israelis can be
+opposed.Confrontation with the
+Israelis by force of arms is not the only means of fighting; in certain
+situations such as those in Bil’in it may be counter productive and other
+strategies using other tactics may be more effective. With the addition of
+filming as a feed back loop, opposition using techniques of civil disobedience
+and non violent protest become effective in affirming Palestinian self
+beliefand in achieving the goal
+of forcing Israel to look at itself and even to make concessions.The actuality recorded by Burnat is
+shocking; but the filmennobles
+the Palestinian cause and strategy of non violence and communicates it not just
+to the world wide audience but also to Israelis. </p>
+
+<p>Filming to the extent that it is part of the thought
+processes in the Palestinian discourse becomes a conduit for reaching out to
+Israelis.Film as part of the way
+of thinking about what is happening, can work to legitimise intra-Israeli
+resistance to their own government and empower some Israelis to actively
+support Palestinian resistance.The act of filming in both 5 Cameras and Cinema Jenin,becomesreflection images that reach and penetrate into Israel.As a strategy it is controversial but
+as a development it proposes another type of path towards Palestinian self
+determination which has the possibility of breaking down the Israeli mind set
+from within: a Palestinian Trojan Horse.</p>
+
+<p>From the point of view of the audience these two films,
+Jenin and 5 Broken Cameras demand a level of active engagement with the
+material. They are not shot from a notional point of neutrality. There’s no
+doubt about the point of view from which the film expresses itself. There is no
+doubt about the partisan nature of film making.Because this is completely transparent the audience
+know the grounds on which to base reservations or criticism and are also
+sensitised to bias and fabrication.They are put on the alert to evaluate what they are presented with.The are challenged to view the material
+with critical tools of appraisal. </p>
+
+<p>The viewers are exposed in these films to self believed
+Palestinian utterances and discourses.The viewers are in a position where neutrality or even indifference in
+respect of the relations revealed is challenged.Relations of power, territoriality, hierarchy and politics
+and social concerns. 5 Broken Cameras (5BC) through the continuous filming of
+Burnat over 6 years, is part of the process of witnessing and resisting Israeli
+development of illegal West bank settlements, occupation. land theft and wall
+erection.The film and the
+film makers are part of the forces of opposition by the villagers of Bil’in to
+the mechanical forces of Israeli occupation.Burnat’s camera is not just a tool not only a means to
+record. Through the medium of the footage the audience also becomes part of the
+thinking about the process of resistance to what seems to be a superior
+physical force.</p>
+
+<p>To deny what the Burnat’s camera films, as some will do, you
+have to think about the material in a specific manner.You have to believe either that 5
+Broken Cameras is a perverse project, whose objective is distortion and
+fabrication. Or that it is an unwitting project, in which a naïve subject
+Burnat is exploited for his limited capacity to see and film only from one
+limited perspective.The beauty of
+the documentary film is that the evidence is in the film.However much these films may be edited,
+the integrity of the process in which they are enfolded remains.All viewers are equal in viewing and
+evaluating the relations with which they are presented.And it is this integrity to which
+viewers respond.</p>
+<p>adrin neatrour</p>
+<p>December 2011</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+<p></p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

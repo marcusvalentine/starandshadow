@@ -1,0 +1,270 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-467" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="467" data-apiobjecturl="/api/1/document/467/">
+    <meta itemprop="description" content="win some lose some" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/467"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Battle of the Sexes   Jonathan Dayton and Valerie Faris (USA 2017)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2017-12-12</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>Battle of the Sexes  
+Jonathan Dayton and Valerie Faris (USA 2017)  Emma Stone, Steve Carell.</p>
+<p>Viewed Tyneside Cinema 28 November 2017; ticket £9.75</p>
+
+<p>winner and losers</p>
+
+<p>There is not much to say about Dayton and Faris’ ‘Battle of
+the Sexes’ as film.  It is a good story
+but which is given the Hollywood treatment so that the film itself is a predictable
+formulaic product, shot using standard shot reverse shot, it’s overlong and
+weighed down by its own expectations of political and personal correctitude.</p>
+
+<p>AS a biopic it suffers from the curse of genre that its
+heroine, Billie Jean King is rendered as pure as the driven snow – BJK as an image
+that steps right out of a shower gel advert. Without blemish, she’s a great
+advocate for women’s rights, for women’s tennis and has the guts to put these
+on the line in taking on Bobby Riggs’ challenge.   All
+accurate as the image she projected, but un-interesting.  The script of course a la Hollywood mode
+tries to cover all bases; all two of them: the professional and the personal.
+But neither of these areas kindles dramatic tension. </p>
+
+<p>The script loses focus in relation to BJK in the sense that
+in the modern vein it wants to include everything: the tennis and the personal
+in equal proportion.  As the personal
+involves her lesbian relationship which today is a personal choice approaching
+the norm, there is little contemporary interest to be derived from this
+‘transgressive’ area of her personal life. 
+In particular as her husband is happy enough to go along with her desire
+and not stand in the way ( Their marriage as scripted lacked passion on either
+side and may at this stage of its life been a convenience).   But the personal aspect of BJK’s life is
+filled out cinematically with ‘falling in love’ which the directors equate shot
+wise with bulking out the film with  dull
+longeurs of the lovers staring doe eyed at each other  before slithering genteelly together between
+the sheets.   </p>
+
+<p>This is tedious cinema, that may justify itself as promoting
+LGBT rights, but if so the Battle of the Sexes ( in the best Hollywood
+traditions) is fighting a battle already 
+done and dusted.  There is nothing
+in the script that encodes or actually probes what price BJK might have paid
+for ‘coming out’ at this point in her career, or even the tension her career
+creates in prioritising work over play.   There is no cost depicted by Dayton and Faris
+even in BJK’s personal anxiety for her lesbian affinity.  So this is an inconsequential cinema, that
+reduces its core personal relationship to a scripting device.   </p>
+
+<p>Given that the outcome of the Riggs/BJK match is well known
+it is almost impossible to generate any tension in relation to the result of
+the Match that is the film’s centre piece. 
+Because BJK in Battle of the Sexes  is an image pure rather than a character there
+is no psychic dimension to the movie, a dimension that might have probed the
+more deeply into the layers of her responses and self belief.  In effect all that Dayton and Faris achieve
+in relation to BJK’s story is a triumphalist anthem, that in today’s lexicon is
+free of the troublesome business of doubt and self reflection.</p>
+
+<p>If BJK can be rendered as no more that a two dimensional caricature,
+ not so Bobby Riggs.  Even though the film goes to great lengths editorially
+to give equal time to both protagonists, Riggs is immediately interesting, in a
+way BJK is not.  He cannot be boxed into
+two dimensions. Riggs was himself, a time back, a tennis champion (and like BJK
+not out of the college side of the tracks). 
+But ‘tennis’ as a world had not fenced him in.   His commitment to tennis was as part of the
+life process  Dayton and Faris can’t stop
+Riggs being the gravitational centre towards which their film is inexorably
+pulled.  Riggs has energy.  He ducks he dives he bobs he weaves. It is
+clear that at the core of Riggs’ being is 
+the drive for immanence, life on the edge; life as the hustler. To
+create situations where he is dancing to 
+his own dangerous tunes, playing his own game to high risk stakes.</p>
+
+<p>Steve Carell playing Riggs commands attention every time
+this parallel cut movie shifts to the Riggs perspective. Despite Battle of the
+Sexes attempts to sex up BJK’s role, the real story is Riggs.  Riggs’ stunning decision to turn his bad ass
+attitude towards equal pay for women tennis players into a scam and caper on a truly
+epic scale.  To become the prankster ring
+master of the virtual tennis circuit.</p>
+
+<p>Battle of the Sexes gives some idea of the enormity of
+Riggs’ conceit.  A documentary would have
+done better justice to the scale of  his
+realised achievement  as he successfully
+sold the whole of the media world in the USA, the match in Dallas,   as the Battle of the Sexes.</p>
+
+<p>Most sports stars are uninteresting because they are self confined
+to the bounded worlds and rules of the game from which they earn their money
+and in which live out their life.  Unless
+something happens that catastrophically smashes through these bounds, the
+people living in these toy towns, carry through their duty of filling the
+sports sections of the back pages or prime time TV slots.   That is their world, and they stick within it
+and to it.</p>
+
+<p>Riggs however was out of this world.  He had moved into a world of his own self creation
+where he made the rules. Briefly BJK was at least partially assimilated into
+his world on his terms.  Riggs may have
+lost the match but in terms of the game of life, he was far ahead.  But Jonathon Dayton and Valerie Faris seem
+not have been happy with this more honest depiction and opted to make a dull
+biopic with a Riggs Side show, even though on their own terms they couldn’t
+contain him on the tram lines.</p>
+<p>adrin neatrour  </p>
+<p>adrinuk@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

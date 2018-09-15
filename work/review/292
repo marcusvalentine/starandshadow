@@ -1,0 +1,194 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-292" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="292" data-apiobjecturl="/api/1/document/292/">
+    <meta itemprop="description" content="adrin neatrour writes: Love as a sort of corporate blancmange  (Opaque jelly of corn flour and milk, usually sweetened and flavoured)" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/292"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">The Tree of Life     Terrence Malick (USA 2011)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin  Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2011-07-31</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>The Tree of LifeTerrence Malick (USA 2011)Brad Pitt, Sean Penn; Jessica Chastain</p>
+<p>Viewed Empire Cinema Newcastle upon Tyne: 26 Jul7 2011; Ticket price: £3.50</p>
+
+<p>Love as a sort of corporate blancmange(Opaque jelly of corn flour and milk, usually sweetened and flavoured)</p>
+
+<p>At the start and end of Terrence Malick’s(TM) the Tree of Life (ToL) there is an image of shimmering moving filament, brightly llt against a dark background.It reminded me of Tinkerbell in Peter Pan,JM Barry’s fable written for children in which his child characters are asked to close their eyes and say: “I believe in fairies!”Mallick’s ‘Tinkerbell’ moments upgrade this banality and pitch a similar message at adults, infantilised adults.ToL tries to persuade through the ponderous manipulation of motion picture imagery, that if we say (breathlessly like they do in the movie): “&hellip;the only way to live is love….”all will be well in Tinkerbell-land. aka USA.</p>
+
+<p>I think that TMin many ways has taken on the mantel of Frank Capra. In Capra’s films it is the core American values of decency democracy and civic duty that underpin the actions and belief system of small town man, TM judges that these virtues have failed to sustain the suburbanite in corporate America.What the little man now requires in order to endure is cosmic consciousness.A complete melding with the one that is the universe: love.</p>
+
+<p>The movie, filmed in Smithtown Texas,dramatises the upbringing of two brothers, and plays out the thesis that the male dominated ordering of life in this culture, is a failed project.The culture needs something more feminine more transcendent to balance out and to resolve its tensions and contradictions.The result is that ToL is not a movie rather an advert forthe wild and wacky touchy feely new age belief system.An advert based onthe old school Madison ploy of the before/ after script set-up. Before the O’Brien family is touched by new age consciousness they are trapped in old Hollywood stereotypes, trapped in linear time; consequently they are not very happy people.Once touched by this New Age stuff they are released into a new Hollywood script where they are free from the bonds and ties of tyrannical linear time, released into an ecstatic non linear everlasting present, where they can smile touch and kiss each other whenever they feel like it.That’s the message: get into new age or be sad and grumpy old men.</p>
+
+<p>Some folk of left field persuasions will object to the naïve simplifications endemic in this message. I found objectionable the banality of the shots used by TM in his advert to demonstrate or suggest the intermeshing of cosmos and spirit.It felt to me like a master thief at work as I watched a series of familiar images drawn from the realms of geophysics ( mantles and volcanoes) biomorphics cosmologies etc, stuff we’ve seen on TV many many times, indiscriminately assembled into montages and juxtaposed with his suburban soap opera material.These pictures of natural processes are accompanied by highly emotive manipulative music (much of it religious and featuring large angelic choirs); andthe even more manipulative dramatically whispered voice overs (usually female voice) making sure we associate the image with the product (just in case the music doesn’t make it clear enough).As when Mrs O’Brien whispers of the dead son she has been mourning: “I give him to you ; I give you my son”and we see images of a sand-scape with people dancing in ecstasy.</p>
+
+<p>There is a commonplace observation about film music that whatever music track you lay behind a sequence, it looks OK.TM seems to subscribe to a similar view of film editing: that whatever images and sequences are juxtaposed it will work.On the basis of what I saw in ToL I don’t subscribe to this idea.Most of the radical edits that move the viewer from the drama to the cosmos are crude and despite trying very hard TM comes nowhere near to the making the sort of connection that Kubrick fashioned in his movie 2001 where one brief image montage links all the tools that mankind ever has or ever will use.BY comparison TM’s attempts to create links between different worlds are dull plodding and lack inspiration.A number of people walked out of the movie about an hour in perhaps unimpressed with TM’s attempts to link the everyday with the cosmos.</p>
+
+<p>The version of the 50’s that TM creates in ToL is peculiarly sanitised.There is no TV, no music.No one drinks alcohol;no one smokes.In other respects the era (sets and cozzies) is replicated with the minutest attention to detail.So where is this place? Where has TM set his movie?It’s just a set, like the Truman show,which exists without real context, ( OK Mr O’Brien is located as a power plant manager but this is a gesture) where there isa lack of reality behind what seems real.Where are we?Inside TM’s head?Yes!inside his detached director’s bubble.!And what does he see from within the bubble?The answer beside the TV pictures, is affect images.This is a film of affect, located in the personal- to-the-director which TM externalises as his characters, filmed in a relentless gliding press of close ups that register only their reactive emotive and psychic states.The solutions to these states comes not from a working out from within of their destinies.Rather it comes from without, from the adverts which like soft drinks or beauty products make their promises of redemption.TM’s characters are deterritorialised individuals whom TM wishes to claim for his own blinkered cosmic vision. No drugs allowed just blancmange.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+
+
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

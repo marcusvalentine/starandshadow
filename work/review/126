@@ -1,0 +1,172 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-126" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="126" data-apiobjecturl="/api/1/document/126/">
+    <meta itemprop="description" content="Film Review
+
+Targets - Peter Bogdanovich - USA 1967" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/126"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Targets - Peter Bogdanovich - USA 1967</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2006-07-30</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Targets - Peter Bogdanovich - USA 1967<p>Targets - Peter Bogdanovich - USA 1967</p><p>Side cinema 21 March 2004</p><p>Seeing Targets at the Side Cinema last Sunday made me want to visit Peter Bogdanovich and talk to him.  It was made at a critical time and place: America in hightail engagement in the Vietnam War; the assassinations of JFK and MLK.  Targets comes out of a society where after 35 years of the talkies and Hollywood global dominance, 15 years drip feed TV, the psycho-reality of the movie has invaded everyday streamed consciousness so that Americans (they first but quickly joined by the rest of the world) are starting to see and interpret actuality through the disjointed and distorting nature of the filmed image.  And also at this point our society is about to incorporate the computer and its programme into psychic functioning.</p><p>The critical moment in Targets defining both the film and its concerns is when the killer types out a note written to himself which reads something like: ”It is now 11:40 in the morning.  My wife is about to get up and when she comes  over to give me a kiss I will shoot her and then I will shoot my other&hellip;then it will all happen.”   In this typewritten note killer is writing his own software, programming his mind to carry through a series of actions almost as if he were a prototype video game.   Targets at this level is a philosophical investigation into the nature of killing.   Belying the apparent visceral nature of its subject matter it is cerebral film looking at the controlling aspects of mind.  What Bogdanovich locates at the centre of his film is the idea of programming; the idea of individuals overcome by multiple circuitries of intensifying stimuli - the movies -TV - the suburbs- the family - constructing a simple override programme that resolves his situation with maximum economy.  Targets is a film, a cerebral investigative examination of the idea of self programming.  In the past evil may have inhabited us, taken possession of us or manipulated our actions and thoughts.  Today we do it ourselves: we write our own programmes.   Interestingly, Targets close film contemporary is Kubrick’s 2001 which also has a central preoccupation with computers and programming but is a very different take on the issue.</p><p>In form Targets has a neo-realist feel.   We see it from the killer’s point of view. The settings are nondescript: drawn from anywhere any place-ville: the suburban house, the hotel, the gas storage tank.  There is no architecture of set, in fact the reverse.  The final setting of the drive-in movie lot is a deconstructed exhibition space, emptied of everything except essence – the huge screen.  The film is restrained in its use of expressive resources: the roles are played out neutrally by the actors with little emotive gesturing, the script pared back, the scenes mostly shot wide or medium in long takes with spare use of the close up.  This stark economy strips the film back to its working parts allowing clear uncluttered sighting of the critical intersection point that is the target of the film -  the programming soft ware that develops from  the meeting of the proliferating promiscuous and incestuous gun culture - with -  the absorption of  individuals into the movie scripts,</p><p>In the gun store two old codgers (Mutt n Jeff) sell lethal hardware, guns as if they were  ball hammers, and bullets like they were nails.  The reality of the gun is not so much that it’s a tool for killing (it does do that) but rather it’s a cool tool to engender radical change of scene.  At a point where for whatever uninteresting reason an individual feels hemmed in, terminally bored, angry, trapped etc.  There is recourse to the scenario mapped out by the movies. Pick up the gun, aim and shoot; everything is changed.  It’s a machine for radically altering everything.  And as you squeeze the trigger, no matter who you hit: the foreigner, the wife or passing stranger you are the one in control. You come to power with power. In an atomising society: each is alone.  In the movie there is only individual destiny. To close his loop Bogdanavich calls on his protagonist (brilliantly played by Tim O’Kelly) to shoot and kill the audience from within the cinema screen itself.  This is Bogdanovich saying directly without metaphor, analogy, or any sort of circumlocution, pointing to what is in the movie screen and saying - killer.  The killer is literally in the screen; who is not seen because our senses are overwhelmed by the sensual experience of watching. These images upon which we gaze, line us up in their sights and one by one corrupt us and pick us off.  Just like the sniper shoots the audience in the cars watching The Terror. Interwoven with the snipers story is the Boris Karloff story.  This is told as the story of the old movie star who is tired with his film image, bored with the repetition and cliché of film and so determines to retire. Before retiring he agrees to attend a screening of his film The Terror at the drive -in and meet the fans.  Karloff looks into the nature of the film image and perceives that it is empty and vacuous and that it has sucked the life out of him. It is Karloff’s tired form that clinches the denouement.</p><p>Bogdanovitch takes his film to its logical conclusion.  This is not a film about killing people it is a film about programming and how image works in the programme.  The ending called down upon Tim O’Kelly is to be defeated by multiplicity of imagery.  Emerging from within the screen he is overwhelmed by the merged images in his head of the real and virtual Boris Karloff. Confused by the moving images that he can’t reconcile he is reduced to a catatonic immobile state.  His destiny a little like the sort of psychosis induced experimentally in laboratory rats when exposed to conflicting stimuli.  They break down we break down he breaks.</p><p>Stylistically Targets feels like a B sci-fi movie of the ‘50s and 60s. These films often used the subterfuge of a fantastical script device to record the underlying paranoia in US society.  The in-part politically induced social fear of invasive alien forces and the in-part culturally bound fear of living on and feeding on land that had been stolen from its rightful users.  Targets does away with any pretext that the alien forces might be anywhere else but in the here and now.  The force at work is the programming manufactured distributed and retailed in the USA and exported world wide.</p><p>Adrin Neatrour 26 March 2004</p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

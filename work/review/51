@@ -1,0 +1,172 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-51" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="51" data-apiobjecturl="/api/1/document/51/">
+    <meta itemprop="description" content="
+There is an Africa of anger and an Africa of surfaces" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/51"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Bamako – Abderrahmane Sissako – 2006 – Mali France Belgium</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2007-04-27</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+There is an Africa of anger and an Africa of surfaces<p>Bamako – Abderrahmane Sissako – 2006 – Mali France BelgiumViewed Star and Shadow Newcastle – 22 April 07 Ticket price £4-00There is an Africa of anger and an Africa of surfacesThe setting for Bamako, also the capital city of Mali, is a humble domestic courtyard where people get on with the business of living; within this courtyard Western economic institutions are on trial for their amoral business dealings with Africa.  The business of the trial and a business of life proceed interpenetrating and weaving through each other. Both present a surface to the viewer, but the nature of the surfaces presented by the trial and by life are different. In the expressive setting for Bamako Sissako has invented a kind of visual pun, in that a court of law is contained within a courtyard( the pun also works in French which is the vehicular language of the film) And of course this pun also points to Bamako’s playful cosmological inversion in which the lesser contains the greater so that the majesty of the law in all its vastness can be folded into the smallness of a Bamako back court in all its nominal insignificance.   It a sort of quantum Carolean logic which Alice would understand.   All the grand institutions – the World Bank – corporate capitalism – globalisation –  amount to so much the less than the lives contained in this ordinary domestic backyard.   However much these lives are exploited by the workings of corporate greed and Western avarice there is not one iota of doubt that the dignity and worth of the lives in the yard have more value than the absent and abstract forces that seek to rob them.  And that the values they represent of humanity life and warmth will outlive the cold meanness of those who would deprive them of the means to live their lives.    Bamako works on the senses and on the intellect using the sound and picture inputs as different strata within the film. The trial with all its accounts represents a surface of reality, what is seen when anger and the consequences of Western economic policies finally come to the surface: after the shipwreck the bodies and the flotsam and jetsam. Intellectually Sissako conducts the trial in the form of summoned voices that detail the disasters that the last 20 years of Reagonite driven aid and global financial ideologies have visited upon almost the whole of Africa.  The words are those of ordinary Africans and despite the formal nature of their utterance the voices in their warmth and urgency tell us directly why Africans are being driven from Africa:  it’s the economy stupid.  The Europeans or rather ordinary European citizens whether in Spain France Italy or the UK stand first aghast and then with anger and resentment at what they see as the unstoppable tide of economic migrants flowing across the Atlantic and the Med towards the chimera of European employment and riches.  What we don’t comprehend or perhaps don’t want to comprehend are the forces that have been unleashed in Africa that have brought about this situation.  It was not always like this.  The implementation of a World Bank lending regime that links loans to the opening up of markets and infrastructure services (water transport education) to predatory globalisation practices of private enterprise and corporate capitalism;  the debt burden, from unequal and often leveraged loan agreements,  despite Geldoff and Blair, Africa still repays a huge proportion of its income to the West.  The consequence is a continent that is impoverished,  an impoverishment that is growing, a tragedy that is deepening.  The migrants who turn up on our doorsteps are there because of us, what is done by the economic systems that give us our daily bread and feed our desire.   So in Bamako it’s Africans themselves who tell it as it is; it’s their story and we should listen shouldn’t we don’t we do we?If it’s the everyday quality of the African witnesses that make the audio stratum more than a polemic, the picture stratum of Bamako comprises an altogether other dimension of the film creating a specifically optical experience.  What we see is primarily the surface of Africa:  like the surface of the moon beautiful.   Western filmmakers don’t  film this face of Africa; they usually shoot Africa as a colourful exotic backdrop to their action image movies.  To film surface you need a camera that is not restless; a camera that is allowed to stop and observe what is there accessible to the eye.  In Bamako Sissoko is not particularly interested in what lies under the surface.  There are enough pictures of suffering Africa; there is enough soap opera grimacing.  Sissoko avoids images that make immediate direct appeal to the emotions that create a world of feeling with which the viewer would be called to empathise.   Images used in this way would have been crude reinforcers of the audio stratum.  There are in Bamako some strips of action: about a man in the courtyard dwellings who is very ill, the club singer, but they are shot as part of the ongoing stream of life, they are observed from the outside with no permission implied to come inside these stories; no affective invitation.  The visual stratum of the film is filled out with attention to surfaces and textures that are filmed with a primal protean sensuality.  This is Africa!  This is Africa! Not America nor Europe: only in Africa these surfaces across which I take you as across a continent of light texture and touch.  Africa that is most vibrantly warm and whose energy vibrates through light.   Sissoko composes his visual stratum  out of texture and surface:  painted walls – the walls saturated colours that bleed onto the screen;  adobe interiors – dark spaces built from the earth of the continent; black skin –  silken voluptuous absorbing human; textiles – patterns colours alive as animals or plants.  Take the surface that’s what’s here.This is Africa its surface is as real a statement as the surface of the earth seen from space.  It tells its own story.  In one sense there is only surface in life: the rest is supposition or projection.  It’s a philosophical proposition.   As are the final verdicts of the trial:  that it is not Africa that owes to the West and its financial institutions, but these institutions that owe something to humanity.adrin neatrouradrinuk@yahoo.co.uk   </p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,262 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-358" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="358" data-apiobjecturl="/api/1/document/358/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/358"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Filth Jon S Baird (2013 Scot Ger Swe )</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2013-10-22</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<p>Filth  Jon S Baird  (2013 Scot Ger Swe )  James McAvoy</p>
+<p>Viewed Empire Cinema newcastle upon Tyne 17 Oct 13  ticket: £6.40</p><p>Now here's a funny thing:  when I left the cinema after seeing
+Filth, protagonist Bruce Robertson's catch phrase:  Same rules apply
+-  kept on ringing about in my head.  Whenever Robertson did the
+dirty on some poor sap who crossed his path, he would quip: 'Same
+rules apply' Although I didn't quite get it at first, the phrase got
+me thinking about Rules which I presume is what both Director Jon
+Baird and writer Irvine Welsh, who wrote the novel, intended.   
+</p>
+<p> The opening sequences of Filth introduce two locations : the
+bedroom and the police station, settings which provide much of the
+film's action.   Bottoms up and bottoms down you might say; sex and
+power lie at the heart of the film's concern.  In the opening
+sequence of Filth  we see  a sexy woman provocatively dressing and
+talking about power being the ultimate turn on and how she keeps hold
+of her policeman husband by playing the tease.  The scene providies a
+significant cue that sex as a power tool would play hard ball in this
+scenario.</p>
+<p>The second sequence of shots introduces the protagonist Bruce
+Robertson of the Edinburgh CID as, during a breifing for a murder
+case, he leeringly appraises and evaluates his rivals for promotion. 
+</p>
+<p>In the screen tradition of Touch of Evil, LA Confidential and Joe
+Orton's Loot, I had thought that Filth would feature police
+corruption in its narrative. But in the same way that at a given
+level Welsh's Trainspotting is not about drug dealing, so Filth is
+not about police corruption.  It's not even about the police.  
+Although its key setting might be the Edinburgh CID, this is not
+central to the situation that Baird  set ups and develops.  The plot
+hinges on the manipulations and gambits made by Bruce Robertson in
+his attempt to secure promotion to the rank of Detective Inspector.  
+As a promotion competition the plot could be set inside any corporate
+body:  Amazon, BA Systems, Ford or some large Council.</p>
+<p>Filth is grounded not so much in particiulars as in universals. 
+Same rules apply.  Filth is not concerned with the particular
+relations and practices engendered by the police in their role as the
+interface between Society and the Law.  Filth's focus of concern is
+raw competition; the battle between men for scare resources:  the
+battle for Promotion. An indivisible prize only one man or woman can
+win.</p><p>In Filth. Baird  probes the state of our society in a manner that
+might be philisophically grounded in the writings of Thomas Hobbes,
+the 17th century political philosopher.  Although Hobbes
+was writing to justify the state, his ideas can be transposed to any
+level of catastrophic social disintegration.   In the 20th
+and 21st centuries Welsh and Baird  realise that it is the
+break down at the micro level of social ordering which is leading to
+chaotic social conditions.  The disappearance of collective
+institutions, with their values and structures,  in the face of
+attack by sociopathic individualism.  A collapsed social situation
+that is well summed up by Hobbes:  “it is manifest
+that during the time men live without a common power to keep them all
+in awe, they are in that condition which is called war, and such a
+war as is of every man against every man.”
+ The moral consequences of this break down of social order provides
+the framework for Filth.  In vacuum caused by break down of the moral
+order, the sociopath fills the gap.  In persuit of promotion Bruce
+Robertson is at war with everyone, and as war has become the default
+state: same rules apply.</p><p>As is the case in the bedroom where sex is persued both as a war
+strategy and as a basis of personal identity.   With sex and power
+linked, sexual relations also become located within the chaotic
+conditions of the war of all against all and become the centre of a
+dysfunctional self identity. Like drugs sex can be both adictive and
+subject to what Bill Boroughs calls the bitch of tolerance: you
+always need more of a substance to get the same effect. 
+</p>
+<p> As Filth develops Bruce needs more sex. Detached from feeling,
+his power play sex becomes an increasingly isolated masturbatory
+ritual .  Sex drives Bruce into a kind of blindness, a black hole
+through  which light neither enters nor leaves.</p>
+<p>As constructed by Baird and Welsh Filth is a dystopian fable
+grounded in the breakdown of the micro order.  interesting
+that at the beginning of the film the audience were laughing at the
+slightest sugestion of a smutty joke or risque reference;  at the end
+of the movie, there was not much laughter.  Hobbes is worth
+quoting again as he summerises human life in relation to the
+conditions of the war of all against all: (quote) ' in this condition
+the life of man is solitary, poor, nasty, brutish, and
+short.'  Which is a accurate desciption how Baird and Welsh have
+mapped the moral career of Bruce Robertson. 
+</p>
+<p>So: Same rules apply&hellip;what does it mean?  It's
+telling you there are 'no rules'. So watch out.</p><p> Adrin Neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+
+
+
+
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,278 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-321" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="321" data-apiobjecturl="/api/1/document/321/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/321"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Shadow Dancer   James Marsh (UK 2012)  </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2012-09-08</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">  
+
+
+
+
+
+
+<p>Shadow DancerJames Marsh (UK 2012)Andrea Risborough; Clive Owen</p>
+<p>Viewed: Tyneside Cinema:29 Aug 2012Ticket: £7.00</p>
+
+<p>Famous red raincoat</p>
+
+<p>James Marsh’s (JM) Shadow Dancer (SD) looks like a TV mini
+series condensed into a feature film.It brings nothing to cinema except TV values, both in its aesthetic and
+structure.</p>
+
+<p>The main characters Max and Clair and Kevin are no more than
+cogs in SD’s mechanical espionage like plotMax an MI5 officer who turns the IRA operative Claire
+who is in her turn hunted out by her IRA minder Kevin.This being TV the character roles
+depend on haircuts and costumes rather than more internalised attributes.The protagonist, Claire as a women has
+to be drawn as a fully rounded character, a mother with a young child as well as
+a terrorist. But even this dual role doesn’t extend the range of responses in
+her as a character.</p>
+
+<p>TV films like
+to make the claim that they are about ‘real people’ (perhaps thismeans they are like the average viewer)
+This controlling concept introduces into the core of SD a primary clash of
+interests in the life of Claire: her family which defines her and her tribal
+loyalty which prompts her action.Clair’s dilemma, set up in the second section of SD is that she has to
+decide for whom she is playing: herself or the IRA.</p>
+
+<p>At the level of its narrative SD is a concatenation of
+unlikely initial propositions that proceed to become ever more far fetched.
+Although in desperation JM tries to graft on a covert passion for Claire by her
+handler Max, it simply reflects the film’s problems in maintaining its own
+internal credibility.JM as
+director is increasingly caught in a familiar pincer movement of hisown devising. He wants his film to have
+a realist core: characters that appear to be located within the strong folds of
+the everyday;but JM also wants
+action.A certain
+internal structural narrative logic is erected: the struggle, the family the
+housing estate the political background.But this establishing narrative structure is increasingly discredited by
+the logic of the action which makes demands that are at odds with
+background.The background is in
+effect degraded left behind by the primacy of theaction generated tensions: erotic violent emotional.</p>
+
+<p>In SD, particularly in relation to Clair the two strands of
+the scripting become increasingly detached.In fact SD is difficult to swallow even in its initial
+proposition at the point when we realise the IRA have ordered Claire to bomb
+London.She will be vulnerable as
+an agent if caught (because of her family situation), but her IRA minders
+overlook her unaccounted time in London.If we go with the poetic license implicit in this opening proposition,
+we then have a narrative and action development which becomes increasingly
+absurd.Claire goes to meet her
+MI5 handler in a‘remote’ location
+which she can only get to by walking or public transport because she does not
+have a car.She walks or perhaps
+buses (the film is silent on this point) to this rendez-vous dressed in a
+bright red fashionable macintosh.Looking like a sexy telephone box in case anyone should have failed to
+spot her. The action demands of film mean that Claire has to look attractive
+and alluring and vulnerable, so she has to be provided with some sort of outer
+garment sheath to signal these defining features.</p>
+
+<p>What the film tries to do is to transpose the tensions of Le
+Carre spook culture onto a more natural Irish setting.The poster for SD contains the strap
+line: Mother daughter sister spy.Le Carre’s world, as depicted in novels and even in film, functions on
+its own terms in a world parallel to the everyday.The mechanisms at work in the espionage world work better as
+an abstracted tenplate on which the forces in play can be seen clearly. The
+tensions the contradictions the stratagems of the spooks gain greater force and
+piquancy.And the roles played by
+the characters gain clarity from the fact that they are not the rounded
+individuals beloved by the TV industry.</p>
+
+<p>Caught in this
+classic pincer of opposing purposes,SD has nothing else to do but take itself seriously as its story becomes
+more and more of a joke.Though it
+is a telling point that this is a film totally devoid of intentional
+humour.Though there is in the
+cack handed set ups, such as the attempted assassination,a certain amount of unintentional
+humour.</p>
+
+<p>Steve McQueen’s Hunger as a movie/installation added a layer
+of understanding toBobby Sands:
+the desperation of his situation, the Maze prison, the state of mind that
+impelled him to direct confrontation with Margaret Thatcher.There is nothing like this kind of
+ambition set in play here. The acting is all contemporary monogestural unipart
+posturing, and the state of mind of the lead players ignored, they are no more
+than the sum of their actions.</p>
+
+<p>Max and Clair sleep/walk their way through the film.She in her famous red raincoat he in
+his regulation fit spook English suit that says MI5.Their different conflicts are depicted as purely
+mechanical processes instigated by the wheels of the plot which in itself is no
+more than a sub standard le Carre fare. JM uninterested in anything other than
+his plot mechanics, is unable to engineer any insight into character.He simply opts for expressive safety and
+confines his players in a straightjacket of the one dead pan look </p>
+
+<p>With so much Cinema sold out to the demands of the TV
+companies, it is no surprise that the mechanics of SD’s are complemented by the
+mechanics of the shooting script. JM’sfilm does nothing to alarm TV buyers.Its camera work concentrates on the routine collection
+ofregulation shots/ reverse
+shot.After its routine editing,
+add some tinkly music and few old ‘70’s records, one red hot fetish raincoat
+for the poster and the channel trail, and you have a very saleable TV movie that
+is not cinema. </p>
+<p>adrin neatrour</p>
+<p><a href="mailto:adrinuk@yahoo.co.uk">adrinuk@yahoo.co.uk</a></p>
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,191 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-6" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="6" data-apiobjecturl="/api/1/document/6/">
+    <meta itemprop="description" content="The Great White Hopeless, by Tom Jennings.
+Television review of Immigration, the Inconvenient Truth, Channel 4, and the White season, BBC 2" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/6"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Immigration, the Inconvenient Truth, Channel 4, and the White season, BBC2</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Tom Jennings</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2008-08-19</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">The Great White Hopeless, by Tom Jennings.
+Television review of Immigration, the Inconvenient Truth, Channel 4, and the White season, BBC 2 <b>A rash of TV documentaries explain away tense British resident-immigrant relations with typical middle-class prejudice in reproducing forty years of media and state-managed mystifications of the ravages of capitalism, according to Tom Jennings</b>.
+
+<b>Great White Hopeless</b>
+
+Shock, horror! Television bosses recently made the surprise discovery of defensive, backward-looking racism among the depressed, so-called ‘indigenous white working class’. Purporting to explore this phenomenon, BBC 2’s <i>White</i> Season (screened in March) and Channel 4’s Dispatches, <i>Immigration: The Inconvenient Truth</i> (April) focussed on recent UK population trends. Each resurrected Enoch Powell’s infamous 1968 ‘Rivers of Blood’ speech as the most appropriate interpretive prism through which to understand hardening attitudes towards immigrants and the electoral gains of the BNP (who vocally applauded the series). So although countless interesting and enlightening aspects of the subject crop up in passing throughout all nine programmes, many important issues are ignored altogether. The clear editorial direction imposed on the material – neglected poor white natives blame migrants for their woes, and that Powell was (kind of) right – is legitimised and reinforced despite being repeatedly undercut even by much of the partial and selective evidence gathered. 
+
+The Beeb’s hotch-potch started with the classic observational elegy of <i>Last Orders</i>. The ex-Labour committee members of Wibsey Working Men’s Club bemoan its decline, with support having haemorrhaged for decades – yet regretfully cite the overweening problem of Bradford’s growing Asian population. No one’s quite clear on cause and effect, or why mainstream politicians are uninterested in the impoverishment and social breakdown of their community of “forgotten people”. Meanwhile the destruction of local industries which depended on Asian labour, or the blatant manipulation of the race card by all municipal parties and media ever since, are hardly mentioned – let alone countervailing voices with a less jaundiced and prejudiced and more critical awareness of the situation. With the pattern set, complexity is obliterated completely in Denys Blakeway’s putrid glossing of <i>Rivers of Blood</i> with contemporary allusion – ‘forgetting’ that the whole analysis, its assumptions and predictions, were completely wrong for 1968 (never mind now) despite Powell’s best efforts kickstarting the poisonous national chauvinism that Griffin etc inherit [1]. The disavowed subtext? If middle-class white people wish-fulfil themselves as “last bastions of civilisation”, alliance with boneheads becomes respectable. 
+	The following programmes more or less subtly put the boot into the white underclass. <i>White Girl</i> fictionalises a Northern teenager (from a 2006 Channel 4 documentary) finding refuge in Islam from a dysfunctional home – whereas such narratives could apply to any class, race or creed. <i>The Primary</i>’s Birmingham school with kids of 17 different nationalities just about copes despite inevitable difficulties – by implication, in this context, thanks to the utter absence of white working class people. <i>The Poles Are Coming!</i> then looks at Eastern Europeans in Peterborough working more diligently in worse conditions than locals tolerate in construction and agriculture. Though focussing on infrastructural and planning chaos and the fracturing of community by the buy-to-let slum-landlord epidemic, migrants themselves are squarely positioned as the problem’s cause – with anti-social workshy white youth in the background making it a crisis. Finally, <i>All White in Barking</i> gestures towards ‘balance’ in comparing old-school Essex responses to the global influx – one pensioner glaring hatefully at African residents and organising BNP stalls, apparently without registering that his kids and grandkids are colour-blind and/or mixed-race; while another couple transcend similar hostility and suspicion by befriending Nigerian and Albanian neighbours, and an elderly Auschwitz survivor squires his Ugandan carer at a local Jewish community dinner.
+
+A better title for the <i>Dispatches</i> trilogy, fronted by son of Somali immigrants Rageh Omaar, would have been ‘Immigration, the Convenient Scapegoats’. Relentlessly suppressing evidence to the contrary, the narrative consistently asserted that we all subscribe to ‘swamping’ logic, using a specially-commissioned YouGov public opinion survey which bore all the hallmarks of such spurious, tendentious pseudo-science.
+Trusting viewers to swallow outrageous extrapolations from flimsy ‘proof’, even cursory attention revealed confusion about who counted as Britons or ‘settled migrants’ or their descendants, and what difference this made to assertions of immigration being “a problem” or “in crisis”.
+The clumsy Yes/No questions disallowed considered responses and virtually ensured inaccurate results, whereas many of the empirical findings were clearly far more ambiguous than the simplistic editorial agenda permitted. So, by the third episode, the apocalyptic tone had subsided somewhat. But instead of the obvious need to question the whole basis of official nationalist and multiculturalist discourses, the tangible awareness that global economics had something to do with it prompted a retreat to the favoured culprit – the inflexibly hopeless white working class unable to compete in the New World Order. But the visible desperation and hardship twisted into resentment in many places is only part of that story, which the BBC and Channel 4 had neither the bottle, desire, nor wit to follow up [2].
+	To conclude, then, as I argue elsewhere [3], this current affairs coverage disingenuously maintains “distinctions between those whose survival is most imminently threatened and the comfort zones of aspirational experience – just when the economic and structural conditions which underwrote the flight from drudgery for the twentieth century’s new middle-classes unravel before our eyes &hellip; [P]rofessional media tourists avoid the countless people making horizontal links, conducting joint operations, productive relationships, cultural exchanges and social interactions at the base. Thus a view of society is reproduced as no more than interlocking networks of exclusion zones, where the only negotiation between dimensions of difference – whether biological, social or economic – occurs on the state’s terms at its own designated, tightly-policed sites, carried out by the market’s credentialled experts. In which case converging material situations, interests, expressions and struggles among foreigners, natives, underclasses and the new nearly-destitute simply disappear from view”. Furthermore the best corrective can be found where rivers of blood literally flow from the vicious intersection of capitalist structural adjustment and national state ideology – yet South African militant shantydwellers counter xenophobic violence insisting: “Don’t turn your suffering neighbours into enemies” [4].
+
+<b>Notes</b>
+1. see Institute of Race Relations, ‘Rehabilitating Enoch Powell’ (www.irr.org.uk/2008/march/ha000018.html).
+2. &hellip; on this occasion, anyway. In less threatening contexts the fortunes of the ‘white tribe’ have, for example, been cheerfully charted by Michael Collins – though scrupulously avoiding the politically conscious and active – in <i>The Likes Of Us: A Biography of the White Working Class</i> (Granta, 2004) and <i>The British Working Class</i> (Channel 4, 2005).
+3. in ‘Craven New World’, <i>Variant </i>32, pp.9-12 (www.variant.randomstate.org/32texts/issue32.html). See also ‘The End of Tolerance’, Daniel Jewesbury’s useful discussion of UK racism in the same issue.
+4. in a statement by Durban-based Abahlali baseMjondolo, ‘No One Is Illegal’ (www.abahlali.org/node/3582).
+<p><b>www.variant.org.uk</b></p><p><a href="http://www.freedompress.org.uk/"><b>www.freedompress.org.uk</b></a></p><p><b>www.tomjennings.pwp.blueyonder.co.uk</b></p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-298" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="298" data-apiobjecturl="/api/1/document/298/">
+    <meta itemprop="description" content="adrin neatrour: Kevin seems like a Christmas tree. Instead of being decorated with baubles and lights, he is festooned with the markers of his otherness." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/298"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">We Need to Talk about Kevin     Lynne Ramsey (2011; UK)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin  Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2011-03-11</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">We Need to Talk about Kevin     Lynne Ramsey (2011; UK)  Tilda Swinton
+Viewed Tyneside Cinema 25 Oct 2011; Ticket: £7.95
+
+Kevin seems like a Christmas tree. Instead of being decorated with baubles and lights, he is festooned with the markers of his otherness.
+ 
+In Lynne Ramsay’s (LR) film We Need to Talk about Kevin (NTK) the past isn’t so much a foreign country as a place we visit by using Eva’s press button text message service.  I think the manner in which the past is accessed by Eva indicates that NTK uses time, in the form of the flashback, as a purely mechanical device triggered by image and gesture.  LR focuses on the mechanics of the recollection image. The sentient organic field of meaning, and the search for meaning is not probed.  The situation, the otherness of Kevin who is characterized as a Daemon, is presented through the eye of the director and Tilda Swinton as something that has to be coped with: not as something which has to be understood.  LR’s flashback structure is designed to be exempletive of the difficulty Kevin presents to Eva but it’s too crude to engage with strata of ideas and possibilities that lie under the surface of the situation.  By the end of the film its mechanicality exerts a deadening effect on consciousness.  Closed off and characterized by its temporal mechanism. NTK has nowhere to go.  In evading the realm of understanding LR has little to say about the situation it brings to the viewer’s attention except the banality that is is hard being Kevin’s mum.  Nothing is revealed.
+
+Kevin is conceived as a Daemon a soul born with ‘destiny’.  Born to be a mass murderer.  Born to have a mechanical path through life.  There are hints that Eva is knowledgeable about Eastern religions (the early sequence that looks like it might be a Hindu ceremony) but the film is oblique about this as a context as it is about everything else governing the film’s placement in time and space.  As NTK doesn’t engage with Eva at the level of understanding, which is an organic process, she is reduced to a series of affect images, looks that the viewer is expected to read that point to her distressed state.  The affect images are presented both as expositions and explanations of her mechanical trauma.   
+
+The temporal relations in the film, its flash back structure, are used to manipulate rather than to open out the time space of the situation.   The film flicks back and forth like demented text messages between Eva’s post massacre situation and the times before Kevin’s rampage.    These time flicks are mediated by the affect images of Eva,  ‘her look’,  as some event or action engages her recollection images of:  Kevin’s birth, his childhood and his adolescence.
+ 
+As the movie develops the mechanicality of this recollection device becomes evident; the predictability of the connection produces diminishing returns.  It becomes apparent that Eva is a memory machine. Eva sees something hears something - looks: cut to - Kevin’s birth -  Kevin learning -  Kevin something or other.  The film is overdetermined in its structure, unable to negotiate Eva’s state of mind as part of the film’s structure.  The audience are relegated to the status of one who gazes rather than one who sees.  If this was a typical Hollywood action movie, fine,  it’d be appropriate to the ambitions of the genre. In a film with NTK subject matter, it’s disappointing that LR betrays and throws out the European line of filmic sensibility for a crassly Hollywood solution to the problem of what film to make.  It feels like a sell out to the money, another calling card movie.  
+  
+This Hollywood style of film making through image manipulation deadens the film’s energy which LR trys to revive with a groovey sound track.  The viewer engaged only in gaze,  is treated by LR as a passive agent  to be toyed with in the classic action movie manner: exploitation of the edit point.  Cutting back and forth through time in the editing,  works in NTK  as means to  catch the viewer off guard.   LR’s uses the flashback edit points as shock devices to short circuit  the audience’s critical faculties.  The incoming edit is often fashioned to disturb, to have immediate visual or sound impact.  LR presses a button, audience get a shocking image.  The reaction triggered in the audience is: “Woah this is weird!” rather than “What is happening in this situation?”    
+
+Lack of any contexts is a logical consequence of need to keep the material contained and controlled.  NTK which exploits temporal relations to suppress  wider timeline  context (in this respect similar to Malick’s Tree of  Life) .  Temporal context is not important for films that engage with the forces of interiority.  But in NTK there are only exteriorities.   Experiencing only  filmic temporal self referencing in NTK’s  actions and images,  the viewer is left hanging aimlessly in time unable to relate the fictive events on the screen to other contexts. Are we before or after 9/11, before or after Colombine?  NTK takes place in a carefully contrived time vacuum, a bubble world where the filmic design carefully expunges the actual world. 
+
+ 
+With the exception of the suburban setting and the implied values of the American home, LR barely develops the social and cultural matrices which contain the events.   The massacre is an event not just without a chronology  but also without a social context.   The school the community his father’s job have no place in the film. Kevin and Eva are deterritorialised characters, without interiority or exteriorities, persona onto whom anything can be hung. Kevin seems like a Christmas tree. Instead of being decorated with baubles and lights, he is festooned with the markers of his otherness.
+
+There are a number of films, where ‘WEIRD’ in itself is central to the movie as a conceptual device.  NTK is replete with ‘the weird’: fingernails, gloopy sandwiches, little balls of matter.  In some American films (there is almost what one might call a WHIRD genre) weird plays a pivotal cognitive role as a signifier of the discontinuous incongruous relation between individuals and their culture, between the conformist culture and the outsider.  Image driven food. personal habits, odd remarks made, all serve to give off signs in their own right. of an individuals fundamental psychic disengagement and detachment from the core.  In NTK ‘the weird’ in particular weidness food, plays a key role as a signifier that there is something visibly disconcerting about Kevin.  The problem is that Weird is a signifier without significance. Kevin is treated in the film a bit like a Christmas tree. Instead of being decorated with baubles and lights, he is festooned with the markers of his otherness.
+
+In comparison with Gus Van Sant’s 2003 movie Elephant, also about a high school massacre, NTK’s seems conceptually and structurally impoverished.  Elephant taking its cue from the Columbine killings set up a psychogeography of space, a situational analysis of the event. The film characterized by long takes in the physical environment of the school, used the filmic possibilities of the camera rather than scripted dialogue to contrive a parallel resemblance between the design of the school and the design of video games. The school had many of the special characteristics of a video game: long corridors, 90 degree turns, series of rooms and spaces that were all the same. The killing sequence was carried through with the same detached quality that players bring to the video game, dispassionate killing in order to score. Elephant builds up slowly and inexorably,  makes the situation visible to the audience, allowing them to see.  In contract NTK is characterized by a heavy handed determination which shows us little and leads us nowhere. 
+adrin neatrour adrinuk@yahoo.co.uk
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

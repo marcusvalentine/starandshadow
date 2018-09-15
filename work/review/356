@@ -1,0 +1,300 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-356" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="356" data-apiobjecturl="/api/1/document/356/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/356"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Bergman Season At The Star And Shadow</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2013-09-25</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"> Reflections
+on the Bergman Season at the Star and Shadow: 1st Sept 2014 to 21st Sept 2014
+
+<p>The
+retrospective  season at the Star and Shadow of four of Ingmar
+Bergman's films, the Seventh Seal, Wild Strawberries, Through a glass
+darkly and Persona was a chance to view and to appraise a director
+who is regarded as one of the foremost film makers of the twentieth
+century; an opportunity to understand what he offers today's
+audience in the age of the iphone.  
+</p>
+<p>Bergman's
+reputation is huge. But he has also been mercilessly parodied as a
+gloomy scandinavian whose films for the most part trail dark despair
+about the human condition. 
+</p>
+<p>Bergman's
+views of  human nature and the incapacity of humans to communicate have
+been criticised for their emotional and spiritual bleakness.  
+</p>
+<p>After
+seeing the films my feeling is that these negative reactions to
+Bergman are understandable. However they are unbalanced and  less
+than fair to Bergman as an artist film maker and thinker. Of course
+much his work will not be what some cinema goers are looking for. 
+Bergman's films are not about entertainment value although they can
+certainly be entertaining.  The films are personal.  They represent
+Bergman's own understanding of world.  
+</p>
+<p>And
+one key quality stands out in relation to Bergman's work.  He is not
+selling anything: a belief system or a justification.  Although
+Bergman made films before 1951, in 1951 his financial situation
+forced him to work for a year making cinema advertisements.  And this
+year seems to have been critical in developing his film making
+technique and also in shaping a personal resolve that his films would
+not sell anything.  Like the man in the Leonard Cohen song, he would
+not be a dealer in solutions, and this had a defining effect on both
+the form and content of his films, and the way Bergman shot and
+composed his scenarios, in particular his use of the Close Up of
+which more later.</p>
+<p>Refusing
+to be a wheeler dealer in cinematic snake oil remedies was a
+fundamental moral imperative for Bergman.  He could only work from
+the position in which he was truthful to himself. To thine own self
+be true.   Bergman's being truthful is an overwhelming and
+fundamental impression gained from viewing his work.  They come
+across like a casting of the shadows of his own inner dialogues, onto
+the complex exterior form of his films.  
+</p>
+<p>In
+these dialogues questions arise that are part of the weave of daily
+life; the nature of our relations with and communication with others,
+the reality of our aloneness, issues of our identity and place in the
+fold of life.  These questions emerge in the films through the
+interplay of script character and image.  Bergman not only refuses to
+answer the questions, he states unequivocally, that for us, there are
+no answers: Karin in Through A Glass Darkly says she has seen God and
+that he was a large hairy spider; when the Knight in the Seventh Seal
+asks about the existence of God, the after life and all that, Death
+replies that he has no secrets to reveal.  Something the knight
+already knows.  
+</p>
+<p>Now
+you might say this is bleak stuff.  But my impression from the
+audiences is that they were
+overwhelmingly appreciative of Bergman's moral stance.  The AP people
+understood that Bergman was an artist prepared to say that:  life,
+communication is hard – that we have to understand that there are
+often no answers – that in some respects life comprises problems
+not challenges. These may be unfashionable notions but some audiences
+find a moment of black and white honesty, more positive than the rose
+tinted philosophical twaddle, wrapped in High Definition cosmic
+reassurance, peddled by directors such as Terrence Mallick. 
+</p>
+<p> If
+there is honesty about our condition, at least we've got our feet on
+the ground. The elements:  the sea the sky the earth, are always
+present in Bergman's cinematography almost as reminders.  The knight
+as he progresses across the plague ridden Medieval Sweden, is framed
+by earth sea and sky.  For Bergman these elements surround us
+externally, as do our memories and dreams internally.  They are not
+answers but resources for individuals to understand.</p>
+<p>As
+in a Trial at Law when an attorney finally asks a key question and the
+witness responds with an actual answer, there is a palpable shock in
+the Court room;  so likewise there is shock in the cinema seat as
+Bergman without flinching asks questions; and his films, as crucibles
+sweat out the responses.</p>
+<p>Returning
+to the earlier point I want to look at the particular use that
+Bergman makes of the close up.  In film, it is the face, above all
+that characterises the close up.  As social beings we are face
+readers, we read faces not just of others, but we see faces in
+flaking paint, clouds and patterns in the sand.  The face is a sign
+that we interpret.  A face always suggests a possibility.  Bergman's
+facial close ups define the experience of viewing his films and are a
+key element in the relationship between the films and the audience.  
+</p>
+<p>The
+characterising feature of Bergman's close ups is that they are
+uncompromising: they are shots of long duration, they are mute and
+within them there is little or no movement.  They present as a pure
+quality, an unindividuated affect, a passivity.   Bergman's close
+up's:   Death's face, the Wallpaper in Glass Darkly, Liv Ullman in
+Wild Strawberries and  Persona all have an impersonal quality, as if
+they do not belong to the actors but could be masks taken on by
+anyone.  The way they are shot and edited into his films gives them a
+quality that can absorb the viewer.  In their immobility their
+muteness and duration the close ups draw the audience into the shot
+giving the audience the space to contribute something of themselves
+into the fabric of the film, a sort cinematic short circuit of the
+near and far.  Absorbed by the close up, which is pure possibility,
+the audience become the interpretants of the film, actively engaged
+in its unravelliing.</p>
+<p>As
+the technical means of communication proliferate and multiply in our
+society, perhaps there is also an increasing awareness of how
+difficult it is to communicate.  The thin wavering dieing signals
+that we get from our friends, the notices of unavailability and the
+ansaphone messages never returned,  are like the signs from God at the
+waning of the Middle Ages. A warning that we need to start and think
+differently.  Perhaps that's a message Bergman still gives out to the
+iphone generation of movie goers.</p>
+<p>Adrin
+Neatrour</p>
+<p>adrinuk@yahoo.co.uk
+
+</p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

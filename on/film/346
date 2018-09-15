@@ -1,0 +1,332 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container eventtype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+    
+
+            
+
+    <div id="film-346" class="eventtype editthis" itemscope itemtype="http://schema.org/Event" data-modeltype="Film" data-modelid="346" data-apiobjecturl="/api/1/film/346/">
+    <meta itemprop="description" content="Seen as a masterpiece of the psychological thriller, this is an early film from a great cinema master: Roman Polanski." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/on/film/346"/>
+    <meta itemprop="duration" content="PT104M" data-bind="attr: { content: isolength }"/>
+    <meta itemscope itemprop="location" itemref="thestarandshadowcinemaaddress"
+          content="thestarandshadowcinemaaddress"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Repulsion</span><span class="year" itemprop="copyrightyear" content="1965" data-bind="attr:{content:year}, text: showYear()"> (1965)</span></h1>
+    </header>
+
+    <img class="picture pull-right img-responsive" itemprop="image" data-fieldname="picture" src="/media/cache/06/35/063520342c8f52bf27cc52c19c88698a.jpg" width="400" height="541" data-src="/static/img/events/repulsion.jpg" data-width="360" data-height="487" data-toggle="modal" data-target="#img-picture-232" alt="" data-bind="attr: { src: pictureData().displaySrc, width: pictureData().displayWidth, height: pictureData().displayHeight, 'data-src': pictureData().src, 'data-width': pictureData().width, 'data-height': pictureData().height }" /><div class="modal " id="img-picture-232">    <div class="modal-dialog">        <div class="modal-content">            <div class="modal-header">                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">                    &times;                </button>            </div>            <div class="modal-body">                <img src="/static/img/events/repulsion.jpg" class="img-responsive" alt="" data-bind="attr: {src: pictureData().displaySrc}">            </div>        </div>    </div></div>
+
+    <h3 data-bind="visible: selectedVisibleseason()">Part of the <a href="/on/season/22" class="season" itemprop="superEvent" itemscope itemtype="http://schema.org/Event" data-bind="attr:{href:selectedLinkseason},text:selectedLabelseason">Madness on Film</a></h3>
+
+    
+
+    <h3><time class="startDateTime" itemprop="startDate" datetime="2009-02-19 19:30:00+00:00" data-bind="attr:{datetime:startDateTime()},text:displayStart()">7:30 p.m. Thursday 19 February 2009</time></h3>
+
+    <div itemscope itemtype="http://schema.org/Movie">
+        <meta itemprop="name" content="Repulsion" data-bind="attr:{content:title}">
+        <meta itemprop="copyrightyear" content="1965" data-bind="attr:{content:year}">
+        <meta itemprop="image" content="
+                /media/cache/06/35/063520342c8f52bf27cc52c19c88698a.jpg">
+        <table class="table table-condensed event-table">
+            <tbody>
+            <tr>
+                <th>Director:</th>
+                <td><span itemprop="director" itemscope itemtype="http://schema.org/Person"><span class="director" itemprop="name" data-bind="text:director">Roman Polanski</span></span></td>
+            </tr>
+            <tr>
+                <th>Certificate:</th>
+                <td><span class="certificate" itemprop="contentRating" data-bind="text:selectedLabelcertificate">Unknown</span></td>
+            </tr>
+            <tr>
+                <th>Length:</th>
+                <td><time class="length" itemprop="duration" datetime="PT104M" data-bind="attr:{datetime:isolength()},text:lengthLabel()">104</time></td>
+            </tr>
+            <tr>
+                <th>Format:</th>
+                <td><span class="filmFormat" data-bind="text:selectedLabelfilmFormat">35mm</span></td>
+            </tr>
+            <tr>
+                <th>Language:</th>
+                <td><span class="lang" itemprop="inLanguage" data-bind="text:lang">English</span></td>
+            </tr>
+            <tr>
+                <th>Country:</th>
+                <td><span class="country" data-bind="text:country"></span></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="bodysection">
+            <div class="body" itemprop="about" data-fieldname="body" data-bind="htmlValue:body">
+<h2>THE FILM</h2>
+<p>Seen as a masterpiece of the psychological thriller, the film won the Silver Bear at the International Berlin Film Festival.</p>
+<p>French Star Catherine Deneuve plays a sexually repressed girl who gradually goes insane.</p>
+<p>Slow, gripping and madly scary, this is one of Roman Polanski’s best films.</p>
+<h2>REVIEWS</h2>
+<p>"Still perhaps Polanski's most perfectly realised film, a stunning portrait of the disintegration, mental and emotional, of a shy young Belgian girl (Deneuve) living in London." - <em>TIME OUT</em></p>
+<p>"An intense psychological thriller from the master of the genre." - <em>CHANNEL 4 FILM</em></p>
+<p><em>"</em>It is a Gothic horror story, a classic chiller of the Psycho school and approximately twice as persuasive." - <em>TIME MAGAZINE</em></p>
+<p><em>"</em>Repulsion is a classy, truly horrific psychological drama in which Polish director Roman Polanski draws out a remarkable performance from young French thesp, Catherine Deneuve." - <em>VARIETY</em></p>
+<p>"The credits of Polanski's first British film evoke both Buñuel's Un Chien Andalou and Hitchcock's Vertigo, and it fully merits the comparison." - <em>BRITISH FILM INSTITUTE</em></p>
+<h2>ABOUT ROMAN POLANSKI</h2>
+<p>Polanski’s films side with black humour, ‘momentary desires’ and studies of anger, humiliation, fear, and sexuality. He often shoots from the protagonist's perspective and slowly pans around a room to points of interest as the character notices them.</p>
+<p>Some of his most well known films are: Knife in the Water (1962), Repulsion (1965), Cul-de-Sac (1966), Rosemary’s Baby (1968) and Chinatown (1974). They are all amazing thrillers exposing the darker side of human nature . </p>
+<h2><img height="245" src="/static/img/import/roman-polanski.jpg?origsrc=http://twitchfilm.net/site/images/uploads/roman-polanski.jpg" width="200" />FACTS ABOUT ROMAN POLANSKI</h2>
+<p>Nominated for 4 Oscars and has won 1 for Best Director of The Pianist.</p>
+<p>Won 2 Berlin Bears, 1 for Repulsion (silver) and 1 for Cul-de-Sac (gold).</p>
+<p>Won 56 international awards, including 9 lifetime/honorary awards.</p>
+<p>Oon the jury for the 1976 Miss Universe in pageant.</p>
+<p>Holocaust survivor</p>
+<p>In 1969, his second wife Sharon Tate, then 8 months pregnant, was brutally murdered by the Charles Manson ‘family’.</p>
+<p>In 1977, he was convicted of statutory rape of a 13 year old girl; went on the run to Europe to avoid imprisonment in the US; he hasn’t returned to the US since 1978</p>
+<p>After 4 shorts and 1 feature (Knife in the Water) made in Poland, Polanksi made Repulsion and Cul-de-Sac in England.</p>
+<p><strong>He once said, on violence in movies: ‘You have to show violence the way it is. If you don't show it realistically, then that's immoral and harmful. If you don't upset people, then that's obscenity.’</strong></p>
+
+<h2><a href="/on/season/22">MADNESS ON FILM (12 Feb - 1 March)</a></h2>
+<p>REPULSION is being shown as part of a MADNESS ON FILM season.</p>
+<p>4 nights to explore representations of madness/insanity/instability/obscurities of the mind.</p>
+<p>Films followed by discussions with members of Institute of Psychoanalysis and the Newcastle Philosophy Society.</p>
+<p>The other films of the season include:</p>
+<p><span><a href="/on/film/345">Thu 12 Feb, A Woman Under the Influence (1974)  - Very cult film from<strong> </strong>the American genius<strong> J. </strong><strong>Cassavetes</strong></a></span></p>
+<p><span><a href="/on/film/347">Thu 26 Feb, Madness Open Film Night - for films made by your gandad, your neighbourand you</a></span></p>
+<p><span><a href="/on/film/348">Sun 1 March, Naked (1993) - Multi-awarded film from one of the best British directors <strong>M.Leigh</strong></a></span></p>
+<p><strong></strong></p></div>
+        </div>
+
+    </div>
+
+    </div>
+
+    
+
+        <div class="smallsublist">
+            <header>
+                <h3>Other films in the <a href="/on/season/22">Madness on Film</a>:</h3>
+            </header>
+            
+                <section class="row dmod clickable boxb mo0209"
+                         data-href="/on/film/345">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/af/98/af98acf699c3f98db96099e6e8a163b4.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/aa/cb/aacb2147ef55c6890f81943876f39808.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">12</h1>
+
+                    <h1>Film: <a href="/on/film/345">A Woman Under The Influence (1974)</a></h1>
+
+                    <h2>12 Feb 2009, 7:30 p.m.</h2>
+
+                    <p>Cult - from American genius John Cassavetes, and with an incredible performance from Gena Rowlands. Film followed by a discussion with a members of the Institute of Psychoanalysis.</p>
+
+                    <p class="viewlink"><a href="/on/film/345">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxa mo0209"
+                         data-href="/on/film/347">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/f7/40/f740f6e79a58797b622f61d132863753.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/3f/ff/3fffa654b0847a2c4116cd011dc29bf7.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">26</h1>
+
+                    <h1>Film: <a href="/on/film/347">Eyes Wide Open Night Special - Madness On Film Season</a></h1>
+
+                    <h2>26 Feb 2009, 7:30 p.m.</h2>
+
+                    <p>Open film night: Make a film on madness under 10 minutes and come and show it at the cinema. Or just come and watch what these unknown filmmakers have produced&hellip;</p>
+
+                    <p class="viewlink"><a href="/on/film/347">Read More &raquo;</a></p>
+
+                </section>
+                <section class="row dmod clickable boxb mo0309"
+                         data-href="/on/film/348">
+                    <div class="pull-left">
+                        
+                            
+                                <img class="img-responsive hidden-xs" alt="" src="/media/cache/14/55/1455a708ee79f887b68c550b31a21321.jpg"/>
+                            
+                            
+                                <img class="img-responsive visible-xs" alt="" src="/media/cache/48/a4/48a46a19a8d5e5cc1b65dfcbdfc7e006.jpg"/>
+                            
+                        
+                    </div>
+
+                    <h1 class="domdom">01</h1>
+
+                    <h1>Film: <a href="/on/film/348">Naked (1993)</a></h1>
+
+                    <h2>1 Mar 2009, 7:30 p.m.</h2>
+
+                    <p>Excellent and surprising film from one of the best UK directors: Mike Leigh. Film followed by a discussion with members of the Newcastle Philosophy Society.</p>
+
+                    <p class="viewlink"><a href="/on/film/348">Read More &raquo;</a></p>
+
+                </section>
+        </div>
+
+    
+
+
+            
+    
+
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

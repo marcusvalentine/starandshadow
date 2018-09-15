@@ -1,0 +1,180 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-179" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="179" data-apiobjecturl="/api/1/document/179/">
+    <meta itemprop="description" content="Film Review
+
+Going Through the Motions by Tom Jennings
+
+[published in Freedom, Vol. 66, No. 8, April 2005]
+
+9 Songs is the ‘dirtiest film ever shown in Britain’.1 If so thought must be dirty, as that’s all it aroused in Tom Jennings." data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/179"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">9 Songs, dir. Michael Winterbottom</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Tom Jennings</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2006-07-30</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">Going Through the Motions by Tom Jennings
+
+[published in Freedom, Vol. 66, No. 8, April 2005]
+
+9 Songs is the ‘dirtiest film ever shown in Britain’.1 If so thought must be dirty, as that’s all it aroused in Tom Jennings.<p class="MsoBodyText">Going Through the Motions<i> </i>by Tom Jennings</p><p class="MsoBodyText">[published in <i>Freedom</i>, Vol. 66, No. 8, April 2005]</p><p class="MsoBodyText"><i>9 Songs</i> is the ‘dirtiest film ever shown in Britain’.1 If so thought must be dirty, as that’s all it aroused in Tom Jennings.</p><p>Maverick director Michael Winterbottom’s demystifying of genre has yielded an unparalleled range of highly distinctive films.2 His latest innovation is that <i>9 Songs</i>’ sex scenes are not simulated, featuring the full hetero hardcore checklist in fly-on-the-wall anatomical close-up – given an ‘18’ certificate uncut by the BBFC and striking a blow for what art can dare to project into the pub(l)ic realm. Through impeccable handheld digital video photography, appropriately dingy lighting and muted colour, effectively brisk editing and valiant acting, the waxing and waning of a love affair is depicted in flashbacks of sexual activity interspersed with concert footage, in an attempt to capture the way memory prioritises iconic moments and intensities. </p><p>So, following a one-night stand after a Brixton Academy gig, fun-loving American student Lisa (Margot Stilley) regularly fucks with academic Matt (Kieran O’Brien), but becomes increasingly frustrated by his hidebound cultural, social and erotic routines. She tries to awaken sensuality and enchantment in him (musically via salsa moves and sexually in sado-masochism-lite), but his tender trump cards (earnest cookery, icy seaside skinny-dipping, Christmas tree decoration) barely touch her. Lacking all conviction as a meditation on love, and laughably pretentious as existential philosophy, <i>9 Songs</i> somehow does convince despite also falling so far short of entertainment or engagement. </p><p>Thanks to straightforward realism, the film implies that sex itself is actually no big deal, either as misguided aspiration for personal fulfilment or grounds for complaint. The mechanics of bodily connection fascinate us because physical pleasure can point beyond present disappointment towards meaningful possibilities of intimacy and exploration. However, as Michel Foucault observed in <i>The History of Sexuality</i>, the contemporary injunction to obsess about sex as the centre of identity displaces attention from both personal ethics and the overarching social and political disciplining of bodies. Base sexual urges scarcely represent the ultimate horizon of human yearnings for growth, even if twentieth century capitalism’s masturbatory individualism and narcissistic culture is exemplified by the pornography industry dressing them up for instant gratification. The tragedies of misogyny, homophobia and paedophilia testify to the damage done in falling for that illusion; and <i>9 Songs</i> gestures at what consumerism promises but is constitutionally unable to deliver.</p><h1>Going Through the Motions</h1><p>The film overturns this overvaluation of sexual behaviour – whose mediated forms embellish fantasy in a hysterical ‘frenzy of the visible’, ignoring anything heartfelt in the most fleeting throwaway consumption. Their seductiveness obliterates the less-thrilling reciprocal altruisms of shared solace and affectionate companionship which enrich mature sexual love and non-erogenous sensuous engagement with the world. Conversely, childish playfulness and polymorphous perversity are justifiably cherished in sexual or any other creative activity. Rather than any ideal integration of these unlikely bedfellows, perpetual reworkings of the dialectics of desire seem inevitable when danger, tragedy and farce circumscribe the human condition. </p><p>Absolute safety, security and purity are guaranteed only in death, where moral judgmentalism also leads. Healthy relations in any social sphere require continual pragmatic renegotiation of intention and consequence – but not, as here, among those sleepwalking their way through someone else’s script. The excerpt from Michael Nyman’s sixtieth birthday concert as one of the nine songs now seems less incongruous among the drearily derivative indie dirges. Along with the choice of profession for the male lead as glaciologist, Nyman’s stylistic variations on death-knell orchestral minimalism echo the film’s sterility, the pathos of the protracted decay of rock and roll, and the ironic desperation of postmodern culture.</p><p>More specifically, Winterbottom accidentally deconstructs humdrum mainstream masculinity as tediously adolescent and soul-destroying, and the smug flush of young middle class ‘enlightened’ courtship as so much shallow self-delusion. The hardcore conventions aren’t tarted up with titillation, the unexplained complicity of women and other trappings of the self-important patriarchal male gaze which work to conceal porn’s fundamental lack of respect. But images can’t convey fleshly force, heat, textures,  pheromones or feelings, and with no psychological complexity rendering the characters real to each other or prompting identification among viewers, their sex acts seem irrelevant. </p><p>The director’s negativity governs this show, and, hey presto, it’s cold out there in the unknown/unknowable continent of Antarctica/feminine desire – even if (as we’re told in the voiceover) the history of life on earth is tantalisingly fossilised therein, and which furthermore retains the capacity to thaw out and flood us all. But not in this scenario.</p><p class="MsoBodyText2">And if all this feels far-fetched – well, it’s pretty chilly in the bedroom, too, when the rich traces of bodily biography are reduced to hapless couplings by people displaying only the merest hints of awareness of self or other. So Matt resignedly (and fancifully) ascribes selfishness, wildness and impetuosity to Lisa in a denial and projection of his own imaginative failure to rise to the occasion and offer her anything she wants. Distracted ennui sees her turn from provocation to bitching about how boring he is, preferring a lapdancer or vibrator to his sexual presence, and eventually abandoning him altogether to stew in his own juices. It remains unclear why it was supposed that real sex between partners who don’t care for each other might be better than, for example, simulated sex between those who do.</p><p><i>9 Songs</i> goes through the necessary motions of its supercool exercise in calculated miserablism – quietly rubbishing the preposterous  <i>Four Weddings</i>, <i>Bridget Jones</i> and all those other sorry antiseptic upperclass excuses for passion, but with absolutely nothing fabulous or of significance to offer in their place. Generically an (anti-)romance, it is undoubtedly an interesting experiment in critiquing both the fairy-tale complacency of love stories and the ridiculous pneumatics of porno. Unfortunately it fails to grab you by the attention (or any other parts, despite the shock-horror headlines) – and will really only exercise those who prefer to not be moved. </p><h2>Notes</h2><p>1. according to the tabloids, anyway.</p><p>2. including <i>Wonderland</i>’s meditative ensemble tapestry of the intersecting lives of various Londoners, <i>In This World</i>’s quasi-documentary journey with a young Afghan refugee, <i>Code 46</i>’s speculative fiction, and <i>24 Hour Party People</i>’s docufictional honouring of Madchester as well as more downbeat period dramas (<i>Jude</i> and the forthcoming version of <i>Tristram Shandy</i>).</p><p><b><a href="http://www.variant.org.uk/">www.variant.org.uk</a></b></p><p><b><a href="http://www.freedompress.org.uk/">www.freedompress.org.uk</a></b></p><p><b><a href="http://www.tomjennings.pwp.blueyonder.co.uk/">www.tomjennings.pwp.blueyonder.co.uk</a></b></p></div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

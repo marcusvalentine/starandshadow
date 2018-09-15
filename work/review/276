@@ -1,0 +1,196 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-276" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="276" data-apiobjecturl="/api/1/document/276/">
+    <meta itemprop="description" content="adrin neatrour writes: From a psychic space where there are no full stops or colons only commas,,,,, " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/276"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Police, Adjective  (Politist Adjectiv)  Corneliu Porumboiu (Rom 2009)  </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2010-10-11</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Police, adjective(Politist adjectiv)Corneliu Porumboiu (Rom 2009)Dragos Bucur</p>
+<p>Viewed: Tyneside Cinema 5 Oct 2010; ticket: £7.50</p>
+
+<p>From a psychic space where there are no full stops or colons only commas,</p>
+
+<p>Having decided to see this movie I was thinking that it had a strange title. What did the comma mean? You don’t come across them often in film titles.By the end you know that the title is taken from dictionary usage in which police is defined first as noun: police, noun; then as adjective: police, adjective. The comma operates in the syntax ofthe dictionary as a device separating the use and meanings of the different parts of speech.So Porumboiu’s (CP) title points to the adjective, and its function in Western languages, which is to give attributes to nouns; the adjective gives the noun a specific quality.As in: police state.In western Europe we don’t think much about adjectives, we just scatter gun them into our language. In Police, adjective (P,a) more thought is given to these matters.</p>
+
+<p>And P, ais a film about state of mind, or rather the work that has to be done to have no state of mind.For mind to be dead: to make people blank. CP in his earlier film12:08 East of Bucharest (The actual Romanian title was: Happened or Not?) used the simple set up of a TV talk show commemorating the December 1989 revolution to show that the belief people invested in the idea that a revolution had happened in their town, was the simple function of their delusion.In fact the nothing of a sort had really happened.On the surface there were certain signs and indicators that a revolutionary event had occurred.But on inspection this was simply an hallucination fostered by propaganda of vested interests, vanity, and an inflated sense of self importance.Surfaces are prominent in CP’s films, in the way doors are prominent in Haneke’s movies.They say something about the filmmaker’s ideas about the act of seeing.</p>
+
+<p>If 12:08 E of B is about belief in occurrence that is mediated through non occurrence.P, afollowsthe consequences of this belief.P, ais about the oppression that is made possible by a false belief system; an oppression which leads to a blanked state of mind.The consequence is a deadness,mediated in the film through the policeman Cristri. who as protagonist is supposed to have asuspicious state of mind, perhaps even a conscience which directs his work.But suspicion, the archetypal state of mind of the cop, is not required in Romania. It might lead to the gangsters at the top.What is required is obedience induced by cognitive deadness.And that is where Cristi is pushed.In Romania, and perhaps other places, everyone should stay in their own coffin.Including the police.</p>
+
+<p>P, ais about the state of mind necessary for the sustaining of totalitarian state. Under Ceausescu there was deep seated corruption underpinned by a secret police and sustained by acognitive strait jacket, in effect a self justifying and self policing dialectic mechanical system of thought.A cognitive system whose moral circuitry ultimately justified all ends, whatever the means, to the teleological triumph of the workers and peasants state: the victory of the proletariat. The actual was justified through the dialectic schema.The victory ofdiagramatics.</p>
+
+<p>In the penultimate sequence, which is almost achieved in one shot, CP shows that present day, nothing has changed.Dialectical materialism has gone; cod Marxism is no longer invoked to justify tyranny and corruption in the name of the victory of the revolution.But in an unchanged dynamic of power the needs of the political apparatus remain the same .It requires a thought system that functions so as tocognitively demonise and oppress any inner resistance of theindividual mind.The individual mind is a critical battleground where the war is won or lost.Post Ceausescu dialectic materialism has to be replaced with another system to regulate thought.Another dialectic is needed. It might be the Bible, the Koranwhatever: the important point is authoritative text rigidly interpreted and backed with threat ofenforcement.CP in his script uses the dictionary as the cognitive enforcer.And in this extraordinary sequence we see the meaning of key words rammed down Cristi’s throat as he attempts to protest and rebel against the command he has been given.The dictionary dialectic is a systemthat involves an interrogating agent, a subject and the achievement of a specific idealised state.The dictionary can be usedto invoke a system for the categorisation of words according to their ideal qualities. Morality becomes a thing; conscience becomes a thing, the law becomes a thing. There are no processes just things defined in themselves: without the context of the individual experience.The humble dictionary, in the hands of authority becomes the prefect rod with which to beat the resistant back into submission. Nothing has changed in this society.The self serving cynicism of the controllers defines the game.</p>
+
+<p>The consequence is that everything dies back.There is no life just a continual cycle of oppression which kills the ability to think the ability to feel.As CP’s camera holds still or gently pans across a scene we have plenty of time to see the surface of this society.Seen through its surfaces, Romania looks like a country where nothing has changed.These same surfaces would have met the eye 50 years ago.Surfaces that are tired old and cracked reflecting back only a blankness.There seems to be no way to penetrate these surfaces which are everywhere.</p>
+
+<p>The style of shooting uses long takes, composed often as wide or medium shots.The long duration shots effectively take us into real time experience.When Christi endlessly stakes out and watches, so do we; when Christi waits so do we; when Christi tails a subject so do we. when Cristi eats so do we.The point about the shot duration is that it releases the viewer into the space.The nondescript walls, the streets, crumbling buildings, the drab interiors are spaces we have to actually confront and experience as actual, and through these surfaces we are taken deeper into the film into thinking about what lies under the surfaces that we have been seeing.</p>
+
+<p>P makes much use oftwo shots, two people together in wide or medium frame.What is remarkable is that the sense of isolation of individuals is heightened in the use of the two shot.Individuals never seem more alone that when they are with another person. Christi with a colleague, with his wife, seems more desolate and alone than when he is on the stomp or staking out his quarry.We are shownsituations where not only is there is no communication between people, there is no possibility of communication between people.Contact between Cristi and his wife is a arid dry dialogue broken only once when she tells him that there is something not quite right between them.It’s as if all that is left is for the people to watch each other until they die, and they die very young correcting each other’s grammar and speech.</p>
+
+<p>Butthe plot fascinates.As we follow it, all seems surface: small time marijuana users and dealers, a couple of crummy kids, trailed and staked out by a low level policeman.We see the surface traits of the operation. And yet gradually and sporadically a number of facts bleed up from beneath this surface to suggest that what is really going on is the result of a deep seated corruption.Corruption that holds the key to life in this small town.</p>
+
+<p>Following 12:08 E of B, and now viewing P,awhat I call film, not installation, not life style advert. not music video, not text message, is alive and kicking in a town in Romania called Vaslui.</p>
+<p>adrin neatrour</p>
+<p>adrin@yahoo.co.uk</p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

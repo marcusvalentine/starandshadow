@@ -1,0 +1,305 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-451" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="451" data-apiobjecturl="/api/1/document/451/">
+    <meta itemprop="description" content="An ethical question with a metaphysical structure and a judgement coda" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/451"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">High and Low (Heaven and Hell)   Akira Kurosawa (Japan 1963) </span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2017-05-25</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><span>High
+and Low (Heaven and Hell)Akira
+Kurosawa (Japan 1963)Toshiro Mifune</span></p>
+<p><span>Viewed
+Tyneside Cinema 20th May 2017; ticket £9.75</span></p>
+<p></p>
+<p><span>An
+ethical question with a metaphysical structure and a judgement coda</span></p>
+<p></p>
+<p><span>Kurosawa’s
+High and Low is a transposed Samurai genre movie.In a similar manner to Kurosawa’s Samurai
+moviesa core ethical question is posed
+to its protagonists.As in the Seven
+Samurai, Kurosawa informs High and Low with a metaphysical structure that
+encodes the response to the question.</span></p>
+<p></p>
+<p><span>The
+use of structure as metaphysical device was more common when scripting and building
+scenario were the heart of filmmaking.Clouzot’s ‘Wages of Fear’ comes to mind as a movie shaped by a governing
+metaphysic. In today’s film making, script and scenarioare subservient to image and stylistic
+considerations, and the dominant influences shaping the form of productions are
+the advert and the installation.Today the idea of a filmic structure shaped by
+metaphysics or ethics is alien as it means ‘idea’ has to be directive; a discipline of soul alien to the accustomed
+indulgence of either filmmaker or audience.</span></p>
+<p></p>
+<p><span>High and Low is a continuation of Kurosawa’s
+filmic dialogue with Japan and the the problem that her identity and culture faced
+in the 50’s and 60’s caught in the strain of the opposing pull of American
+defined modernism, and the push of its own traditional identity.</span></p>
+<p></p>
+<p><span>Kurosawa’s
+understanding of his country was mediated by the belief that the disaster of
+twentieth century Japanese expansion, with all its terrible consequences for
+Asia and Japan,was caused by its
+rigidmilitary and political hierarchy. Kurosawa’s vision of Japan was located in the
+wisdom of its people as collectivities, and the claims collective could make upon the
+individual.I suppose the American
+idea, the Thatcherite notion is that the individual owes nothing to the social
+body outside of the immediate claims made by the family.The American Way’s values the rights of individuals above those
+of communities. Not so Kurosawa’s Japan.</span></p>
+<p></p>
+<p><span>The
+critical juncture in High and Low comes when Gondo realises that it is not his
+son who has been kidnapped, but his chauffeur’s boy.At this point the kidnapper does not drop his
+ransom but demands Gondo pay the money anyway.Gondo wrestles with his soul as to what he should do. The decision is
+his. Does Gondo play for himself alone and refuse
+to pay; or does he choose to affirm that he is a part of a greater whole?Gondo’s decision affirms the collective, the
+Samurai spirit of Japan as he elects to pay out the full ransom for the son of
+his chauffeur. </span></p>
+<p></p>
+<p><span>As
+Gondo choses the path of self denial the structure of the film blossoms like a
+flower.The first hour of the film has
+been set in the lounge of Gondo’s house on the hill.His American style residence that acts as a
+vulgar beacon for conspicuous consumption. The lounge interior is large open
+plan space, monotextural, painted in muted tones furnished with American
+armchairs and sofas.Plush.A space alien to Japan.</span></p>
+<p></p>
+<p><span>As
+soon as Gondo decides to play for the collective the movie leaves the dead
+Western interior and opens out into Japan. High and Low which has been imprisoned and
+contained within walls that to the soul are like a prison, explodes into the
+Japanese psyche.A metaphysical shift.</span></p>
+<p></p>
+<p><span>As
+the movie opens out, Japan and her
+people are revealed.A series of cameos
+shows the working people of Tokyo;and
+the police are seen as an organic body, like social insects working, together to find the criminal.Unlike American cop movies there are no
+stars, no stand out cops, only work to
+be done by the multiple body of agents.</span></p>
+<p></p>
+<p><span>The
+kidnapper when he is eventually caught seems less motivated by the gain than by
+resentment at the symbolic nature of Gondo’s house: its flaunting of a life style.There is an element here in which as Kurosawa’s
+movie reaches its climax, it becomes a judgement machine not a chart of an
+ethical field.It is valid for Kurosawa
+to believe in and to point to Japanese culture as having the potential to redeem
+past mistakes and to provide a new basis for democratic stability.It is less valid for him to blame all
+negative aspects of contemporary Japanese culture on American corruption.</span></p>
+<p></p>
+<p><span>The
+unravelling of High and Low’s plot involves the introduction of heroine as a
+corrupting influence on Japanese people.Kurosawa’s makes it clear that hard drugs and their use by young people
+are an imported American evil.His
+depiction of drug dens and drug use rivals the ridiculous public health
+screeners made by Hollywood in the 1950’s.Kurosawa undermines his stature as a film maker by resorting to the same
+hackneyed inaccurate depictions.By 1963
+Kurosawa surely had to understand that Japan could not return to her
+isolationist past.Japan was part of the
+modern world, an all it implied: automobile production, consumer products, technology such as that used by the police.For all that Kurosawa believed in the resilience
+of her culture,Japan could not avoid ALL
+the forces of individuation alienation and anomie that are the handmaidens of
+high Capitalist economies.</span></p>
+<p></p>
+<p><span>Drug
+taking was a problem endemic to developing conditions in Japanese society.Kurosawa might finish his movie by scripting
+Gondo to leave the large American style shoe company he worked for as an
+executive, and set up his own small company making quality Japanese shoes.But Kurosawa as a film maker seems to have
+turned his back on the actual forces shaping Japanese life: the evolution of
+large home based multi-national corporations.And all the consequences that such development entailed.</span></p>
+<p><span>adrin
+neatrour</span></p>
+<p><span>adrinuk@yahoo.co.uk</span></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><span></span></p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

@@ -1,0 +1,287 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-316" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="316" data-apiobjecturl="/api/1/document/316/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/316"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Ran   Akira Kurosawa  (Japan 1985)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">adrin neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2012-06-25</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>RanAkira
+Kurosawa(Japan 1985) Tatsuya
+Nakadal; Mieko Harada</p>
+<p>Viewed Star and Shadow Cinema 17 June 2012; Ticket £5.00</p>
+
+<p>Ran meaning: riot - uprising - disorder; disturbed -
+confused</p>
+
+<p>Ran is a masterful exercise by AKin synthesisingculturally opposing expressive forces in the exposition of his
+theme.Ran is riotous filmic
+feast in which traditional Japanese plastic arts are promiscuously are
+entangled with Hollywood’s;in
+larger writ plastic values ofUS
+and Japanese society and culture are seamlessly interwoven.</p>
+<p></p>
+<p>Ran’s confusion of stylistic and expressive affects
+structures the core underlying motif: a statement by AK about the
+disintegrative effects caused by the penetration of American values and
+practice into Japanese culture.A
+culture no longer protected by self policed isolation; a society and culture in
+turmoil but inventive and creative enough, to absorb and replicate on its own
+terms, to reinvent itself as a hybrid.</p>
+
+<p>Ran (R) is a conscious play on form, a confusion of genre
+and expression.It is a triumphant
+mangling of Hollywood and Japan a sort of filmically structured paean to post
+war cultural buggery. Ran is witness to AK’s self evident delight in shuffling
+together: samurai and cowboy; ‘NOH’ acting tradition and US daytime soap convention; classical Shakespeare and
+Hollywood; the mobile and the immobile, the vertical and the horizontal.</p>
+
+<p>The large set piece battles are majestically staged but the
+form of the battles strongly suggests John Ford.As the army of the King’s son charges on horse and
+foot across the field it is ambushed by devastating volleys of raking firearm
+fire decimating the attackers. The opposition of sword spear and bow and arrow
+against the gun, suddenly re-casts the battle as the traditional Hollywood spectacle
+pitching primitively armed Native Americans (Red Indians) against the superior
+arms of the US cavalry with their Colts and Springfields.The clash of the Samurai warriors
+instead of being represented as a traditional sword/spear based ritual, is filmed
+as a Hollywood slaughter vehicle, a massacre ensuant on the mismatch of unequal
+forces.The battles in Ran don’t
+pander to traditional notions of the Japanese Samurai Code.Death strikes anonymously without
+honour from a distance.When the
+cowboy shoots the lesser armed Sioux or Cheyanne, the gun acts as more than a
+tool. It is also a valedator.Its
+technological supremacy legitimises the victory of the White Man’s culture.In the same way, atomic weapon
+technology justified American cultural supremacy.</p>
+
+<p>In Ran AK also exploits the dynamic and expressive
+possibilities of intermixing two styles of acting tradition whichdraw on very different formal
+expressive ideas and tradition.Noh tradition: the use of the mask, little or no facial expression; this
+is not a theatre of expressive faciality, rather of codified gesture where hand
+and body combine to create a system of signed meanings.The American soap style in contrast
+emphasises the face as the expressive medium, with full use of eyes mouth lips
+and teeth used to convey the required emotion.The signage in soap is mostly primary animalistic response,
+like a dog bearing its fangs you don’t need to be conversant with a code of
+cultural signs to get the meaning.Likewise the delivery of lines is emotively charged to convey
+unambiguous intent, even if the words are not explicitly understood.In the playing of characters such
+as Lord Hidetora and Lady Kaede, AK synthetically fuses these two opposing
+acting styles.The affect is an
+intensification of tension between the mobile and the immobile.The audience is caught suspended in
+anticipation of the character’s response: whether it be control or loss of
+control.Lady Kaede initially is
+all mask, a complex of archaic gestural signage, every movement initiated out
+of the depths oftheatric
+stillness.In one sinewy
+terrifying moment like a snake pouncing she is at the throat of her brother in
+law and suddenly all Noh convention is completely abandoned and like a suburban
+housewife contorting her face she screams at her brother in law to marry her
+and bring her the head of his wife.Lady Kaede then with equal suddenness switches back to the still Noh
+mode of expressive presentation.</p>
+
+<p>Ran is sometimes described as a Japanese version of King
+Lear.Ran is not pure as a
+narrative form.AK as part of a
+culture that traditionally has purity of form at its core, abandons this idea
+in Ran, and has recourse to the Hollywood idea of adaptation of the material: stripping
+the scenario down to a simple base line. Ran’s story is a conflation of Macbeth
+(with which K was very familiar) and a Lear type story, with sons substituted
+for daughters.Two ideas welded
+together: the conceit of power that is unable to see behind the formulaic
+countenance of love, behind which lurk simmering contempt and desire to usurp;
+and the mythic disaster caused by a weak usurper unable to resist the
+destructive forces of the feminine.</p>
+
+<p>Fire seems to
+me to be the defining filmic element of Ran.Visually it periodically intrudes and finally dominates the
+visual field.In the first
+sections of Ran AK’s fills frame with horizontal movement.Bautifully staged pans, the flow of
+horses and people through and across frame.This is movement that in all its magnificence suggests
+continuities, as if it were the template of a timeline.In the final sequences but also
+intermittently through the final sections,‘fire’ fills frame vertically.Cutting in disrupting on the vertical axis the easy harmony
+of flow.AK has structured
+into the visual syntax of Ran the core notion of disruption; time itself is
+subject to being broken, its flow smashed up, disrupted.This idea built into the grain of Ran
+is the deepest level of communion with his times as AK understands them.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+
+
+<p></p>
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

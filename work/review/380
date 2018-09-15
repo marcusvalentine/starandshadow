@@ -1,0 +1,292 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-380" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="380" data-apiobjecturl="/api/1/document/380/">
+    <meta itemprop="description" content="" data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/380"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Chef   Jon Favreau (Usa 2014)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2014-07-11</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body">
+<h4>Chef <span>Jon Favreau (USA
+2014) Jon Favreau; Robert Downey; Scarlett Johansson</span></h4>
+<h4><span>Viewed: Empire
+Cinema Newcastle 9 July 2014; ticket
+£3.95</span></h4>
+<p><b><span>Listen to the
+Tweet </span></b></p>
+<p><span>I
+usually expect these types of Hollywood productions to be a sales medium.Either selling some abstract American value:
+desire, overcoming, cheap redemption, folksy wiseacring (sometimes called
+philosophy) etc.; or to peddle a nice line in product placement.Chef plays true to type.But not only is Chef is an ‘overcoming’
+American morality fable presented with tasty side dishes of product placement
+(Mercedes and Apple), it is also a promotional feast.It
+goes the whole hog and sells the script the screen-space and verbal plugs, lock
+stock and pork barrel to one product.</span></p>
+<p></p>
+<p><span>I think Chef
+is simply a two hour promo for Twitter Inc.</span></p>
+<p></p>
+<p><span>This
+is perhaps the brave new age of film production.</span></p>
+<p></p>
+<p><span>As
+we watch Chef we witness the realisation ofE Doc Smith’s futuristic vision: the nightmare of the psychic
+penetration of commercial interests into the very grain of life.The corrupting or simply changing if you
+prefer, of the nature of our perceiving.</span></p>
+<p></p>
+<p><span>My
+feeling is that Chef is an act of deception. Chef dupes the viewer into believing they are watching
+a movie whose sole and overt purpose is to entertain and engross. Whereas the audience are in fact lured into
+watching a premeditated commercially motivated film whose covert purpose is the
+promotion of a social networking platform.As the film progresses Twitter becomes the plot driver, not only plugged
+verbally, but taking up ever more of the picture screen with its own separate
+window.</span></p>
+<p></p>
+<p><span>Favreau
+may argue that films must incorporate social media if they are to reflect today’s
+relations and social action.My
+response is that if the products of large corporations are to be central
+drivers of a script then unless that script has an axis that is quite distinct
+from that product, then we are watching a corrupted piece of work. An extended
+ad.If the script has an axis that is a
+discrete phenomenon, unconnected to the product, then the product or platform (
+Twitter, Amazon Facebook -whatever) is then but another variable, for good or
+bad, in the playing out of film’s scenario.</span></p>
+<p></p>
+<p><span>There
+was nothing I saw in the Chef credits linking Twitter Inc. to the movie. So it
+is not possible to ascertain whether or not Chef was sponsored by Twitter Inc. And Twitter Inc. had they been involved as a
+sponsor of Chef would certainly not have wanted a credit.They would presumably prefer to keep their involvement
+in the deep background, maintaining the cover would obviously further, both
+Twitter Inc. and the film production company’s goal of promoting the idea that
+Chef was a commercially neutral production, an entertainment not a promotional vehicle.
+Which indeed it may be. But without a disclaimer to the contrary,
+which I have not seen or heard, doubts will remain for me as to the actual
+nature of this movie.</span></p>
+<p></p>
+<p><span>As
+eidetic symbols products such Coke Nike MacDonald’s already have a collective
+psychic assimilated actuality.But
+Google Facebook Twitter are not just products they are processes: not just
+means of connecting and relating to each other, but ways of thinking.In
+Chef we see the realisation and rationalisation of the particular process of
+internalising a message service as a state of mind.</span></p>
+<p></p>
+<p><b><span>Twitter
+brings families together</span></b></p>
+<p><span>Chef
+is a typical flabby piece of Hollywood scripting and film production. Favreau
+brings nothing to film.He locks onto the
+shot reaction shot format without originality or flair.He uses a Hispanic funk soul soundtrack to
+alleviate the tedium of a film that is without tension and whose whole plot
+line revolves about delivering the Twitter Inc. message.Chef’s narrative line links the consequences
+of a Tweeted bitching exchange, between chef and his critic, to a classic
+textbook demonstration of how to use Twitter for promotional purposes.The
+gimmick is the old Hollywood tried and trusted cute scripting stand-by of the
+child leading the man towards enlightenment.Twitter brings families together.In this case 10 year old Percy introduces and teaches his 40 something
+dad all about Twitter. </span></p>
+<p></p>
+<p><span>Two
+other features of Chef caught my attention.For all that Chef starts out being about high end cooking, sort of
+nouvelle cuisine, the food ends up as the film ends up:</span></p>
+<p><span>Junk
+Americana.The sort of food cooked up
+and successfully sold and tweeted by the eponymous great Chef ends up being the
+old American standby of:greasy meat
+under greasy cheese with tasty sauce on top, stuck between two pieces of
+toasted white bread. This at least does
+the movie justice.</span></p>
+<p></p>
+<p><span>The
+values system expressed and endorsed in Chef seemed like an updating or slight
+recalibrating ofthe underlying values
+of the Rocky series of films which Stallone, like Favreau,wrote acted and mainly directed.In its visual look crude filming and
+cardboard characters, Chef also reminded me of these Stallone movies. </span></p>
+<p></p>
+<p><span>One
+thing present in Chef that I certainly don’t remember from Rocky, is its
+sexualisation of its ten year old child character, Percy.Perhaps I am prude but I found it distasteful
+that when Percy with his dad and sous chef are driving across USA, the sous
+chef tells the child that his balls are hot! The solution is smear them with
+corn syrup (or something) The sous chef, who is driving the truck, sticks his
+hand into a pot of the stuff and then rams it down his pants, Percy’s dad does
+the same and recommends it to his son.Later in the trip as Chef drives he sings along to both verses of Marvin
+Gaye’s Sexual Healing (performed by Hot 8 Brass) whilst the viewer has to watch
+the inane grin on Percy’s face as he listens to his dad. I think the point is that these sexualised
+events in Chef are gratuitous. There is nothing in the plot or situation that
+calls them in.They seem motivated by
+Favreau’s insecurity in his material, that even with a 10 year old boy, a
+proper Dad, a Rocky Dad,should be
+confident enough to flaunt his sexuality, even at the expense of the
+sexualisation of his ten year old son.</span></p>
+<p></p>
+<p><span>So
+is Chef the start of a new trend. Is it viral?We we next be tripping down to the Multiplex to see: ‘Don’t Like’.An everyday story of a  Facebook group who use their pages to raise
+awareness and organise a raid into deepest Mali to bring orphans back to the USA?  We shall see.</span></p>
+<p><span>Adrin
+Neatrour</span></p>
+<p><span>adrinuk@yahoo.co.uk
+</span></p>
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

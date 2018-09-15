@@ -1,0 +1,191 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js notie" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>The Star And Shadow Cinema</title>
+    <meta name="description" content="The Star And Shadow Cinema">
+    <meta name="author" content="The Star And Shadow Cinema">
+    
+    <link rel="stylesheet" href="/static/cache/css/d0afecde3dd8.css" type="text/css" />
+</head>
+
+    <body>
+
+<div id="container" class="container documenttype">
+    <div class="row">
+        <div
+                itemscope
+                itemtype="http://schema.org/MovieTheater"
+                id="thestarandshadowcinema"
+                class="col-md-2 sidebar">
+            <meta itemprop="additionalType" content="http://schema.org/NightClub">
+            <header class="row">
+                <h1>
+                    <a itemprop="url" href="http://www.starandshadow.org.uk">
+                        <img
+                                class="squarelogo img-responsive visible-lg"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="squarelogo img-responsive visible-md"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-sm"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <img
+                                class="longlogo img-responsive visible-xs"
+                                alt="The Star And Shadow Cinema"
+                                itemprop="image"
+                                src="/static/img/content/logo_long.png"
+                                >
+                        <meta itemprop="name" content="The Star And Shadow Cinema"/>
+                    </a>
+                </h1>
+            </header>
+            
+
+    <section class="row">
+    <header><h3>About Us</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/home">Home</a></li>
+	<li><a href="/the-venue">Location and Contact us</a></li>
+	<li><a href="/the-organisati">What the Future Looks Like</a></li>
+	<li><a href="/involved">How to Get Involved</a></li>
+	<li><a href="/signup">Sign Up</a></li>
+	<li><a href="/our-friends">Our Friends</a></li>
+	<li><a href="/our-work">Our Work</a></li>
+	<li><a href="/press">Press</a></li>
+	<li><a href="/showcase">Showcase</a></li>
+        <li><a href="/accounts/login/">Login</a></li>
+    </ul>
+</section><section class="row">
+    <header><h3>What's On</h3></header>
+    <ul class="nav nav-list">
+        <li><a href="/on/today/">Today</a></li>
+        <li><a href="/on/thisweek/">This Week</a></li>
+        <li><a href="/on/nextweek/">Next Week</a></li>
+        <li><a href="/on/thismonth/">This Month</a></li>
+        <li><a href="/on/nextmonth/">Next Month</a></li>
+    </ul>
+</section>
+
+    <section id="donate" class="row contrast">
+        <header class="visible-xs"><h3>Donate</h3></header>
+        <header class="visible-sm"><h3>Donate</h3></header>
+        <p class="center small">Donate money to the Star And Shadow Cinema securely online using Paypal:</p>
+
+        <form class="center small" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <p>
+                <input type="hidden" name="cmd" value="_s-xclick"/>
+                <input type="hidden" name="hosted_button_id" value="LWLRJG2NMXMMN"/>
+                <input type="image" src="/static/img/content/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online."/>
+                <img style="margin: 0;" alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+            </p>
+        </form>
+    </section>
+
+    <section id="contactbox" class="row">
+        <header class="visible-xs"><h3>Contact</h3></header>
+        <header class="visible-sm"><h3>Contact</h3></header>
+        <meta itemprop="map" content="http://g.co/maps/8y8k2"/>
+        <address class="center smaller" itemprop="location" itemscope itemtype="http://schema.org/PostalAddress" id="thestarandshadowcinemaaddress">
+            <span itemprop="name">Star and Shadow Cinema Cooperative</span><br/>
+            <span itemprop="streetAddress">Warwick Street</span><br/>
+            <span itemprop="addressLocality">Newcastle Upon Tyne</span><br/>
+            <span itemprop="postalCode">NE2 1BB</span>
+        </address>
+        <p class="center smaller"><a itemprop="email" href="mailto:info@starandshadow.org.uk">info@starandshadow.org.uk</a></p>
+        <meta itemprop="telephone" content="0191 261 0066"/>
+        <p class="center smaller">Financial Conduct Authority Registered Number 7127</p>
+        <p class="center smaller">VAT Number GB893168779</p>
+        <p><a href="https://plus.google.com/+TheStarAndShadowCinema" rel="publisher"></a></p>
+    </section>
+
+
+        </div>
+        <div id="main" role="main" class="col-md-10">
+            
+            
+            
+
+    <div id="document-258" class="documenttype editthis" itemscope itemtype="http://schema.org/Article" data-modeltype="document" data-modelid="258" data-apiobjecturl="/api/1/document/258/">
+    <meta itemprop="description" content="adrin neatrour writes: zombie apocalypse " data-bind="attr: { content: summary }"/>
+    <meta itemprop="url" content="/work/review/258"/>
+
+    <header>
+        <h1><span class="title" itemprop="name" data-bind="text:title">Black God White Devil (Deus e o Diabo na Terra do Sol) Glauber Rocha (1964 Brazil)</span></h1>
+    </header>
+
+    <h3><span class="author" itemprop="author" data-bind="text:author">Adrin Neatrour</span>, <span class="created" itemprop="dateCreated" data-bind="text:created">2010-03-18</span></h3>
+
+
+
+
+    <div class="bodysection">
+        <div class="articleBody" itemprop="articleBody" data-fieldname="body" data-bind="htmlValue:body"><p>Black God White Devil (Deus e o Diabo na Terra do Sol) Glauber Rocha (1964 Brazil)</p>
+<p>Geraldo De Rey; Othon Bastos, Maurico do Valle, Yona Magalaes</p>
+<p>Viewed: educational theatre of MOMA NYC , 26 Feb 2010:free complementary screening</p>
+<p> retrocrit: zombie apocalypse </p>
+<p> Black God White Devil was made in the early 1960’s, a turbulent period in Brazil’s history with a military Junta taking over and ruling the country at the prompting of the USA.The internal references in Glauber Rocha’s (GR) film are to the 19th century history of Brazil but the issues are contemporary. Further both content and the form with which GR assembles his material in the film, take on a prophetic resonance in relation to the post colonial era of the twentieth and twenty-first centuries; resonance that neither Europe nor America can ignore.</p>
+
+<p>The English title of the film Black God White Devil (BGWD) is meaningless in relation to the GR’s film. The Brazilian title which translates as, God and the Devil in the Land of the Sun, points directly to the heart of the film.When conditions prevail that lead to the break-up of critical social and economic ties,God and the Devil both lay claim to men’s souls; God and the Devil, good and evil become indistinguishable as the people become bewitched emeshed in their self disintegration.</p>
+
+<p>BGWD is set during a catastrophic drought, that breaks the earth,cracks open the people’s psyche.The response of protagonists Rosa and Manuel to the break down, physical psychic and social, is flight into the altered state oftrance.Trance the operative state of mind of those cut off from all their previous realities and entering a world of new perceptions and imperatives (survival) in whichprevious self is redundant. Cheated by his boss Manuel stabs him and has recourse to flight which in the chaos of the country can only lead to the hallucinogenic alternative realities of rationalised death and destruction.The forces in play in this devastated land that are ready to absorb the flight of Rosa and Manuel, are movements deleterious to the individual identity: in effect crude apparatus that demand complete submission to a destructive belief system.They first join the group led by the messianic figure Sebastian, whose response to the catastrophe is to preach the tenets of an externalised religious faith twisted and corrupted to subject his followers to an acceptance of theirpersonal guilt and need for collective atonement: “&hellip;washing the sinners’ souls with the blood of the innocent”.</p>
+
+<p>Perhaps taking Sebastian at his word, Rosa kills Sebastian by stabbing him with a knife and she and Manuel flee again, this time being absorbed into the army of Corisco, a scavenging psychic entity who has moved beyond good and evil into the land of the dead. There in the land of the dead there is no logic but death since life is by definition intolerable.The way to save the world from hunger is to kill the hungry, and Corisco brings his trance logic of death to the people in the barren desiccated landscape.</p>
+
+<p>Taken as one force the apocalyptic vision of Sebastian and the murderous logic of Corisco, the absorbion of the deterritorialised into trance states,can be understood as a response to people’s hopelessness andpowerlessness endemic in the post colonial era.The Lord’s Resistance Army of Alice Lakwene and Joseph Kony, Al Qa’ida in its various guises, are coalescences of justified warped religious righteousness given form by an armed nihilistic mission.The mission is always death. The deterritorialised followers, stripped of all that is familiar, transform into an undead horde,existing in statetrance; zombies, whose final justification is to refine their beliefs to the simple act of killing for its own sake.Let the sins of the innocent be washed in blood.For the zombie killer, killing becomes an existential rationale for life.The bringer of death is the bringer of life.Life exists only in the trance of the apparatus: all else is illusion.</p>
+
+<p>GR’sinsight was to understand the forces released by powerlessness and destitution in a post colonial situation.The opening shot, a long aerial track of the dried out land provides the setting for the film.But the setting of the film in the extraordinary interior of Brazil, barren and desolate, is not a background.It is more than even a context; the land itself is a presence with a key role in the film.In the same way the encroachment of the Sahara into Northern Uganda is a player in the world of the Lord’s Resistance Army, and the waters of the Jordan, a player in Palestine.Parched land together with demeaning social relations create the conditions for releasing the murderous psychic apparatus that overtake and bewitch the people.</p>
+
+<p>BGWD is composed using many shots of long duration often with medium or wide lens.This works to bind the individuals and their relation to the settings and to the land which forms them.The final shot is a long tracking shot that conjoins us with Rosa and Manuel as they run across the land towards their vision which remains always out of their sight out of their grasp.</p>
+<p>adrin neatrour</p>
+<p>adrinuk@yahoo.co.uk</p>
+
+
+</div>
+    </div>
+
+    </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript" src="/static/cache/js/74e8455d63c2.js"></script>
+
+<script>
+    var _gaq = [
+        ['_setAccount', 'UA-26510424-1'],
+        ['_trackPageview'],
+        ['_trackPageLoadTime']
+    ];
+    (function (d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+    }(document, 'script'));
+</script>
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>
